@@ -1,0 +1,37 @@
+{
+  "id": "2085014436113252407",
+  "handle": "f_philippot",
+  "text": "Oui et si on commençait par supprimer le sénat ?",
+  "url": "https://x.com/f_philippot/status/2085014436113252407",
+  "publishedAt": "2026-08-05T14:45:53.000Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
+  "firstSeenAt": "2026-10-17T08:03:49.749Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 62623,
+    "likes": 6186,
+    "reposts": 1824,
+    "replies": 786,
+    "quotes": 97,
+    "bookmarks": 46
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 62623,
+        "likes": 6186,
+        "reposts": 1824,
+        "replies": 786,
+        "quotes": 97,
+        "bookmarks": 46
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "text": "Oui et si on commençait par supprimer le sénat ?"
+    }
+  ]
+}

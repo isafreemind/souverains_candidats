@@ -1,0 +1,37 @@
+{
+  "id": "2081689580609196529",
+  "handle": "f_philippot",
+  "text": "En voilà un qui a, littéralement, envie de mettre de l’huile sur le feu 🔥 ! ⤵️\n\nIl doit juste PARTIR !",
+  "url": "https://x.com/f_philippot/status/2081689580609196529",
+  "publishedAt": "2026-07-27T10:34:06.000Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
+  "firstSeenAt": "2026-10-17T08:03:49.749Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 17222,
+    "likes": 542,
+    "reposts": 148,
+    "replies": 54,
+    "quotes": 5,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 17222,
+        "likes": 542,
+        "reposts": 148,
+        "replies": 54,
+        "quotes": 5,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "text": "En voilà un qui a, littéralement, envie de mettre de l’huile sur le feu 🔥 ! ⤵️\n\nIl doit juste PARTIR !"
+    }
+  ]
+}

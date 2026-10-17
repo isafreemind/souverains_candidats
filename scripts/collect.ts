@@ -12,7 +12,7 @@ function positiveSetting(name: string, fallback: number, max: number) {
   if (!Number.isInteger(value) || value < 1 || value > max) throw new Error(`${name} doit être un entier de 1 à ${max}.`);
   return value;
 }
-const maxPages = positiveSetting('MAX_PAGES', 30, 200);
+const maxPages = positiveSetting('MAX_PAGES', 100, 200);
 const lookbackDays = positiveSetting('LOOKBACK_DAYS', 90, 3650);
 const observedAt = new Date().toISOString();
 const runId = observedAt.replace(/[:.]/g, '-');
@@ -35,10 +35,11 @@ for (const account of ACCOUNTS) {
   const errors: string[] = [];
   try {
     const raw = await fetchFx(`/2/profile/${handle}`);
-    await archiveRaw(join(runDirectory, handle, 'profile.json.gz'), { source: `${API}/2/profile/${handle}`, observedAt, response: raw });
+    const receivedAt = new Date().toISOString();
+    await archiveRaw(join(runDirectory, handle, 'profile.json.gz'), { source: `${API}/2/profile/${handle}`, observedAt: receivedAt, response: raw });
     const profile = profileResponse.parse(raw);
     if (profile.user.screen_name.toLowerCase() !== handle) throw new Error('Le profil reçu ne correspond pas au compte demandé.');
-    followers.push({ handle, followers: profile.user.followers, observedAt });
+    followers.push({ handle, followers: profile.user.followers, observedAt: receivedAt });
   } catch (error) { errors.push(`Profil : ${String(error)}`); }
 
   const seenPosts = new Set<string>();
@@ -50,12 +51,15 @@ for (const account of ACCOUNTS) {
       if (cursor) query.set('cursor', cursor);
       const path = `/2/profile/${handle}/statuses?${query}`;
       const raw = await fetchFx(path);
-      await archiveRaw(join(runDirectory, handle, `timeline-${String(page).padStart(3, '0')}.json.gz`), { source: `${API}${path}`, observedAt, response: raw });
+      // A tweet can be published while a long collection is running.
+      // Compare its date with this response's receipt, not the run's start.
+      const receivedAt = new Date().toISOString();
+      await archiveRaw(join(runDirectory, handle, `timeline-${String(page).padStart(3, '0')}.json.gz`), { source: `${API}${path}`, observedAt: receivedAt, response: raw });
       const timeline = timelineResponse.parse(raw);
       report.pages++;
       const pageDates: number[] = [];
       for (const item of timeline.results) {
-        const { post, invalid } = normalizePost(item, handle, observedAt);
+        const { post, invalid } = normalizePost(item, handle, receivedAt);
         if (invalid) { report.invalid++; continue; }
         if (!post) { report.excluded++; continue; }
         pageDates.push(Date.parse(post.publishedAt));

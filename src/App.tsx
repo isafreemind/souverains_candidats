@@ -52,6 +52,7 @@ export default function App() {
   const firstObservation = data?.followers[0]?.observedAt;
   const mediaEvents = filterMediaEvents(mediaData?.events ?? [], selected, period === 'all' ? '2006-01-01' : new Date(since).toISOString().slice(0, 10), new Date().toISOString().slice(0, 10));
   const chartEvents = showMedia ? mediaEvents : [];
+  const incompleteCoverage = data?.coverage.filter(c => selected.includes(c.handle) && (c.error || c.invalid || (!c.exhausted && !c.reachedCutoff))) ?? [];
   return <div className="app-shell">
     <a className="skip-link" href="#main">Aller au contenu</a>
     <aside className="sidebar">
@@ -76,7 +77,7 @@ export default function App() {
         {error && <Alert severity="error" action={<Button onClick={() => void load()}>Réessayer</Button>}>{error}</Alert>}
         {loading && !data && <div className="loading"><CircularProgress size={24} /><span>Chargement des relevés FxTwitter…</span></div>}
         {stale && <Alert severity="warning">Le dernier relevé date de plus de 48 heures. Les courbes présentent les dernières mesures disponibles.</Alert>}
-        {data?.coverage.some(c => c.error || c.invalid || (!c.exhausted && !c.reachedCutoff)) && <Alert severity="info" className="coverage-alert">La collecte couvre un échantillon de publications. Consultez le détail de couverture en bas de page.</Alert>}
+        {incompleteCoverage.length > 0 && <Alert severity="info" className="coverage-alert">Collecte partielle pour {incompleteCoverage.map(c => ACCOUNTS.find(a => a.handle === c.handle)!.short).join(', ')} : {incompleteCoverage.some(c => !c.exhausted && !c.reachedCutoff && !c.error) ? 'la limite de pagination a été atteinte avant de couvrir toute la période recherchée.' : 'certaines données n’ont pas pu être récupérées ou classées.'} Consultez le détail de couverture en bas de page.</Alert>}
         {selected.length === 0 && <Alert severity="info">Sélectionnez au moins un compte pour afficher ses statistiques.</Alert>}
         <div className="kpi-grid">
           <Kpi icon={<Eye size={18} />} title="Vues par publication" value={summary.averageViews === null ? 'N/D' : compact(summary.averageViews)} foot={`${number(summary.viewsCount)} publications avec vues`} detail="Moyenne sur la période" />

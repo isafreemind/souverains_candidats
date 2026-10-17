@@ -4,7 +4,7 @@
   "text": "Pour cacher la fièvre, Nuñez veut casser le thermomètre ! Comment peut-il oser dire une telle ânerie !",
   "url": "https://x.com/dupontaignan/status/2085014300381360575",
   "publishedAt": "2026-08-05T14:45:21.000Z",
-  "observedAt": "2026-10-17T07:34:05.595Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -18,6 +18,17 @@
   "observations": [
     {
       "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 20911,
+        "likes": 2225,
+        "reposts": 707,
+        "replies": 77,
+        "quotes": 7,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 20911,
         "likes": 2225,

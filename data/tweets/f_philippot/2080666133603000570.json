@@ -1,0 +1,37 @@
+{
+  "id": "2080666133603000570",
+  "handle": "f_philippot",
+  "text": "Aïe la note de la communauté est dramatique pour Macron !\n⤵️",
+  "url": "https://x.com/f_philippot/status/2080666133603000570",
+  "publishedAt": "2026-07-24T14:47:17.000Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
+  "firstSeenAt": "2026-10-17T08:03:49.749Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 24156,
+    "likes": 668,
+    "reposts": 164,
+    "replies": 16,
+    "quotes": 2,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 24156,
+        "likes": 668,
+        "reposts": 164,
+        "replies": 16,
+        "quotes": 2,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "text": "Aïe la note de la communauté est dramatique pour Macron !\n⤵️"
+    }
+  ]
+}

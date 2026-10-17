@@ -4,7 +4,7 @@
   "text": "HORS-SOL : Braun-Pivet vivant dans un monde parallèle a perdu tout bon sens.\nEn 2027, les Français remettront les pendules à l'heure !",
   "url": "https://x.com/dupontaignan/status/2085707794489971176",
   "publishedAt": "2026-08-07T12:41:03.000Z",
-  "observedAt": "2026-10-17T07:34:05.595Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -18,6 +18,17 @@
   "observations": [
     {
       "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 16300,
+        "likes": 792,
+        "reposts": 234,
+        "replies": 27,
+        "quotes": 1,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 16300,
         "likes": 792,

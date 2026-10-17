@@ -51,7 +51,7 @@ Routes v2 vérifiées sur le schéma officiel :
 
 Le collecteur suit `cursor.bottom`, déduplique les identifiants, contrôle l’auteur, les classifications, les compteurs et les dates. Une seule publication épinglée ancienne ne suffit pas à interrompre la pagination. Il applique un délai de 400 ms entre pages, un timeout de 25 s par requête et trois tentatives. Le paramètre `count=100` n’oblige pas FxTwitter à renvoyer 100 publications : en pratique, les pages peuvent être beaucoup plus courtes.
 
-Par défaut : **90 jours recherchés, 30 pages maximum par compte**. Ce plafond peut être atteint avant 90 jours, particulièrement pour un compte très actif. Le manifeste indique si la limite temporelle, la fin des résultats ou le plafond de pages a été atteint. Aucune exhaustivité n’est promise. Les publications déjà archivées restent conservées même lorsqu’elles quittent la fenêtre de collecte.
+Par défaut : **90 jours recherchés, 100 pages maximum par compte**. Ce plafond peut être atteint avant 90 jours, particulièrement pour un compte très actif. Le manifeste indique si la limite temporelle, la fin des résultats ou le plafond de pages a été atteint. L’interface précise les comptes dont la collecte reste partielle. Aucune exhaustivité n’est promise. Les publications déjà archivées restent conservées même lorsqu’elles quittent la fenêtre de collecte.
 
 ```powershell
 $env:LOOKBACK_DAYS = '180'

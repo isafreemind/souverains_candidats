@@ -1,0 +1,37 @@
+{
+  "id": "2081736267704758377",
+  "handle": "f_philippot",
+  "text": "En voilà un qui ne tient plus ses nerfs !…⤵️",
+  "url": "https://x.com/f_philippot/status/2081736267704758377",
+  "publishedAt": "2026-07-27T13:39:37.000Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
+  "firstSeenAt": "2026-10-17T08:03:49.749Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 29993,
+    "likes": 1404,
+    "reposts": 379,
+    "replies": 120,
+    "quotes": 6,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 29993,
+        "likes": 1404,
+        "reposts": 379,
+        "replies": 120,
+        "quotes": 6,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "text": "En voilà un qui ne tient plus ses nerfs !…⤵️"
+    }
+  ]
+}

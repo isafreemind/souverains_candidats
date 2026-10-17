@@ -4,7 +4,7 @@
   "text": "En 2027 nous remettrons au pas ces entreprises publiques qui se comportent en sociétés privées abusant d’un monopole public.",
   "url": "https://x.com/dupontaignan/status/2081756506580451337",
   "publishedAt": "2026-07-27T15:00:02.000Z",
-  "observedAt": "2026-10-17T07:34:05.595Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -18,6 +18,17 @@
   "observations": [
     {
       "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 16883,
+        "likes": 442,
+        "reposts": 166,
+        "replies": 37,
+        "quotes": 4,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 16883,
         "likes": 442,

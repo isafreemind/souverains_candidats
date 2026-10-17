@@ -1,0 +1,37 @@
+{
+  "id": "2079500387942293936",
+  "handle": "f_philippot",
+  "text": "Stop ! 🛑 \n\nNos centrales nucléaires\nNos barrages hydroélectriques\nLe reste : STOP !",
+  "url": "https://x.com/f_philippot/status/2079500387942293936",
+  "publishedAt": "2026-07-21T09:35:02.000Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
+  "firstSeenAt": "2026-10-17T08:03:49.749Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 17043,
+    "likes": 1486,
+    "reposts": 587,
+    "replies": 47,
+    "quotes": 1,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 17043,
+        "likes": 1486,
+        "reposts": 587,
+        "replies": 47,
+        "quotes": 1,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "text": "Stop ! 🛑 \n\nNos centrales nucléaires\nNos barrages hydroélectriques\nLe reste : STOP !"
+    }
+  ]
+}

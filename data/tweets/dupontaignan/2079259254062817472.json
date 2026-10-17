@@ -4,7 +4,7 @@
   "text": "Le Sénat et l'Assemblée nationale s’apprêtent à voter demain le texte pour interdire les réseaux sociaux aux moins de 15 ans. Derrière le prétexte de protéger les enfants se cache la volonté de décliner l’identité de tous les adultes pour vérifier leur âge et tracer leur activité sur les réseaux sociaux. Résistons face à la censure !",
   "url": "https://x.com/dupontaignan/status/2079259254062817472",
   "publishedAt": "2026-07-20T17:36:51.000Z",
-  "observedAt": "2026-10-17T07:34:05.595Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -18,6 +18,17 @@
   "observations": [
     {
       "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 21611,
+        "likes": 2297,
+        "reposts": 1062,
+        "replies": 77,
+        "quotes": 18,
+        "bookmarks": 37
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 21611,
         "likes": 2297,

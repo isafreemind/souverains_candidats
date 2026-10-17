@@ -4,7 +4,7 @@
   "text": "En route vers 2027 ! 🇫🇷🇫🇷🇫🇷",
   "url": "https://x.com/f_philippot/status/2098817218758754491",
   "publishedAt": "2026-09-12T16:53:13.000Z",
-  "observedAt": "2026-10-17T07:34:05.595Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -18,6 +18,17 @@
   "observations": [
     {
       "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 56237,
+        "likes": 1092,
+        "reposts": 249,
+        "replies": 88,
+        "quotes": 10,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 56237,
         "likes": 1092,

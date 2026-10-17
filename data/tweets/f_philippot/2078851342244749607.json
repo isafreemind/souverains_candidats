@@ -1,0 +1,37 @@
+{
+  "id": "2078851342244749607",
+  "handle": "f_philippot",
+  "text": "Effroyable !\n⤵️",
+  "url": "https://x.com/f_philippot/status/2078851342244749607",
+  "publishedAt": "2026-07-19T14:35:57.000Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
+  "firstSeenAt": "2026-10-17T08:03:49.749Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 59334,
+    "likes": 2338,
+    "reposts": 821,
+    "replies": 196,
+    "quotes": 22,
+    "bookmarks": 54
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 59334,
+        "likes": 2338,
+        "reposts": 821,
+        "replies": 196,
+        "quotes": 22,
+        "bookmarks": 54
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "text": "Effroyable !\n⤵️"
+    }
+  ]
+}

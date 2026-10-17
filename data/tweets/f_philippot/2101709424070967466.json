@@ -4,7 +4,7 @@
   "text": "Euh \nMerci aux taxes\nMerci aux idiotes sanctions anti-russes\nMerci aux directives européennes sur la TVA\n…",
   "url": "https://x.com/f_philippot/status/2101709424070967466",
   "publishedAt": "2026-09-20T16:25:49.000Z",
-  "observedAt": "2026-10-17T07:34:05.595Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -18,6 +18,17 @@
   "observations": [
     {
       "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 31141,
+        "likes": 1273,
+        "reposts": 260,
+        "replies": 57,
+        "quotes": 2,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 31141,
         "likes": 1273,

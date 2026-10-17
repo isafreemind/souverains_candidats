@@ -1,0 +1,37 @@
+{
+  "id": "2081065503326408736",
+  "handle": "f_philippot",
+  "text": "À diffuser partout !\n\nBravo pour sa franchise ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2081065503326408736",
+  "publishedAt": "2026-07-25T17:14:14.000Z",
+  "observedAt": "2026-10-17T08:03:49.749Z",
+  "firstSeenAt": "2026-10-17T08:03:49.749Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 148283,
+    "likes": 3191,
+    "reposts": 1245,
+    "replies": 122,
+    "quotes": 15,
+    "bookmarks": 80
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 148283,
+        "likes": 3191,
+        "reposts": 1245,
+        "replies": 122,
+        "quotes": 15,
+        "bookmarks": 80
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:03:49.749Z",
+      "text": "À diffuser partout !\n\nBravo pour sa franchise ! ⤵️"
+    }
+  ]
+}
