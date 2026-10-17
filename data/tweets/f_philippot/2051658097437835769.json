@@ -1,0 +1,37 @@
+{
+  "id": "2051658097437835769",
+  "handle": "f_philippot",
+  "text": "Ils sont clairement en train de faire monter le sujet « Hantavirus », à commencer par l’OMS, qui a besoin de se refaire la cerise…\n\nVigilance totale !",
+  "url": "https://x.com/f_philippot/status/2051658097437835769",
+  "publishedAt": "2026-05-05T13:39:43.000Z",
+  "observedAt": "2026-10-17T08:44:30.820Z",
+  "firstSeenAt": "2026-10-17T08:44:30.820Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 22828,
+    "likes": 1157,
+    "reposts": 417,
+    "replies": 74,
+    "quotes": 9,
+    "bookmarks": 24
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:30.820Z",
+      "metrics": {
+        "views": 22828,
+        "likes": 1157,
+        "reposts": 417,
+        "replies": 74,
+        "quotes": 9,
+        "bookmarks": 24
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:30.820Z",
+      "text": "Ils sont clairement en train de faire monter le sujet « Hantavirus », à commencer par l’OMS, qui a besoin de se refaire la cerise…\n\nVigilance totale !"
+    }
+  ]
+}

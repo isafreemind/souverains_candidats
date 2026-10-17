@@ -1,0 +1,48 @@
+{
+  "id": "2074558504564625478",
+  "handle": "f_asselineau",
+  "text": "⚠️COUP DE THÉÂTRE\nLE PEN ANNONCE SA CANDIDATURE POUR 2027 MALGRÉ SA CONDAMNATION\nElle se pourvoit en Cour de Cassation\nCe nouvel appel suspend le jugement de la Cour d'appel\nElle fera donc campagne sans bracelet électronique tant que la Cour de Cassation n'aura pas rendu son verdict",
+  "url": "https://x.com/f_asselineau/status/2074558504564625478",
+  "publishedAt": "2026-07-07T18:17:45.000Z",
+  "observedAt": "2026-10-17T08:37:38.030Z",
+  "firstSeenAt": "2026-10-17T08:32:34.741Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 82148,
+    "likes": 994,
+    "reposts": 314,
+    "replies": 136,
+    "quotes": 12,
+    "bookmarks": 30
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:32:34.741Z",
+      "metrics": {
+        "views": 82148,
+        "likes": 994,
+        "reposts": 314,
+        "replies": 136,
+        "quotes": 12,
+        "bookmarks": 30
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:37:38.030Z",
+      "metrics": {
+        "views": 82148,
+        "likes": 994,
+        "reposts": 314,
+        "replies": 136,
+        "quotes": 12,
+        "bookmarks": 30
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:32:34.741Z",
+      "text": "⚠️COUP DE THÉÂTRE\nLE PEN ANNONCE SA CANDIDATURE POUR 2027 MALGRÉ SA CONDAMNATION\nElle se pourvoit en Cour de Cassation\nCe nouvel appel suspend le jugement de la Cour d'appel\nElle fera donc campagne sans bracelet électronique tant que la Cour de Cassation n'aura pas rendu son verdict"
+    }
+  ]
+}

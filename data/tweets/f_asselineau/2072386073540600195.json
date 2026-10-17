@@ -1,0 +1,48 @@
+{
+  "id": "2072386073540600195",
+  "handle": "f_asselineau",
+  "text": "Direct n°118 - François Asselineau répond à vos questions https://x.com/i/broadcasts/1kKzDDrMVwRJv",
+  "url": "https://x.com/f_asselineau/status/2072386073540600195",
+  "publishedAt": "2026-07-01T18:25:17.000Z",
+  "observedAt": "2026-10-17T08:37:39.333Z",
+  "firstSeenAt": "2026-10-17T08:32:39.702Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 21086,
+    "likes": 366,
+    "reposts": 128,
+    "replies": 16,
+    "quotes": 4,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:32:39.702Z",
+      "metrics": {
+        "views": 21086,
+        "likes": 366,
+        "reposts": 128,
+        "replies": 16,
+        "quotes": 4,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:37:39.333Z",
+      "metrics": {
+        "views": 21086,
+        "likes": 366,
+        "reposts": 128,
+        "replies": 16,
+        "quotes": 4,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:32:39.702Z",
+      "text": "Direct n°118 - François Asselineau répond à vos questions https://x.com/i/broadcasts/1kKzDDrMVwRJv"
+    }
+  ]
+}

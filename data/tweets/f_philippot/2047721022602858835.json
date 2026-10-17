@@ -1,0 +1,37 @@
+{
+  "id": "2047721022602858835",
+  "handle": "f_philippot",
+  "text": "Carte biométrique ?\n\nEt bientôt reliée à votre identité numérique ?\n➡️ Stop !",
+  "url": "https://x.com/f_philippot/status/2047721022602858835",
+  "publishedAt": "2026-04-24T16:55:11.000Z",
+  "observedAt": "2026-10-17T08:44:45.379Z",
+  "firstSeenAt": "2026-10-17T08:44:45.379Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 21891,
+    "likes": 559,
+    "reposts": 235,
+    "replies": 29,
+    "quotes": 4,
+    "bookmarks": 22
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:45.379Z",
+      "metrics": {
+        "views": 21891,
+        "likes": 559,
+        "reposts": 235,
+        "replies": 29,
+        "quotes": 4,
+        "bookmarks": 22
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:45.379Z",
+      "text": "Carte biométrique ?\n\nEt bientôt reliée à votre identité numérique ?\n➡️ Stop !"
+    }
+  ]
+}

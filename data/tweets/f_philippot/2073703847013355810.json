@@ -1,0 +1,37 @@
+{
+  "id": "2073703847013355810",
+  "handle": "f_philippot",
+  "text": "Encore ? Mais on va se le payer encore combien de temps le Père la censure ?!",
+  "url": "https://x.com/f_philippot/status/2073703847013355810",
+  "publishedAt": "2026-07-05T09:41:39.000Z",
+  "observedAt": "2026-10-17T08:43:29.016Z",
+  "firstSeenAt": "2026-10-17T08:43:29.016Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19568,
+    "likes": 882,
+    "reposts": 179,
+    "replies": 34,
+    "quotes": 7,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "metrics": {
+        "views": 19568,
+        "likes": 882,
+        "reposts": 179,
+        "replies": 34,
+        "quotes": 7,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "text": "Encore ? Mais on va se le payer encore combien de temps le Père la censure ?!"
+    }
+  ]
+}

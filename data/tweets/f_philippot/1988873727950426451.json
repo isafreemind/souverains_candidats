@@ -1,0 +1,37 @@
+{
+  "id": "1988873727950426451",
+  "handle": "f_philippot",
+  "text": "#13novembre \n\nNous n’avons rien oublié.\nNous prions pour les victimes.\nNous prions pour que la France cesse sa chute et se relève !",
+  "url": "https://x.com/f_philippot/status/1988873727950426451",
+  "publishedAt": "2025-11-13T07:37:02.000Z",
+  "observedAt": "2026-10-17T08:48:04.012Z",
+  "firstSeenAt": "2026-10-17T08:48:04.012Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 12305,
+    "likes": 494,
+    "reposts": 171,
+    "replies": 36,
+    "quotes": 10,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:04.012Z",
+      "metrics": {
+        "views": 12305,
+        "likes": 494,
+        "reposts": 171,
+        "replies": 36,
+        "quotes": 10,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:04.012Z",
+      "text": "#13novembre \n\nNous n’avons rien oublié.\nNous prions pour les victimes.\nNous prions pour que la France cesse sa chute et se relève !"
+    }
+  ]
+}

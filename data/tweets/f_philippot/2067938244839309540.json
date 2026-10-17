@@ -1,0 +1,37 @@
+{
+  "id": "2067938244839309540",
+  "handle": "f_philippot",
+  "text": "Ok Nathalie Loiseau",
+  "url": "https://x.com/f_philippot/status/2067938244839309540",
+  "publishedAt": "2026-06-19T11:51:12.000Z",
+  "observedAt": "2026-10-17T08:43:48.655Z",
+  "firstSeenAt": "2026-10-17T08:43:48.655Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 27038,
+    "likes": 1059,
+    "reposts": 240,
+    "replies": 118,
+    "quotes": 18,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:48.655Z",
+      "metrics": {
+        "views": 27038,
+        "likes": 1059,
+        "reposts": 240,
+        "replies": 118,
+        "quotes": 18,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:48.655Z",
+      "text": "Ok Nathalie Loiseau"
+    }
+  ]
+}

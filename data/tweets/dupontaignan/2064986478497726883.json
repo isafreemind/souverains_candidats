@@ -1,0 +1,48 @@
+{
+  "id": "2064986478497726883",
+  "handle": "dupontaignan",
+  "text": "Découvrez mon nouvel article dans le JDD ! https://www.lejdd.fr/International/nicolas-dupont-aignan-ladhesion-de-lukraine-a-lue-serait-une-faute-historique-majeure-176019??at_medium=Fan+Page&at_campaign=Twitter&at_creation=JDD",
+  "url": "https://x.com/dupontaignan/status/2064986478497726883",
+  "publishedAt": "2026-06-11T08:21:56.000Z",
+  "observedAt": "2026-10-17T08:41:28.320Z",
+  "firstSeenAt": "2026-10-17T08:36:19.102Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2719,
+    "likes": 92,
+    "reposts": 36,
+    "replies": 15,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:19.102Z",
+      "metrics": {
+        "views": 2719,
+        "likes": 92,
+        "reposts": 36,
+        "replies": 15,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:28.320Z",
+      "metrics": {
+        "views": 2719,
+        "likes": 92,
+        "reposts": 36,
+        "replies": 15,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:19.102Z",
+      "text": "Découvrez mon nouvel article dans le JDD ! https://www.lejdd.fr/International/nicolas-dupont-aignan-ladhesion-de-lukraine-a-lue-serait-une-faute-historique-majeure-176019??at_medium=Fan+Page&at_campaign=Twitter&at_creation=JDD"
+    }
+  ]
+}

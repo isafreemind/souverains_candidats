@@ -1,0 +1,37 @@
+{
+  "id": "2037882105280057752",
+  "handle": "f_philippot",
+  "text": "À 15h je serai sur LCI en direct de la manifestation nationale pour le Frexit",
+  "url": "https://x.com/f_philippot/status/2037882105280057752",
+  "publishedAt": "2026-03-28T13:18:50.000Z",
+  "observedAt": "2026-10-17T08:45:11.309Z",
+  "firstSeenAt": "2026-10-17T08:45:11.309Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 9039,
+    "likes": 300,
+    "reposts": 74,
+    "replies": 32,
+    "quotes": 2,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:11.309Z",
+      "metrics": {
+        "views": 9039,
+        "likes": 300,
+        "reposts": 74,
+        "replies": 32,
+        "quotes": 2,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:11.309Z",
+      "text": "À 15h je serai sur LCI en direct de la manifestation nationale pour le Frexit"
+    }
+  ]
+}

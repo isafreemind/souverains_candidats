@@ -1,0 +1,48 @@
+{
+  "id": "2059260179892285470",
+  "handle": "dupontaignan",
+  "text": "Comment accepter de soutenir et de financer un régime ukrainien célébrant la mémoire de collaborateurs nazis ?",
+  "url": "https://x.com/dupontaignan/status/2059260179892285470",
+  "publishedAt": "2026-05-26T13:07:40.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 12887,
+    "likes": 988,
+    "reposts": 399,
+    "replies": 65,
+    "quotes": 5,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 12887,
+        "likes": 988,
+        "reposts": 399,
+        "replies": 65,
+        "quotes": 5,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 12887,
+        "likes": 988,
+        "reposts": 399,
+        "replies": 65,
+        "quotes": 5,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "Comment accepter de soutenir et de financer un régime ukrainien célébrant la mémoire de collaborateurs nazis ?"
+    }
+  ]
+}

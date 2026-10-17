@@ -1,0 +1,37 @@
+{
+  "id": "2012526164762362150",
+  "handle": "dupontaignan",
+  "text": "Pour bloquer le MERCOSUR, stoppons le financement à l'UE !",
+  "url": "https://x.com/dupontaignan/status/2012526164762362150",
+  "publishedAt": "2026-01-17T14:03:23.000Z",
+  "observedAt": "2026-10-17T08:49:43.472Z",
+  "firstSeenAt": "2026-10-17T08:49:43.472Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 37026,
+    "likes": 4285,
+    "reposts": 1814,
+    "replies": 301,
+    "quotes": 41,
+    "bookmarks": 45
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:43.472Z",
+      "metrics": {
+        "views": 37026,
+        "likes": 4285,
+        "reposts": 1814,
+        "replies": 301,
+        "quotes": 41,
+        "bookmarks": 45
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:43.472Z",
+      "text": "Pour bloquer le MERCOSUR, stoppons le financement à l'UE !"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2066932604054524070",
+  "handle": "dupontaignan",
+  "text": "Le projet de loi constitutionnelle pour l’autonomie de la Corse, qui est actuellement étudié par l’Assemblée nationale, met en péril l’unité de la République et l’égalité des citoyens.",
+  "url": "https://x.com/dupontaignan/status/2066932604054524070",
+  "publishedAt": "2026-06-16T17:15:09.000Z",
+  "observedAt": "2026-10-17T08:41:25.160Z",
+  "firstSeenAt": "2026-10-17T08:36:16.400Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5844,
+    "likes": 233,
+    "reposts": 98,
+    "replies": 27,
+    "quotes": 2,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "metrics": {
+        "views": 5844,
+        "likes": 233,
+        "reposts": 98,
+        "replies": 27,
+        "quotes": 2,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:25.160Z",
+      "metrics": {
+        "views": 5844,
+        "likes": 233,
+        "reposts": 98,
+        "replies": 27,
+        "quotes": 2,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "text": "Le projet de loi constitutionnelle pour l’autonomie de la Corse, qui est actuellement étudié par l’Assemblée nationale, met en péril l’unité de la République et l’égalité des citoyens."
+    }
+  ]
+}

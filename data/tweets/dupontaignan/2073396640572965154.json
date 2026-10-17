@@ -1,0 +1,48 @@
+{
+  "id": "2073396640572965154",
+  "handle": "dupontaignan",
+  "text": "Ce gamin devrait être arrêté et sanctionné tout comme ses parents ! Ce laxisme face à un jeune qui se croit tout permis est INSUPPORTABLE !",
+  "url": "https://x.com/dupontaignan/status/2073396640572965154",
+  "publishedAt": "2026-07-04T13:20:55.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 52275,
+    "likes": 3865,
+    "reposts": 1176,
+    "replies": 285,
+    "quotes": 24,
+    "bookmarks": 41
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 52275,
+        "likes": 3865,
+        "reposts": 1176,
+        "replies": 285,
+        "quotes": 24,
+        "bookmarks": 41
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 52275,
+        "likes": 3865,
+        "reposts": 1176,
+        "replies": 285,
+        "quotes": 24,
+        "bookmarks": 41
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Ce gamin devrait être arrêté et sanctionné tout comme ses parents ! Ce laxisme face à un jeune qui se croit tout permis est INSUPPORTABLE !"
+    }
+  ]
+}

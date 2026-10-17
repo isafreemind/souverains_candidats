@@ -1,0 +1,37 @@
+{
+  "id": "2056061550910173628",
+  "handle": "f_philippot",
+  "text": "Bravo à Reform UK qui retire le drapeau ukrainien et TOUS les drapeaux étrangers partout où le parti est élu !",
+  "url": "https://x.com/f_philippot/status/2056061550910173628",
+  "publishedAt": "2026-05-17T17:17:28.000Z",
+  "observedAt": "2026-10-17T08:44:22.036Z",
+  "firstSeenAt": "2026-10-17T08:44:22.036Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19232,
+    "likes": 1266,
+    "reposts": 407,
+    "replies": 38,
+    "quotes": 1,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:22.036Z",
+      "metrics": {
+        "views": 19232,
+        "likes": 1266,
+        "reposts": 407,
+        "replies": 38,
+        "quotes": 1,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:22.036Z",
+      "text": "Bravo à Reform UK qui retire le drapeau ukrainien et TOUS les drapeaux étrangers partout où le parti est élu !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2054100336973910274",
+  "handle": "f_philippot",
+  "text": "Tout le cinéma fait autour de l’hantavirus permettra-t-il d’obtenir, de fait, le confinement énergétique qu’ils espèrent tant ?!",
+  "url": "https://x.com/f_philippot/status/2054100336973910274",
+  "publishedAt": "2026-05-12T07:24:18.000Z",
+  "observedAt": "2026-10-17T08:44:24.827Z",
+  "firstSeenAt": "2026-10-17T08:44:24.827Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 13248,
+    "likes": 781,
+    "reposts": 262,
+    "replies": 164,
+    "quotes": 15,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:24.827Z",
+      "metrics": {
+        "views": 13248,
+        "likes": 781,
+        "reposts": 262,
+        "replies": 164,
+        "quotes": 15,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:24.827Z",
+      "text": "Tout le cinéma fait autour de l’hantavirus permettra-t-il d’obtenir, de fait, le confinement énergétique qu’ils espèrent tant ?!"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2066770848464191560",
+  "handle": "f_philippot",
+  "text": "Cette fois ce n’est pas Macron, mais Brigitte, qui a eu droit à la poignée de main très musclée de Trump !\n\nVidéo ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2066770848464191560",
+  "publishedAt": "2026-06-16T06:32:23.000Z",
+  "observedAt": "2026-10-17T08:43:52.134Z",
+  "firstSeenAt": "2026-10-17T08:43:52.134Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 54400,
+    "likes": 1657,
+    "reposts": 429,
+    "replies": 179,
+    "quotes": 23,
+    "bookmarks": 43
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:52.134Z",
+      "metrics": {
+        "views": 54400,
+        "likes": 1657,
+        "reposts": 429,
+        "replies": 179,
+        "quotes": 23,
+        "bookmarks": 43
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:52.134Z",
+      "text": "Cette fois ce n’est pas Macron, mais Brigitte, qui a eu droit à la poignée de main très musclée de Trump !\n\nVidéo ! ⤵️"
+    }
+  ]
+}

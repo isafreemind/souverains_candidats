@@ -1,0 +1,48 @@
+{
+  "id": "2063995365431398807",
+  "handle": "dupontaignan",
+  "text": "Constat pathétique après 10 ans au pouvoir ! La macronie n'est plus que spectatrice de son triste bilan à la tête du pays.",
+  "url": "https://x.com/dupontaignan/status/2063995365431398807",
+  "publishedAt": "2026-06-08T14:43:36.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9841,
+    "likes": 829,
+    "reposts": 274,
+    "replies": 38,
+    "quotes": 5,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 9841,
+        "likes": 829,
+        "reposts": 274,
+        "replies": 38,
+        "quotes": 5,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 9841,
+        "likes": 829,
+        "reposts": 274,
+        "replies": 38,
+        "quotes": 5,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "Constat pathétique après 10 ans au pouvoir ! La macronie n'est plus que spectatrice de son triste bilan à la tête du pays."
+    }
+  ]
+}

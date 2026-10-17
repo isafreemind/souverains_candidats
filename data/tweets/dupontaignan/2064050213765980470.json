@@ -1,0 +1,48 @@
+{
+  "id": "2064050213765980470",
+  "handle": "dupontaignan",
+  "text": "Seul un grand mouvement populaire permettra de rendre à nouveau la Justice au nom du peuple français !",
+  "url": "https://x.com/dupontaignan/status/2064050213765980470",
+  "publishedAt": "2026-06-08T18:21:33.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 8468,
+    "likes": 623,
+    "reposts": 224,
+    "replies": 18,
+    "quotes": 4,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 8468,
+        "likes": 623,
+        "reposts": 224,
+        "replies": 18,
+        "quotes": 4,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 8468,
+        "likes": 623,
+        "reposts": 224,
+        "replies": 18,
+        "quotes": 4,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "Seul un grand mouvement populaire permettra de rendre à nouveau la Justice au nom du peuple français !"
+    }
+  ]
+}

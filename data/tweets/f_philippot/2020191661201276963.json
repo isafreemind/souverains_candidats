@@ -1,0 +1,37 @@
+{
+  "id": "2020191661201276963",
+  "handle": "f_philippot",
+  "text": "Enfin ! Jack Lang démissionne. \n\nMais ça ne doit pas cacher le reste !…",
+  "url": "https://x.com/f_philippot/status/2020191661201276963",
+  "publishedAt": "2026-02-07T17:43:20.000Z",
+  "observedAt": "2026-10-17T08:46:10.855Z",
+  "firstSeenAt": "2026-10-17T08:46:10.855Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 33752,
+    "likes": 2083,
+    "reposts": 665,
+    "replies": 215,
+    "quotes": 19,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:10.855Z",
+      "metrics": {
+        "views": 33752,
+        "likes": 2083,
+        "reposts": 665,
+        "replies": 215,
+        "quotes": 19,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:10.855Z",
+      "text": "Enfin ! Jack Lang démissionne. \n\nMais ça ne doit pas cacher le reste !…"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2065928885481406872",
+  "handle": "dupontaignan",
+  "text": "Combien de temps allons nous laisser brûler nos merveilles ? Assez de cette naïveté  … Au fait nous attendons toujours les résultats de l’enquête sur l’incendie de Notre Dame de Paris.",
+  "url": "https://x.com/dupontaignan/status/2065928885481406872",
+  "publishedAt": "2026-06-13T22:46:44.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 29359,
+    "likes": 3590,
+    "reposts": 1701,
+    "replies": 117,
+    "quotes": 18,
+    "bookmarks": 55
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 29359,
+        "likes": 3590,
+        "reposts": 1701,
+        "replies": 117,
+        "quotes": 18,
+        "bookmarks": 55
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 29359,
+        "likes": 3590,
+        "reposts": 1701,
+        "replies": 117,
+        "quotes": 18,
+        "bookmarks": 55
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "Combien de temps allons nous laisser brûler nos merveilles ? Assez de cette naïveté  … Au fait nous attendons toujours les résultats de l’enquête sur l’incendie de Notre Dame de Paris."
+    }
+  ]
+}

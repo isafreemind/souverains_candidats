@@ -1,0 +1,37 @@
+{
+  "id": "2044509153842835957",
+  "handle": "f_philippot",
+  "text": "À bas l’UE !\n⤵️",
+  "url": "https://x.com/f_philippot/status/2044509153842835957",
+  "publishedAt": "2026-04-15T20:12:22.000Z",
+  "observedAt": "2026-10-17T08:44:52.109Z",
+  "firstSeenAt": "2026-10-17T08:44:52.109Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 14901,
+    "likes": 1271,
+    "reposts": 449,
+    "replies": 65,
+    "quotes": 7,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:52.109Z",
+      "metrics": {
+        "views": 14901,
+        "likes": 1271,
+        "reposts": 449,
+        "replies": 65,
+        "quotes": 7,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:52.109Z",
+      "text": "À bas l’UE !\n⤵️"
+    }
+  ]
+}

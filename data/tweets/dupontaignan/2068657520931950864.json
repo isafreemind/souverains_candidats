@@ -1,0 +1,48 @@
+{
+  "id": "2068657520931950864",
+  "handle": "dupontaignan",
+  "text": "LA VÉRITÉ TRIOMPHE TOUJOURS !  Ne cédons rien à ceux qui veulent détruire nos libertés.",
+  "url": "https://x.com/dupontaignan/status/2068657520931950864",
+  "publishedAt": "2026-06-21T11:29:21.000Z",
+  "observedAt": "2026-10-17T08:41:23.669Z",
+  "firstSeenAt": "2026-10-17T08:36:14.481Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 6346,
+    "likes": 339,
+    "reposts": 143,
+    "replies": 5,
+    "quotes": 1,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "metrics": {
+        "views": 6346,
+        "likes": 339,
+        "reposts": 143,
+        "replies": 5,
+        "quotes": 1,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:23.669Z",
+      "metrics": {
+        "views": 6346,
+        "likes": 339,
+        "reposts": 143,
+        "replies": 5,
+        "quotes": 1,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "text": "LA VÉRITÉ TRIOMPHE TOUJOURS !  Ne cédons rien à ceux qui veulent détruire nos libertés."
+    }
+  ]
+}

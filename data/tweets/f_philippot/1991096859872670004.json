@@ -1,0 +1,37 @@
+{
+  "id": "1991096859872670004",
+  "handle": "f_philippot",
+  "text": "Voyez ça ! \nIls ont la même agence de com’",
+  "url": "https://x.com/f_philippot/status/1991096859872670004",
+  "publishedAt": "2025-11-19T10:50:58.000Z",
+  "observedAt": "2026-10-17T08:48:00.570Z",
+  "firstSeenAt": "2026-10-17T08:48:00.570Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 23603,
+    "likes": 315,
+    "reposts": 89,
+    "replies": 13,
+    "quotes": 1,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:00.570Z",
+      "metrics": {
+        "views": 23603,
+        "likes": 315,
+        "reposts": 89,
+        "replies": 13,
+        "quotes": 1,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:00.570Z",
+      "text": "Voyez ça ! \nIls ont la même agence de com’"
+    }
+  ]
+}

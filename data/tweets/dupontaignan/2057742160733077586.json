@@ -1,0 +1,48 @@
+{
+  "id": "2057742160733077586",
+  "handle": "dupontaignan",
+  "text": "ON AURA TOUT VU ! Le ministre de l'Économie se félicite de la récession. Belle technique gouvernementale que de ne pas aider les Français à faire le plein pour être sûr d'avoir assez d'essence... Je persiste et je signe, il faut d'urgence baisser les taxes sur le carburant comme dans les autres pays européens pour rester compétitif.",
+  "url": "https://x.com/dupontaignan/status/2057742160733077586",
+  "publishedAt": "2026-05-22T08:35:36.000Z",
+  "observedAt": "2026-10-17T08:41:40.986Z",
+  "firstSeenAt": "2026-10-17T08:36:28.210Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 5670,
+    "likes": 276,
+    "reposts": 120,
+    "replies": 9,
+    "quotes": 2,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:28.210Z",
+      "metrics": {
+        "views": 5670,
+        "likes": 276,
+        "reposts": 120,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:40.986Z",
+      "metrics": {
+        "views": 5670,
+        "likes": 276,
+        "reposts": 120,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:28.210Z",
+      "text": "ON AURA TOUT VU ! Le ministre de l'Économie se félicite de la récession. Belle technique gouvernementale que de ne pas aider les Français à faire le plein pour être sûr d'avoir assez d'essence... Je persiste et je signe, il faut d'urgence baisser les taxes sur le carburant comme dans les autres pays européens pour rester compétitif."
+    }
+  ]
+}

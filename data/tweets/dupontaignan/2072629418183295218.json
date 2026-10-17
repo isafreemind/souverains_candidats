@@ -1,0 +1,48 @@
+{
+  "id": "2072629418183295218",
+  "handle": "dupontaignan",
+  "text": "En France au XXIᵉ siècle, seul pays au monde où on se bat pour acheter un climatiseur !\n\nVoilà où mène l’écologie punitive absurde qui refuse la climatisation des bâtiments publics et des logements !\n\nEn 2027, agissons vraiment !",
+  "url": "https://x.com/dupontaignan/status/2072629418183295218",
+  "publishedAt": "2026-07-02T10:32:15.000Z",
+  "observedAt": "2026-10-17T08:41:18.999Z",
+  "firstSeenAt": "2026-10-17T08:36:09.015Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9694,
+    "likes": 457,
+    "reposts": 157,
+    "replies": 65,
+    "quotes": 6,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "metrics": {
+        "views": 9694,
+        "likes": 457,
+        "reposts": 157,
+        "replies": 65,
+        "quotes": 6,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:18.999Z",
+      "metrics": {
+        "views": 9694,
+        "likes": 457,
+        "reposts": 157,
+        "replies": 65,
+        "quotes": 6,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "text": "En France au XXIᵉ siècle, seul pays au monde où on se bat pour acheter un climatiseur !\n\nVoilà où mène l’écologie punitive absurde qui refuse la climatisation des bâtiments publics et des logements !\n\nEn 2027, agissons vraiment !"
+    }
+  ]
+}

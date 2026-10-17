@@ -1,0 +1,37 @@
+{
+  "id": "2042621411156492294",
+  "handle": "f_philippot",
+  "text": "Et Barrot et Macron vont continuer de se coucher ? Comme d’habitude ?",
+  "url": "https://x.com/f_philippot/status/2042621411156492294",
+  "publishedAt": "2026-04-10T15:11:09.000Z",
+  "observedAt": "2026-10-17T08:44:55.348Z",
+  "firstSeenAt": "2026-10-17T08:44:55.348Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10067,
+    "likes": 251,
+    "reposts": 77,
+    "replies": 20,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:55.348Z",
+      "metrics": {
+        "views": 10067,
+        "likes": 251,
+        "reposts": 77,
+        "replies": 20,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:55.348Z",
+      "text": "Et Barrot et Macron vont continuer de se coucher ? Comme d’habitude ?"
+    }
+  ]
+}

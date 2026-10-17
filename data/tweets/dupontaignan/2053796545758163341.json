@@ -1,0 +1,37 @@
+{
+  "id": "2053796545758163341",
+  "handle": "dupontaignan",
+  "text": "Il nous fera vraiment HONTE jusqu’au dernier jour de son mandat !",
+  "url": "https://x.com/dupontaignan/status/2053796545758163341",
+  "publishedAt": "2026-05-11T11:17:08.000Z",
+  "observedAt": "2026-10-17T08:48:17.558Z",
+  "firstSeenAt": "2026-10-17T08:48:17.558Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 86407,
+    "likes": 1948,
+    "reposts": 616,
+    "replies": 296,
+    "quotes": 22,
+    "bookmarks": 43
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "metrics": {
+        "views": 86407,
+        "likes": 1948,
+        "reposts": 616,
+        "replies": 296,
+        "quotes": 22,
+        "bookmarks": 43
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "text": "Il nous fera vraiment HONTE jusqu’au dernier jour de son mandat !"
+    }
+  ]
+}

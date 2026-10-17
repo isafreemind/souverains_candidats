@@ -1,0 +1,48 @@
+{
+  "id": "2063947558817292348",
+  "handle": "dupontaignan",
+  "text": "Macron veut donc faire parader une armée en guerre lors du défilé du 14 juillet. La fête nationale n'est pas la fête de l'Ukraine ou de la défense mutuelle européenne. Macron tient absolument à sa guerre contre la Russie avant son départ, alors tous les moyens sont bons pour préparer les esprits !",
+  "url": "https://x.com/dupontaignan/status/2063947558817292348",
+  "publishedAt": "2026-06-08T11:33:38.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 55591,
+    "likes": 2750,
+    "reposts": 1353,
+    "replies": 461,
+    "quotes": 57,
+    "bookmarks": 56
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 55591,
+        "likes": 2750,
+        "reposts": 1353,
+        "replies": 461,
+        "quotes": 57,
+        "bookmarks": 56
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 55591,
+        "likes": 2750,
+        "reposts": 1353,
+        "replies": 461,
+        "quotes": 57,
+        "bookmarks": 56
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "Macron veut donc faire parader une armée en guerre lors du défilé du 14 juillet. La fête nationale n'est pas la fête de l'Ukraine ou de la défense mutuelle européenne. Macron tient absolument à sa guerre contre la Russie avant son départ, alors tous les moyens sont bons pour préparer les esprits !"
+    }
+  ]
+}

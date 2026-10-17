@@ -1,0 +1,48 @@
+{
+  "id": "2065849391374614940",
+  "handle": "dupontaignan",
+  "text": "Fête du Tennis, encourager  nos petits champions de foot en allant inaugurer le café des parents et remercier les bénévoles de l’association la Pépinière…un samedi heureux à Yerres !",
+  "url": "https://x.com/dupontaignan/status/2065849391374614940",
+  "publishedAt": "2026-06-13T17:30:51.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3641,
+    "likes": 87,
+    "reposts": 19,
+    "replies": 2,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 3641,
+        "likes": 87,
+        "reposts": 19,
+        "replies": 2,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 3641,
+        "likes": 87,
+        "reposts": 19,
+        "replies": 2,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "Fête du Tennis, encourager  nos petits champions de foot en allant inaugurer le café des parents et remercier les bénévoles de l’association la Pépinière…un samedi heureux à Yerres !"
+    }
+  ]
+}

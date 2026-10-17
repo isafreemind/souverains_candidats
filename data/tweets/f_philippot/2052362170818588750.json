@@ -1,0 +1,37 @@
+{
+  "id": "2052362170818588750",
+  "handle": "f_philippot",
+  "text": "Ils sont en train de diffuser tout ça bien comme il faut…Voyez ça ⤵️\n\nUltra vigilance car ça sent mauvais leur affaire !",
+  "url": "https://x.com/f_philippot/status/2052362170818588750",
+  "publishedAt": "2026-05-07T12:17:27.000Z",
+  "observedAt": "2026-10-17T08:44:29.479Z",
+  "firstSeenAt": "2026-10-17T08:44:29.479Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 21905,
+    "likes": 599,
+    "reposts": 210,
+    "replies": 67,
+    "quotes": 4,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:29.479Z",
+      "metrics": {
+        "views": 21905,
+        "likes": 599,
+        "reposts": 210,
+        "replies": 67,
+        "quotes": 4,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:29.479Z",
+      "text": "Ils sont en train de diffuser tout ça bien comme il faut…Voyez ça ⤵️\n\nUltra vigilance car ça sent mauvais leur affaire !"
+    }
+  ]
+}

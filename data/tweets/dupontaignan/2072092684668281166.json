@@ -1,0 +1,48 @@
+{
+  "id": "2072092684668281166",
+  "handle": "dupontaignan",
+  "text": "Bravo à l'équipe de France qui continue sa belle lancée en Coupe du monde après cette victoire contre la Suède. Direction les 1/8èmes de finale ! Allez les Bleus ! 🇫🇷",
+  "url": "https://x.com/dupontaignan/status/2072092684668281166",
+  "publishedAt": "2026-06-30T22:59:28.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 6649,
+    "likes": 78,
+    "reposts": 14,
+    "replies": 13,
+    "quotes": 0,
+    "bookmarks": 0
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 6649,
+        "likes": 78,
+        "reposts": 14,
+        "replies": 13,
+        "quotes": 0,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 6649,
+        "likes": 78,
+        "reposts": 14,
+        "replies": 13,
+        "quotes": 0,
+        "bookmarks": 0
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "Bravo à l'équipe de France qui continue sa belle lancée en Coupe du monde après cette victoire contre la Suède. Direction les 1/8èmes de finale ! Allez les Bleus ! 🇫🇷"
+    }
+  ]
+}

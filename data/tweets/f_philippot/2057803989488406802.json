@@ -1,0 +1,37 @@
+{
+  "id": "2057803989488406802",
+  "handle": "f_philippot",
+  "text": "Ce qui veut dire : « Continuer de briser la France sans rien changer »",
+  "url": "https://x.com/f_philippot/status/2057803989488406802",
+  "publishedAt": "2026-05-22T12:41:17.000Z",
+  "observedAt": "2026-10-17T08:44:18.667Z",
+  "firstSeenAt": "2026-10-17T08:44:18.667Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 15728,
+    "likes": 929,
+    "reposts": 354,
+    "replies": 149,
+    "quotes": 24,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:18.667Z",
+      "metrics": {
+        "views": 15728,
+        "likes": 929,
+        "reposts": 354,
+        "replies": 149,
+        "quotes": 24,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:18.667Z",
+      "text": "Ce qui veut dire : « Continuer de briser la France sans rien changer »"
+    }
+  ]
+}

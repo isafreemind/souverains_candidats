@@ -1,0 +1,37 @@
+{
+  "id": "2017225031013572756",
+  "handle": "dupontaignan",
+  "text": "L'hypocrisie a désormais un visage et n'a plus honte de s'afficher.",
+  "url": "https://x.com/dupontaignan/status/2017225031013572756",
+  "publishedAt": "2026-01-30T13:15:00.000Z",
+  "observedAt": "2026-10-17T08:49:34.565Z",
+  "firstSeenAt": "2026-10-17T08:49:34.565Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10229,
+    "likes": 630,
+    "reposts": 183,
+    "replies": 17,
+    "quotes": 7,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:34.565Z",
+      "metrics": {
+        "views": 10229,
+        "likes": 630,
+        "reposts": 183,
+        "replies": 17,
+        "quotes": 7,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:34.565Z",
+      "text": "L'hypocrisie a désormais un visage et n'a plus honte de s'afficher."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2076794844966519025",
+  "handle": "dupontaignan",
+  "text": "Quelle tristesse de voir défiler un 14 juillet sur les Champs-Élysées des soldats Ukrainiens dont le gouvernement honore les responsables de la pire collaboration avec l’Allemagne nazie. Macron  nous fera honte jusqu’au dernier jour de son mandat !",
+  "url": "https://x.com/dupontaignan/status/2076794844966519025",
+  "publishedAt": "2026-07-13T22:24:10.000Z",
+  "observedAt": "2026-10-17T08:41:09.504Z",
+  "firstSeenAt": "2026-10-17T08:36:01.792Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 60833,
+    "likes": 4862,
+    "reposts": 2285,
+    "replies": 310,
+    "quotes": 43,
+    "bookmarks": 131
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "metrics": {
+        "views": 60833,
+        "likes": 4862,
+        "reposts": 2285,
+        "replies": 310,
+        "quotes": 43,
+        "bookmarks": 131
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:09.504Z",
+      "metrics": {
+        "views": 60833,
+        "likes": 4862,
+        "reposts": 2285,
+        "replies": 310,
+        "quotes": 43,
+        "bookmarks": 131
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "text": "Quelle tristesse de voir défiler un 14 juillet sur les Champs-Élysées des soldats Ukrainiens dont le gouvernement honore les responsables de la pire collaboration avec l’Allemagne nazie. Macron  nous fera honte jusqu’au dernier jour de son mandat !"
+    }
+  ]
+}

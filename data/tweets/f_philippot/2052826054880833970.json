@@ -1,0 +1,37 @@
+{
+  "id": "2052826054880833970",
+  "handle": "f_philippot",
+  "text": "Ce samedi 9 mai à 8h10 en direct sur France2",
+  "url": "https://x.com/f_philippot/status/2052826054880833970",
+  "publishedAt": "2026-05-08T19:00:45.000Z",
+  "observedAt": "2026-10-17T08:44:28.185Z",
+  "firstSeenAt": "2026-10-17T08:44:28.185Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 11476,
+    "likes": 395,
+    "reposts": 116,
+    "replies": 56,
+    "quotes": 6,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:28.185Z",
+      "metrics": {
+        "views": 11476,
+        "likes": 395,
+        "reposts": 116,
+        "replies": 56,
+        "quotes": 6,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:28.185Z",
+      "text": "Ce samedi 9 mai à 8h10 en direct sur France2"
+    }
+  ]
+}

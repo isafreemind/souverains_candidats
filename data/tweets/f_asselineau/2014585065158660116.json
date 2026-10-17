@@ -1,0 +1,37 @@
+{
+  "id": "2014585065158660116",
+  "handle": "f_asselineau",
+  "text": "Je suis actuellement interrogé par Richard de Sèze dans La matinale de Radio Courtoisie. \n\nhttps://www.youtube.com/live/xs32mLXyqd8",
+  "url": "https://x.com/f_asselineau/status/2014585065158660116",
+  "publishedAt": "2026-01-23T06:24:43.000Z",
+  "observedAt": "2026-10-17T08:43:05.136Z",
+  "firstSeenAt": "2026-10-17T08:43:05.136Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 32314,
+    "likes": 487,
+    "reposts": 130,
+    "replies": 4,
+    "quotes": 1,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:05.136Z",
+      "metrics": {
+        "views": 32314,
+        "likes": 487,
+        "reposts": 130,
+        "replies": 4,
+        "quotes": 1,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:05.136Z",
+      "text": "Je suis actuellement interrogé par Richard de Sèze dans La matinale de Radio Courtoisie. \n\nhttps://www.youtube.com/live/xs32mLXyqd8"
+    }
+  ]
+}

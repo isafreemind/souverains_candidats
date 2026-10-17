@@ -1,0 +1,48 @@
+{
+  "id": "2073059988923101394",
+  "handle": "dupontaignan",
+  "text": "Retrouvez mon passage ce matin à la grande interview de CNEWS et d’Europe 1 :\n\nhttps://youtu.be/ONUU7sb4Bzo?si=-age-fIlwUtGXvlT",
+  "url": "https://x.com/dupontaignan/status/2073059988923101394",
+  "publishedAt": "2026-07-03T15:03:11.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4510,
+    "likes": 86,
+    "reposts": 30,
+    "replies": 10,
+    "quotes": 2,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 4510,
+        "likes": 86,
+        "reposts": 30,
+        "replies": 10,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 4510,
+        "likes": 86,
+        "reposts": 30,
+        "replies": 10,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Retrouvez mon passage ce matin à la grande interview de CNEWS et d’Europe 1 :\n\nhttps://youtu.be/ONUU7sb4Bzo?si=-age-fIlwUtGXvlT"
+    }
+  ]
+}

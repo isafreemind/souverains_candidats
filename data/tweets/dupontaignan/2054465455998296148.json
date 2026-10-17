@@ -1,0 +1,37 @@
+{
+  "id": "2054465455998296148",
+  "handle": "dupontaignan",
+  "text": "Aux Etats-Unis la vérité émerge ! Pourquoi pas en France? Merci aux parlementaires américains !",
+  "url": "https://x.com/dupontaignan/status/2054465455998296148",
+  "publishedAt": "2026-05-13T07:35:09.000Z",
+  "observedAt": "2026-10-17T08:48:17.558Z",
+  "firstSeenAt": "2026-10-17T08:48:17.558Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 20068,
+    "likes": 461,
+    "reposts": 190,
+    "replies": 23,
+    "quotes": 2,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "metrics": {
+        "views": 20068,
+        "likes": 461,
+        "reposts": 190,
+        "replies": 23,
+        "quotes": 2,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "text": "Aux Etats-Unis la vérité émerge ! Pourquoi pas en France? Merci aux parlementaires américains !"
+    }
+  ]
+}

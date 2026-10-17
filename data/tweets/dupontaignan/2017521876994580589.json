@@ -1,0 +1,37 @@
+{
+  "id": "2017521876994580589",
+  "handle": "dupontaignan",
+  "text": "Soutenons massivement nos policiers dans toute la France ! Je serai avec eux à 11h place de la Bastille à Paris. VENEZ NOMBREUX !",
+  "url": "https://x.com/dupontaignan/status/2017521876994580589",
+  "publishedAt": "2026-01-31T08:54:33.000Z",
+  "observedAt": "2026-10-17T08:49:31.880Z",
+  "firstSeenAt": "2026-10-17T08:49:31.880Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8939,
+    "likes": 359,
+    "reposts": 125,
+    "replies": 201,
+    "quotes": 11,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:31.880Z",
+      "metrics": {
+        "views": 8939,
+        "likes": 359,
+        "reposts": 125,
+        "replies": 201,
+        "quotes": 11,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:31.880Z",
+      "text": "Soutenons massivement nos policiers dans toute la France ! Je serai avec eux à 11h place de la Bastille à Paris. VENEZ NOMBREUX !"
+    }
+  ]
+}

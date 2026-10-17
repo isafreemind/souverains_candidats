@@ -1,0 +1,37 @@
+{
+  "id": "2073732073655849115",
+  "handle": "f_philippot",
+  "text": "Excellente nouvelle ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2073732073655849115",
+  "publishedAt": "2026-07-05T11:33:49.000Z",
+  "observedAt": "2026-10-17T08:43:29.016Z",
+  "firstSeenAt": "2026-10-17T08:43:29.016Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 56595,
+    "likes": 1542,
+    "reposts": 354,
+    "replies": 59,
+    "quotes": 9,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "metrics": {
+        "views": 56595,
+        "likes": 1542,
+        "reposts": 354,
+        "replies": 59,
+        "quotes": 9,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "text": "Excellente nouvelle ! ⤵️"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1991038252149608604",
+  "handle": "f_philippot",
+  "text": "Plus précisément à partir de 9h25",
+  "url": "https://x.com/f_philippot/status/1991038252149608604",
+  "publishedAt": "2025-11-19T06:58:05.000Z",
+  "observedAt": "2026-10-17T08:48:00.570Z",
+  "firstSeenAt": "2026-10-17T08:48:00.570Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 13305,
+    "likes": 276,
+    "reposts": 80,
+    "replies": 21,
+    "quotes": 6,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:00.570Z",
+      "metrics": {
+        "views": 13305,
+        "likes": 276,
+        "reposts": 80,
+        "replies": 21,
+        "quotes": 6,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:00.570Z",
+      "text": "Plus précisément à partir de 9h25"
+    }
+  ]
+}

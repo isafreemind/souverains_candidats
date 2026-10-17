@@ -1,0 +1,37 @@
+{
+  "id": "2039225008459829367",
+  "handle": "f_philippot",
+  "text": "Ce 🐟 d’avril est plus vrai que nature !…",
+  "url": "https://x.com/f_philippot/status/2039225008459829367",
+  "publishedAt": "2026-04-01T06:15:03.000Z",
+  "observedAt": "2026-10-17T08:45:04.205Z",
+  "firstSeenAt": "2026-10-17T08:45:04.205Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 14659,
+    "likes": 818,
+    "reposts": 229,
+    "replies": 47,
+    "quotes": 6,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:04.205Z",
+      "metrics": {
+        "views": 14659,
+        "likes": 818,
+        "reposts": 229,
+        "replies": 47,
+        "quotes": 6,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:04.205Z",
+      "text": "Ce 🐟 d’avril est plus vrai que nature !…"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2070886495083172028",
+  "handle": "f_asselineau",
+  "text": "Une caricature vaut mille mots.",
+  "url": "https://x.com/f_asselineau/status/2070886495083172028",
+  "publishedAt": "2026-06-27T15:06:30.000Z",
+  "observedAt": "2026-10-17T08:37:42.611Z",
+  "firstSeenAt": "2026-10-17T08:32:43.017Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 57369,
+    "likes": 6249,
+    "reposts": 2689,
+    "replies": 143,
+    "quotes": 57,
+    "bookmarks": 113
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:32:43.017Z",
+      "metrics": {
+        "views": 57369,
+        "likes": 6249,
+        "reposts": 2689,
+        "replies": 143,
+        "quotes": 57,
+        "bookmarks": 113
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:37:42.611Z",
+      "metrics": {
+        "views": 57369,
+        "likes": 6249,
+        "reposts": 2689,
+        "replies": 143,
+        "quotes": 57,
+        "bookmarks": 113
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:32:43.017Z",
+      "text": "Une caricature vaut mille mots."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2040058501381185860",
+  "handle": "f_philippot",
+  "text": "Trump ferait bien de sortir de ce piège au plus vite.",
+  "url": "https://x.com/f_philippot/status/2040058501381185860",
+  "publishedAt": "2026-04-03T13:27:03.000Z",
+  "observedAt": "2026-10-17T08:45:02.500Z",
+  "firstSeenAt": "2026-10-17T08:45:02.500Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 17448,
+    "likes": 377,
+    "reposts": 100,
+    "replies": 64,
+    "quotes": 3,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:02.500Z",
+      "metrics": {
+        "views": 17448,
+        "likes": 377,
+        "reposts": 100,
+        "replies": 64,
+        "quotes": 3,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:02.500Z",
+      "text": "Trump ferait bien de sortir de ce piège au plus vite."
+    }
+  ]
+}

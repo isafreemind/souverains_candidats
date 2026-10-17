@@ -1,0 +1,48 @@
+{
+  "id": "2073019380724625500",
+  "handle": "dupontaignan",
+  "text": "On croirait revivre l’affaire des fiches sous la IIIᵉ République anticléricale !\nLe rejet automatique des candidats venant d’écoles hors contrat catholiques par le Prytanée est INACCEPTABLE !\nEn République, on ne refuse pas quelqu’un à cause de sa religion !",
+  "url": "https://x.com/dupontaignan/status/2073019380724625500",
+  "publishedAt": "2026-07-03T12:21:49.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 37781,
+    "likes": 1099,
+    "reposts": 495,
+    "replies": 64,
+    "quotes": 3,
+    "bookmarks": 19
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 37781,
+        "likes": 1099,
+        "reposts": 495,
+        "replies": 64,
+        "quotes": 3,
+        "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 37781,
+        "likes": 1099,
+        "reposts": 495,
+        "replies": 64,
+        "quotes": 3,
+        "bookmarks": 19
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "On croirait revivre l’affaire des fiches sous la IIIᵉ République anticléricale !\nLe rejet automatique des candidats venant d’écoles hors contrat catholiques par le Prytanée est INACCEPTABLE !\nEn République, on ne refuse pas quelqu’un à cause de sa religion !"
+    }
+  ]
+}

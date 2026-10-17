@@ -1,0 +1,48 @@
+{
+  "id": "2070089069564952774",
+  "handle": "dupontaignan",
+  "text": "Pour les partisans de l'euthanasie, avec la canicule, mieux vaut tuer les patients que de climatiser les hôpitaux.",
+  "url": "https://x.com/dupontaignan/status/2070089069564952774",
+  "publishedAt": "2026-06-25T10:17:49.000Z",
+  "observedAt": "2026-10-17T08:41:22.317Z",
+  "firstSeenAt": "2026-10-17T08:36:12.968Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 19059,
+    "likes": 1552,
+    "reposts": 658,
+    "replies": 119,
+    "quotes": 22,
+    "bookmarks": 33
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "metrics": {
+        "views": 19059,
+        "likes": 1552,
+        "reposts": 658,
+        "replies": 119,
+        "quotes": 22,
+        "bookmarks": 33
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:22.317Z",
+      "metrics": {
+        "views": 19059,
+        "likes": 1552,
+        "reposts": 658,
+        "replies": 119,
+        "quotes": 22,
+        "bookmarks": 33
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "text": "Pour les partisans de l'euthanasie, avec la canicule, mieux vaut tuer les patients que de climatiser les hôpitaux."
+    }
+  ]
+}

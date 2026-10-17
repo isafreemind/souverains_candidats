@@ -1,0 +1,37 @@
+{
+  "id": "2008504181188161693",
+  "handle": "f_philippot",
+  "text": "Chaque jour de nouvelles révélations scandaleuses !\n\n➡️ À quand la taule pour les Thénardier de Crans-Montana ?!",
+  "url": "https://x.com/f_philippot/status/2008504181188161693",
+  "publishedAt": "2026-01-06T11:41:27.000Z",
+  "observedAt": "2026-10-17T08:47:00.542Z",
+  "firstSeenAt": "2026-10-17T08:47:00.542Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 13722,
+    "likes": 314,
+    "reposts": 108,
+    "replies": 26,
+    "quotes": 0,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:00.542Z",
+      "metrics": {
+        "views": 13722,
+        "likes": 314,
+        "reposts": 108,
+        "replies": 26,
+        "quotes": 0,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:00.542Z",
+      "text": "Chaque jour de nouvelles révélations scandaleuses !\n\n➡️ À quand la taule pour les Thénardier de Crans-Montana ?!"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2076928407460282515",
+  "handle": "f_philippot",
+  "text": "Rédacteur en chef à La Tribune ⤵️\n\nLa dictature s’installe partout.\n\n…Se coucher ou se libérer !",
+  "url": "https://x.com/f_philippot/status/2076928407460282515",
+  "publishedAt": "2026-07-14T07:14:54.000Z",
+  "observedAt": "2026-10-17T08:43:20.278Z",
+  "firstSeenAt": "2026-10-17T08:43:20.278Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 19307,
+    "likes": 749,
+    "reposts": 318,
+    "replies": 39,
+    "quotes": 8,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:20.278Z",
+      "metrics": {
+        "views": 19307,
+        "likes": 749,
+        "reposts": 318,
+        "replies": 39,
+        "quotes": 8,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:20.278Z",
+      "text": "Rédacteur en chef à La Tribune ⤵️\n\nLa dictature s’installe partout.\n\n…Se coucher ou se libérer !"
+    }
+  ]
+}

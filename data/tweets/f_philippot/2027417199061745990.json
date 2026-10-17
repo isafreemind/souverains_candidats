@@ -1,0 +1,37 @@
+{
+  "id": "2027417199061745990",
+  "handle": "f_philippot",
+  "text": "Hi @elonmusk : a very important message for you ⤵️\n\nA new attack from the EU to censor X! #AbolishEU",
+  "url": "https://x.com/f_philippot/status/2027417199061745990",
+  "publishedAt": "2026-02-27T16:15:02.000Z",
+  "observedAt": "2026-10-17T08:45:41.871Z",
+  "firstSeenAt": "2026-10-17T08:45:41.871Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19623,
+    "likes": 1002,
+    "reposts": 410,
+    "replies": 29,
+    "quotes": 7,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:41.871Z",
+      "metrics": {
+        "views": 19623,
+        "likes": 1002,
+        "reposts": 410,
+        "replies": 29,
+        "quotes": 7,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:41.871Z",
+      "text": "Hi @elonmusk : a very important message for you ⤵️\n\nA new attack from the EU to censor X! #AbolishEU"
+    }
+  ]
+}

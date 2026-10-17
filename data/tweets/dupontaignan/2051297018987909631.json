@@ -1,0 +1,37 @@
+{
+  "id": "2051297018987909631",
+  "handle": "dupontaignan",
+  "text": "Bercy lance sa propre machine à manipuler l’opinion… Qui décide de ce qui est une fake news ? Le gouvernement lui-même !",
+  "url": "https://x.com/dupontaignan/status/2051297018987909631",
+  "publishedAt": "2026-05-04T13:44:55.000Z",
+  "observedAt": "2026-10-17T08:48:28.609Z",
+  "firstSeenAt": "2026-10-17T08:48:28.609Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7641,
+    "likes": 460,
+    "reposts": 209,
+    "replies": 19,
+    "quotes": 2,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:28.609Z",
+      "metrics": {
+        "views": 7641,
+        "likes": 460,
+        "reposts": 209,
+        "replies": 19,
+        "quotes": 2,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:28.609Z",
+      "text": "Bercy lance sa propre machine à manipuler l’opinion… Qui décide de ce qui est une fake news ? Le gouvernement lui-même !"
+    }
+  ]
+}

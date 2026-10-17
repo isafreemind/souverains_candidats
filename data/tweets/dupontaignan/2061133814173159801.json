@@ -1,0 +1,48 @@
+{
+  "id": "2061133814173159801",
+  "handle": "dupontaignan",
+  "text": "Notre industrie meurt à petit feu...\nRetrouvez ma nouvelle vidéo : https://youtu.be/ZQ0iUPd6znY?si=1bYDrVy6MDdl3efZ",
+  "url": "https://x.com/dupontaignan/status/2061133814173159801",
+  "publishedAt": "2026-05-31T17:12:49.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2994,
+    "likes": 123,
+    "reposts": 49,
+    "replies": 5,
+    "quotes": 0,
+    "bookmarks": 0
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 2994,
+        "likes": 123,
+        "reposts": 49,
+        "replies": 5,
+        "quotes": 0,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 2994,
+        "likes": 123,
+        "reposts": 49,
+        "replies": 5,
+        "quotes": 0,
+        "bookmarks": 0
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "Notre industrie meurt à petit feu...\nRetrouvez ma nouvelle vidéo : https://youtu.be/ZQ0iUPd6znY?si=1bYDrVy6MDdl3efZ"
+    }
+  ]
+}

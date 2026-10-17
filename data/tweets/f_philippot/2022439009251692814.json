@@ -1,0 +1,37 @@
+{
+  "id": "2022439009251692814",
+  "handle": "f_philippot",
+  "text": "Un dîner avec Philippe de Villiers pour bien terminer la semaine et envisager l’avenir avec optimisme ! 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2022439009251692814",
+  "publishedAt": "2026-02-13T22:33:29.000Z",
+  "observedAt": "2026-10-17T08:46:04.571Z",
+  "firstSeenAt": "2026-10-17T08:46:04.571Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 100629,
+    "likes": 4436,
+    "reposts": 804,
+    "replies": 544,
+    "quotes": 59,
+    "bookmarks": 43
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:04.571Z",
+      "metrics": {
+        "views": 100629,
+        "likes": 4436,
+        "reposts": 804,
+        "replies": 544,
+        "quotes": 59,
+        "bookmarks": 43
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:04.571Z",
+      "text": "Un dîner avec Philippe de Villiers pour bien terminer la semaine et envisager l’avenir avec optimisme ! 🇫🇷"
+    }
+  ]
+}

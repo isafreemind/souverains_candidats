@@ -1,0 +1,37 @@
+{
+  "id": "2064759853482938817",
+  "handle": "f_philippot",
+  "text": "En direct à 7h40 ce jeudi dans la matinale de France Info TV",
+  "url": "https://x.com/f_philippot/status/2064759853482938817",
+  "publishedAt": "2026-06-10T17:21:25.000Z",
+  "observedAt": "2026-10-17T08:43:55.769Z",
+  "firstSeenAt": "2026-10-17T08:43:55.769Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8353,
+    "likes": 222,
+    "reposts": 82,
+    "replies": 24,
+    "quotes": 4,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:55.769Z",
+      "metrics": {
+        "views": 8353,
+        "likes": 222,
+        "reposts": 82,
+        "replies": 24,
+        "quotes": 4,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:55.769Z",
+      "text": "En direct à 7h40 ce jeudi dans la matinale de France Info TV"
+    }
+  ]
+}

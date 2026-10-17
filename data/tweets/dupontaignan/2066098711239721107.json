@@ -1,0 +1,48 @@
+{
+  "id": "2066098711239721107",
+  "handle": "dupontaignan",
+  "text": "Cette décision du gouvernement américain de limiter l'accès à Anthropic est un signal fort pour le monde entier.\nC'est l'occasion de rappeler que l'IA est un enjeu majeur de compétition et de souveraineté pour les nations. Nous devons absolument protéger nos fleurons d'intelligence artificielle comme Mistral pour préserver notre indépendance !\n\nhttps://www.lefigaro.fr/secteur/high-tech/anthropic-suspend-son-ia-la-plus-puissante-en-raison-de-restrictions-de-securite-nationale-20260613",
+  "url": "https://x.com/dupontaignan/status/2066098711239721107",
+  "publishedAt": "2026-06-14T10:01:33.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 7369,
+    "likes": 113,
+    "reposts": 45,
+    "replies": 12,
+    "quotes": 0,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 7369,
+        "likes": 113,
+        "reposts": 45,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 7369,
+        "likes": 113,
+        "reposts": 45,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "Cette décision du gouvernement américain de limiter l'accès à Anthropic est un signal fort pour le monde entier.\nC'est l'occasion de rappeler que l'IA est un enjeu majeur de compétition et de souveraineté pour les nations. Nous devons absolument protéger nos fleurons d'intelligence artificielle comme Mistral pour préserver notre indépendance !\n\nhttps://www.lefigaro.fr/secteur/high-tech/anthropic-suspend-son-ia-la-plus-puissante-en-raison-de-restrictions-de-securite-nationale-20260613"
+    }
+  ]
+}

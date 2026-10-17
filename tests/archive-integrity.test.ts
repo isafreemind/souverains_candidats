@@ -27,7 +27,9 @@ describe('Intégrité des données réellement archivées', () => {
       if (typeof filename !== 'string' || !filename.endsWith('.json.gz')) continue;
       const raw = JSON.parse(gunzipSync(readFileSync(resolve(directory, filename))).toString('utf8'));
       expect(new URL(raw.source).origin).toBe(API);
-      expect(raw.response.code).toBe(200);
+      // A failed API response is also a useful immutable collection trace.
+      expect(raw.response.code).toBeGreaterThanOrEqual(100);
+      expect(raw.response.code).toBeLessThanOrEqual(599);
       expect(Number.isFinite(Date.parse(raw.observedAt))).toBe(true);
     }
   });

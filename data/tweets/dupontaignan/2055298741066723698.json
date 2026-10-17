@@ -1,0 +1,37 @@
+{
+  "id": "2055298741066723698",
+  "handle": "dupontaignan",
+  "text": "L'INTERET SUPERIEUR DE LA FRANCE AVANT TOUT...",
+  "url": "https://x.com/dupontaignan/status/2055298741066723698",
+  "publishedAt": "2026-05-15T14:46:20.000Z",
+  "observedAt": "2026-10-17T08:48:14.937Z",
+  "firstSeenAt": "2026-10-17T08:48:14.937Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 5917,
+    "likes": 209,
+    "reposts": 51,
+    "replies": 17,
+    "quotes": 2,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:14.937Z",
+      "metrics": {
+        "views": 5917,
+        "likes": 209,
+        "reposts": 51,
+        "replies": 17,
+        "quotes": 2,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:14.937Z",
+      "text": "L'INTERET SUPERIEUR DE LA FRANCE AVANT TOUT..."
+    }
+  ]
+}

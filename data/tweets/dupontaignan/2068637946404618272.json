@@ -1,0 +1,48 @@
+{
+  "id": "2068637946404618272",
+  "handle": "dupontaignan",
+  "text": "La véritable lutte contre l'immigration ne sera possible que lorsque nous aurons repris la maîtrise de nos frontières en quittant l'Union européenne.",
+  "url": "https://x.com/dupontaignan/status/2068637946404618272",
+  "publishedAt": "2026-06-21T10:11:34.000Z",
+  "observedAt": "2026-10-17T08:41:23.669Z",
+  "firstSeenAt": "2026-10-17T08:36:14.481Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 14717,
+    "likes": 969,
+    "reposts": 257,
+    "replies": 26,
+    "quotes": 3,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "metrics": {
+        "views": 14717,
+        "likes": 969,
+        "reposts": 257,
+        "replies": 26,
+        "quotes": 3,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:23.669Z",
+      "metrics": {
+        "views": 14717,
+        "likes": 969,
+        "reposts": 257,
+        "replies": 26,
+        "quotes": 3,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "text": "La véritable lutte contre l'immigration ne sera possible que lorsque nous aurons repris la maîtrise de nos frontières en quittant l'Union européenne."
+    }
+  ]
+}

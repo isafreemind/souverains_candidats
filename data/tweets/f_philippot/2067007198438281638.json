@@ -1,0 +1,37 @@
+{
+  "id": "2067007198438281638",
+  "handle": "f_philippot",
+  "text": "Bravo l’équipe de France ! 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2067007198438281638",
+  "publishedAt": "2026-06-16T22:11:33.000Z",
+  "observedAt": "2026-10-17T08:43:50.149Z",
+  "firstSeenAt": "2026-10-17T08:43:50.149Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8403,
+    "likes": 140,
+    "reposts": 21,
+    "replies": 28,
+    "quotes": 2,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:50.149Z",
+      "metrics": {
+        "views": 8403,
+        "likes": 140,
+        "reposts": 21,
+        "replies": 28,
+        "quotes": 2,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:50.149Z",
+      "text": "Bravo l’équipe de France ! 🇫🇷"
+    }
+  ]
+}

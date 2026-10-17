@@ -1,0 +1,37 @@
+{
+  "id": "2073484782307008613",
+  "handle": "f_philippot",
+  "text": "Les gens pataugent entre les ordures, les rats et les cadavres.\nParis 2026.",
+  "url": "https://x.com/f_philippot/status/2073484782307008613",
+  "publishedAt": "2026-07-04T19:11:10.000Z",
+  "observedAt": "2026-10-17T08:43:29.016Z",
+  "firstSeenAt": "2026-10-17T08:43:29.016Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 97110,
+    "likes": 4444,
+    "reposts": 1605,
+    "replies": 153,
+    "quotes": 22,
+    "bookmarks": 70
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "metrics": {
+        "views": 97110,
+        "likes": 4444,
+        "reposts": 1605,
+        "replies": 153,
+        "quotes": 22,
+        "bookmarks": 70
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "text": "Les gens pataugent entre les ordures, les rats et les cadavres.\nParis 2026."
+    }
+  ]
+}

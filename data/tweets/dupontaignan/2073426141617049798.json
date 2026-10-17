@@ -1,0 +1,48 @@
+{
+  "id": "2073426141617049798",
+  "handle": "dupontaignan",
+  "text": "Jusqu'où ira la soumission française à l'Union européenne qui s'attaque à nos intérêts vitaux. L'UE nous tue, libérons-nous.",
+  "url": "https://x.com/dupontaignan/status/2073426141617049798",
+  "publishedAt": "2026-07-04T15:18:09.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19171,
+    "likes": 1104,
+    "reposts": 474,
+    "replies": 26,
+    "quotes": 5,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 19171,
+        "likes": 1104,
+        "reposts": 474,
+        "replies": 26,
+        "quotes": 5,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 19171,
+        "likes": 1104,
+        "reposts": 474,
+        "replies": 26,
+        "quotes": 5,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Jusqu'où ira la soumission française à l'Union européenne qui s'attaque à nos intérêts vitaux. L'UE nous tue, libérons-nous."
+    }
+  ]
+}

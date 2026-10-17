@@ -1,0 +1,53 @@
+{
+  "observedAt": "2026-10-17T08:31:28.424Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 365,
+  "maxPages": 500,
+  "followers": [
+    {
+      "handle": "f_asselineau",
+      "followers": 384655,
+      "observedAt": "2026-10-17T08:31:30.720Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 469519,
+      "observedAt": "2026-10-17T08:34:59.156Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-10-17T08:31:28.424Z",
+      "pages": 24,
+      "accepted": 392,
+      "excluded": 37,
+      "invalid": 0,
+      "reachedCutoff": false,
+      "exhausted": false,
+      "error": "Publications : Error: FxTwitter HTTP 404"
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-10-17T08:31:28.424Z",
+      "pages": 44,
+      "accepted": 816,
+      "excluded": 33,
+      "invalid": 0,
+      "reachedCutoff": false,
+      "exhausted": true,
+      "error": "Profil : Error: FxTwitter HTTP 404"
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-10-17T08:31:28.424Z",
+      "pages": 44,
+      "accepted": 713,
+      "excluded": 110,
+      "invalid": 0,
+      "reachedCutoff": false,
+      "exhausted": true,
+      "error": null
+    }
+  ]
+}

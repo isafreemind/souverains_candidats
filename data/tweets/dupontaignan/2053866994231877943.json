@@ -1,0 +1,37 @@
+{
+  "id": "2053866994231877943",
+  "handle": "dupontaignan",
+  "text": "Hantavirus : questions sans réponses ?",
+  "url": "https://x.com/dupontaignan/status/2053866994231877943",
+  "publishedAt": "2026-05-11T15:57:05.000Z",
+  "observedAt": "2026-10-17T08:48:17.558Z",
+  "firstSeenAt": "2026-10-17T08:48:17.558Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 79212,
+    "likes": 609,
+    "reposts": 217,
+    "replies": 197,
+    "quotes": 45,
+    "bookmarks": 32
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "metrics": {
+        "views": 79212,
+        "likes": 609,
+        "reposts": 217,
+        "replies": 197,
+        "quotes": 45,
+        "bookmarks": 32
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "text": "Hantavirus : questions sans réponses ?"
+    }
+  ]
+}

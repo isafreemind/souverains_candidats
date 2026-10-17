@@ -1,0 +1,48 @@
+{
+  "id": "2061825167815283044",
+  "handle": "dupontaignan",
+  "text": "📺 Retrouvez-moi à 18h20, dans l'émission \"Marschall Truchot\" sur @BFMTV, face à @CharlesConsigny au micro de @Olivier_Truchot et @AlainMarschall 🎙️",
+  "url": "https://x.com/dupontaignan/status/2061825167815283044",
+  "publishedAt": "2026-06-02T15:00:01.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4437,
+    "likes": 67,
+    "reposts": 21,
+    "replies": 9,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 4437,
+        "likes": 67,
+        "reposts": 21,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 4437,
+        "likes": 67,
+        "reposts": 21,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "📺 Retrouvez-moi à 18h20, dans l'émission \"Marschall Truchot\" sur @BFMTV, face à @CharlesConsigny au micro de @Olivier_Truchot et @AlainMarschall 🎙️"
+    }
+  ]
+}

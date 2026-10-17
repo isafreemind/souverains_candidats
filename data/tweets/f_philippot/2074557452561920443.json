@@ -1,0 +1,37 @@
+{
+  "id": "2074557452561920443",
+  "handle": "f_philippot",
+  "text": "Marine Le Pen va en cassation ! \nDonc incertitude totale au RN jusque février 2027 au moins.\n\nCandidate mais pas forcément jusqu’au bout.\n\nC’est fou !",
+  "url": "https://x.com/f_philippot/status/2074557452561920443",
+  "publishedAt": "2026-07-07T18:13:34.000Z",
+  "observedAt": "2026-10-17T08:43:24.270Z",
+  "firstSeenAt": "2026-10-17T08:43:24.270Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 27322,
+    "likes": 487,
+    "reposts": 139,
+    "replies": 129,
+    "quotes": 5,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:24.270Z",
+      "metrics": {
+        "views": 27322,
+        "likes": 487,
+        "reposts": 139,
+        "replies": 129,
+        "quotes": 5,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:24.270Z",
+      "text": "Marine Le Pen va en cassation ! \nDonc incertitude totale au RN jusque février 2027 au moins.\n\nCandidate mais pas forcément jusqu’au bout.\n\nC’est fou !"
+    }
+  ]
+}

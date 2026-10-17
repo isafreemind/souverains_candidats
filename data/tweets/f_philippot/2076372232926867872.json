@@ -1,0 +1,37 @@
+{
+  "id": "2076372232926867872",
+  "handle": "f_philippot",
+  "text": "Ce lundi 13/07 à 9h en direct sur CNews",
+  "url": "https://x.com/f_philippot/status/2076372232926867872",
+  "publishedAt": "2026-07-12T18:24:52.000Z",
+  "observedAt": "2026-10-17T08:43:21.517Z",
+  "firstSeenAt": "2026-10-17T08:43:21.517Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 29446,
+    "likes": 366,
+    "reposts": 118,
+    "replies": 58,
+    "quotes": 8,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:21.517Z",
+      "metrics": {
+        "views": 29446,
+        "likes": 366,
+        "reposts": 118,
+        "replies": 58,
+        "quotes": 8,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:21.517Z",
+      "text": "Ce lundi 13/07 à 9h en direct sur CNews"
+    }
+  ]
+}

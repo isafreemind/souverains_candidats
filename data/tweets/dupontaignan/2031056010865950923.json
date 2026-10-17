@@ -1,0 +1,37 @@
+{
+  "id": "2031056010865950923",
+  "handle": "dupontaignan",
+  "text": "Pendant que Macron parade à Chypre, le Gouvernement profite de la flambée du prix du pétrole pour remplir les caisses de l’Etat.\nMettons fin à ce racket en baissant la TVA sur les carburants !",
+  "url": "https://x.com/dupontaignan/status/2031056010865950923",
+  "publishedAt": "2026-03-09T17:14:22.000Z",
+  "observedAt": "2026-10-17T08:48:59.200Z",
+  "firstSeenAt": "2026-10-17T08:48:59.200Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 9768,
+    "likes": 933,
+    "reposts": 298,
+    "replies": 57,
+    "quotes": 8,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:59.200Z",
+      "metrics": {
+        "views": 9768,
+        "likes": 933,
+        "reposts": 298,
+        "replies": 57,
+        "quotes": 8,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:59.200Z",
+      "text": "Pendant que Macron parade à Chypre, le Gouvernement profite de la flambée du prix du pétrole pour remplir les caisses de l’Etat.\nMettons fin à ce racket en baissant la TVA sur les carburants !"
+    }
+  ]
+}

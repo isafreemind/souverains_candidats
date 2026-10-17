@@ -1,0 +1,37 @@
+{
+  "id": "2060631951799701863",
+  "handle": "f_philippot",
+  "text": "Eh oui vivement le Frexit !\n\nÀ bas l’UE, Vive la France libre ! 🇫🇷🇫🇷🇫🇷\n\nVidéo ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2060631951799701863",
+  "publishedAt": "2026-05-30T07:58:36.000Z",
+  "observedAt": "2026-10-17T08:44:08.572Z",
+  "firstSeenAt": "2026-10-17T08:44:08.572Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 17695,
+    "likes": 1570,
+    "reposts": 599,
+    "replies": 73,
+    "quotes": 4,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:08.572Z",
+      "metrics": {
+        "views": 17695,
+        "likes": 1570,
+        "reposts": 599,
+        "replies": 73,
+        "quotes": 4,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:08.572Z",
+      "text": "Eh oui vivement le Frexit !\n\nÀ bas l’UE, Vive la France libre ! 🇫🇷🇫🇷🇫🇷\n\nVidéo ! ⤵️"
+    }
+  ]
+}

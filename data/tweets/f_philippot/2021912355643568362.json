@@ -1,0 +1,37 @@
+{
+  "id": "2021912355643568362",
+  "handle": "f_philippot",
+  "text": "Sur Sud Radio en direct à 12h45",
+  "url": "https://x.com/f_philippot/status/2021912355643568362",
+  "publishedAt": "2026-02-12T11:40:45.000Z",
+  "observedAt": "2026-10-17T08:46:07.259Z",
+  "firstSeenAt": "2026-10-17T08:46:07.259Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 7098,
+    "likes": 140,
+    "reposts": 39,
+    "replies": 6,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:07.259Z",
+      "metrics": {
+        "views": 7098,
+        "likes": 140,
+        "reposts": 39,
+        "replies": 6,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:07.259Z",
+      "text": "Sur Sud Radio en direct à 12h45"
+    }
+  ]
+}

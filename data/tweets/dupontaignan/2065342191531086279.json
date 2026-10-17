@@ -1,0 +1,48 @@
+{
+  "id": "2065342191531086279",
+  "handle": "dupontaignan",
+  "text": "⁨Pour protéger nos enfants et réformer la justice, signez la pétition.\nhttps://www.dupontaignan.fr/pour-un-referendum-sur-la-peine-de-mort-pour-les-meurtriers-denfants/",
+  "url": "https://x.com/dupontaignan/status/2065342191531086279",
+  "publishedAt": "2026-06-12T07:55:25.000Z",
+  "observedAt": "2026-10-17T08:41:28.320Z",
+  "firstSeenAt": "2026-10-17T08:36:19.102Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4829,
+    "likes": 314,
+    "reposts": 146,
+    "replies": 25,
+    "quotes": 6,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:19.102Z",
+      "metrics": {
+        "views": 4829,
+        "likes": 314,
+        "reposts": 146,
+        "replies": 25,
+        "quotes": 6,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:28.320Z",
+      "metrics": {
+        "views": 4829,
+        "likes": 314,
+        "reposts": 146,
+        "replies": 25,
+        "quotes": 6,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:19.102Z",
+      "text": "⁨Pour protéger nos enfants et réformer la justice, signez la pétition.\nhttps://www.dupontaignan.fr/pour-un-referendum-sur-la-peine-de-mort-pour-les-meurtriers-denfants/"
+    }
+  ]
+}

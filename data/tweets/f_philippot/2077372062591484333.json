@@ -1,0 +1,48 @@
+{
+  "id": "2077372062591484333",
+  "handle": "f_philippot",
+  "text": "Catastrophe pour notre agriculture, \nDumping social,\nRuine par transferts budgétaires massifs,\nMafias,\nImportation de la guerre,\n➡️ Cet élargissement c’est ça !\nSortons de l’UE au plus vite",
+  "url": "https://x.com/f_philippot/status/2077372062591484333",
+  "publishedAt": "2026-07-15T12:37:50.000Z",
+  "observedAt": "2026-10-17T08:40:03.652Z",
+  "firstSeenAt": "2026-10-17T08:34:56.846Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19139,
+    "likes": 541,
+    "reposts": 188,
+    "replies": 17,
+    "quotes": 3,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:34:56.846Z",
+      "metrics": {
+        "views": 19139,
+        "likes": 541,
+        "reposts": 188,
+        "replies": 17,
+        "quotes": 3,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:40:03.652Z",
+      "metrics": {
+        "views": 19139,
+        "likes": 541,
+        "reposts": 188,
+        "replies": 17,
+        "quotes": 3,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:34:56.846Z",
+      "text": "Catastrophe pour notre agriculture, \nDumping social,\nRuine par transferts budgétaires massifs,\nMafias,\nImportation de la guerre,\n➡️ Cet élargissement c’est ça !\nSortons de l’UE au plus vite"
+    }
+  ]
+}

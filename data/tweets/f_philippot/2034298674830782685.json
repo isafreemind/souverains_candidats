@@ -1,0 +1,37 @@
+{
+  "id": "2034298674830782685",
+  "handle": "f_philippot",
+  "text": "Vive le « France Libre » notre futur porte-avions ! 🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷",
+  "url": "https://x.com/f_philippot/status/2034298674830782685",
+  "publishedAt": "2026-03-18T15:59:34.000Z",
+  "observedAt": "2026-10-17T08:45:21.622Z",
+  "firstSeenAt": "2026-10-17T08:45:21.622Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 35425,
+    "likes": 503,
+    "reposts": 122,
+    "replies": 202,
+    "quotes": 10,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:21.622Z",
+      "metrics": {
+        "views": 35425,
+        "likes": 503,
+        "reposts": 122,
+        "replies": 202,
+        "quotes": 10,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:21.622Z",
+      "text": "Vive le « France Libre » notre futur porte-avions ! 🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2023691838444728778",
+  "handle": "dupontaignan",
+  "text": "« Sinon ça va mal finir »\n\nEst-ce une menace ?\n\nIl y a déjà eu un mort, LFI en demande d’autres ?",
+  "url": "https://x.com/dupontaignan/status/2023691838444728778",
+  "publishedAt": "2026-02-17T09:31:47.000Z",
+  "observedAt": "2026-10-17T08:49:16.020Z",
+  "firstSeenAt": "2026-10-17T08:49:16.020Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 56249,
+    "likes": 3030,
+    "reposts": 697,
+    "replies": 207,
+    "quotes": 21,
+    "bookmarks": 28
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:16.020Z",
+      "metrics": {
+        "views": 56249,
+        "likes": 3030,
+        "reposts": 697,
+        "replies": 207,
+        "quotes": 21,
+        "bookmarks": 28
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:16.020Z",
+      "text": "« Sinon ça va mal finir »\n\nEst-ce une menace ?\n\nIl y a déjà eu un mort, LFI en demande d’autres ?"
+    }
+  ]
+}

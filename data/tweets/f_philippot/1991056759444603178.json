@@ -1,0 +1,37 @@
+{
+  "id": "1991056759444603178",
+  "handle": "f_philippot",
+  "text": "Parler en français c’est en option ?",
+  "url": "https://x.com/f_philippot/status/1991056759444603178",
+  "publishedAt": "2025-11-19T08:11:38.000Z",
+  "observedAt": "2026-10-17T08:48:00.570Z",
+  "firstSeenAt": "2026-10-17T08:48:00.570Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 14226,
+    "likes": 349,
+    "reposts": 94,
+    "replies": 76,
+    "quotes": 5,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:00.570Z",
+      "metrics": {
+        "views": 14226,
+        "likes": 349,
+        "reposts": 94,
+        "replies": 76,
+        "quotes": 5,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:00.570Z",
+      "text": "Parler en français c’est en option ?"
+    }
+  ]
+}

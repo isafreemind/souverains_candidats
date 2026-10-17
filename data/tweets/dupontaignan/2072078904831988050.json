@@ -1,0 +1,48 @@
+{
+  "id": "2072078904831988050",
+  "handle": "dupontaignan",
+  "text": "À ÉCOUTER ABSOLUMENT !  Merci Philippe Juvin pour votre lucidité et votre courage.",
+  "url": "https://x.com/dupontaignan/status/2072078904831988050",
+  "publishedAt": "2026-06-30T22:04:42.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 5881,
+    "likes": 107,
+    "reposts": 27,
+    "replies": 4,
+    "quotes": 1,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 5881,
+        "likes": 107,
+        "reposts": 27,
+        "replies": 4,
+        "quotes": 1,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 5881,
+        "likes": 107,
+        "reposts": 27,
+        "replies": 4,
+        "quotes": 1,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "À ÉCOUTER ABSOLUMENT !  Merci Philippe Juvin pour votre lucidité et votre courage."
+    }
+  ]
+}

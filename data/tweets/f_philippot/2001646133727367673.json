@@ -1,0 +1,37 @@
+{
+  "id": "2001646133727367673",
+  "handle": "f_philippot",
+  "text": "Depuis Bruxelles en direct je suis avec les Patriotes et avec nos paysans contre l’UE !",
+  "url": "https://x.com/f_philippot/status/2001646133727367673",
+  "publishedAt": "2025-12-18T13:30:01.000Z",
+  "observedAt": "2026-10-17T08:47:17.580Z",
+  "firstSeenAt": "2026-10-17T08:47:17.580Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 30797,
+    "likes": 2624,
+    "reposts": 818,
+    "replies": 91,
+    "quotes": 23,
+    "bookmarks": 41
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:17.580Z",
+      "metrics": {
+        "views": 30797,
+        "likes": 2624,
+        "reposts": 818,
+        "replies": 91,
+        "quotes": 23,
+        "bookmarks": 41
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:17.580Z",
+      "text": "Depuis Bruxelles en direct je suis avec les Patriotes et avec nos paysans contre l’UE !"
+    }
+  ]
+}

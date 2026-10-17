@@ -1,0 +1,37 @@
+{
+  "id": "2037412149773979922",
+  "handle": "f_philippot",
+  "text": "À 9h30 en direct ce vendredi sur CNews et Europe1",
+  "url": "https://x.com/f_philippot/status/2037412149773979922",
+  "publishedAt": "2026-03-27T06:11:24.000Z",
+  "observedAt": "2026-10-17T08:45:14.647Z",
+  "firstSeenAt": "2026-10-17T08:45:14.647Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 6909,
+    "likes": 211,
+    "reposts": 70,
+    "replies": 15,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:14.647Z",
+      "metrics": {
+        "views": 6909,
+        "likes": 211,
+        "reposts": 70,
+        "replies": 15,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:14.647Z",
+      "text": "À 9h30 en direct ce vendredi sur CNews et Europe1"
+    }
+  ]
+}

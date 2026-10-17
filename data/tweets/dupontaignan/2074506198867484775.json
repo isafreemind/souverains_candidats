@@ -1,0 +1,48 @@
+{
+  "id": "2074506198867484775",
+  "handle": "dupontaignan",
+  "text": "Mais quel enfer !!! Même George Orwell n’aurait imaginé ça !\nL’UE est en train d’instaurer une surveillance généralisée de masse…\nRésistons !",
+  "url": "https://x.com/dupontaignan/status/2074506198867484775",
+  "publishedAt": "2026-07-07T14:49:54.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 135104,
+    "likes": 3942,
+    "reposts": 1727,
+    "replies": 173,
+    "quotes": 17,
+    "bookmarks": 166
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 135104,
+        "likes": 3942,
+        "reposts": 1727,
+        "replies": 173,
+        "quotes": 17,
+        "bookmarks": 166
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 135104,
+        "likes": 3942,
+        "reposts": 1727,
+        "replies": 173,
+        "quotes": 17,
+        "bookmarks": 166
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "Mais quel enfer !!! Même George Orwell n’aurait imaginé ça !\nL’UE est en train d’instaurer une surveillance généralisée de masse…\nRésistons !"
+    }
+  ]
+}

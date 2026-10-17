@@ -1,0 +1,48 @@
+{
+  "id": "2060440119899808075",
+  "handle": "dupontaignan",
+  "text": "Je suis invité au 3ᵉ Printemps de la liberté d’expression à Perpignan pour un échange sur mon livre suivi d’une séance de dédicaces. \nhttps://www.fayard.fr/livre/2027-la-liberte-ou-la-mort-9782213731704/",
+  "url": "https://x.com/dupontaignan/status/2060440119899808075",
+  "publishedAt": "2026-05-29T19:16:20.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2382,
+    "likes": 54,
+    "reposts": 16,
+    "replies": 5,
+    "quotes": 1,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 2382,
+        "likes": 54,
+        "reposts": 16,
+        "replies": 5,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 2382,
+        "likes": 54,
+        "reposts": 16,
+        "replies": 5,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "Je suis invité au 3ᵉ Printemps de la liberté d’expression à Perpignan pour un échange sur mon livre suivi d’une séance de dédicaces. \nhttps://www.fayard.fr/livre/2027-la-liberte-ou-la-mort-9782213731704/"
+    }
+  ]
+}

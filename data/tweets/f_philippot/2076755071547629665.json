@@ -1,0 +1,37 @@
+{
+  "id": "2076755071547629665",
+  "handle": "f_philippot",
+  "text": "Quand Macron se prend une baffe on aime !\n\n« QR Code illégal, annulé ! »\n\nVIDÉO",
+  "url": "https://x.com/f_philippot/status/2076755071547629665",
+  "publishedAt": "2026-07-13T19:46:07.000Z",
+  "observedAt": "2026-10-17T08:43:20.278Z",
+  "firstSeenAt": "2026-10-17T08:43:20.278Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 70425,
+    "likes": 1556,
+    "reposts": 407,
+    "replies": 179,
+    "quotes": 30,
+    "bookmarks": 28
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:20.278Z",
+      "metrics": {
+        "views": 70425,
+        "likes": 1556,
+        "reposts": 407,
+        "replies": 179,
+        "quotes": 30,
+        "bookmarks": 28
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:20.278Z",
+      "text": "Quand Macron se prend une baffe on aime !\n\n« QR Code illégal, annulé ! »\n\nVIDÉO"
+    }
+  ]
+}

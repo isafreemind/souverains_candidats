@@ -1,0 +1,48 @@
+{
+  "id": "2071276671399801057",
+  "handle": "f_asselineau",
+  "text": "🇫🇷 TRACT WEB À FAIRE CIRCULER",
+  "url": "https://x.com/f_asselineau/status/2071276671399801057",
+  "publishedAt": "2026-06-28T16:56:55.000Z",
+  "observedAt": "2026-10-17T08:37:42.611Z",
+  "firstSeenAt": "2026-10-17T08:32:43.017Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 44654,
+    "likes": 3993,
+    "reposts": 2161,
+    "replies": 93,
+    "quotes": 42,
+    "bookmarks": 81
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:32:43.017Z",
+      "metrics": {
+        "views": 44654,
+        "likes": 3993,
+        "reposts": 2161,
+        "replies": 93,
+        "quotes": 42,
+        "bookmarks": 81
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:37:42.611Z",
+      "metrics": {
+        "views": 44654,
+        "likes": 3993,
+        "reposts": 2161,
+        "replies": 93,
+        "quotes": 42,
+        "bookmarks": 81
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:32:43.017Z",
+      "text": "🇫🇷 TRACT WEB À FAIRE CIRCULER"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2077095327882936387",
+  "handle": "dupontaignan",
+  "text": "Quelle force et malheureusement aussi, quelle pertinence 84 années  plus tard !",
+  "url": "https://x.com/dupontaignan/status/2077095327882936387",
+  "publishedAt": "2026-07-14T18:18:11.000Z",
+  "observedAt": "2026-10-17T08:41:09.504Z",
+  "firstSeenAt": "2026-10-17T08:36:01.792Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10665,
+    "likes": 271,
+    "reposts": 79,
+    "replies": 12,
+    "quotes": 0,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "metrics": {
+        "views": 10665,
+        "likes": 271,
+        "reposts": 79,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:09.504Z",
+      "metrics": {
+        "views": 10665,
+        "likes": 271,
+        "reposts": 79,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "text": "Quelle force et malheureusement aussi, quelle pertinence 84 années  plus tard !"
+    }
+  ]
+}

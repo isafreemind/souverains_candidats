@@ -1,0 +1,37 @@
+{
+  "id": "2026403448636207560",
+  "handle": "f_philippot",
+  "text": "Bravo Valérie Hayer ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2026403448636207560",
+  "publishedAt": "2026-02-24T21:06:45.000Z",
+  "observedAt": "2026-10-17T08:45:44.877Z",
+  "firstSeenAt": "2026-10-17T08:45:44.877Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 21869,
+    "likes": 423,
+    "reposts": 107,
+    "replies": 62,
+    "quotes": 9,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:44.877Z",
+      "metrics": {
+        "views": 21869,
+        "likes": 423,
+        "reposts": 107,
+        "replies": 62,
+        "quotes": 9,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:44.877Z",
+      "text": "Bravo Valérie Hayer ! ⤵️"
+    }
+  ]
+}

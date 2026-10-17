@@ -1,0 +1,48 @@
+{
+  "id": "2078495988474425371",
+  "handle": "f_philippot",
+  "text": "Macron est là, via l’UE, pour liquider la France. Il ne s’arrête pas une seule journée.\n\nNotre devoir est de sauver le pays en en reprenant le contrôle ! \n= Macron dehors et sortir de l’UE !",
+  "url": "https://x.com/f_philippot/status/2078495988474425371",
+  "publishedAt": "2026-07-18T15:03:54.000Z",
+  "observedAt": "2026-10-17T08:39:59.184Z",
+  "firstSeenAt": "2026-10-17T08:34:55.515Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 36677,
+    "likes": 1872,
+    "reposts": 731,
+    "replies": 79,
+    "quotes": 10,
+    "bookmarks": 27
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "metrics": {
+        "views": 36677,
+        "likes": 1872,
+        "reposts": 731,
+        "replies": 79,
+        "quotes": 10,
+        "bookmarks": 27
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:39:59.184Z",
+      "metrics": {
+        "views": 36677,
+        "likes": 1872,
+        "reposts": 731,
+        "replies": 79,
+        "quotes": 10,
+        "bookmarks": 27
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "text": "Macron est là, via l’UE, pour liquider la France. Il ne s’arrête pas une seule journée.\n\nNotre devoir est de sauver le pays en en reprenant le contrôle ! \n= Macron dehors et sortir de l’UE !"
+    }
+  ]
+}

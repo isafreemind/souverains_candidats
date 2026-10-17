@@ -1,0 +1,48 @@
+{
+  "id": "2070810315751641385",
+  "handle": "dupontaignan",
+  "text": "QUELLE HONTE ! A cause du refus idéologique d'installer la climatisation, la vie des jeunes mamans et de leur bébé est en danger ! Protégeons nos nouveaux-nés avant de vouloir tuer nos aînés !",
+  "url": "https://x.com/dupontaignan/status/2070810315751641385",
+  "publishedAt": "2026-06-27T10:03:47.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 13518,
+    "likes": 575,
+    "reposts": 185,
+    "replies": 20,
+    "quotes": 1,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 13518,
+        "likes": 575,
+        "reposts": 185,
+        "replies": 20,
+        "quotes": 1,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 13518,
+        "likes": 575,
+        "reposts": 185,
+        "replies": 20,
+        "quotes": 1,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "QUELLE HONTE ! A cause du refus idéologique d'installer la climatisation, la vie des jeunes mamans et de leur bébé est en danger ! Protégeons nos nouveaux-nés avant de vouloir tuer nos aînés !"
+    }
+  ]
+}

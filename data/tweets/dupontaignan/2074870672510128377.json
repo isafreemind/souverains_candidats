@@ -1,0 +1,48 @@
+{
+  "id": "2074870672510128377",
+  "handle": "dupontaignan",
+  "text": "La surveillance de masse est en marche !\n\nRetrouvez ma dernière vidéo : https://youtu.be/zKRmsMgZEfU?si=6s-fY8ShirxdpWbd",
+  "url": "https://x.com/dupontaignan/status/2074870672510128377",
+  "publishedAt": "2026-07-08T14:58:12.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5849,
+    "likes": 210,
+    "reposts": 119,
+    "replies": 13,
+    "quotes": 1,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 5849,
+        "likes": 210,
+        "reposts": 119,
+        "replies": 13,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 5849,
+        "likes": 210,
+        "reposts": 119,
+        "replies": 13,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "La surveillance de masse est en marche !\n\nRetrouvez ma dernière vidéo : https://youtu.be/zKRmsMgZEfU?si=6s-fY8ShirxdpWbd"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1995801761097900466",
+  "handle": "f_philippot",
+  "text": "Et après on va vous obliger à l’identité numérique pour aller sur Internet ou faire vos courses ! 🤦🏻‍♂️\n\nImaginez ce que ça va donner !",
+  "url": "https://x.com/f_philippot/status/1995801761097900466",
+  "publishedAt": "2025-12-02T10:26:34.000Z",
+  "observedAt": "2026-10-17T08:47:39.772Z",
+  "firstSeenAt": "2026-10-17T08:47:39.772Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 22332,
+    "likes": 1012,
+    "reposts": 499,
+    "replies": 44,
+    "quotes": 12,
+    "bookmarks": 24
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:39.772Z",
+      "metrics": {
+        "views": 22332,
+        "likes": 1012,
+        "reposts": 499,
+        "replies": 44,
+        "quotes": 12,
+        "bookmarks": 24
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:39.772Z",
+      "text": "Et après on va vous obliger à l’identité numérique pour aller sur Internet ou faire vos courses ! 🤦🏻‍♂️\n\nImaginez ce que ça va donner !"
+    }
+  ]
+}

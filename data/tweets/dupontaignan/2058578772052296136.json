@@ -1,0 +1,48 @@
+{
+  "id": "2058578772052296136",
+  "handle": "dupontaignan",
+  "text": "La facturation électronique menace nos entreprises et nos libertés !\nRetrouvez ma nouvelle vidéo Youtube : https://youtu.be/nrZHA-4cItM",
+  "url": "https://x.com/dupontaignan/status/2058578772052296136",
+  "publishedAt": "2026-05-24T16:00:00.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3661,
+    "likes": 160,
+    "reposts": 72,
+    "replies": 8,
+    "quotes": 1,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 3661,
+        "likes": 160,
+        "reposts": 72,
+        "replies": 8,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 3661,
+        "likes": 160,
+        "reposts": 72,
+        "replies": 8,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "La facturation électronique menace nos entreprises et nos libertés !\nRetrouvez ma nouvelle vidéo Youtube : https://youtu.be/nrZHA-4cItM"
+    }
+  ]
+}

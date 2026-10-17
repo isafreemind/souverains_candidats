@@ -1,0 +1,37 @@
+{
+  "id": "2017574098457547209",
+  "handle": "dupontaignan",
+  "text": "En direct avec la manifestation des policiers organisée par Alliance. Il y a URGENCE à rétablir l’ordre pour protéger les Français !",
+  "url": "https://x.com/dupontaignan/status/2017574098457547209",
+  "publishedAt": "2026-01-31T12:22:04.000Z",
+  "observedAt": "2026-10-17T08:49:31.880Z",
+  "firstSeenAt": "2026-10-17T08:49:31.880Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 10450,
+    "likes": 931,
+    "reposts": 241,
+    "replies": 86,
+    "quotes": 9,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:31.880Z",
+      "metrics": {
+        "views": 10450,
+        "likes": 931,
+        "reposts": 241,
+        "replies": 86,
+        "quotes": 9,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:31.880Z",
+      "text": "En direct avec la manifestation des policiers organisée par Alliance. Il y a URGENCE à rétablir l’ordre pour protéger les Français !"
+    }
+  ]
+}

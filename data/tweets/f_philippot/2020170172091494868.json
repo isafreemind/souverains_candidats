@@ -1,0 +1,37 @@
+{
+  "id": "2020170172091494868",
+  "handle": "f_philippot",
+  "text": "« Michel et Augustin » : oubliez cette marque qui crache sur la France ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2020170172091494868",
+  "publishedAt": "2026-02-07T16:17:56.000Z",
+  "observedAt": "2026-10-17T08:46:10.855Z",
+  "firstSeenAt": "2026-10-17T08:46:10.855Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 35116,
+    "likes": 1266,
+    "reposts": 406,
+    "replies": 148,
+    "quotes": 17,
+    "bookmarks": 22
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:10.855Z",
+      "metrics": {
+        "views": 35116,
+        "likes": 1266,
+        "reposts": 406,
+        "replies": 148,
+        "quotes": 17,
+        "bookmarks": 22
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:10.855Z",
+      "text": "« Michel et Augustin » : oubliez cette marque qui crache sur la France ! ⤵️"
+    }
+  ]
+}

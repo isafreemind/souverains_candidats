@@ -1,0 +1,37 @@
+{
+  "id": "2031038818967589158",
+  "handle": "f_philippot",
+  "text": "Ça y est ! \nOn sentait que ça le titillait : il veut sa GUERRE !\n\nMais dans quelle galère nous emmène-t-il encore ?! 🤦🏻‍♂️\n\nSTOP !",
+  "url": "https://x.com/f_philippot/status/2031038818967589158",
+  "publishedAt": "2026-03-09T16:06:03.000Z",
+  "observedAt": "2026-10-17T08:45:32.213Z",
+  "firstSeenAt": "2026-10-17T08:45:32.213Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 28963,
+    "likes": 1049,
+    "reposts": 396,
+    "replies": 108,
+    "quotes": 10,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:32.213Z",
+      "metrics": {
+        "views": 28963,
+        "likes": 1049,
+        "reposts": 396,
+        "replies": 108,
+        "quotes": 10,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:32.213Z",
+      "text": "Ça y est ! \nOn sentait que ça le titillait : il veut sa GUERRE !\n\nMais dans quelle galère nous emmène-t-il encore ?! 🤦🏻‍♂️\n\nSTOP !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2045537871843426710",
+  "handle": "f_philippot",
+  "text": "Il annonce sa candidature :\n- Seulement 9 RT en 14 minutes 😬\n- Et il bloque les commentaires 🫠\n\nRude !",
+  "url": "https://x.com/f_philippot/status/2045537871843426710",
+  "publishedAt": "2026-04-18T16:20:07.000Z",
+  "observedAt": "2026-10-17T08:44:47.756Z",
+  "firstSeenAt": "2026-10-17T08:44:47.756Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 169066,
+    "likes": 2883,
+    "reposts": 643,
+    "replies": 522,
+    "quotes": 56,
+    "bookmarks": 39
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:47.756Z",
+      "metrics": {
+        "views": 169066,
+        "likes": 2883,
+        "reposts": 643,
+        "replies": 522,
+        "quotes": 56,
+        "bookmarks": 39
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:47.756Z",
+      "text": "Il annonce sa candidature :\n- Seulement 9 RT en 14 minutes 😬\n- Et il bloque les commentaires 🫠\n\nRude !"
+    }
+  ]
+}

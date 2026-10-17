@@ -23,6 +23,7 @@ export const followerSchema = z.object({ handle: handleSchema, observedAt: z.iso
 export type FollowerSample = z.infer<typeof followerSchema>;
 export const coverageSchema = z.object({
   handle: handleSchema, observedAt: z.iso.datetime(), pages: z.number(), accepted: z.number(),
+  lookbackDays: z.number().int().positive().optional(),
   excluded: z.number(), invalid: z.number(), reachedCutoff: z.boolean(), exhausted: z.boolean(),
   error: z.string().nullable(),
 });

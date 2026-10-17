@@ -1,0 +1,37 @@
+{
+  "id": "1999448135454847027",
+  "handle": "f_philippot",
+  "text": "« L’abattage systématique est moyen-âgeux et inefficace ! »\n⤵️",
+  "url": "https://x.com/f_philippot/status/1999448135454847027",
+  "publishedAt": "2025-12-12T11:55:58.000Z",
+  "observedAt": "2026-10-17T08:47:29.395Z",
+  "firstSeenAt": "2026-10-17T08:47:29.395Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 20279,
+    "likes": 1514,
+    "reposts": 587,
+    "replies": 74,
+    "quotes": 7,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:29.395Z",
+      "metrics": {
+        "views": 20279,
+        "likes": 1514,
+        "reposts": 587,
+        "replies": 74,
+        "quotes": 7,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:29.395Z",
+      "text": "« L’abattage systématique est moyen-âgeux et inefficace ! »\n⤵️"
+    }
+  ]
+}

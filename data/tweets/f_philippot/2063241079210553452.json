@@ -1,0 +1,37 @@
+{
+  "id": "2063241079210553452",
+  "handle": "f_philippot",
+  "text": "En direct sur LCI à 15h30 ce samedi",
+  "url": "https://x.com/f_philippot/status/2063241079210553452",
+  "publishedAt": "2026-06-06T12:46:21.000Z",
+  "observedAt": "2026-10-17T08:44:00.438Z",
+  "firstSeenAt": "2026-10-17T08:44:00.438Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8650,
+    "likes": 291,
+    "reposts": 90,
+    "replies": 32,
+    "quotes": 3,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:00.438Z",
+      "metrics": {
+        "views": 8650,
+        "likes": 291,
+        "reposts": 90,
+        "replies": 32,
+        "quotes": 3,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:00.438Z",
+      "text": "En direct sur LCI à 15h30 ce samedi"
+    }
+  ]
+}

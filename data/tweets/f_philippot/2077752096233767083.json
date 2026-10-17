@@ -1,0 +1,48 @@
+{
+  "id": "2077752096233767083",
+  "handle": "f_philippot",
+  "text": "Arrêtez de donner des milliards chaque mois à l’Ukraine et vous les aurez immédiatement vos fonds pour la forêt de Fontainebleau !…\n\nQuelle indécence encore une fois ! 🤦🏻‍♂️",
+  "url": "https://x.com/f_philippot/status/2077752096233767083",
+  "publishedAt": "2026-07-16T13:47:57.000Z",
+  "observedAt": "2026-10-17T08:40:03.652Z",
+  "firstSeenAt": "2026-10-17T08:34:56.846Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 50076,
+    "likes": 4279,
+    "reposts": 1308,
+    "replies": 171,
+    "quotes": 22,
+    "bookmarks": 40
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:34:56.846Z",
+      "metrics": {
+        "views": 50076,
+        "likes": 4279,
+        "reposts": 1308,
+        "replies": 171,
+        "quotes": 22,
+        "bookmarks": 40
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:40:03.652Z",
+      "metrics": {
+        "views": 50076,
+        "likes": 4279,
+        "reposts": 1308,
+        "replies": 171,
+        "quotes": 22,
+        "bookmarks": 40
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:34:56.846Z",
+      "text": "Arrêtez de donner des milliards chaque mois à l’Ukraine et vous les aurez immédiatement vos fonds pour la forêt de Fontainebleau !…\n\nQuelle indécence encore une fois ! 🤦🏻‍♂️"
+    }
+  ]
+}

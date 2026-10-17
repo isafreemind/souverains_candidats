@@ -1,0 +1,37 @@
+{
+  "id": "2009151693418901815",
+  "handle": "f_philippot",
+  "text": "Assemblée nationale 10h !",
+  "url": "https://x.com/f_philippot/status/2009151693418901815",
+  "publishedAt": "2026-01-08T06:34:26.000Z",
+  "observedAt": "2026-10-17T08:46:58.790Z",
+  "firstSeenAt": "2026-10-17T08:46:58.790Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 15072,
+    "likes": 1123,
+    "reposts": 460,
+    "replies": 25,
+    "quotes": 11,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:58.790Z",
+      "metrics": {
+        "views": 15072,
+        "likes": 1123,
+        "reposts": 460,
+        "replies": 25,
+        "quotes": 11,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:58.790Z",
+      "text": "Assemblée nationale 10h !"
+    }
+  ]
+}

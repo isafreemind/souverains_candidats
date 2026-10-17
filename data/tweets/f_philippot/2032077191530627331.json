@@ -1,0 +1,37 @@
+{
+  "id": "2032077191530627331",
+  "handle": "f_philippot",
+  "text": "Donc il faut le #Frexit ! \n\nCQFD ! \n⤵️",
+  "url": "https://x.com/f_philippot/status/2032077191530627331",
+  "publishedAt": "2026-03-12T12:52:11.000Z",
+  "observedAt": "2026-10-17T08:45:27.782Z",
+  "firstSeenAt": "2026-10-17T08:45:27.782Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 15634,
+    "likes": 608,
+    "reposts": 193,
+    "replies": 19,
+    "quotes": 4,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:27.782Z",
+      "metrics": {
+        "views": 15634,
+        "likes": 608,
+        "reposts": 193,
+        "replies": 19,
+        "quotes": 4,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:27.782Z",
+      "text": "Donc il faut le #Frexit ! \n\nCQFD ! \n⤵️"
+    }
+  ]
+}

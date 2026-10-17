@@ -1,0 +1,48 @@
+{
+  "id": "2075611139031842885",
+  "handle": "dupontaignan",
+  "text": "SCANDALE ! Avec notre argent, la France finance la climatisation de bâtiments publics à l’étranger pendant que nos enfants et nos grands-parents meurent de chaud dans les écoles, les hôpitaux et les EHPAD.",
+  "url": "https://x.com/dupontaignan/status/2075611139031842885",
+  "publishedAt": "2026-07-10T16:00:33.000Z",
+  "observedAt": "2026-10-17T08:41:09.504Z",
+  "firstSeenAt": "2026-10-17T08:36:01.792Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 26975,
+    "likes": 3811,
+    "reposts": 1906,
+    "replies": 108,
+    "quotes": 30,
+    "bookmarks": 66
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "metrics": {
+        "views": 26975,
+        "likes": 3811,
+        "reposts": 1906,
+        "replies": 108,
+        "quotes": 30,
+        "bookmarks": 66
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:09.504Z",
+      "metrics": {
+        "views": 26975,
+        "likes": 3811,
+        "reposts": 1906,
+        "replies": 108,
+        "quotes": 30,
+        "bookmarks": 66
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "text": "SCANDALE ! Avec notre argent, la France finance la climatisation de bâtiments publics à l’étranger pendant que nos enfants et nos grands-parents meurent de chaud dans les écoles, les hôpitaux et les EHPAD."
+    }
+  ]
+}

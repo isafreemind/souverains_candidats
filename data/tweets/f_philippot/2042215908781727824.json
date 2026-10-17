@@ -1,0 +1,37 @@
+{
+  "id": "2042215908781727824",
+  "handle": "f_philippot",
+  "text": "Ça se gave !\n\n⤵️",
+  "url": "https://x.com/f_philippot/status/2042215908781727824",
+  "publishedAt": "2026-04-09T12:19:49.000Z",
+  "observedAt": "2026-10-17T08:44:56.964Z",
+  "firstSeenAt": "2026-10-17T08:44:56.964Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 32935,
+    "likes": 1835,
+    "reposts": 804,
+    "replies": 163,
+    "quotes": 21,
+    "bookmarks": 34
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:56.964Z",
+      "metrics": {
+        "views": 32935,
+        "likes": 1835,
+        "reposts": 804,
+        "replies": 163,
+        "quotes": 21,
+        "bookmarks": 34
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:56.964Z",
+      "text": "Ça se gave !\n\n⤵️"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2065811646254043196",
+  "handle": "dupontaignan",
+  "text": "Tout mon soutien à Charles Alloncle face aux méthodes d’intimidation scandaleuses du « système Macron ».  Il est TEMPS DE RÉAGIR. NE LES LAISSONS PLUS FAIRE.",
+  "url": "https://x.com/dupontaignan/status/2065811646254043196",
+  "publishedAt": "2026-06-13T15:00:52.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9374,
+    "likes": 715,
+    "reposts": 190,
+    "replies": 15,
+    "quotes": 3,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 9374,
+        "likes": 715,
+        "reposts": 190,
+        "replies": 15,
+        "quotes": 3,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 9374,
+        "likes": 715,
+        "reposts": 190,
+        "replies": 15,
+        "quotes": 3,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "Tout mon soutien à Charles Alloncle face aux méthodes d’intimidation scandaleuses du « système Macron ».  Il est TEMPS DE RÉAGIR. NE LES LAISSONS PLUS FAIRE."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2009216487551324413",
+  "handle": "f_philippot",
+  "text": "Assemblée nationale : ne rien lâcher ! 🇫🇷🇫🇷🇫🇷",
+  "url": "https://x.com/f_philippot/status/2009216487551324413",
+  "publishedAt": "2026-01-08T10:51:54.000Z",
+  "observedAt": "2026-10-17T08:46:58.790Z",
+  "firstSeenAt": "2026-10-17T08:46:58.790Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 20629,
+    "likes": 1195,
+    "reposts": 336,
+    "replies": 62,
+    "quotes": 11,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:58.790Z",
+      "metrics": {
+        "views": 20629,
+        "likes": 1195,
+        "reposts": 336,
+        "replies": 62,
+        "quotes": 11,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:58.790Z",
+      "text": "Assemblée nationale : ne rien lâcher ! 🇫🇷🇫🇷🇫🇷"
+    }
+  ]
+}

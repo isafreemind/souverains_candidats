@@ -1,0 +1,48 @@
+{
+  "id": "2074886233046548848",
+  "handle": "dupontaignan",
+  "text": "ALERTE ! Avant la présidentielle, Macron s’apprête à engager l’État sur un gigantesque nouvel appel d’offres pour des éoliennes en mer, le total pourrait atteindre près de 50 milliards d’euros !\n\nCes gens sont fous ou corrompus, ils préfèrent couler définitivement le pays pour financer le lobby éolien déjà gavé d’argent public !",
+  "url": "https://x.com/dupontaignan/status/2074886233046548848",
+  "publishedAt": "2026-07-08T16:00:02.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 44917,
+    "likes": 3476,
+    "reposts": 1850,
+    "replies": 147,
+    "quotes": 31,
+    "bookmarks": 64
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 44917,
+        "likes": 3476,
+        "reposts": 1850,
+        "replies": 147,
+        "quotes": 31,
+        "bookmarks": 64
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 44917,
+        "likes": 3476,
+        "reposts": 1850,
+        "replies": 147,
+        "quotes": 31,
+        "bookmarks": 64
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "ALERTE ! Avant la présidentielle, Macron s’apprête à engager l’État sur un gigantesque nouvel appel d’offres pour des éoliennes en mer, le total pourrait atteindre près de 50 milliards d’euros !\n\nCes gens sont fous ou corrompus, ils préfèrent couler définitivement le pays pour financer le lobby éolien déjà gavé d’argent public !"
+    }
+  ]
+}

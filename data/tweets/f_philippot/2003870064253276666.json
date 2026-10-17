@@ -1,0 +1,37 @@
+{
+  "id": "2003870064253276666",
+  "handle": "f_philippot",
+  "text": "Joyeux Noël à tous ! 🎅🏻🌲💫",
+  "url": "https://x.com/f_philippot/status/2003870064253276666",
+  "publishedAt": "2025-12-24T16:47:08.000Z",
+  "observedAt": "2026-10-17T08:47:14.813Z",
+  "firstSeenAt": "2026-10-17T08:47:14.813Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 35746,
+    "likes": 3551,
+    "reposts": 629,
+    "replies": 348,
+    "quotes": 17,
+    "bookmarks": 27
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:14.813Z",
+      "metrics": {
+        "views": 35746,
+        "likes": 3551,
+        "reposts": 629,
+        "replies": 348,
+        "quotes": 17,
+        "bookmarks": 27
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:14.813Z",
+      "text": "Joyeux Noël à tous ! 🎅🏻🌲💫"
+    }
+  ]
+}

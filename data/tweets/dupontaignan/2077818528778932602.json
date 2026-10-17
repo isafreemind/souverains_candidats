@@ -1,0 +1,48 @@
+{
+  "id": "2077818528778932602",
+  "handle": "dupontaignan",
+  "text": "Emmanuel Macron a annulé  l’achat d’avions Canadairs pour éteindre les feux en France, préférant payer des avions 100 fois plus cher pour larguer des bombes et entretenir la guerre à l’étranger.",
+  "url": "https://x.com/dupontaignan/status/2077818528778932602",
+  "publishedAt": "2026-07-16T18:11:55.000Z",
+  "observedAt": "2026-10-17T08:41:06.259Z",
+  "firstSeenAt": "2026-10-17T08:36:00.267Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 77528,
+    "likes": 6358,
+    "reposts": 2240,
+    "replies": 330,
+    "quotes": 36,
+    "bookmarks": 87
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "metrics": {
+        "views": 77528,
+        "likes": 6358,
+        "reposts": 2240,
+        "replies": 330,
+        "quotes": 36,
+        "bookmarks": 87
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:06.259Z",
+      "metrics": {
+        "views": 77528,
+        "likes": 6358,
+        "reposts": 2240,
+        "replies": 330,
+        "quotes": 36,
+        "bookmarks": 87
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "text": "Emmanuel Macron a annulé  l’achat d’avions Canadairs pour éteindre les feux en France, préférant payer des avions 100 fois plus cher pour larguer des bombes et entretenir la guerre à l’étranger."
+    }
+  ]
+}

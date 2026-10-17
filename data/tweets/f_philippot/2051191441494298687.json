@@ -1,0 +1,37 @@
+{
+  "id": "2051191441494298687",
+  "handle": "f_philippot",
+  "text": "La confiance ne se décrète pas : elle se construit.\nEt elle ne se construit pas sur des mensonges !",
+  "url": "https://x.com/f_philippot/status/2051191441494298687",
+  "publishedAt": "2026-05-04T06:45:23.000Z",
+  "observedAt": "2026-10-17T08:44:36.449Z",
+  "firstSeenAt": "2026-10-17T08:44:36.449Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 14110,
+    "likes": 795,
+    "reposts": 299,
+    "replies": 44,
+    "quotes": 6,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:36.449Z",
+      "metrics": {
+        "views": 14110,
+        "likes": 795,
+        "reposts": 299,
+        "replies": 44,
+        "quotes": 6,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:36.449Z",
+      "text": "La confiance ne se décrète pas : elle se construit.\nEt elle ne se construit pas sur des mensonges !"
+    }
+  ]
+}

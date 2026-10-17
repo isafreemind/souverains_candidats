@@ -37,12 +37,32 @@ export const timelineResponse = z.object({
   cursor: z.object({ bottom: z.string().nullable(), top: z.string().nullable().optional() }),
 });
 
+export function retryAfterMilliseconds(value: string | null, now = Date.now()): number {
+  if (!value) return 0;
+  const seconds = Number(value);
+  if (Number.isFinite(seconds) && seconds >= 0) return seconds * 1000;
+  const timestamp = Date.parse(value);
+  return Number.isFinite(timestamp) ? Math.max(0, timestamp - now) : 0;
+}
+
+// One request start per second, shared by profiles, timelines and retries.
+// This is at most 60 starts/minute, well below the public API's 1000/IP/minute.
+let nextRequestAt = 0;
+
 export async function fetchFx(path: string, fetcher: typeof fetch = fetch): Promise<unknown> {
   const url = new URL(path, API);
   if (url.origin !== API) throw new Error('Source refusée : seul api.fxtwitter.com est autorisé.');
   for (let attempt = 0; attempt < 3; attempt++) {
     try {
+      const remaining = nextRequestAt - Date.now();
+      if (remaining > 0) await new Promise(resolve => setTimeout(resolve, remaining));
+      nextRequestAt = Date.now() + 1000;
       const response = await fetcher(url, { signal: AbortSignal.timeout(25_000), headers: { Accept: 'application/json', 'User-Agent': 'StatsSouverain/1.0' } });
+      if (response.status === 429 || response.status === 503) {
+        const retryAfter = retryAfterMilliseconds(response.headers.get('retry-after'));
+        nextRequestAt = Math.max(nextRequestAt, Date.now() + retryAfter);
+        if (retryAfter > 0) console.warn(`FxTwitter demande une pause de ${Math.ceil(retryAfter / 1000)} secondes avant une nouvelle requête.`);
+      }
       if (!response.ok) throw new Error(`FxTwitter HTTP ${response.status}`);
       const body: unknown = await response.json();
       if (typeof body !== 'object' || body === null || !('code' in body) || body.code !== 200) throw new Error('Réponse FxTwitter indisponible (code API différent de 200).');

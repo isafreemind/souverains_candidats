@@ -1,0 +1,37 @@
+{
+  "id": "2068951066612260873",
+  "handle": "f_asselineau",
+  "text": "Je suis actuellement l’invité de Nicolas Stoquer sur GPTV pour un grand tour de l'actualité. \n\nhttps://www.youtube.com/live/eaGt_F0naPI",
+  "url": "https://x.com/f_asselineau/status/2068951066612260873",
+  "publishedAt": "2026-06-22T06:55:48.000Z",
+  "observedAt": "2026-10-17T08:37:44.000Z",
+  "firstSeenAt": "2026-10-17T08:37:44.000Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 27663,
+    "likes": 553,
+    "reposts": 209,
+    "replies": 15,
+    "quotes": 1,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:37:44.000Z",
+      "metrics": {
+        "views": 27663,
+        "likes": 553,
+        "reposts": 209,
+        "replies": 15,
+        "quotes": 1,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:37:44.000Z",
+      "text": "Je suis actuellement l’invité de Nicolas Stoquer sur GPTV pour un grand tour de l'actualité. \n\nhttps://www.youtube.com/live/eaGt_F0naPI"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1999230495843058000",
+  "handle": "f_philippot",
+  "text": "Ils gazent les vaches ! Les chevaux et les chiens aussi !\nLes associations de protection animale sont bien muettes !",
+  "url": "https://x.com/f_philippot/status/1999230495843058000",
+  "publishedAt": "2025-12-11T21:31:08.000Z",
+  "observedAt": "2026-10-17T08:47:29.395Z",
+  "firstSeenAt": "2026-10-17T08:47:29.395Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 43370,
+    "likes": 4597,
+    "reposts": 2017,
+    "replies": 213,
+    "quotes": 60,
+    "bookmarks": 58
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:29.395Z",
+      "metrics": {
+        "views": 43370,
+        "likes": 4597,
+        "reposts": 2017,
+        "replies": 213,
+        "quotes": 60,
+        "bookmarks": 58
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:29.395Z",
+      "text": "Ils gazent les vaches ! Les chevaux et les chiens aussi !\nLes associations de protection animale sont bien muettes !"
+    }
+  ]
+}

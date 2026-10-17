@@ -1,0 +1,48 @@
+{
+  "id": "2060339529907679502",
+  "handle": "dupontaignan",
+  "text": "Zelensky accumule les hommages à des proches du nazisme…\nUne réaction de nos dirigeants ? Un arrêt de notre financement ? Une prise de conscience de la corruption du régime ?",
+  "url": "https://x.com/dupontaignan/status/2060339529907679502",
+  "publishedAt": "2026-05-29T12:36:37.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 12687,
+    "likes": 948,
+    "reposts": 359,
+    "replies": 38,
+    "quotes": 9,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 12687,
+        "likes": 948,
+        "reposts": 359,
+        "replies": 38,
+        "quotes": 9,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 12687,
+        "likes": 948,
+        "reposts": 359,
+        "replies": 38,
+        "quotes": 9,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "Zelensky accumule les hommages à des proches du nazisme…\nUne réaction de nos dirigeants ? Un arrêt de notre financement ? Une prise de conscience de la corruption du régime ?"
+    }
+  ]
+}

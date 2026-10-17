@@ -1,0 +1,37 @@
+{
+  "id": "2038230653016096980",
+  "handle": "f_philippot",
+  "text": "De pire en pire !",
+  "url": "https://x.com/f_philippot/status/2038230653016096980",
+  "publishedAt": "2026-03-29T12:23:50.000Z",
+  "observedAt": "2026-10-17T08:45:11.309Z",
+  "firstSeenAt": "2026-10-17T08:45:11.309Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 48287,
+    "likes": 1394,
+    "reposts": 280,
+    "replies": 204,
+    "quotes": 9,
+    "bookmarks": 20
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:11.309Z",
+      "metrics": {
+        "views": 48287,
+        "likes": 1394,
+        "reposts": 280,
+        "replies": 204,
+        "quotes": 9,
+        "bookmarks": 20
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:11.309Z",
+      "text": "De pire en pire !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2064056429875442058",
+  "handle": "f_philippot",
+  "text": "Darmanin démission !",
+  "url": "https://x.com/f_philippot/status/2064056429875442058",
+  "publishedAt": "2026-06-08T18:46:15.000Z",
+  "observedAt": "2026-10-17T08:43:59.026Z",
+  "firstSeenAt": "2026-10-17T08:43:59.026Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 16797,
+    "likes": 1517,
+    "reposts": 429,
+    "replies": 48,
+    "quotes": 8,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:59.026Z",
+      "metrics": {
+        "views": 16797,
+        "likes": 1517,
+        "reposts": 429,
+        "replies": 48,
+        "quotes": 8,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:59.026Z",
+      "text": "Darmanin démission !"
+    }
+  ]
+}

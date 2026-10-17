@@ -1,0 +1,37 @@
+{
+  "id": "2029847708106621000",
+  "handle": "f_philippot",
+  "text": "Jean-Noël Barrot prend les Français pour des imbéciles…⤵️",
+  "url": "https://x.com/f_philippot/status/2029847708106621000",
+  "publishedAt": "2026-03-06T09:13:01.000Z",
+  "observedAt": "2026-10-17T08:45:33.998Z",
+  "firstSeenAt": "2026-10-17T08:45:33.998Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 18721,
+    "likes": 1141,
+    "reposts": 427,
+    "replies": 106,
+    "quotes": 14,
+    "bookmarks": 19
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:33.998Z",
+      "metrics": {
+        "views": 18721,
+        "likes": 1141,
+        "reposts": 427,
+        "replies": 106,
+        "quotes": 14,
+        "bookmarks": 19
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:33.998Z",
+      "text": "Jean-Noël Barrot prend les Français pour des imbéciles…⤵️"
+    }
+  ]
+}

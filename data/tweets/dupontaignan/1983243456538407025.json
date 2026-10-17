@@ -1,0 +1,37 @@
+{
+  "id": "1983243456538407025",
+  "handle": "dupontaignan",
+  "text": "ATTENTION DANGER ! Les réseaux sociaux ne sont pas à son goût, alors Macron veut les CENSURER . Sous prétexte de protection de la jeunesse il assume une dérive folle de restriction de la liberté d’expression. Ne le laissons pas faire !",
+  "url": "https://x.com/dupontaignan/status/1983243456538407025",
+  "publishedAt": "2025-10-28T18:44:21.000Z",
+  "observedAt": "2026-10-17T08:50:40.638Z",
+  "firstSeenAt": "2026-10-17T08:50:40.638Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 40723,
+    "likes": 3671,
+    "reposts": 1301,
+    "replies": 263,
+    "quotes": 31,
+    "bookmarks": 43
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:40.638Z",
+      "metrics": {
+        "views": 40723,
+        "likes": 3671,
+        "reposts": 1301,
+        "replies": 263,
+        "quotes": 31,
+        "bookmarks": 43
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:40.638Z",
+      "text": "ATTENTION DANGER ! Les réseaux sociaux ne sont pas à son goût, alors Macron veut les CENSURER . Sous prétexte de protection de la jeunesse il assume une dérive folle de restriction de la liberté d’expression. Ne le laissons pas faire !"
+    }
+  ]
+}

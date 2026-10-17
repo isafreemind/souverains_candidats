@@ -1,0 +1,37 @@
+{
+  "id": "2061339956082098523",
+  "handle": "f_philippot",
+  "text": "Bravo ! Voyez ça ⤵️\n\nCette victoire, quel énorme pied-de-nez aux eurofaucons !",
+  "url": "https://x.com/f_philippot/status/2061339956082098523",
+  "publishedAt": "2026-06-01T06:51:58.000Z",
+  "observedAt": "2026-10-17T08:44:05.912Z",
+  "firstSeenAt": "2026-10-17T08:44:05.912Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 25264,
+    "likes": 1346,
+    "reposts": 326,
+    "replies": 56,
+    "quotes": 3,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:05.912Z",
+      "metrics": {
+        "views": 25264,
+        "likes": 1346,
+        "reposts": 326,
+        "replies": 56,
+        "quotes": 3,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:05.912Z",
+      "text": "Bravo ! Voyez ça ⤵️\n\nCette victoire, quel énorme pied-de-nez aux eurofaucons !"
+    }
+  ]
+}

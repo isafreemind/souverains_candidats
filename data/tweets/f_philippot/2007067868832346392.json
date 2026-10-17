@@ -1,0 +1,37 @@
+{
+  "id": "2007067868832346392",
+  "handle": "f_philippot",
+  "text": "Les Centaure n’étaient pas dispos : ils avaient une ferme rebelle et des vaches à neutraliser dans le Sud Ouest !…🤦🏻‍♂️",
+  "url": "https://x.com/f_philippot/status/2007067868832346392",
+  "publishedAt": "2026-01-02T12:34:04.000Z",
+  "observedAt": "2026-10-17T08:47:04.833Z",
+  "firstSeenAt": "2026-10-17T08:47:04.833Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 109068,
+    "likes": 10075,
+    "reposts": 4240,
+    "replies": 171,
+    "quotes": 50,
+    "bookmarks": 110
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:04.833Z",
+      "metrics": {
+        "views": 109068,
+        "likes": 10075,
+        "reposts": 4240,
+        "replies": 171,
+        "quotes": 50,
+        "bookmarks": 110
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:04.833Z",
+      "text": "Les Centaure n’étaient pas dispos : ils avaient une ferme rebelle et des vaches à neutraliser dans le Sud Ouest !…🤦🏻‍♂️"
+    }
+  ]
+}

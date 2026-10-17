@@ -1,0 +1,37 @@
+{
+  "id": "2015386582744739889",
+  "handle": "f_philippot",
+  "text": "Oui oui oui et 100 fois oui ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2015386582744739889",
+  "publishedAt": "2026-01-25T11:29:40.000Z",
+  "observedAt": "2026-10-17T08:46:34.353Z",
+  "firstSeenAt": "2026-10-17T08:46:34.353Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 13002,
+    "likes": 382,
+    "reposts": 138,
+    "replies": 6,
+    "quotes": 3,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:34.353Z",
+      "metrics": {
+        "views": 13002,
+        "likes": 382,
+        "reposts": 138,
+        "replies": 6,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:34.353Z",
+      "text": "Oui oui oui et 100 fois oui ! ⤵️"
+    }
+  ]
+}

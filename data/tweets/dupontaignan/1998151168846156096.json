@@ -1,0 +1,37 @@
+{
+  "id": "1998151168846156096",
+  "handle": "dupontaignan",
+  "text": "La politique de l’autruche !!!",
+  "url": "https://x.com/dupontaignan/status/1998151168846156096",
+  "publishedAt": "2025-12-08T22:02:17.000Z",
+  "observedAt": "2026-10-17T08:50:08.318Z",
+  "firstSeenAt": "2026-10-17T08:50:08.318Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10885,
+    "likes": 718,
+    "reposts": 205,
+    "replies": 75,
+    "quotes": 3,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:08.318Z",
+      "metrics": {
+        "views": 10885,
+        "likes": 718,
+        "reposts": 205,
+        "replies": 75,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:08.318Z",
+      "text": "La politique de l’autruche !!!"
+    }
+  ]
+}

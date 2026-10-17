@@ -1,0 +1,37 @@
+{
+  "id": "2044024207617519649",
+  "handle": "f_philippot",
+  "text": "Desireless embarquée dans ce conflit !\nQui l’eût cru ?",
+  "url": "https://x.com/f_philippot/status/2044024207617519649",
+  "publishedAt": "2026-04-14T12:05:21.000Z",
+  "observedAt": "2026-10-17T08:44:53.582Z",
+  "firstSeenAt": "2026-10-17T08:44:53.582Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 43930,
+    "likes": 373,
+    "reposts": 72,
+    "replies": 32,
+    "quotes": 3,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:53.582Z",
+      "metrics": {
+        "views": 43930,
+        "likes": 373,
+        "reposts": 72,
+        "replies": 32,
+        "quotes": 3,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:53.582Z",
+      "text": "Desireless embarquée dans ce conflit !\nQui l’eût cru ?"
+    }
+  ]
+}

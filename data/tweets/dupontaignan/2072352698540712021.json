@@ -1,0 +1,48 @@
+{
+  "id": "2072352698540712021",
+  "handle": "dupontaignan",
+  "text": "Toujours deux poids deux mesures avec Ursula von der Leyen, qui veut renforcer le partenariat commercial et énergétique avec l'Azerbaïdjan, ce pays qui a pourtant agressé l'Arménie, amie historique de la France. \n\nManifestement, le gaz de l'Azerbaïdjan a meilleure odeur que celui de la Russie.",
+  "url": "https://x.com/dupontaignan/status/2072352698540712021",
+  "publishedAt": "2026-07-01T16:12:40.000Z",
+  "observedAt": "2026-10-17T08:41:18.999Z",
+  "firstSeenAt": "2026-10-17T08:36:09.015Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 8132,
+    "likes": 280,
+    "reposts": 103,
+    "replies": 17,
+    "quotes": 0,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "metrics": {
+        "views": 8132,
+        "likes": 280,
+        "reposts": 103,
+        "replies": 17,
+        "quotes": 0,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:18.999Z",
+      "metrics": {
+        "views": 8132,
+        "likes": 280,
+        "reposts": 103,
+        "replies": 17,
+        "quotes": 0,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "text": "Toujours deux poids deux mesures avec Ursula von der Leyen, qui veut renforcer le partenariat commercial et énergétique avec l'Azerbaïdjan, ce pays qui a pourtant agressé l'Arménie, amie historique de la France. \n\nManifestement, le gaz de l'Azerbaïdjan a meilleure odeur que celui de la Russie."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2040337398349893746",
+  "handle": "f_philippot",
+  "text": "La France est une et indivisible ! \nLes macronistes veulent la démanteler, dans une pure logique européiste.\n\nIl faut s’y opposer de toutes nos forces \n⤵️",
+  "url": "https://x.com/f_philippot/status/2040337398349893746",
+  "publishedAt": "2026-04-04T07:55:18.000Z",
+  "observedAt": "2026-10-17T08:45:02.500Z",
+  "firstSeenAt": "2026-10-17T08:45:02.500Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 11550,
+    "likes": 366,
+    "reposts": 131,
+    "replies": 11,
+    "quotes": 2,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:02.500Z",
+      "metrics": {
+        "views": 11550,
+        "likes": 366,
+        "reposts": 131,
+        "replies": 11,
+        "quotes": 2,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:02.500Z",
+      "text": "La France est une et indivisible ! \nLes macronistes veulent la démanteler, dans une pure logique européiste.\n\nIl faut s’y opposer de toutes nos forces \n⤵️"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "text": "Il va falloir sortir son microscope pour trouver des différences !…",
   "url": "https://x.com/f_philippot/status/2093327732549492800",
   "publishedAt": "2026-08-28T13:19:58.000Z",
-  "observedAt": "2026-10-17T08:03:49.749Z",
+  "observedAt": "2026-10-17T08:39:13.155Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -29,6 +29,28 @@
     },
     {
       "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 17961,
+        "likes": 549,
+        "reposts": 135,
+        "replies": 81,
+        "quotes": 11,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:34:03.854Z",
+      "metrics": {
+        "views": 17961,
+        "likes": 549,
+        "reposts": 135,
+        "replies": 81,
+        "quotes": 11,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:39:13.155Z",
       "metrics": {
         "views": 17961,
         "likes": 549,

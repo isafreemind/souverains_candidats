@@ -1,0 +1,37 @@
+{
+  "id": "2000959970821726517",
+  "handle": "f_philippot",
+  "text": "Les paysans libèrent la France du Torchon bleu à étoiles : bravo !\n⤵️⤵️\n#Frexit !",
+  "url": "https://x.com/f_philippot/status/2000959970821726517",
+  "publishedAt": "2025-12-16T16:03:27.000Z",
+  "observedAt": "2026-10-17T08:47:18.964Z",
+  "firstSeenAt": "2026-10-17T08:47:18.964Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 45266,
+    "likes": 5220,
+    "reposts": 1524,
+    "replies": 149,
+    "quotes": 30,
+    "bookmarks": 39
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:18.964Z",
+      "metrics": {
+        "views": 45266,
+        "likes": 5220,
+        "reposts": 1524,
+        "replies": 149,
+        "quotes": 30,
+        "bookmarks": 39
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:18.964Z",
+      "text": "Les paysans libèrent la France du Torchon bleu à étoiles : bravo !\n⤵️⤵️\n#Frexit !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2057869020280299773",
+  "handle": "f_philippot",
+  "text": "Mais qu’est-ce que c’est que ça ?!…\n#Attal",
+  "url": "https://x.com/f_philippot/status/2057869020280299773",
+  "publishedAt": "2026-05-22T16:59:42.000Z",
+  "observedAt": "2026-10-17T08:44:18.667Z",
+  "firstSeenAt": "2026-10-17T08:44:18.667Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 21808,
+    "likes": 843,
+    "reposts": 203,
+    "replies": 392,
+    "quotes": 29,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:18.667Z",
+      "metrics": {
+        "views": 21808,
+        "likes": 843,
+        "reposts": 203,
+        "replies": 392,
+        "quotes": 29,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:18.667Z",
+      "text": "Mais qu’est-ce que c’est que ça ?!…\n#Attal"
+    }
+  ]
+}

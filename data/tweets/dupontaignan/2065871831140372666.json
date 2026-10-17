@@ -1,0 +1,48 @@
+{
+  "id": "2065871831140372666",
+  "handle": "dupontaignan",
+  "text": "📺 Retrouvez-moi demain, dimanche 14 juin à 19h15, dans \"Le duel\" sur @LCI, face à @jmaphatie au micro de @DariusRochebin 🎙️",
+  "url": "https://x.com/dupontaignan/status/2065871831140372666",
+  "publishedAt": "2026-06-13T19:00:01.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4091,
+    "likes": 111,
+    "reposts": 36,
+    "replies": 21,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 4091,
+        "likes": 111,
+        "reposts": 36,
+        "replies": 21,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 4091,
+        "likes": 111,
+        "reposts": 36,
+        "replies": 21,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "📺 Retrouvez-moi demain, dimanche 14 juin à 19h15, dans \"Le duel\" sur @LCI, face à @jmaphatie au micro de @DariusRochebin 🎙️"
+    }
+  ]
+}

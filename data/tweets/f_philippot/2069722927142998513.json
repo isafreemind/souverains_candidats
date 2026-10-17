@@ -1,0 +1,37 @@
+{
+  "id": "2069722927142998513",
+  "handle": "f_philippot",
+  "text": "Un premier cas d’Ebola en France ! ⤵️\n\nEbola va-t-il détrôner la canicule dans les psychoses médiatiques ?!…",
+  "url": "https://x.com/f_philippot/status/2069722927142998513",
+  "publishedAt": "2026-06-24T10:02:54.000Z",
+  "observedAt": "2026-10-17T08:43:43.732Z",
+  "firstSeenAt": "2026-10-17T08:43:43.732Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 21152,
+    "likes": 421,
+    "reposts": 110,
+    "replies": 48,
+    "quotes": 2,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:43.732Z",
+      "metrics": {
+        "views": 21152,
+        "likes": 421,
+        "reposts": 110,
+        "replies": 48,
+        "quotes": 2,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:43.732Z",
+      "text": "Un premier cas d’Ebola en France ! ⤵️\n\nEbola va-t-il détrôner la canicule dans les psychoses médiatiques ?!…"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1987805181174546766",
+  "handle": "dupontaignan",
+  "text": "Quand Rome brûle, Néron joue de la lyre.",
+  "url": "https://x.com/dupontaignan/status/1987805181174546766",
+  "publishedAt": "2025-11-10T08:51:01.000Z",
+  "observedAt": "2026-10-17T08:50:31.869Z",
+  "firstSeenAt": "2026-10-17T08:50:31.869Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 26639,
+    "likes": 1229,
+    "reposts": 405,
+    "replies": 102,
+    "quotes": 14,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:31.869Z",
+      "metrics": {
+        "views": 26639,
+        "likes": 1229,
+        "reposts": 405,
+        "replies": 102,
+        "quotes": 14,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:31.869Z",
+      "text": "Quand Rome brûle, Néron joue de la lyre."
+    }
+  ]
+}

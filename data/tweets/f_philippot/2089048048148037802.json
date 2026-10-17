@@ -4,11 +4,11 @@
   "text": "Enregistrement privé accablant pour Nuñez et le gouvernement sur les incendies ! 🔥 \nDehors tous !",
   "url": "https://x.com/f_philippot/status/2089048048148037802",
   "publishedAt": "2026-08-16T17:54:01.000Z",
-  "observedAt": "2026-10-17T08:03:49.749Z",
+  "observedAt": "2026-10-17T08:39:25.910Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 89435,
+    "views": 89436,
     "likes": 3454,
     "reposts": 1295,
     "replies": 102,
@@ -31,6 +31,28 @@
       "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 89435,
+        "likes": 3454,
+        "reposts": 1295,
+        "replies": 102,
+        "quotes": 26,
+        "bookmarks": 306
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:34:14.920Z",
+      "metrics": {
+        "views": 89436,
+        "likes": 3454,
+        "reposts": 1295,
+        "replies": 102,
+        "quotes": 26,
+        "bookmarks": 306
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:39:25.910Z",
+      "metrics": {
+        "views": 89436,
         "likes": 3454,
         "reposts": 1295,
         "replies": 102,

@@ -1,0 +1,37 @@
+{
+  "id": "2032848675324481846",
+  "handle": "f_philippot",
+  "text": "Jouer les larbins de ceux qui ont déclenché cette guerre délirante ? \nNon merci !",
+  "url": "https://x.com/f_philippot/status/2032848675324481846",
+  "publishedAt": "2026-03-14T15:57:47.000Z",
+  "observedAt": "2026-10-17T08:45:26.356Z",
+  "firstSeenAt": "2026-10-17T08:45:26.356Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 21784,
+    "likes": 933,
+    "reposts": 312,
+    "replies": 112,
+    "quotes": 9,
+    "bookmarks": 19
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:26.356Z",
+      "metrics": {
+        "views": 21784,
+        "likes": 933,
+        "reposts": 312,
+        "replies": 112,
+        "quotes": 9,
+        "bookmarks": 19
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:26.356Z",
+      "text": "Jouer les larbins de ceux qui ont déclenché cette guerre délirante ? \nNon merci !"
+    }
+  ]
+}

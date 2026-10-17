@@ -1,0 +1,48 @@
+{
+  "id": "2063239884907708665",
+  "handle": "dupontaignan",
+  "text": "Si la justice était aussi efficace pour poursuivre les prédateurs sexuels qu’elle l’est pour censurer ou condamner certains influenceurs, combien de drames auraient pu être évités ?\n\nAssez de cette justice aberrante !",
+  "url": "https://x.com/dupontaignan/status/2063239884907708665",
+  "publishedAt": "2026-06-06T12:41:36.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 21041,
+    "likes": 1215,
+    "reposts": 497,
+    "replies": 45,
+    "quotes": 6,
+    "bookmarks": 32
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 21041,
+        "likes": 1215,
+        "reposts": 497,
+        "replies": 45,
+        "quotes": 6,
+        "bookmarks": 32
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 21041,
+        "likes": 1215,
+        "reposts": 497,
+        "replies": 45,
+        "quotes": 6,
+        "bookmarks": 32
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "Si la justice était aussi efficace pour poursuivre les prédateurs sexuels qu’elle l’est pour censurer ou condamner certains influenceurs, combien de drames auraient pu être évités ?\n\nAssez de cette justice aberrante !"
+    }
+  ]
+}

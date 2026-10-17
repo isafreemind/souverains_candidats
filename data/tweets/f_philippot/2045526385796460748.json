@@ -1,0 +1,37 @@
+{
+  "id": "2045526385796460748",
+  "handle": "f_philippot",
+  "text": "La France a le devoir de faire toute la lumière sur l’assassinat de l’un de ses soldats !",
+  "url": "https://x.com/f_philippot/status/2045526385796460748",
+  "publishedAt": "2026-04-18T15:34:29.000Z",
+  "observedAt": "2026-10-17T08:44:47.756Z",
+  "firstSeenAt": "2026-10-17T08:44:47.756Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 24068,
+    "likes": 800,
+    "reposts": 271,
+    "replies": 116,
+    "quotes": 8,
+    "bookmarks": 13
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:47.756Z",
+      "metrics": {
+        "views": 24068,
+        "likes": 800,
+        "reposts": 271,
+        "replies": 116,
+        "quotes": 8,
+        "bookmarks": 13
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:47.756Z",
+      "text": "La France a le devoir de faire toute la lumière sur l’assassinat de l’un de ses soldats !"
+    }
+  ]
+}

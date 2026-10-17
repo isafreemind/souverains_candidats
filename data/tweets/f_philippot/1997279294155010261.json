@@ -1,0 +1,37 @@
+{
+  "id": "1997279294155010261",
+  "handle": "f_philippot",
+  "text": "Elon Musk jette en enfer l’UERSS !\nComme elle le mérite !\n#Frexit",
+  "url": "https://x.com/f_philippot/status/1997279294155010261",
+  "publishedAt": "2025-12-06T12:17:46.000Z",
+  "observedAt": "2026-10-17T08:47:35.671Z",
+  "firstSeenAt": "2026-10-17T08:47:35.671Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 42246,
+    "likes": 1679,
+    "reposts": 274,
+    "replies": 38,
+    "quotes": 3,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:35.671Z",
+      "metrics": {
+        "views": 42246,
+        "likes": 1679,
+        "reposts": 274,
+        "replies": 38,
+        "quotes": 3,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:35.671Z",
+      "text": "Elon Musk jette en enfer l’UERSS !\nComme elle le mérite !\n#Frexit"
+    }
+  ]
+}

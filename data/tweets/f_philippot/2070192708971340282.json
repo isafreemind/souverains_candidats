@@ -1,0 +1,37 @@
+{
+  "id": "2070192708971340282",
+  "handle": "f_philippot",
+  "text": "Eh oui, on le crie depuis des années et des années : \n\nFRANCE LIBRE = PAIX !\n\nUE = GUERRE !",
+  "url": "https://x.com/f_philippot/status/2070192708971340282",
+  "publishedAt": "2026-06-25T17:09:38.000Z",
+  "observedAt": "2026-10-17T08:43:38.933Z",
+  "firstSeenAt": "2026-10-17T08:43:38.933Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 14574,
+    "likes": 516,
+    "reposts": 188,
+    "replies": 38,
+    "quotes": 2,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:38.933Z",
+      "metrics": {
+        "views": 14574,
+        "likes": 516,
+        "reposts": 188,
+        "replies": 38,
+        "quotes": 2,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:38.933Z",
+      "text": "Eh oui, on le crie depuis des années et des années : \n\nFRANCE LIBRE = PAIX !\n\nUE = GUERRE !"
+    }
+  ]
+}

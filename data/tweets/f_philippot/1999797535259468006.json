@@ -1,0 +1,37 @@
+{
+  "id": "1999797535259468006",
+  "handle": "f_philippot",
+  "text": "DÉMISSION IMMÉDIATE !\nDiffusons !",
+  "url": "https://x.com/f_philippot/status/1999797535259468006",
+  "publishedAt": "2025-12-13T11:04:21.000Z",
+  "observedAt": "2026-10-17T08:47:25.572Z",
+  "firstSeenAt": "2026-10-17T08:47:25.572Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 81651,
+    "likes": 6762,
+    "reposts": 2100,
+    "replies": 310,
+    "quotes": 33,
+    "bookmarks": 36
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:25.572Z",
+      "metrics": {
+        "views": 81651,
+        "likes": 6762,
+        "reposts": 2100,
+        "replies": 310,
+        "quotes": 33,
+        "bookmarks": 36
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:25.572Z",
+      "text": "DÉMISSION IMMÉDIATE !\nDiffusons !"
+    }
+  ]
+}

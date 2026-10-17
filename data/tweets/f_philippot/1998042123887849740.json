@@ -1,0 +1,37 @@
+{
+  "id": "1998042123887849740",
+  "handle": "f_philippot",
+  "text": "Le peuple français vous a déjà dit NON, et de quelle manière !\n\nGardez vos grossièretés pour vous et soumettez-vous !",
+  "url": "https://x.com/f_philippot/status/1998042123887849740",
+  "publishedAt": "2025-12-08T14:48:58.000Z",
+  "observedAt": "2026-10-17T08:47:33.954Z",
+  "firstSeenAt": "2026-10-17T08:47:33.954Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 357199,
+    "likes": 5038,
+    "reposts": 1201,
+    "replies": 213,
+    "quotes": 26,
+    "bookmarks": 75
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:33.954Z",
+      "metrics": {
+        "views": 357199,
+        "likes": 5038,
+        "reposts": 1201,
+        "replies": 213,
+        "quotes": 26,
+        "bookmarks": 75
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:33.954Z",
+      "text": "Le peuple français vous a déjà dit NON, et de quelle manière !\n\nGardez vos grossièretés pour vous et soumettez-vous !"
+    }
+  ]
+}

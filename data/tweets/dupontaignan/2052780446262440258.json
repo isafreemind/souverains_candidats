@@ -1,0 +1,37 @@
+{
+  "id": "2052780446262440258",
+  "handle": "dupontaignan",
+  "text": "Puisque Jean-Luc Mélenchon ne souhaite un débat qu’avec d’autres candidats à la présidentielle, je lui en propose un volontiers.",
+  "url": "https://x.com/dupontaignan/status/2052780446262440258",
+  "publishedAt": "2026-05-08T15:59:31.000Z",
+  "observedAt": "2026-10-17T08:48:18.744Z",
+  "firstSeenAt": "2026-10-17T08:48:18.744Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 610177,
+    "likes": 2222,
+    "reposts": 174,
+    "replies": 527,
+    "quotes": 167,
+    "bookmarks": 53
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:18.744Z",
+      "metrics": {
+        "views": 610177,
+        "likes": 2222,
+        "reposts": 174,
+        "replies": 527,
+        "quotes": 167,
+        "bookmarks": 53
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:18.744Z",
+      "text": "Puisque Jean-Luc Mélenchon ne souhaite un débat qu’avec d’autres candidats à la présidentielle, je lui en propose un volontiers."
+    }
+  ]
+}

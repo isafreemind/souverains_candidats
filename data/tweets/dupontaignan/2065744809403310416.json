@@ -1,0 +1,48 @@
+{
+  "id": "2065744809403310416",
+  "handle": "dupontaignan",
+  "text": "Ce pacte migratoire qui nous oblige à accueillir de nouveaux migrants, sous peine d'amende de 20 000 euros par réfugié refusé, est une nouvelle raison de rétablir nos frontières nationales et de nous libérer de l’Union européenne !",
+  "url": "https://x.com/dupontaignan/status/2065744809403310416",
+  "publishedAt": "2026-06-13T10:35:16.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 13145,
+    "likes": 1511,
+    "reposts": 638,
+    "replies": 56,
+    "quotes": 4,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 13145,
+        "likes": 1511,
+        "reposts": 638,
+        "replies": 56,
+        "quotes": 4,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 13145,
+        "likes": 1511,
+        "reposts": 638,
+        "replies": 56,
+        "quotes": 4,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "Ce pacte migratoire qui nous oblige à accueillir de nouveaux migrants, sous peine d'amende de 20 000 euros par réfugié refusé, est une nouvelle raison de rétablir nos frontières nationales et de nous libérer de l’Union européenne !"
+    }
+  ]
+}

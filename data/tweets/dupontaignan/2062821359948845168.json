@@ -1,0 +1,48 @@
+{
+  "id": "2062821359948845168",
+  "handle": "dupontaignan",
+  "text": "Mais bien sûr la diffusion des virus est toujours très naturelle...",
+  "url": "https://x.com/dupontaignan/status/2062821359948845168",
+  "publishedAt": "2026-06-05T08:58:32.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7810,
+    "likes": 547,
+    "reposts": 232,
+    "replies": 15,
+    "quotes": 3,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 7810,
+        "likes": 547,
+        "reposts": 232,
+        "replies": 15,
+        "quotes": 3,
+        "bookmarks": 18
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 7810,
+        "likes": 547,
+        "reposts": 232,
+        "replies": 15,
+        "quotes": 3,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "Mais bien sûr la diffusion des virus est toujours très naturelle..."
+    }
+  ]
+}

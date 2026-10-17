@@ -1,0 +1,48 @@
+{
+  "id": "2072082094465949707",
+  "handle": "f_asselineau",
+  "text": "📊  SONDAGE EN LIGNE\nS'il y avait demain un référendum sur l'actuelle proposition de loi sur l'euthanasie, que voteriez vous ?",
+  "url": "https://x.com/f_asselineau/status/2072082094465949707",
+  "publishedAt": "2026-06-30T22:17:23.000Z",
+  "observedAt": "2026-10-17T08:37:42.611Z",
+  "firstSeenAt": "2026-10-17T08:32:43.017Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 27203,
+    "likes": 859,
+    "reposts": 587,
+    "replies": 86,
+    "quotes": 12,
+    "bookmarks": 22
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:32:43.017Z",
+      "metrics": {
+        "views": 27203,
+        "likes": 859,
+        "reposts": 587,
+        "replies": 86,
+        "quotes": 12,
+        "bookmarks": 22
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:37:42.611Z",
+      "metrics": {
+        "views": 27203,
+        "likes": 859,
+        "reposts": 587,
+        "replies": 86,
+        "quotes": 12,
+        "bookmarks": 22
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:32:43.017Z",
+      "text": "📊  SONDAGE EN LIGNE\nS'il y avait demain un référendum sur l'actuelle proposition de loi sur l'euthanasie, que voteriez vous ?"
+    }
+  ]
+}

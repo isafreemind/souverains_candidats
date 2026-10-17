@@ -1,0 +1,48 @@
+{
+  "id": "2058502903204069627",
+  "handle": "dupontaignan",
+  "text": "",
+  "url": "https://x.com/dupontaignan/status/2058502903204069627",
+  "publishedAt": "2026-05-24T10:58:31.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5068,
+    "likes": 555,
+    "reposts": 82,
+    "replies": 12,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 5068,
+        "likes": 555,
+        "reposts": 82,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 5068,
+        "likes": 555,
+        "reposts": 82,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": ""
+    }
+  ]
+}

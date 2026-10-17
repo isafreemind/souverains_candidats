@@ -1,0 +1,37 @@
+{
+  "id": "2054884904177971214",
+  "handle": "f_philippot",
+  "text": "Joyeuse fête de l’Ascension !",
+  "url": "https://x.com/f_philippot/status/2054884904177971214",
+  "publishedAt": "2026-05-14T11:21:53.000Z",
+  "observedAt": "2026-10-17T08:44:23.489Z",
+  "firstSeenAt": "2026-10-17T08:44:23.489Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 13096,
+    "likes": 1553,
+    "reposts": 273,
+    "replies": 51,
+    "quotes": 7,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:23.489Z",
+      "metrics": {
+        "views": 13096,
+        "likes": 1553,
+        "reposts": 273,
+        "replies": 51,
+        "quotes": 7,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:23.489Z",
+      "text": "Joyeuse fête de l’Ascension !"
+    }
+  ]
+}

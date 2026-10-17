@@ -1,0 +1,37 @@
+{
+  "id": "2042929988001800581",
+  "handle": "f_philippot",
+  "text": "Cet épidémiologiste entre dans le détail !\n⤵️\n\nOn a alerté. On alerte encore.",
+  "url": "https://x.com/f_philippot/status/2042929988001800581",
+  "publishedAt": "2026-04-11T11:37:19.000Z",
+  "observedAt": "2026-10-17T08:44:55.348Z",
+  "firstSeenAt": "2026-10-17T08:44:55.348Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 25020,
+    "likes": 961,
+    "reposts": 480,
+    "replies": 31,
+    "quotes": 3,
+    "bookmarks": 58
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:55.348Z",
+      "metrics": {
+        "views": 25020,
+        "likes": 961,
+        "reposts": 480,
+        "replies": 31,
+        "quotes": 3,
+        "bookmarks": 58
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:55.348Z",
+      "text": "Cet épidémiologiste entre dans le détail !\n⤵️\n\nOn a alerté. On alerte encore."
+    }
+  ]
+}

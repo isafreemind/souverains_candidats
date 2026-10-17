@@ -1,0 +1,48 @@
+{
+  "id": "2073319198273474698",
+  "handle": "dupontaignan",
+  "text": "Ça valait vraiment le coup de saborder le savoir-faire français, de tout délocaliser en Chine, de piller le lithium de pays en développement, et de taxer et culpabiliser les Français et leurs voitures thermiques !",
+  "url": "https://x.com/dupontaignan/status/2073319198273474698",
+  "publishedAt": "2026-07-04T08:13:11.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 83491,
+    "likes": 3028,
+    "reposts": 1071,
+    "replies": 93,
+    "quotes": 22,
+    "bookmarks": 153
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 83491,
+        "likes": 3028,
+        "reposts": 1071,
+        "replies": 93,
+        "quotes": 22,
+        "bookmarks": 153
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 83491,
+        "likes": 3028,
+        "reposts": 1071,
+        "replies": 93,
+        "quotes": 22,
+        "bookmarks": 153
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Ça valait vraiment le coup de saborder le savoir-faire français, de tout délocaliser en Chine, de piller le lithium de pays en développement, et de taxer et culpabiliser les Français et leurs voitures thermiques !"
+    }
+  ]
+}

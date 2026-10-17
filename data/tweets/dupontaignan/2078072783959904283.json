@@ -1,0 +1,48 @@
+{
+  "id": "2078072783959904283",
+  "handle": "dupontaignan",
+  "text": "2027 : La liberté ou la mort !",
+  "url": "https://x.com/dupontaignan/status/2078072783959904283",
+  "publishedAt": "2026-07-17T11:02:15.000Z",
+  "observedAt": "2026-10-17T08:41:06.259Z",
+  "firstSeenAt": "2026-10-17T08:36:00.267Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 17328,
+    "likes": 1785,
+    "reposts": 529,
+    "replies": 36,
+    "quotes": 2,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "metrics": {
+        "views": 17328,
+        "likes": 1785,
+        "reposts": 529,
+        "replies": 36,
+        "quotes": 2,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:06.259Z",
+      "metrics": {
+        "views": 17328,
+        "likes": 1785,
+        "reposts": 529,
+        "replies": 36,
+        "quotes": 2,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "text": "2027 : La liberté ou la mort !"
+    }
+  ]
+}

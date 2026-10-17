@@ -1,0 +1,48 @@
+{
+  "id": "2060799289639731557",
+  "handle": "dupontaignan",
+  "text": "Bravo au PSG pour cette magnifique victoire !\n\nUne équipe qui n’a rien lâché, qui s’est battue jusqu’au bout et qui fait ce soir vibrer des millions de Français.\n\nLe sport nous rappelle ce que le collectif, le courage et le dépassement de soi peuvent accomplir.\n\nParis est magique !",
+  "url": "https://x.com/dupontaignan/status/2060799289639731557",
+  "publishedAt": "2026-05-30T19:03:33.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 12595,
+    "likes": 124,
+    "reposts": 21,
+    "replies": 100,
+    "quotes": 5,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 12595,
+        "likes": 124,
+        "reposts": 21,
+        "replies": 100,
+        "quotes": 5,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 12595,
+        "likes": 124,
+        "reposts": 21,
+        "replies": 100,
+        "quotes": 5,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "Bravo au PSG pour cette magnifique victoire !\n\nUne équipe qui n’a rien lâché, qui s’est battue jusqu’au bout et qui fait ce soir vibrer des millions de Français.\n\nLe sport nous rappelle ce que le collectif, le courage et le dépassement de soi peuvent accomplir.\n\nParis est magique !"
+    }
+  ]
+}

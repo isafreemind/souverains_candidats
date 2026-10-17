@@ -1,0 +1,37 @@
+{
+  "id": "2074817811046666270",
+  "handle": "f_philippot",
+  "text": "La « réjouissance » ne se lit pas sur son visage 😏",
+  "url": "https://x.com/f_philippot/status/2074817811046666270",
+  "publishedAt": "2026-07-08T11:28:09.000Z",
+  "observedAt": "2026-10-17T08:43:24.270Z",
+  "firstSeenAt": "2026-10-17T08:43:24.270Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 38214,
+    "likes": 553,
+    "reposts": 106,
+    "replies": 132,
+    "quotes": 9,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:24.270Z",
+      "metrics": {
+        "views": 38214,
+        "likes": 553,
+        "reposts": 106,
+        "replies": 132,
+        "quotes": 9,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:24.270Z",
+      "text": "La « réjouissance » ne se lit pas sur son visage 😏"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2002346876515897653",
+  "handle": "dupontaignan",
+  "text": "ÉMOUVANT : la FRANCE ÉTERNELLE !",
+  "url": "https://x.com/dupontaignan/status/2002346876515897653",
+  "publishedAt": "2025-12-20T11:54:31.000Z",
+  "observedAt": "2026-10-17T08:49:55.015Z",
+  "firstSeenAt": "2026-10-17T08:49:55.015Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 10335,
+    "likes": 757,
+    "reposts": 228,
+    "replies": 35,
+    "quotes": 6,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:55.015Z",
+      "metrics": {
+        "views": 10335,
+        "likes": 757,
+        "reposts": 228,
+        "replies": 35,
+        "quotes": 6,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:55.015Z",
+      "text": "ÉMOUVANT : la FRANCE ÉTERNELLE !"
+    }
+  ]
+}

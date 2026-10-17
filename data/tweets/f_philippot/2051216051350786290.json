@@ -1,0 +1,37 @@
+{
+  "id": "2051216051350786290",
+  "handle": "f_philippot",
+  "text": "Ils ont trouvé leur nouveau narratif de peur ?!\n⤵️",
+  "url": "https://x.com/f_philippot/status/2051216051350786290",
+  "publishedAt": "2026-05-04T08:23:11.000Z",
+  "observedAt": "2026-10-17T08:44:36.449Z",
+  "firstSeenAt": "2026-10-17T08:44:36.449Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 14531,
+    "likes": 618,
+    "reposts": 208,
+    "replies": 67,
+    "quotes": 11,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:36.449Z",
+      "metrics": {
+        "views": 14531,
+        "likes": 618,
+        "reposts": 208,
+        "replies": 67,
+        "quotes": 11,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:36.449Z",
+      "text": "Ils ont trouvé leur nouveau narratif de peur ?!\n⤵️"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2069815100588904935",
+  "handle": "dupontaignan",
+  "text": "HONTE ABSOLUE ! La mairie de Chessy condamnée à payer 6000€ à un Algérien sous OQTF et à son épouse parce qu’elle a refusé de les marier.\n\nC’est le monde à l’envers ! Inacceptable.",
+  "url": "https://x.com/dupontaignan/status/2069815100588904935",
+  "publishedAt": "2026-06-24T16:09:09.000Z",
+  "observedAt": "2026-10-17T08:41:22.317Z",
+  "firstSeenAt": "2026-10-17T08:36:12.968Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 10452,
+    "likes": 1204,
+    "reposts": 591,
+    "replies": 115,
+    "quotes": 23,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "metrics": {
+        "views": 10452,
+        "likes": 1204,
+        "reposts": 591,
+        "replies": 115,
+        "quotes": 23,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:22.317Z",
+      "metrics": {
+        "views": 10452,
+        "likes": 1204,
+        "reposts": 591,
+        "replies": 115,
+        "quotes": 23,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "text": "HONTE ABSOLUE ! La mairie de Chessy condamnée à payer 6000€ à un Algérien sous OQTF et à son épouse parce qu’elle a refusé de les marier.\n\nC’est le monde à l’envers ! Inacceptable."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2062900718403506503",
+  "handle": "dupontaignan",
+  "text": "Non à leur Made in Europe, en réalité Made in World, Oui au Made in France.",
+  "url": "https://x.com/dupontaignan/status/2062900718403506503",
+  "publishedAt": "2026-06-05T14:13:52.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 6916,
+    "likes": 283,
+    "reposts": 109,
+    "replies": 14,
+    "quotes": 1,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 6916,
+        "likes": 283,
+        "reposts": 109,
+        "replies": 14,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 6916,
+        "likes": 283,
+        "reposts": 109,
+        "replies": 14,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "Non à leur Made in Europe, en réalité Made in World, Oui au Made in France."
+    }
+  ]
+}

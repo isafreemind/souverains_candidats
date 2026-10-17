@@ -1,0 +1,37 @@
+{
+  "id": "2011344177523789996",
+  "handle": "f_asselineau",
+  "text": "Ce mercredi, je suis l’invité de Clémence Houdiakova dans la matinale de Tocsin. \n\nhttps://www.youtube.com/live/xcc5bv-EKyk",
+  "url": "https://x.com/f_asselineau/status/2011344177523789996",
+  "publishedAt": "2026-01-14T07:46:35.000Z",
+  "observedAt": "2026-10-17T08:51:43.749Z",
+  "firstSeenAt": "2026-10-17T08:51:43.749Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 48832,
+    "likes": 550,
+    "reposts": 177,
+    "replies": 13,
+    "quotes": 1,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:51:43.749Z",
+      "metrics": {
+        "views": 48832,
+        "likes": 550,
+        "reposts": 177,
+        "replies": 13,
+        "quotes": 1,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:51:43.749Z",
+      "text": "Ce mercredi, je suis l’invité de Clémence Houdiakova dans la matinale de Tocsin. \n\nhttps://www.youtube.com/live/xcc5bv-EKyk"
+    }
+  ]
+}

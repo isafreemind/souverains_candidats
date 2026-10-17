@@ -1,0 +1,37 @@
+{
+  "id": "2049125052549873941",
+  "handle": "dupontaignan",
+  "text": "Et son pronostic pour la survie de la France après 10 ans de macronisme ? Lourde défaite ?",
+  "url": "https://x.com/dupontaignan/status/2049125052549873941",
+  "publishedAt": "2026-04-28T13:54:18.000Z",
+  "observedAt": "2026-10-17T08:48:31.821Z",
+  "firstSeenAt": "2026-10-17T08:48:31.821Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 5962,
+    "likes": 195,
+    "reposts": 53,
+    "replies": 15,
+    "quotes": 1,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:31.821Z",
+      "metrics": {
+        "views": 5962,
+        "likes": 195,
+        "reposts": 53,
+        "replies": 15,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:31.821Z",
+      "text": "Et son pronostic pour la survie de la France après 10 ans de macronisme ? Lourde défaite ?"
+    }
+  ]
+}

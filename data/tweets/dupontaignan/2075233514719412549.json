@@ -1,0 +1,48 @@
+{
+  "id": "2075233514719412549",
+  "handle": "dupontaignan",
+  "text": "Le Parlement européen vote le projet « chat control ». L'Union européenne va pouvoir SURVEILLER TOUTES NOS CONVERSATIONS SUR LES MESSAGERIES (WhatsApp, Messenger...). L'Union européenne tue notre liberté d'expression, quittons cette nouvelle prison des peuples !",
+  "url": "https://x.com/dupontaignan/status/2075233514719412549",
+  "publishedAt": "2026-07-09T15:00:00.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 46608,
+    "likes": 4335,
+    "reposts": 2218,
+    "replies": 289,
+    "quotes": 44,
+    "bookmarks": 129
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 46608,
+        "likes": 4335,
+        "reposts": 2218,
+        "replies": 289,
+        "quotes": 44,
+        "bookmarks": 129
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 46608,
+        "likes": 4335,
+        "reposts": 2218,
+        "replies": 289,
+        "quotes": 44,
+        "bookmarks": 129
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "Le Parlement européen vote le projet « chat control ». L'Union européenne va pouvoir SURVEILLER TOUTES NOS CONVERSATIONS SUR LES MESSAGERIES (WhatsApp, Messenger...). L'Union européenne tue notre liberté d'expression, quittons cette nouvelle prison des peuples !"
+    }
+  ]
+}

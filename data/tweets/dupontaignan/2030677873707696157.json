@@ -1,0 +1,37 @@
+{
+  "id": "2030677873707696157",
+  "handle": "dupontaignan",
+  "text": "Le vrai courage serait d'aller au Liban.",
+  "url": "https://x.com/dupontaignan/status/2030677873707696157",
+  "publishedAt": "2026-03-08T16:11:47.000Z",
+  "observedAt": "2026-10-17T08:48:59.200Z",
+  "firstSeenAt": "2026-10-17T08:48:59.200Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 58530,
+    "likes": 662,
+    "reposts": 85,
+    "replies": 68,
+    "quotes": 6,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:59.200Z",
+      "metrics": {
+        "views": 58530,
+        "likes": 662,
+        "reposts": 85,
+        "replies": 68,
+        "quotes": 6,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:59.200Z",
+      "text": "Le vrai courage serait d'aller au Liban."
+    }
+  ]
+}

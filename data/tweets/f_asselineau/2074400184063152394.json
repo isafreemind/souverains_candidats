@@ -1,0 +1,48 @@
+{
+  "id": "2074400184063152394",
+  "handle": "f_asselineau",
+  "text": "📺 ENTRETIEN SUR TV-FINANCE\nJe suis actuellement interrogé en direct par Louis-Antoine Michelet sur TV-Finance. \n\nhttps://www.youtube.com/live/fGjcYRHsS8I",
+  "url": "https://x.com/f_asselineau/status/2074400184063152394",
+  "publishedAt": "2026-07-07T07:48:39.000Z",
+  "observedAt": "2026-10-17T08:37:38.030Z",
+  "firstSeenAt": "2026-10-17T08:32:34.741Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 19913,
+    "likes": 374,
+    "reposts": 140,
+    "replies": 14,
+    "quotes": 2,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:32:34.741Z",
+      "metrics": {
+        "views": 19913,
+        "likes": 374,
+        "reposts": 140,
+        "replies": 14,
+        "quotes": 2,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:37:38.030Z",
+      "metrics": {
+        "views": 19913,
+        "likes": 374,
+        "reposts": 140,
+        "replies": 14,
+        "quotes": 2,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:32:34.741Z",
+      "text": "📺 ENTRETIEN SUR TV-FINANCE\nJe suis actuellement interrogé en direct par Louis-Antoine Michelet sur TV-Finance. \n\nhttps://www.youtube.com/live/fGjcYRHsS8I"
+    }
+  ]
+}

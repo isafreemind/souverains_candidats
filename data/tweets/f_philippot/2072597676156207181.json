@@ -1,0 +1,37 @@
+{
+  "id": "2072597676156207181",
+  "handle": "f_philippot",
+  "text": "Oh mais quelle surprise ! 😉",
+  "url": "https://x.com/f_philippot/status/2072597676156207181",
+  "publishedAt": "2026-07-02T08:26:07.000Z",
+  "observedAt": "2026-10-17T08:43:33.786Z",
+  "firstSeenAt": "2026-10-17T08:43:33.786Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 56705,
+    "likes": 2779,
+    "reposts": 683,
+    "replies": 83,
+    "quotes": 7,
+    "bookmarks": 25
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:33.786Z",
+      "metrics": {
+        "views": 56705,
+        "likes": 2779,
+        "reposts": 683,
+        "replies": 83,
+        "quotes": 7,
+        "bookmarks": 25
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:33.786Z",
+      "text": "Oh mais quelle surprise ! 😉"
+    }
+  ]
+}

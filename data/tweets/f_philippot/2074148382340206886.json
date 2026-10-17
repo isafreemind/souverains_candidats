@@ -1,0 +1,37 @@
+{
+  "id": "2074148382340206886",
+  "handle": "f_philippot",
+  "text": "Via l’UE, l’Allemagne est en train de fracasser le nucléaire français !\n\nVoyez et diffusez ça ⤵️\n#FrexitVite vite vite !",
+  "url": "https://x.com/f_philippot/status/2074148382340206886",
+  "publishedAt": "2026-07-06T15:08:04.000Z",
+  "observedAt": "2026-10-17T08:43:24.270Z",
+  "firstSeenAt": "2026-10-17T08:43:24.270Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 22093,
+    "likes": 1095,
+    "reposts": 594,
+    "replies": 27,
+    "quotes": 8,
+    "bookmarks": 25
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:24.270Z",
+      "metrics": {
+        "views": 22093,
+        "likes": 1095,
+        "reposts": 594,
+        "replies": 27,
+        "quotes": 8,
+        "bookmarks": 25
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:24.270Z",
+      "text": "Via l’UE, l’Allemagne est en train de fracasser le nucléaire français !\n\nVoyez et diffusez ça ⤵️\n#FrexitVite vite vite !"
+    }
+  ]
+}

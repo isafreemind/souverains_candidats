@@ -1,0 +1,37 @@
+{
+  "id": "2054899014399610959",
+  "handle": "f_philippot",
+  "text": "Le numéro 2 de Zelensky vient d’être mis en taule.\n\nLe suivant : Zelensky !\n➡️ Bloquons au plus vite les 17 milliards d’euros qu’on est censé donner très bientôt à ce pays !",
+  "url": "https://x.com/f_philippot/status/2054899014399610959",
+  "publishedAt": "2026-05-14T12:17:57.000Z",
+  "observedAt": "2026-10-17T08:44:23.489Z",
+  "firstSeenAt": "2026-10-17T08:44:23.489Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 41990,
+    "likes": 4187,
+    "reposts": 1737,
+    "replies": 120,
+    "quotes": 15,
+    "bookmarks": 45
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:23.489Z",
+      "metrics": {
+        "views": 41990,
+        "likes": 4187,
+        "reposts": 1737,
+        "replies": 120,
+        "quotes": 15,
+        "bookmarks": 45
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:23.489Z",
+      "text": "Le numéro 2 de Zelensky vient d’être mis en taule.\n\nLe suivant : Zelensky !\n➡️ Bloquons au plus vite les 17 milliards d’euros qu’on est censé donner très bientôt à ce pays !"
+    }
+  ]
+}

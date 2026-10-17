@@ -1,0 +1,37 @@
+{
+  "id": "2056264610022318545",
+  "handle": "f_philippot",
+  "text": "Qu’est-ce que c’est que ça encore ?! 🤦🏻‍♂️\n⤵️",
+  "url": "https://x.com/f_philippot/status/2056264610022318545",
+  "publishedAt": "2026-05-18T06:44:21.000Z",
+  "observedAt": "2026-10-17T08:44:22.036Z",
+  "firstSeenAt": "2026-10-17T08:44:22.036Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 29222,
+    "likes": 1289,
+    "reposts": 382,
+    "replies": 530,
+    "quotes": 33,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:22.036Z",
+      "metrics": {
+        "views": 29222,
+        "likes": 1289,
+        "reposts": 382,
+        "replies": 530,
+        "quotes": 33,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:22.036Z",
+      "text": "Qu’est-ce que c’est que ça encore ?! 🤦🏻‍♂️\n⤵️"
+    }
+  ]
+}

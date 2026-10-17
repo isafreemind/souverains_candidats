@@ -1,0 +1,37 @@
+{
+  "id": "2037663874665566687",
+  "handle": "f_philippot",
+  "text": "« N’en FONT pas » ? Mais apprenez le français déjà bande de guignols !",
+  "url": "https://x.com/f_philippot/status/2037663874665566687",
+  "publishedAt": "2026-03-27T22:51:40.000Z",
+  "observedAt": "2026-10-17T08:45:11.309Z",
+  "firstSeenAt": "2026-10-17T08:45:11.309Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 67180,
+    "likes": 1253,
+    "reposts": 229,
+    "replies": 54,
+    "quotes": 4,
+    "bookmarks": 31
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:11.309Z",
+      "metrics": {
+        "views": 67180,
+        "likes": 1253,
+        "reposts": 229,
+        "replies": 54,
+        "quotes": 4,
+        "bookmarks": 31
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:11.309Z",
+      "text": "« N’en FONT pas » ? Mais apprenez le français déjà bande de guignols !"
+    }
+  ]
+}

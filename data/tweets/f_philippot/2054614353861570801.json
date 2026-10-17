@@ -1,0 +1,37 @@
+{
+  "id": "2054614353861570801",
+  "handle": "f_philippot",
+  "text": "Bravo !\n\nNon à l’identité numérique !",
+  "url": "https://x.com/f_philippot/status/2054614353861570801",
+  "publishedAt": "2026-05-13T17:26:49.000Z",
+  "observedAt": "2026-10-17T08:44:23.489Z",
+  "firstSeenAt": "2026-10-17T08:44:23.489Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 25653,
+    "likes": 2882,
+    "reposts": 1024,
+    "replies": 56,
+    "quotes": 15,
+    "bookmarks": 43
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:23.489Z",
+      "metrics": {
+        "views": 25653,
+        "likes": 2882,
+        "reposts": 1024,
+        "replies": 56,
+        "quotes": 15,
+        "bookmarks": 43
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:23.489Z",
+      "text": "Bravo !\n\nNon à l’identité numérique !"
+    }
+  ]
+}

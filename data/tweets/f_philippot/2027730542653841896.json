@@ -1,0 +1,37 @@
+{
+  "id": "2027730542653841896",
+  "handle": "f_philippot",
+  "text": "Mais quelle bêtise ! Quelle trahison !\n\nRN et LFI ont, de fait, passé un pacte pour sauver la Macronie !…",
+  "url": "https://x.com/f_philippot/status/2027730542653841896",
+  "publishedAt": "2026-02-28T13:00:09.000Z",
+  "observedAt": "2026-10-17T08:45:40.725Z",
+  "firstSeenAt": "2026-10-17T08:45:40.725Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 48270,
+    "likes": 1992,
+    "reposts": 845,
+    "replies": 245,
+    "quotes": 29,
+    "bookmarks": 22
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:40.725Z",
+      "metrics": {
+        "views": 48270,
+        "likes": 1992,
+        "reposts": 845,
+        "replies": 245,
+        "quotes": 29,
+        "bookmarks": 22
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:40.725Z",
+      "text": "Mais quelle bêtise ! Quelle trahison !\n\nRN et LFI ont, de fait, passé un pacte pour sauver la Macronie !…"
+    }
+  ]
+}

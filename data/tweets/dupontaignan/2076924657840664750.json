@@ -1,0 +1,48 @@
+{
+  "id": "2076924657840664750",
+  "handle": "dupontaignan",
+  "text": "⁨Bon 14 juillet à tous ! En ce jour de fête nationale, rappelons que la France n’est forte et juste que lorsque elle est LIBRE. Vive la République, vive la France ! 🇫🇷⁩",
+  "url": "https://x.com/dupontaignan/status/2076924657840664750",
+  "publishedAt": "2026-07-14T07:00:00.000Z",
+  "observedAt": "2026-10-17T08:41:09.504Z",
+  "firstSeenAt": "2026-10-17T08:36:01.792Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8385,
+    "likes": 468,
+    "reposts": 99,
+    "replies": 95,
+    "quotes": 3,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "metrics": {
+        "views": 8385,
+        "likes": 468,
+        "reposts": 99,
+        "replies": 95,
+        "quotes": 3,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:09.504Z",
+      "metrics": {
+        "views": 8385,
+        "likes": 468,
+        "reposts": 99,
+        "replies": 95,
+        "quotes": 3,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "text": "⁨Bon 14 juillet à tous ! En ce jour de fête nationale, rappelons que la France n’est forte et juste que lorsque elle est LIBRE. Vive la République, vive la France ! 🇫🇷⁩"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2044010358914863111",
+  "handle": "dupontaignan",
+  "text": "Moi, entre Poutine et Von der Leyen je choisis la France !",
+  "url": "https://x.com/dupontaignan/status/2044010358914863111",
+  "publishedAt": "2026-04-14T11:10:20.000Z",
+  "observedAt": "2026-10-17T08:48:40.350Z",
+  "firstSeenAt": "2026-10-17T08:48:40.350Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 12000,
+    "likes": 544,
+    "reposts": 97,
+    "replies": 52,
+    "quotes": 3,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:40.350Z",
+      "metrics": {
+        "views": 12000,
+        "likes": 544,
+        "reposts": 97,
+        "replies": 52,
+        "quotes": 3,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:40.350Z",
+      "text": "Moi, entre Poutine et Von der Leyen je choisis la France !"
+    }
+  ]
+}

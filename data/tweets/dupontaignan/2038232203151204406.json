@@ -1,0 +1,37 @@
+{
+  "id": "2038232203151204406",
+  "handle": "dupontaignan",
+  "text": "Terrible !\nIls l’ont porté au pouvoir et soutenu. Aujourd’hui, ils s’en lavent les mains.\nFier en 2017 d’avoir tenté de faire barrage à celui qui allait détruire la France.",
+  "url": "https://x.com/dupontaignan/status/2038232203151204406",
+  "publishedAt": "2026-03-29T12:30:00.000Z",
+  "observedAt": "2026-10-17T08:48:49.310Z",
+  "firstSeenAt": "2026-10-17T08:48:49.310Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19516,
+    "likes": 901,
+    "reposts": 275,
+    "replies": 39,
+    "quotes": 2,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:49.310Z",
+      "metrics": {
+        "views": 19516,
+        "likes": 901,
+        "reposts": 275,
+        "replies": 39,
+        "quotes": 2,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:49.310Z",
+      "text": "Terrible !\nIls l’ont porté au pouvoir et soutenu. Aujourd’hui, ils s’en lavent les mains.\nFier en 2017 d’avoir tenté de faire barrage à celui qui allait détruire la France."
+    }
+  ]
+}

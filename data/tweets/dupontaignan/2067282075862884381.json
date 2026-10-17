@@ -1,0 +1,48 @@
+{
+  "id": "2067282075862884381",
+  "handle": "dupontaignan",
+  "text": "Rencontre avec des maires de Moselle organisée par mon ami Maurice Bello : le plus ancien maire de France réélu pour la 11ème fois en mars dernier. Merci Maurice pour ton accueil chaleureux !",
+  "url": "https://x.com/dupontaignan/status/2067282075862884381",
+  "publishedAt": "2026-06-17T16:23:49.000Z",
+  "observedAt": "2026-10-17T08:41:25.160Z",
+  "firstSeenAt": "2026-10-17T08:36:16.400Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3654,
+    "likes": 139,
+    "reposts": 37,
+    "replies": 8,
+    "quotes": 1,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "metrics": {
+        "views": 3654,
+        "likes": 139,
+        "reposts": 37,
+        "replies": 8,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:25.160Z",
+      "metrics": {
+        "views": 3654,
+        "likes": 139,
+        "reposts": 37,
+        "replies": 8,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "text": "Rencontre avec des maires de Moselle organisée par mon ami Maurice Bello : le plus ancien maire de France réélu pour la 11ème fois en mars dernier. Merci Maurice pour ton accueil chaleureux !"
+    }
+  ]
+}

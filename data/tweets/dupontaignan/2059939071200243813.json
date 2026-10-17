@@ -1,0 +1,48 @@
+{
+  "id": "2059939071200243813",
+  "handle": "dupontaignan",
+  "text": "ON MARCHE SUR LA TÊTE ! Une ministre rappelée à l’ordre pour avoir été présente à un dîner avec une journaliste libre. \nTout mon soutien à Xenia Fedorova qui subit une vague de haine insupportable pour la seule raison qu'elle refuse la propagande médiatique en faveur de la guerre en Ukraine.",
+  "url": "https://x.com/dupontaignan/status/2059939071200243813",
+  "publishedAt": "2026-05-28T10:05:21.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 79363,
+    "likes": 1594,
+    "reposts": 549,
+    "replies": 351,
+    "quotes": 34,
+    "bookmarks": 28
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 79363,
+        "likes": 1594,
+        "reposts": 549,
+        "replies": 351,
+        "quotes": 34,
+        "bookmarks": 28
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 79363,
+        "likes": 1594,
+        "reposts": 549,
+        "replies": 351,
+        "quotes": 34,
+        "bookmarks": 28
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "ON MARCHE SUR LA TÊTE ! Une ministre rappelée à l’ordre pour avoir été présente à un dîner avec une journaliste libre. \nTout mon soutien à Xenia Fedorova qui subit une vague de haine insupportable pour la seule raison qu'elle refuse la propagande médiatique en faveur de la guerre en Ukraine."
+    }
+  ]
+}

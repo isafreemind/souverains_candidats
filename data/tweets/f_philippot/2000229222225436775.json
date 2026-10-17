@@ -1,0 +1,37 @@
+{
+  "id": "2000229222225436775",
+  "handle": "f_philippot",
+  "text": "La FNSEA : toujours la honte intégrale !",
+  "url": "https://x.com/f_philippot/status/2000229222225436775",
+  "publishedAt": "2025-12-14T15:39:43.000Z",
+  "observedAt": "2026-10-17T08:47:20.560Z",
+  "firstSeenAt": "2026-10-17T08:47:20.560Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 24701,
+    "likes": 1384,
+    "reposts": 405,
+    "replies": 106,
+    "quotes": 10,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:20.560Z",
+      "metrics": {
+        "views": 24701,
+        "likes": 1384,
+        "reposts": 405,
+        "replies": 106,
+        "quotes": 10,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:20.560Z",
+      "text": "La FNSEA : toujours la honte intégrale !"
+    }
+  ]
+}

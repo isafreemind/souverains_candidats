@@ -1,0 +1,37 @@
+{
+  "id": "2026363380806590957",
+  "handle": "dupontaignan",
+  "text": "ENFIN !",
+  "url": "https://x.com/dupontaignan/status/2026363380806590957",
+  "publishedAt": "2026-02-24T18:27:32.000Z",
+  "observedAt": "2026-10-17T08:49:07.129Z",
+  "firstSeenAt": "2026-10-17T08:49:07.129Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 8043,
+    "likes": 283,
+    "reposts": 50,
+    "replies": 42,
+    "quotes": 3,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:07.129Z",
+      "metrics": {
+        "views": 8043,
+        "likes": 283,
+        "reposts": 50,
+        "replies": 42,
+        "quotes": 3,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:07.129Z",
+      "text": "ENFIN !"
+    }
+  ]
+}

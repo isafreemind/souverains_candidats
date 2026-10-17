@@ -1,0 +1,37 @@
+{
+  "id": "2064003396730867808",
+  "handle": "f_philippot",
+  "text": "La mort du SCAF est une excellente nouvelle ! ⤵️\n\nLa France doit faire l’avion 100% français : Dassault sait parfaitement le faire ! 🇫🇷🇫🇷🇫🇷\n\nVive le CRASH du SCAF !",
+  "url": "https://x.com/f_philippot/status/2064003396730867808",
+  "publishedAt": "2026-06-08T15:15:31.000Z",
+  "observedAt": "2026-10-17T08:44:00.438Z",
+  "firstSeenAt": "2026-10-17T08:44:00.438Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 12719,
+    "likes": 593,
+    "reposts": 202,
+    "replies": 33,
+    "quotes": 1,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:00.438Z",
+      "metrics": {
+        "views": 12719,
+        "likes": 593,
+        "reposts": 202,
+        "replies": 33,
+        "quotes": 1,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:00.438Z",
+      "text": "La mort du SCAF est une excellente nouvelle ! ⤵️\n\nLa France doit faire l’avion 100% français : Dassault sait parfaitement le faire ! 🇫🇷🇫🇷🇫🇷\n\nVive le CRASH du SCAF !"
+    }
+  ]
+}

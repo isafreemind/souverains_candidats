@@ -1,0 +1,37 @@
+{
+  "id": "2059554012857278683",
+  "handle": "f_philippot",
+  "text": "Macron refuse d’annoncer la date de l’élection présidentielle ! ⤵️\n\nContraire à tous les usages.\n\nQue mijote-t-il encore ?!",
+  "url": "https://x.com/f_philippot/status/2059554012857278683",
+  "publishedAt": "2026-05-27T08:35:15.000Z",
+  "observedAt": "2026-10-17T08:44:14.215Z",
+  "firstSeenAt": "2026-10-17T08:44:14.215Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 44426,
+    "likes": 2284,
+    "reposts": 1044,
+    "replies": 291,
+    "quotes": 27,
+    "bookmarks": 44
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:14.215Z",
+      "metrics": {
+        "views": 44426,
+        "likes": 2284,
+        "reposts": 1044,
+        "replies": 291,
+        "quotes": 27,
+        "bookmarks": 44
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:14.215Z",
+      "text": "Macron refuse d’annoncer la date de l’élection présidentielle ! ⤵️\n\nContraire à tous les usages.\n\nQue mijote-t-il encore ?!"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2015873346789949821",
+  "handle": "f_philippot",
+  "text": "Sur CNews en direct à 9h30 ce mardi",
+  "url": "https://x.com/f_philippot/status/2015873346789949821",
+  "publishedAt": "2026-01-26T19:43:53.000Z",
+  "observedAt": "2026-10-17T08:46:31.631Z",
+  "firstSeenAt": "2026-10-17T08:46:31.631Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 10136,
+    "likes": 276,
+    "reposts": 97,
+    "replies": 28,
+    "quotes": 6,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:31.631Z",
+      "metrics": {
+        "views": 10136,
+        "likes": 276,
+        "reposts": 97,
+        "replies": 28,
+        "quotes": 6,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:31.631Z",
+      "text": "Sur CNews en direct à 9h30 ce mardi"
+    }
+  ]
+}

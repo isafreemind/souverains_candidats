@@ -1,0 +1,48 @@
+{
+  "id": "2073335831171903624",
+  "handle": "dupontaignan",
+  "text": "À la différence des médias les français se souviennent de son bilan !!!",
+  "url": "https://x.com/dupontaignan/status/2073335831171903624",
+  "publishedAt": "2026-07-04T09:19:17.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 25801,
+    "likes": 2144,
+    "reposts": 585,
+    "replies": 76,
+    "quotes": 10,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 25801,
+        "likes": 2144,
+        "reposts": 585,
+        "replies": 76,
+        "quotes": 10,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 25801,
+        "likes": 2144,
+        "reposts": 585,
+        "replies": 76,
+        "quotes": 10,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "À la différence des médias les français se souviennent de son bilan !!!"
+    }
+  ]
+}

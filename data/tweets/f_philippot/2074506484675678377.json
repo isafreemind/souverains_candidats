@@ -1,0 +1,37 @@
+{
+  "id": "2074506484675678377",
+  "handle": "f_philippot",
+  "text": "Les juges ont réussi leur coup : ça doit être un sacré bazar en interne du RN en ce moment, et ce n’est qu’un début !",
+  "url": "https://x.com/f_philippot/status/2074506484675678377",
+  "publishedAt": "2026-07-07T14:51:03.000Z",
+  "observedAt": "2026-10-17T08:43:24.270Z",
+  "firstSeenAt": "2026-10-17T08:43:24.270Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 34294,
+    "likes": 484,
+    "reposts": 88,
+    "replies": 45,
+    "quotes": 3,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:24.270Z",
+      "metrics": {
+        "views": 34294,
+        "likes": 484,
+        "reposts": 88,
+        "replies": 45,
+        "quotes": 3,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:24.270Z",
+      "text": "Les juges ont réussi leur coup : ça doit être un sacré bazar en interne du RN en ce moment, et ce n’est qu’un début !"
+    }
+  ]
+}

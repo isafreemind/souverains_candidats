@@ -1,0 +1,48 @@
+{
+  "id": "2072308288734073099",
+  "handle": "dupontaignan",
+  "text": "Un jeune voyou s'amuse à menacer des passants pour quelques euros et s’en vante ensuite sur les réseaux : voilà le résultat de décennies de laxisme et d’impunité. À force d’excuser les comportements des racailles au lieu de les sanctionner fermement, certains finissent par croire que tout leur est permis. La peur doit changer de camp.",
+  "url": "https://x.com/dupontaignan/status/2072308288734073099",
+  "publishedAt": "2026-07-01T13:16:12.000Z",
+  "observedAt": "2026-10-17T08:41:18.999Z",
+  "firstSeenAt": "2026-10-17T08:36:09.015Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 12697,
+    "likes": 630,
+    "reposts": 225,
+    "replies": 70,
+    "quotes": 4,
+    "bookmarks": 13
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "metrics": {
+        "views": 12697,
+        "likes": 630,
+        "reposts": 225,
+        "replies": 70,
+        "quotes": 4,
+        "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:18.999Z",
+      "metrics": {
+        "views": 12697,
+        "likes": 630,
+        "reposts": 225,
+        "replies": 70,
+        "quotes": 4,
+        "bookmarks": 13
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "text": "Un jeune voyou s'amuse à menacer des passants pour quelques euros et s’en vante ensuite sur les réseaux : voilà le résultat de décennies de laxisme et d’impunité. À force d’excuser les comportements des racailles au lieu de les sanctionner fermement, certains finissent par croire que tout leur est permis. La peur doit changer de camp."
+    }
+  ]
+}

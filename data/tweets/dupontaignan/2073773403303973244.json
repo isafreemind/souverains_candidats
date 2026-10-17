@@ -1,0 +1,48 @@
+{
+  "id": "2073773403303973244",
+  "handle": "dupontaignan",
+  "text": "Bon courage pour Xavier Niel, Macron risque de couler son empire financier aussi vite qu’il a coulé la France !",
+  "url": "https://x.com/dupontaignan/status/2073773403303973244",
+  "publishedAt": "2026-07-05T14:18:02.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 35321,
+    "likes": 1130,
+    "reposts": 328,
+    "replies": 120,
+    "quotes": 9,
+    "bookmarks": 13
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 35321,
+        "likes": 1130,
+        "reposts": 328,
+        "replies": 120,
+        "quotes": 9,
+        "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 35321,
+        "likes": 1130,
+        "reposts": 328,
+        "replies": 120,
+        "quotes": 9,
+        "bookmarks": 13
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Bon courage pour Xavier Niel, Macron risque de couler son empire financier aussi vite qu’il a coulé la France !"
+    }
+  ]
+}

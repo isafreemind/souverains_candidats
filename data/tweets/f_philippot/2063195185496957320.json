@@ -1,0 +1,37 @@
+{
+  "id": "2063195185496957320",
+  "handle": "f_philippot",
+  "text": "Bernadette Chirac est partie. \nNous pensons à sa famille, à ses proches.\n\nUne époque où la dignité de la fonction avait encore un sens.",
+  "url": "https://x.com/f_philippot/status/2063195185496957320",
+  "publishedAt": "2026-06-06T09:43:59.000Z",
+  "observedAt": "2026-10-17T08:44:02.944Z",
+  "firstSeenAt": "2026-10-17T08:44:02.944Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 16834,
+    "likes": 942,
+    "reposts": 203,
+    "replies": 72,
+    "quotes": 5,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:02.944Z",
+      "metrics": {
+        "views": 16834,
+        "likes": 942,
+        "reposts": 203,
+        "replies": 72,
+        "quotes": 5,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:02.944Z",
+      "text": "Bernadette Chirac est partie. \nNous pensons à sa famille, à ses proches.\n\nUne époque où la dignité de la fonction avait encore un sens."
+    }
+  ]
+}

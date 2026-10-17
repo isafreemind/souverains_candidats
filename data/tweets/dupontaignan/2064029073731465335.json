@@ -1,0 +1,48 @@
+{
+  "id": "2064029073731465335",
+  "handle": "dupontaignan",
+  "text": "EFFRAYANT ! Le gouvernement découvre soudain l'urgence de traiter les 70 000 plaintes pour des viols et agressions sexuelles sur enfants. Et pourtant, on savait très bien ce qu'il fallait faire...",
+  "url": "https://x.com/dupontaignan/status/2064029073731465335",
+  "publishedAt": "2026-06-08T16:57:33.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 12258,
+    "likes": 1413,
+    "reposts": 595,
+    "replies": 51,
+    "quotes": 8,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 12258,
+        "likes": 1413,
+        "reposts": 595,
+        "replies": 51,
+        "quotes": 8,
+        "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 12258,
+        "likes": 1413,
+        "reposts": 595,
+        "replies": 51,
+        "quotes": 8,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "EFFRAYANT ! Le gouvernement découvre soudain l'urgence de traiter les 70 000 plaintes pour des viols et agressions sexuelles sur enfants. Et pourtant, on savait très bien ce qu'il fallait faire..."
+    }
+  ]
+}

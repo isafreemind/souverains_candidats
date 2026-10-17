@@ -1,0 +1,37 @@
+{
+  "id": "2050214829386772859",
+  "handle": "f_philippot",
+  "text": "Joyeux 1er mai\nBonne fête du travail !\nPas touche à nos jours fériés !",
+  "url": "https://x.com/f_philippot/status/2050214829386772859",
+  "publishedAt": "2026-05-01T14:04:41.000Z",
+  "observedAt": "2026-10-17T08:44:38.042Z",
+  "firstSeenAt": "2026-10-17T08:44:38.042Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 9275,
+    "likes": 708,
+    "reposts": 159,
+    "replies": 43,
+    "quotes": 4,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:38.042Z",
+      "metrics": {
+        "views": 9275,
+        "likes": 708,
+        "reposts": 159,
+        "replies": 43,
+        "quotes": 4,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:38.042Z",
+      "text": "Joyeux 1er mai\nBonne fête du travail !\nPas touche à nos jours fériés !"
+    }
+  ]
+}

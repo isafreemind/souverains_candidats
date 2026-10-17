@@ -1,0 +1,37 @@
+{
+  "id": "1980576776666681368",
+  "handle": "dupontaignan",
+  "text": "Tout est dit.",
+  "url": "https://x.com/dupontaignan/status/1980576776666681368",
+  "publishedAt": "2025-10-21T10:07:55.000Z",
+  "observedAt": "2026-10-17T08:50:44.912Z",
+  "firstSeenAt": "2026-10-17T08:50:44.912Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 104228,
+    "likes": 1501,
+    "reposts": 290,
+    "replies": 206,
+    "quotes": 9,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:44.912Z",
+      "metrics": {
+        "views": 104228,
+        "likes": 1501,
+        "reposts": 290,
+        "replies": 206,
+        "quotes": 9,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:44.912Z",
+      "text": "Tout est dit."
+    }
+  ]
+}

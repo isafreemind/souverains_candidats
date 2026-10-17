@@ -1,0 +1,37 @@
+{
+  "id": "2019734931610722745",
+  "handle": "f_philippot",
+  "text": "Un fou furieux ! 🤦🏻‍♂️",
+  "url": "https://x.com/f_philippot/status/2019734931610722745",
+  "publishedAt": "2026-02-06T11:28:27.000Z",
+  "observedAt": "2026-10-17T08:46:12.688Z",
+  "firstSeenAt": "2026-10-17T08:46:12.688Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 20051,
+    "likes": 807,
+    "reposts": 218,
+    "replies": 115,
+    "quotes": 5,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:12.688Z",
+      "metrics": {
+        "views": 20051,
+        "likes": 807,
+        "reposts": 218,
+        "replies": 115,
+        "quotes": 5,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:12.688Z",
+      "text": "Un fou furieux ! 🤦🏻‍♂️"
+    }
+  ]
+}

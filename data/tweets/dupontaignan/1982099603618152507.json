@@ -1,0 +1,37 @@
+{
+  "id": "1982099603618152507",
+  "handle": "dupontaignan",
+  "text": "Vite, un chef de l’Etat et des politiques qui défendent les Français !",
+  "url": "https://x.com/dupontaignan/status/1982099603618152507",
+  "publishedAt": "2025-10-25T14:59:05.000Z",
+  "observedAt": "2026-10-17T08:50:42.097Z",
+  "firstSeenAt": "2026-10-17T08:50:42.097Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 83673,
+    "likes": 3967,
+    "reposts": 1686,
+    "replies": 231,
+    "quotes": 47,
+    "bookmarks": 62
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:42.097Z",
+      "metrics": {
+        "views": 83673,
+        "likes": 3967,
+        "reposts": 1686,
+        "replies": 231,
+        "quotes": 47,
+        "bookmarks": 62
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:42.097Z",
+      "text": "Vite, un chef de l’Etat et des politiques qui défendent les Français !"
+    }
+  ]
+}

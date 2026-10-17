@@ -1,0 +1,48 @@
+{
+  "id": "2078134236104511644",
+  "handle": "f_philippot",
+  "text": "Ce vendredi 17/07 à 19h grand direct YouTube sur ma chaîne : toute l’actualité française et internationale et vos questions en direct ! 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2078134236104511644",
+  "publishedAt": "2026-07-17T15:06:26.000Z",
+  "observedAt": "2026-10-17T08:39:59.184Z",
+  "firstSeenAt": "2026-10-17T08:34:55.515Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 11845,
+    "likes": 173,
+    "reposts": 56,
+    "replies": 16,
+    "quotes": 1,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "metrics": {
+        "views": 11845,
+        "likes": 173,
+        "reposts": 56,
+        "replies": 16,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:39:59.184Z",
+      "metrics": {
+        "views": 11845,
+        "likes": 173,
+        "reposts": 56,
+        "replies": 16,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "text": "Ce vendredi 17/07 à 19h grand direct YouTube sur ma chaîne : toute l’actualité française et internationale et vos questions en direct ! 🇫🇷"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2074048744140501018",
+  "handle": "dupontaignan",
+  "text": "Le drapeau européen devant notre drapeau français, le projet d'Édouard Philippe est clair, en digne héritier de Macron : plus d'Union européenne et moins de France.",
+  "url": "https://x.com/dupontaignan/status/2074048744140501018",
+  "publishedAt": "2026-07-06T08:32:09.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 18340,
+    "likes": 2091,
+    "reposts": 724,
+    "replies": 149,
+    "quotes": 20,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 18340,
+        "likes": 2091,
+        "reposts": 724,
+        "replies": 149,
+        "quotes": 20,
+        "bookmarks": 15
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 18340,
+        "likes": 2091,
+        "reposts": 724,
+        "replies": 149,
+        "quotes": 20,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Le drapeau européen devant notre drapeau français, le projet d'Édouard Philippe est clair, en digne héritier de Macron : plus d'Union européenne et moins de France."
+    }
+  ]
+}

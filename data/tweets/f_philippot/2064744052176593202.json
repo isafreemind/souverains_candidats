@@ -1,0 +1,37 @@
+{
+  "id": "2064744052176593202",
+  "handle": "f_philippot",
+  "text": "Mais quel rapport ?!\nC’est indécent !\n\nSarkozy doit être jugé, ET Barella aussi, tout simplement !",
+  "url": "https://x.com/f_philippot/status/2064744052176593202",
+  "publishedAt": "2026-06-10T16:18:37.000Z",
+  "observedAt": "2026-10-17T08:43:55.769Z",
+  "firstSeenAt": "2026-10-17T08:43:55.769Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 11527,
+    "likes": 397,
+    "reposts": 134,
+    "replies": 18,
+    "quotes": 0,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:55.769Z",
+      "metrics": {
+        "views": 11527,
+        "likes": 397,
+        "reposts": 134,
+        "replies": 18,
+        "quotes": 0,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:55.769Z",
+      "text": "Mais quel rapport ?!\nC’est indécent !\n\nSarkozy doit être jugé, ET Barella aussi, tout simplement !"
+    }
+  ]
+}

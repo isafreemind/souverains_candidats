@@ -1,0 +1,48 @@
+{
+  "id": "2059348850016743778",
+  "handle": "dupontaignan",
+  "text": "📺 Retrouvez-moi demain, mercredi 27 mai à 21h00, dans \"Bistro Libertés\" sur @tvlofficiel, au micro de @EricMorillot 🎙️",
+  "url": "https://x.com/dupontaignan/status/2059348850016743778",
+  "publishedAt": "2026-05-26T19:00:01.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3277,
+    "likes": 105,
+    "reposts": 35,
+    "replies": 21,
+    "quotes": 2,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 3277,
+        "likes": 105,
+        "reposts": 35,
+        "replies": 21,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 3277,
+        "likes": 105,
+        "reposts": 35,
+        "replies": 21,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "📺 Retrouvez-moi demain, mercredi 27 mai à 21h00, dans \"Bistro Libertés\" sur @tvlofficiel, au micro de @EricMorillot 🎙️"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2072757198065930712",
+  "handle": "dupontaignan",
+  "text": "📺 Retrouvez-moi demain, vendredi 3 juillet à 08h10, dans l'émission #LaGrandeInterview sur @CNEWS et @Europe1, au micro de @ThomasBonnet 🎙️",
+  "url": "https://x.com/dupontaignan/status/2072757198065930712",
+  "publishedAt": "2026-07-02T19:00:00.000Z",
+  "observedAt": "2026-10-17T08:41:18.999Z",
+  "firstSeenAt": "2026-10-17T08:36:09.015Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 6250,
+    "likes": 100,
+    "reposts": 35,
+    "replies": 23,
+    "quotes": 2,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "metrics": {
+        "views": 6250,
+        "likes": 100,
+        "reposts": 35,
+        "replies": 23,
+        "quotes": 2,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:18.999Z",
+      "metrics": {
+        "views": 6250,
+        "likes": 100,
+        "reposts": 35,
+        "replies": 23,
+        "quotes": 2,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "text": "📺 Retrouvez-moi demain, vendredi 3 juillet à 08h10, dans l'émission #LaGrandeInterview sur @CNEWS et @Europe1, au micro de @ThomasBonnet 🎙️"
+    }
+  ]
+}

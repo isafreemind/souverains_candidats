@@ -1,0 +1,37 @@
+{
+  "id": "2041839087749878196",
+  "handle": "f_philippot",
+  "text": "Ça monte de 50 centimes en quelques heures\nÇa baisse de 5 centimes en 3 jours…\n\n➡️ Il faut débusquer les escrocs !",
+  "url": "https://x.com/f_philippot/status/2041839087749878196",
+  "publishedAt": "2026-04-08T11:22:28.000Z",
+  "observedAt": "2026-10-17T08:44:56.964Z",
+  "firstSeenAt": "2026-10-17T08:44:56.964Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 47976,
+    "likes": 3494,
+    "reposts": 1221,
+    "replies": 87,
+    "quotes": 15,
+    "bookmarks": 20
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:56.964Z",
+      "metrics": {
+        "views": 47976,
+        "likes": 3494,
+        "reposts": 1221,
+        "replies": 87,
+        "quotes": 15,
+        "bookmarks": 20
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:56.964Z",
+      "text": "Ça monte de 50 centimes en quelques heures\nÇa baisse de 5 centimes en 3 jours…\n\n➡️ Il faut débusquer les escrocs !"
+    }
+  ]
+}

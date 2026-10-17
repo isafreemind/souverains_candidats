@@ -1,0 +1,37 @@
+{
+  "id": "2030598459082875081",
+  "handle": "dupontaignan",
+  "text": "Les Français n'ont pas le droit de retirer 1000 euros en espèces, mais quand il s'agit de l'Ukraine, on ne dit plus rien...",
+  "url": "https://x.com/dupontaignan/status/2030598459082875081",
+  "publishedAt": "2026-03-08T10:56:13.000Z",
+  "observedAt": "2026-10-17T08:48:59.200Z",
+  "firstSeenAt": "2026-10-17T08:48:59.200Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 110813,
+    "likes": 3396,
+    "reposts": 1053,
+    "replies": 186,
+    "quotes": 13,
+    "bookmarks": 19
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:59.200Z",
+      "metrics": {
+        "views": 110813,
+        "likes": 3396,
+        "reposts": 1053,
+        "replies": 186,
+        "quotes": 13,
+        "bookmarks": 19
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:59.200Z",
+      "text": "Les Français n'ont pas le droit de retirer 1000 euros en espèces, mais quand il s'agit de l'Ukraine, on ne dit plus rien..."
+    }
+  ]
+}

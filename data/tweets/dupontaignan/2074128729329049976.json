@@ -1,0 +1,48 @@
+{
+  "id": "2074128729329049976",
+  "handle": "dupontaignan",
+  "text": "Pour son dernier défilé du 14 Juillet, Macron veut instrumentaliser nos valeureuses forces armées au service de sa fuite en avant vers la guerre. L’armée ukrainienne, nostalgique des pires collaborateurs nazis, n’a pas sa place sur les Champs-Élysées.",
+  "url": "https://x.com/dupontaignan/status/2074128729329049976",
+  "publishedAt": "2026-07-06T13:49:59.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 87132,
+    "likes": 5671,
+    "reposts": 1965,
+    "replies": 317,
+    "quotes": 42,
+    "bookmarks": 63
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 87132,
+        "likes": 5671,
+        "reposts": 1965,
+        "replies": 317,
+        "quotes": 42,
+        "bookmarks": 63
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 87132,
+        "likes": 5671,
+        "reposts": 1965,
+        "replies": 317,
+        "quotes": 42,
+        "bookmarks": 63
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Pour son dernier défilé du 14 Juillet, Macron veut instrumentaliser nos valeureuses forces armées au service de sa fuite en avant vers la guerre. L’armée ukrainienne, nostalgique des pires collaborateurs nazis, n’a pas sa place sur les Champs-Élysées."
+    }
+  ]
+}

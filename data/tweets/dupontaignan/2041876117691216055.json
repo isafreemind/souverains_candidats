@@ -1,0 +1,37 @@
+{
+  "id": "2041876117691216055",
+  "handle": "dupontaignan",
+  "text": "Alors, interdisez le port du voile pour les mineures !",
+  "url": "https://x.com/dupontaignan/status/2041876117691216055",
+  "publishedAt": "2026-04-08T13:49:37.000Z",
+  "observedAt": "2026-10-17T08:48:43.404Z",
+  "firstSeenAt": "2026-10-17T08:48:43.404Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 14210,
+    "likes": 1374,
+    "reposts": 425,
+    "replies": 64,
+    "quotes": 6,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:43.404Z",
+      "metrics": {
+        "views": 14210,
+        "likes": 1374,
+        "reposts": 425,
+        "replies": 64,
+        "quotes": 6,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:43.404Z",
+      "text": "Alors, interdisez le port du voile pour les mineures !"
+    }
+  ]
+}

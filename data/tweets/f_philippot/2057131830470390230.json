@@ -1,0 +1,37 @@
+{
+  "id": "2057131830470390230",
+  "handle": "f_philippot",
+  "text": "Barrot beaucoup plus mou que Meloni ⤵️",
+  "url": "https://x.com/f_philippot/status/2057131830470390230",
+  "publishedAt": "2026-05-20T16:10:22.000Z",
+  "observedAt": "2026-10-17T08:44:19.983Z",
+  "firstSeenAt": "2026-10-17T08:44:19.983Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 16948,
+    "likes": 240,
+    "reposts": 71,
+    "replies": 14,
+    "quotes": 1,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:19.983Z",
+      "metrics": {
+        "views": 16948,
+        "likes": 240,
+        "reposts": 71,
+        "replies": 14,
+        "quotes": 1,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:19.983Z",
+      "text": "Barrot beaucoup plus mou que Meloni ⤵️"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2053820015397175559",
+  "handle": "f_philippot",
+  "text": "Ce voyage de Macron au Kenya semble dépasser tous les records ! \n\nMais regardez moi ça ! ⤵️🤦🏻‍♂️",
+  "url": "https://x.com/f_philippot/status/2053820015397175559",
+  "publishedAt": "2026-05-11T12:50:24.000Z",
+  "observedAt": "2026-10-17T08:44:26.396Z",
+  "firstSeenAt": "2026-10-17T08:44:26.396Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 120697,
+    "likes": 3282,
+    "reposts": 1324,
+    "replies": 590,
+    "quotes": 57,
+    "bookmarks": 113
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:26.396Z",
+      "metrics": {
+        "views": 120697,
+        "likes": 3282,
+        "reposts": 1324,
+        "replies": 590,
+        "quotes": 57,
+        "bookmarks": 113
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:26.396Z",
+      "text": "Ce voyage de Macron au Kenya semble dépasser tous les records ! \n\nMais regardez moi ça ! ⤵️🤦🏻‍♂️"
+    }
+  ]
+}

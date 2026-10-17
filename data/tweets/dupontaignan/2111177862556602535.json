@@ -4,16 +4,16 @@
   "text": "Lecornu, ce faux-cul de première, se lamente d’une colère sociale qu’il a lui-même allumée !\n\nPendant ce temps, l’État régalien s’effondre : policiers débordés, prisons insuffisantes, désordre qui s’installe.  \nLa France a besoin d’autorité, de moyens et de décisions. Pas de lamentations.",
   "url": "https://x.com/dupontaignan/status/2111177862556602535",
   "publishedAt": "2026-10-16T19:30:00.000Z",
-  "observedAt": "2026-10-17T08:03:49.749Z",
+  "observedAt": "2026-10-17T08:40:07.230Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 5983,
-    "likes": 511,
-    "reposts": 157,
+    "views": 6212,
+    "likes": 538,
+    "reposts": 165,
     "replies": 17,
     "quotes": 0,
-    "bookmarks": 9
+    "bookmarks": 10
   },
   "observations": [
     {
@@ -36,6 +36,28 @@
         "replies": 17,
         "quotes": 0,
         "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:35:01.358Z",
+      "metrics": {
+        "views": 6182,
+        "likes": 535,
+        "reposts": 164,
+        "replies": 17,
+        "quotes": 0,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:40:07.230Z",
+      "metrics": {
+        "views": 6212,
+        "likes": 538,
+        "reposts": 165,
+        "replies": 17,
+        "quotes": 0,
+        "bookmarks": 10
       }
     }
   ],

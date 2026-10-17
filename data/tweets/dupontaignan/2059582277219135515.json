@@ -1,0 +1,48 @@
+{
+  "id": "2059582277219135515",
+  "handle": "dupontaignan",
+  "text": "QUELLE HONTE POUR NOTRE PAYS ET POUR NOTRE JUSTICE.\n\nToutes mes pensées à sa famille et à ses proches.",
+  "url": "https://x.com/dupontaignan/status/2059582277219135515",
+  "publishedAt": "2026-05-27T10:27:34.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 25805,
+    "likes": 2049,
+    "reposts": 764,
+    "replies": 47,
+    "quotes": 13,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 25805,
+        "likes": 2049,
+        "reposts": 764,
+        "replies": 47,
+        "quotes": 13,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 25805,
+        "likes": 2049,
+        "reposts": 764,
+        "replies": 47,
+        "quotes": 13,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "QUELLE HONTE POUR NOTRE PAYS ET POUR NOTRE JUSTICE.\n\nToutes mes pensées à sa famille et à ses proches."
+    }
+  ]
+}

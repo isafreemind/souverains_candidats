@@ -1,0 +1,37 @@
+{
+  "id": "2058202206013166013",
+  "handle": "f_philippot",
+  "text": "Très grave !\n⤵️",
+  "url": "https://x.com/f_philippot/status/2058202206013166013",
+  "publishedAt": "2026-05-23T15:03:40.000Z",
+  "observedAt": "2026-10-17T08:44:15.748Z",
+  "firstSeenAt": "2026-10-17T08:44:15.748Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 18871,
+    "likes": 1193,
+    "reposts": 502,
+    "replies": 46,
+    "quotes": 10,
+    "bookmarks": 22
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:15.748Z",
+      "metrics": {
+        "views": 18871,
+        "likes": 1193,
+        "reposts": 502,
+        "replies": 46,
+        "quotes": 10,
+        "bookmarks": 22
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:15.748Z",
+      "text": "Très grave !\n⤵️"
+    }
+  ]
+}

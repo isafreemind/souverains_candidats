@@ -1,0 +1,37 @@
+{
+  "id": "2054161202440294557",
+  "handle": "dupontaignan",
+  "text": "La souveraineté ? Quittons l'Union européenne alors !",
+  "url": "https://x.com/dupontaignan/status/2054161202440294557",
+  "publishedAt": "2026-05-12T11:26:09.000Z",
+  "observedAt": "2026-10-17T08:48:17.558Z",
+  "firstSeenAt": "2026-10-17T08:48:17.558Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7890,
+    "likes": 422,
+    "reposts": 78,
+    "replies": 29,
+    "quotes": 2,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "metrics": {
+        "views": 7890,
+        "likes": 422,
+        "reposts": 78,
+        "replies": 29,
+        "quotes": 2,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "text": "La souveraineté ? Quittons l'Union européenne alors !"
+    }
+  ]
+}

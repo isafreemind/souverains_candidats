@@ -1,0 +1,48 @@
+{
+  "id": "2060691378477130179",
+  "handle": "dupontaignan",
+  "text": "Merci à Perpignan pour ce grand débat sur la liberté de la France !",
+  "url": "https://x.com/dupontaignan/status/2060691378477130179",
+  "publishedAt": "2026-05-30T11:54:45.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3550,
+    "likes": 68,
+    "reposts": 14,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 3550,
+        "likes": 68,
+        "reposts": 14,
+        "replies": 0,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 3550,
+        "likes": 68,
+        "reposts": 14,
+        "replies": 0,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "Merci à Perpignan pour ce grand débat sur la liberté de la France !"
+    }
+  ]
+}

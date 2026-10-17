@@ -1,0 +1,37 @@
+{
+  "id": "2068946345906381252",
+  "handle": "f_philippot",
+  "text": "Il est fan de lui-même,\nIl est malaisant,\nIl n’a aucune intention de partir !\n\nRegardez moi ça ⤵️",
+  "url": "https://x.com/f_philippot/status/2068946345906381252",
+  "publishedAt": "2026-06-22T06:37:02.000Z",
+  "observedAt": "2026-10-17T08:43:45.528Z",
+  "firstSeenAt": "2026-10-17T08:43:45.528Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 45146,
+    "likes": 948,
+    "reposts": 250,
+    "replies": 140,
+    "quotes": 14,
+    "bookmarks": 19
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:45.528Z",
+      "metrics": {
+        "views": 45146,
+        "likes": 948,
+        "reposts": 250,
+        "replies": 140,
+        "quotes": 14,
+        "bookmarks": 19
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:45.528Z",
+      "text": "Il est fan de lui-même,\nIl est malaisant,\nIl n’a aucune intention de partir !\n\nRegardez moi ça ⤵️"
+    }
+  ]
+}

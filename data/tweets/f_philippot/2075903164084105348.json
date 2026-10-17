@@ -1,0 +1,37 @@
+{
+  "id": "2075903164084105348",
+  "handle": "f_philippot",
+  "text": "Le patron de Telegram Pavel Durov dézingue « la République bananière UE » et Chat Control ! (cf ⤵️)\n\nBravo !\n\nSeul le Frexit nous sauvera !",
+  "url": "https://x.com/f_philippot/status/2075903164084105348",
+  "publishedAt": "2026-07-11T11:20:57.000Z",
+  "observedAt": "2026-10-17T08:43:21.517Z",
+  "firstSeenAt": "2026-10-17T08:43:21.517Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 22493,
+    "likes": 1146,
+    "reposts": 363,
+    "replies": 34,
+    "quotes": 3,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:21.517Z",
+      "metrics": {
+        "views": 22493,
+        "likes": 1146,
+        "reposts": 363,
+        "replies": 34,
+        "quotes": 3,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:21.517Z",
+      "text": "Le patron de Telegram Pavel Durov dézingue « la République bananière UE » et Chat Control ! (cf ⤵️)\n\nBravo !\n\nSeul le Frexit nous sauvera !"
+    }
+  ]
+}

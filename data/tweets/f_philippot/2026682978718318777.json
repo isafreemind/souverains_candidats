@@ -1,0 +1,37 @@
+{
+  "id": "2026682978718318777",
+  "handle": "f_philippot",
+  "text": "En direct ce mercredi à 18h25 sur BFMTV",
+  "url": "https://x.com/f_philippot/status/2026682978718318777",
+  "publishedAt": "2026-02-25T15:37:30.000Z",
+  "observedAt": "2026-10-17T08:45:44.877Z",
+  "firstSeenAt": "2026-10-17T08:45:44.877Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 7884,
+    "likes": 173,
+    "reposts": 59,
+    "replies": 23,
+    "quotes": 2,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:44.877Z",
+      "metrics": {
+        "views": 7884,
+        "likes": 173,
+        "reposts": 59,
+        "replies": 23,
+        "quotes": 2,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:44.877Z",
+      "text": "En direct ce mercredi à 18h25 sur BFMTV"
+    }
+  ]
+}

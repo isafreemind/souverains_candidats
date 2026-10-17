@@ -1,0 +1,37 @@
+{
+  "id": "1990864855213932973",
+  "handle": "f_philippot",
+  "text": "Ce mercredi à 9h en direct sur CNews et E1",
+  "url": "https://x.com/f_philippot/status/1990864855213932973",
+  "publishedAt": "2025-11-18T19:29:04.000Z",
+  "observedAt": "2026-10-17T08:48:00.570Z",
+  "firstSeenAt": "2026-10-17T08:48:00.570Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 26001,
+    "likes": 322,
+    "reposts": 107,
+    "replies": 43,
+    "quotes": 7,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:00.570Z",
+      "metrics": {
+        "views": 26001,
+        "likes": 322,
+        "reposts": 107,
+        "replies": 43,
+        "quotes": 7,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:00.570Z",
+      "text": "Ce mercredi à 9h en direct sur CNews et E1"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2063639095604101328",
+  "handle": "dupontaignan",
+  "text": "Tournoi du Benfica, fête des voisins rue des Bosquets, brocante du rond point Pasteur : un beau dimanche ensoleillé plein d’activités à Yerres !",
+  "url": "https://x.com/dupontaignan/status/2063639095604101328",
+  "publishedAt": "2026-06-07T15:07:55.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3342,
+    "likes": 50,
+    "reposts": 9,
+    "replies": 1,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 3342,
+        "likes": 50,
+        "reposts": 9,
+        "replies": 1,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 3342,
+        "likes": 50,
+        "reposts": 9,
+        "replies": 1,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "Tournoi du Benfica, fête des voisins rue des Bosquets, brocante du rond point Pasteur : un beau dimanche ensoleillé plein d’activités à Yerres !"
+    }
+  ]
+}

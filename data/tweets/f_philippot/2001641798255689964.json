@@ -1,0 +1,37 @@
+{
+  "id": "2001641798255689964",
+  "handle": "f_philippot",
+  "text": "Depuis manif paysanne à Bruxelles, direct sur LCI à 14h30",
+  "url": "https://x.com/f_philippot/status/2001641798255689964",
+  "publishedAt": "2025-12-18T13:12:48.000Z",
+  "observedAt": "2026-10-17T08:47:18.964Z",
+  "firstSeenAt": "2026-10-17T08:47:18.964Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 11468,
+    "likes": 288,
+    "reposts": 69,
+    "replies": 19,
+    "quotes": 1,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:18.964Z",
+      "metrics": {
+        "views": 11468,
+        "likes": 288,
+        "reposts": 69,
+        "replies": 19,
+        "quotes": 1,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:18.964Z",
+      "text": "Depuis manif paysanne à Bruxelles, direct sur LCI à 14h30"
+    }
+  ]
+}

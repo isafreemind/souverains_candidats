@@ -1,0 +1,37 @@
+{
+  "id": "2060993147195306187",
+  "handle": "f_philippot",
+  "text": "À diffuser : ça suffit, reprenons le contrôle, et vite !\n⤵️",
+  "url": "https://x.com/f_philippot/status/2060993147195306187",
+  "publishedAt": "2026-05-31T07:53:52.000Z",
+  "observedAt": "2026-10-17T08:44:05.912Z",
+  "firstSeenAt": "2026-10-17T08:44:05.912Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 15809,
+    "likes": 962,
+    "reposts": 438,
+    "replies": 80,
+    "quotes": 14,
+    "bookmarks": 36
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:05.912Z",
+      "metrics": {
+        "views": 15809,
+        "likes": 962,
+        "reposts": 438,
+        "replies": 80,
+        "quotes": 14,
+        "bookmarks": 36
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:05.912Z",
+      "text": "À diffuser : ça suffit, reprenons le contrôle, et vite !\n⤵️"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2060332215511154994",
+  "handle": "f_philippot",
+  "text": "Et pile 19 ans plus tard, par référendum, les Français l’ont jeté au feu !",
+  "url": "https://x.com/f_philippot/status/2060332215511154994",
+  "publishedAt": "2026-05-29T12:07:33.000Z",
+  "observedAt": "2026-10-17T08:44:08.572Z",
+  "firstSeenAt": "2026-10-17T08:44:08.572Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7613,
+    "likes": 375,
+    "reposts": 119,
+    "replies": 16,
+    "quotes": 3,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:08.572Z",
+      "metrics": {
+        "views": 7613,
+        "likes": 375,
+        "reposts": 119,
+        "replies": 16,
+        "quotes": 3,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:08.572Z",
+      "text": "Et pile 19 ans plus tard, par référendum, les Français l’ont jeté au feu !"
+    }
+  ]
+}

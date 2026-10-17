@@ -1,0 +1,37 @@
+{
+  "id": "2016552108451910026",
+  "handle": "f_philippot",
+  "text": "*sauf pour la France",
+  "url": "https://x.com/f_philippot/status/2016552108451910026",
+  "publishedAt": "2026-01-28T16:41:03.000Z",
+  "observedAt": "2026-10-17T08:46:28.878Z",
+  "firstSeenAt": "2026-10-17T08:46:28.878Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 15049,
+    "likes": 808,
+    "reposts": 226,
+    "replies": 60,
+    "quotes": 7,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:28.878Z",
+      "metrics": {
+        "views": 15049,
+        "likes": 808,
+        "reposts": 226,
+        "replies": 60,
+        "quotes": 7,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:28.878Z",
+      "text": "*sauf pour la France"
+    }
+  ]
+}

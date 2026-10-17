@@ -1,0 +1,37 @@
+{
+  "id": "2003804737821647327",
+  "handle": "dupontaignan",
+  "text": "Le CENSEUR CENSURÉ !",
+  "url": "https://x.com/dupontaignan/status/2003804737821647327",
+  "publishedAt": "2025-12-24T12:27:33.000Z",
+  "observedAt": "2026-10-17T08:49:52.305Z",
+  "firstSeenAt": "2026-10-17T08:49:52.305Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 113304,
+    "likes": 4892,
+    "reposts": 783,
+    "replies": 307,
+    "quotes": 37,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:52.305Z",
+      "metrics": {
+        "views": 113304,
+        "likes": 4892,
+        "reposts": 783,
+        "replies": 307,
+        "quotes": 37,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:52.305Z",
+      "text": "Le CENSEUR CENSURÉ !"
+    }
+  ]
+}

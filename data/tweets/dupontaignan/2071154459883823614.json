@@ -1,0 +1,48 @@
+{
+  "id": "2071154459883823614",
+  "handle": "dupontaignan",
+  "text": "Le peuple français ne le supporte plus; et il n'a toujours pas fixé la date de la présidentielle. Vivement qu'il s'en aille !",
+  "url": "https://x.com/dupontaignan/status/2071154459883823614",
+  "publishedAt": "2026-06-28T08:51:18.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 49776,
+    "likes": 2380,
+    "reposts": 553,
+    "replies": 193,
+    "quotes": 15,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 49776,
+        "likes": 2380,
+        "reposts": 553,
+        "replies": 193,
+        "quotes": 15,
+        "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 49776,
+        "likes": 2380,
+        "reposts": 553,
+        "replies": 193,
+        "quotes": 15,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "Le peuple français ne le supporte plus; et il n'a toujours pas fixé la date de la présidentielle. Vivement qu'il s'en aille !"
+    }
+  ]
+}

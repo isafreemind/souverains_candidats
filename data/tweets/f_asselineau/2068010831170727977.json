@@ -1,0 +1,37 @@
+{
+  "id": "2068010831170727977",
+  "handle": "f_asselineau",
+  "text": "📺 Extrait de l'émission SAMEDI POLITIQUE avec Élise Blaise sur TVL,\nenregistrée ce vendredi 19 juin 2026\net qui sera diffusée demain\nsamedi 20 juin à partir de 11h00.",
+  "url": "https://x.com/f_asselineau/status/2068010831170727977",
+  "publishedAt": "2026-06-19T16:39:38.000Z",
+  "observedAt": "2026-10-17T08:37:44.000Z",
+  "firstSeenAt": "2026-10-17T08:37:44.000Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19619,
+    "likes": 837,
+    "reposts": 307,
+    "replies": 0,
+    "quotes": 5,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:37:44.000Z",
+      "metrics": {
+        "views": 19619,
+        "likes": 837,
+        "reposts": 307,
+        "replies": 0,
+        "quotes": 5,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:37:44.000Z",
+      "text": "📺 Extrait de l'émission SAMEDI POLITIQUE avec Élise Blaise sur TVL,\nenregistrée ce vendredi 19 juin 2026\net qui sera diffusée demain\nsamedi 20 juin à partir de 11h00."
+    }
+  ]
+}

@@ -23,7 +23,7 @@ npm.cmd run preview
 ## Fonctionnalités
 
 - Quatre courbes comparant l’engagement, les vues cumulées, la moyenne des vues par publication et les abonnés.
-- Sélection indépendante des comptes, périodes de 7/30/90 jours ou historique complet, regroupement par jour/semaine/mois.
+- Sélection indépendante des comptes, périodes de 7/30/90/365 jours ou historique complet, regroupement par jour/semaine/mois. La vue initiale affiche un an.
 - Tableau des tweets, recherche textuelle, tri par date, vues ou engagement, pagination et liens vers les publications.
 - Export CSV du jeu de tweets filtré par comptes et période. La recherche et le tri du tableau ne modifient pas cet export.
 - Repères verticaux datés des passages médiatiques documentés, activables et filtrés par compte/période, avec notes et liens vers leurs sources.
@@ -47,19 +47,38 @@ npm.cmd run preview
 Routes v2 vérifiées sur le schéma officiel :
 
 - `https://api.fxtwitter.com/2/profile/{handle}` pour les profils et abonnés ;
-- `https://api.fxtwitter.com/2/profile/{handle}/statuses?count=100&cursor=…` pour les publications.
+- `https://api.fxtwitter.com/2/profile/{handle}/statuses?count=20&cursor=…` pour les publications.
 
-Le collecteur suit `cursor.bottom`, déduplique les identifiants, contrôle l’auteur, les classifications, les compteurs et les dates. Une seule publication épinglée ancienne ne suffit pas à interrompre la pagination. Il applique un délai de 400 ms entre pages, un timeout de 25 s par requête et trois tentatives. Le paramètre `count=100` n’oblige pas FxTwitter à renvoyer 100 publications : en pratique, les pages peuvent être beaucoup plus courtes.
+Le collecteur suit `cursor.bottom`, déduplique les identifiants, contrôle l’auteur, les classifications, les compteurs et les dates. Une seule publication épinglée ancienne ne suffit pas à interrompre la pagination. Il espace les débuts de requêtes d’au moins une seconde, applique aussi un délai de 400 ms entre pages, un timeout de 25 s par requête et trois tentatives. Les réponses 429 et 503 avec `Retry-After` repoussent le prochain appel selon le délai demandé, en secondes ou date HTTP. Cela reste très inférieur aux 1 000 requêtes/minute/IP annoncées pour l’API v2. Le paramètre `count=100` n’oblige pas FxTwitter à renvoyer 100 publications : en pratique, les pages peuvent être beaucoup plus courtes.
 
 Par défaut : **90 jours recherchés, 100 pages maximum par compte**. Ce plafond peut être atteint avant 90 jours, particulièrement pour un compte très actif. Le manifeste indique si la limite temporelle, la fin des résultats ou le plafond de pages a été atteint. L’interface précise les comptes dont la collecte reste partielle. Aucune exhaustivité n’est promise. Les publications déjà archivées restent conservées même lorsqu’elles quittent la fenêtre de collecte.
 
 ```powershell
-$env:LOOKBACK_DAYS = '180'
-$env:MAX_PAGES = '100'
+$env:LOOKBACK_DAYS = '365'
+$env:MAX_PAGES = '500'
+$env:PAGE_SIZE = '20'
 npm.cmd run collect
 ```
 
-Les valeurs autorisées vont de 1 à 3650 jours et de 1 à 200 pages. Augmenter le plafond entraîne davantage de requêtes et de volume d’archives. Une collecte ne rafraîchit que les tweets renvoyés dans sa fenêtre : les compteurs de tweets plus anciens restent à leur dernier relevé. Les baisses de compteurs sont conservées telles que renvoyées par FxTwitter.
+Les valeurs autorisées vont de 1 à 3650 jours et de 1 à 1000 pages. `PAGE_SIZE` accepte de 1 à 100 publications demandées, avec 20 par défaut : une taille réduite peut réussir lorsqu’une demande de 100 échoue côté FxTwitter. Augmenter le plafond entraîne davantage de requêtes et de volume d’archives. La commande ci-dessus tente une reprise historique sur un an, sans garantie d’exhaustivité de FxTwitter. Les collectes automatiques conservent une fenêtre de rafraîchissement de 90 jours ; l’historique plus ancien déjà récupéré reste archivé et affichable. Une collecte ne rafraîchit que les tweets renvoyés dans sa fenêtre : les compteurs de tweets plus anciens restent à leur dernier relevé. Les baisses de compteurs sont conservées telles que renvoyées par FxTwitter. Un point d’avancement et un manifeste intermédiaire sont enregistrés toutes les dix pages.
+
+Si la timeline standard renvoie une page vide ou une erreur 404 avant la date cible, le collecteur tente au même curseur le parcours alternatif documenté `with_replies=1`. Les réponses ainsi reçues restent exclues par le même filtre strict ; aucun changement du périmètre statistique. Si ce parcours échoue aussi, renvoie une page vide ou répète un curseur, la taille demandée est divisée par deux, jusqu’à 1, sans accélérer les appels et sans dépasser le plafond de pages. Le manifeste conserve la trace de ces adaptations dans `recoveries`. Leur réussite ne garantit pas l’exhaustivité de l’historique.
+
+Pour reprendre une tentative déjà archivée sans relire toutes les pages récentes, définir aussi `RESUME_FROM_RUN` avec le nom de son dossier sous `data/runs/`. Le script retrouve pour chaque compte le dernier curseur non vide et reprend via ce parcours alternatif. La nouvelle collecte reste distincte, conserve l’identifiant de la collecte d’origine et ajoute ses mesures aux archives existantes. Le nombre de pages et de publications du dernier rapport décrit cette reprise ; l’interface donne séparément le total et les dates de l’archive complète.
+
+### Résultat de l’essai annuel du 17 octobre 2026
+
+L’essai visait le 17 octobre 2025. Les quatre tentatives et leurs reprises, réalisées uniquement via FxTwitter, ont conservé 6 129 publications originales :
+
+| Compte | Publications archivées | Plus ancienne publication | Date cible atteinte |
+| --- | ---: | --- | --- |
+| @f_asselineau | 1 542 | 17 octobre 2025 | Oui |
+| @f_philippot | 2 955 | 12 novembre 2025 | Non |
+| @dupontaignan | 1 632 | 17 octobre 2025 | Oui |
+
+Pour Philippot, le parcours alternatif a terminé sa pagination avant la date cible. Les essais au même curseur avec des tailles demandées de 20, 10, 5, 2 puis 1 n’ont renvoyé aucune publication supplémentaire. La recherche par dates FxTwitter n’était pas exploitable lors de l’essai (réponses 404, y compris sur une recherche récente). Les résultats restent donc partiels pour ce compte. Atteindre la date cible pour les autres comptes ne prouve pas une absence de lacunes dans les réponses de FxTwitter.
+
+Le bilan structuré est conservé dans [data/annual-backfill-2026-10-17.json](data/annual-backfill-2026-10-17.json), avec les paramètres, les comptes rendus et les identifiants des collectes. Les compteurs ont été mesurés lors de ces relevés ; cette reprise ne reconstitue pas les vues reçues chaque jour ni les abonnés historiques.
 
 La collecte peut être partielle. Un profil inaccessible n’empêche pas l’essai de sa timeline ; un compte défaillant n’empêche pas les autres comptes. Les données réussies sont sauvegardées, les précédentes conservées, et le script finit avec le code 2 en présence d’erreurs ou d’entrées non classifiables. Il ne marque jamais un tweet comme supprimé sur le seul fondement de son absence d’une timeline.
 

@@ -1,0 +1,37 @@
+{
+  "id": "1997371457886675061",
+  "handle": "dupontaignan",
+  "text": "IL A RAISON ! L’UE nous tue, LIBÉRONS NOUS ……",
+  "url": "https://x.com/dupontaignan/status/1997371457886675061",
+  "publishedAt": "2025-12-06T18:23:59.000Z",
+  "observedAt": "2026-10-17T08:50:08.318Z",
+  "firstSeenAt": "2026-10-17T08:50:08.318Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 70195,
+    "likes": 5968,
+    "reposts": 1485,
+    "replies": 385,
+    "quotes": 18,
+    "bookmarks": 40
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:08.318Z",
+      "metrics": {
+        "views": 70195,
+        "likes": 5968,
+        "reposts": 1485,
+        "replies": 385,
+        "quotes": 18,
+        "bookmarks": 40
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:08.318Z",
+      "text": "IL A RAISON ! L’UE nous tue, LIBÉRONS NOUS ……"
+    }
+  ]
+}

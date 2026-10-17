@@ -1,0 +1,48 @@
+{
+  "id": "2060676500890779740",
+  "handle": "dupontaignan",
+  "text": "Quel pays ! Alors que le PSG s'apprête à jouer une finale de Ligue des Champions, dont la victoire serait synonyme de fête, les commerçants craignent pour leur boutique et barricadent tout par peur des violences. Courage aux Parisiens et aux forces de l'ordre !",
+  "url": "https://x.com/dupontaignan/status/2060676500890779740",
+  "publishedAt": "2026-05-30T10:55:37.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7111,
+    "likes": 271,
+    "reposts": 113,
+    "replies": 19,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 7111,
+        "likes": 271,
+        "reposts": 113,
+        "replies": 19,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 7111,
+        "likes": 271,
+        "reposts": 113,
+        "replies": 19,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "Quel pays ! Alors que le PSG s'apprête à jouer une finale de Ligue des Champions, dont la victoire serait synonyme de fête, les commerçants craignent pour leur boutique et barricadent tout par peur des violences. Courage aux Parisiens et aux forces de l'ordre !"
+    }
+  ]
+}

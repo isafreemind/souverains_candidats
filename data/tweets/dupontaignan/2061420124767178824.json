@@ -1,0 +1,48 @@
+{
+  "id": "2061420124767178824",
+  "handle": "dupontaignan",
+  "text": "Toute la lumière doit être faite sur cette terrible affaire ! Trop de classements sans suite, aucune volonté du parquet d'en savoir plus. LA VÉRITÉ DOIT ÉCLATER.",
+  "url": "https://x.com/dupontaignan/status/2061420124767178824",
+  "publishedAt": "2026-06-01T12:10:31.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 25228,
+    "likes": 2851,
+    "reposts": 1441,
+    "replies": 53,
+    "quotes": 14,
+    "bookmarks": 46
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 25228,
+        "likes": 2851,
+        "reposts": 1441,
+        "replies": 53,
+        "quotes": 14,
+        "bookmarks": 46
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 25228,
+        "likes": 2851,
+        "reposts": 1441,
+        "replies": 53,
+        "quotes": 14,
+        "bookmarks": 46
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "Toute la lumière doit être faite sur cette terrible affaire ! Trop de classements sans suite, aucune volonté du parquet d'en savoir plus. LA VÉRITÉ DOIT ÉCLATER."
+    }
+  ]
+}

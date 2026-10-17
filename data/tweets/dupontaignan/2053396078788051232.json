@@ -1,0 +1,37 @@
+{
+  "id": "2053396078788051232",
+  "handle": "dupontaignan",
+  "text": "Pour débuter ce dimanche, une belle histoire.",
+  "url": "https://x.com/dupontaignan/status/2053396078788051232",
+  "publishedAt": "2026-05-10T08:45:50.000Z",
+  "observedAt": "2026-10-17T08:48:17.558Z",
+  "firstSeenAt": "2026-10-17T08:48:17.558Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10721,
+    "likes": 328,
+    "reposts": 57,
+    "replies": 14,
+    "quotes": 2,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "metrics": {
+        "views": 10721,
+        "likes": 328,
+        "reposts": 57,
+        "replies": 14,
+        "quotes": 2,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "text": "Pour débuter ce dimanche, une belle histoire."
+    }
+  ]
+}

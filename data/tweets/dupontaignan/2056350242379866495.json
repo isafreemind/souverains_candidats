@@ -1,0 +1,37 @@
+{
+  "id": "2056350242379866495",
+  "handle": "dupontaignan",
+  "text": "Les Français aussi s’inquiètent. Mais eux, ce n’est pas un métier, c’est à cause de votre politique monétaire.",
+  "url": "https://x.com/dupontaignan/status/2056350242379866495",
+  "publishedAt": "2026-05-18T12:24:37.000Z",
+  "observedAt": "2026-10-17T08:48:10.129Z",
+  "firstSeenAt": "2026-10-17T08:48:10.129Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 8056,
+    "likes": 481,
+    "reposts": 171,
+    "replies": 9,
+    "quotes": 2,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:10.129Z",
+      "metrics": {
+        "views": 8056,
+        "likes": 481,
+        "reposts": 171,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:10.129Z",
+      "text": "Les Français aussi s’inquiètent. Mais eux, ce n’est pas un métier, c’est à cause de votre politique monétaire."
+    }
+  ]
+}

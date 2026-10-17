@@ -1,0 +1,48 @@
+{
+  "id": "2070530021047808118",
+  "handle": "dupontaignan",
+  "text": "Toutes mes pensées vont aux proches et à la famille du jeune Louis battu à mort par 5 jeunes. Une fois de plus l’État, par son inaction et son laxisme, porte la responsabilité de cette tragédie.",
+  "url": "https://x.com/dupontaignan/status/2070530021047808118",
+  "publishedAt": "2026-06-26T15:30:00.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 7300,
+    "likes": 697,
+    "reposts": 237,
+    "replies": 45,
+    "quotes": 2,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 7300,
+        "likes": 697,
+        "reposts": 237,
+        "replies": 45,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 7300,
+        "likes": 697,
+        "reposts": 237,
+        "replies": 45,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "Toutes mes pensées vont aux proches et à la famille du jeune Louis battu à mort par 5 jeunes. Une fois de plus l’État, par son inaction et son laxisme, porte la responsabilité de cette tragédie."
+    }
+  ]
+}

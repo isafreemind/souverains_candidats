@@ -1,0 +1,37 @@
+{
+  "id": "2024529332673400835",
+  "handle": "dupontaignan",
+  "text": "Nouvelle déclaration fracassante d’Emmanuel Macron, chaque jour il nous fait un peu plus honte.",
+  "url": "https://x.com/dupontaignan/status/2024529332673400835",
+  "publishedAt": "2026-02-19T16:59:41.000Z",
+  "observedAt": "2026-10-17T08:49:12.233Z",
+  "firstSeenAt": "2026-10-17T08:49:12.233Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 18839,
+    "likes": 2196,
+    "reposts": 717,
+    "replies": 135,
+    "quotes": 16,
+    "bookmarks": 50
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:12.233Z",
+      "metrics": {
+        "views": 18839,
+        "likes": 2196,
+        "reposts": 717,
+        "replies": 135,
+        "quotes": 16,
+        "bookmarks": 50
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:12.233Z",
+      "text": "Nouvelle déclaration fracassante d’Emmanuel Macron, chaque jour il nous fait un peu plus honte."
+    }
+  ]
+}

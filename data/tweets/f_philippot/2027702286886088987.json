@@ -1,0 +1,37 @@
+{
+  "id": "2027702286886088987",
+  "handle": "f_philippot",
+  "text": "🚨 À LIRE ET DIFFUSER ⤵️",
+  "url": "https://x.com/f_philippot/status/2027702286886088987",
+  "publishedAt": "2026-02-28T11:07:52.000Z",
+  "observedAt": "2026-10-17T08:45:40.725Z",
+  "firstSeenAt": "2026-10-17T08:45:40.725Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9132,
+    "likes": 200,
+    "reposts": 110,
+    "replies": 11,
+    "quotes": 4,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:40.725Z",
+      "metrics": {
+        "views": 9132,
+        "likes": 200,
+        "reposts": 110,
+        "replies": 11,
+        "quotes": 4,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:40.725Z",
+      "text": "🚨 À LIRE ET DIFFUSER ⤵️"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2047706315191885830",
+  "handle": "dupontaignan",
+  "text": "Nouvelle trahison de von der Leyen sur le traité Mercosur.",
+  "url": "https://x.com/dupontaignan/status/2047706315191885830",
+  "publishedAt": "2026-04-24T15:56:44.000Z",
+  "observedAt": "2026-10-17T08:48:33.182Z",
+  "firstSeenAt": "2026-10-17T08:48:33.182Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4387,
+    "likes": 403,
+    "reposts": 169,
+    "replies": 16,
+    "quotes": 3,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:33.182Z",
+      "metrics": {
+        "views": 4387,
+        "likes": 403,
+        "reposts": 169,
+        "replies": 16,
+        "quotes": 3,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:33.182Z",
+      "text": "Nouvelle trahison de von der Leyen sur le traité Mercosur."
+    }
+  ]
+}

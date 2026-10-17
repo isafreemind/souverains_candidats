@@ -1,0 +1,37 @@
+{
+  "id": "2052044760106377605",
+  "handle": "f_philippot",
+  "text": "Ce soir en direct à 20h30 sur CNews",
+  "url": "https://x.com/f_philippot/status/2052044760106377605",
+  "publishedAt": "2026-05-06T15:16:10.000Z",
+  "observedAt": "2026-10-17T08:44:30.820Z",
+  "firstSeenAt": "2026-10-17T08:44:30.820Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 6230,
+    "likes": 196,
+    "reposts": 70,
+    "replies": 20,
+    "quotes": 2,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:30.820Z",
+      "metrics": {
+        "views": 6230,
+        "likes": 196,
+        "reposts": 70,
+        "replies": 20,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:30.820Z",
+      "text": "Ce soir en direct à 20h30 sur CNews"
+    }
+  ]
+}

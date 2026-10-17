@@ -1,0 +1,37 @@
+{
+  "id": "2009212192890212602",
+  "handle": "dupontaignan",
+  "text": "En direct de la place de l'Étoile avec nos agriculteurs ! RÉSISTANCE !",
+  "url": "https://x.com/dupontaignan/status/2009212192890212602",
+  "publishedAt": "2026-01-08T10:34:50.000Z",
+  "observedAt": "2026-10-17T08:49:46.602Z",
+  "firstSeenAt": "2026-10-17T08:49:46.602Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 57578,
+    "likes": 5251,
+    "reposts": 1711,
+    "replies": 280,
+    "quotes": 53,
+    "bookmarks": 74
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:46.602Z",
+      "metrics": {
+        "views": 57578,
+        "likes": 5251,
+        "reposts": 1711,
+        "replies": 280,
+        "quotes": 53,
+        "bookmarks": 74
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:46.602Z",
+      "text": "En direct de la place de l'Étoile avec nos agriculteurs ! RÉSISTANCE !"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2066605862894944436",
+  "handle": "dupontaignan",
+  "text": "Pourquoi « peut-être » quand on sait que le budget du Ministère de la justice est de 77,22 euros par habitant en France, quand il est de 96,8 en Espagne, 100,6 en Italie, 136 en Allemagne et 245 en Suisse ? Il faut D'URGENCE augmenter le budget de notre justice.",
+  "url": "https://x.com/dupontaignan/status/2066605862894944436",
+  "publishedAt": "2026-06-15T19:36:48.000Z",
+  "observedAt": "2026-10-17T08:41:25.160Z",
+  "firstSeenAt": "2026-10-17T08:36:16.400Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 6012,
+    "likes": 136,
+    "reposts": 51,
+    "replies": 28,
+    "quotes": 1,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "metrics": {
+        "views": 6012,
+        "likes": 136,
+        "reposts": 51,
+        "replies": 28,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:25.160Z",
+      "metrics": {
+        "views": 6012,
+        "likes": 136,
+        "reposts": 51,
+        "replies": 28,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "text": "Pourquoi « peut-être » quand on sait que le budget du Ministère de la justice est de 77,22 euros par habitant en France, quand il est de 96,8 en Espagne, 100,6 en Italie, 136 en Allemagne et 245 en Suisse ? Il faut D'URGENCE augmenter le budget de notre justice."
+    }
+  ]
+}

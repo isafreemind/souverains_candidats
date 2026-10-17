@@ -1,0 +1,48 @@
+{
+  "id": "2062599196155232662",
+  "handle": "dupontaignan",
+  "text": "Je pense aux parents de Lyhanna, leur douleur immense. Leur colère aussi quand on découvre avec effroi que la Justice française a laissé un prédateur sexuel en liberté. Combien de temps allons nous tolérer cette indignité d’Etat.",
+  "url": "https://x.com/dupontaignan/status/2062599196155232662",
+  "publishedAt": "2026-06-04T18:15:44.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 30790,
+    "likes": 851,
+    "reposts": 303,
+    "replies": 52,
+    "quotes": 4,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 30790,
+        "likes": 851,
+        "reposts": 303,
+        "replies": 52,
+        "quotes": 4,
+        "bookmarks": 15
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 30790,
+        "likes": 851,
+        "reposts": 303,
+        "replies": 52,
+        "quotes": 4,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "Je pense aux parents de Lyhanna, leur douleur immense. Leur colère aussi quand on découvre avec effroi que la Justice française a laissé un prédateur sexuel en liberté. Combien de temps allons nous tolérer cette indignité d’Etat."
+    }
+  ]
+}

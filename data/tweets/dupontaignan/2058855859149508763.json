@@ -1,0 +1,48 @@
+{
+  "id": "2058855859149508763",
+  "handle": "dupontaignan",
+  "text": "Venez découvrir la maison du célèbre peintre impressionniste Gustave Caillebotte à Yerres : son parc, ses promenades en barques et l’exposition exceptionnelle de Monet aux peintres contemporains : La nature n’est pas un décor.",
+  "url": "https://x.com/dupontaignan/status/2058855859149508763",
+  "publishedAt": "2026-05-25T10:21:03.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3700,
+    "likes": 102,
+    "reposts": 12,
+    "replies": 2,
+    "quotes": 1,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 3700,
+        "likes": 102,
+        "reposts": 12,
+        "replies": 2,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 3700,
+        "likes": 102,
+        "reposts": 12,
+        "replies": 2,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "Venez découvrir la maison du célèbre peintre impressionniste Gustave Caillebotte à Yerres : son parc, ses promenades en barques et l’exposition exceptionnelle de Monet aux peintres contemporains : La nature n’est pas un décor."
+    }
+  ]
+}

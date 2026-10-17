@@ -1,0 +1,48 @@
+{
+  "id": "2062236901277405393",
+  "handle": "dupontaignan",
+  "text": "La cabale médiatique contre Xenia Fedorova prouve combien le système a peur de la liberté d'expression. \nTout mon soutien à cette journaliste harcelée par un pouvoir haineux.",
+  "url": "https://x.com/dupontaignan/status/2062236901277405393",
+  "publishedAt": "2026-06-03T18:16:06.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 76064,
+    "likes": 3897,
+    "reposts": 1284,
+    "replies": 524,
+    "quotes": 66,
+    "bookmarks": 35
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 76064,
+        "likes": 3897,
+        "reposts": 1284,
+        "replies": 524,
+        "quotes": 66,
+        "bookmarks": 35
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 76064,
+        "likes": 3897,
+        "reposts": 1284,
+        "replies": 524,
+        "quotes": 66,
+        "bookmarks": 35
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "La cabale médiatique contre Xenia Fedorova prouve combien le système a peur de la liberté d'expression. \nTout mon soutien à cette journaliste harcelée par un pouvoir haineux."
+    }
+  ]
+}

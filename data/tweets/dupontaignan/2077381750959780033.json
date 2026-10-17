@@ -1,0 +1,48 @@
+{
+  "id": "2077381750959780033",
+  "handle": "dupontaignan",
+  "text": "QUELLE FOLIE ! Ursula von der Leyen est en Ukraine pour parler de son adhésion à l'Union européenne. Cette adhésion couterait une fortune aux Français et ruinerait une bonne fois pour toute notre agriculture. La France, déjà anéantie par la macronie, n'a pas besoin de ça.",
+  "url": "https://x.com/dupontaignan/status/2077381750959780033",
+  "publishedAt": "2026-07-15T13:16:19.000Z",
+  "observedAt": "2026-10-17T08:41:06.259Z",
+  "firstSeenAt": "2026-10-17T08:36:00.267Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 20362,
+    "likes": 1325,
+    "reposts": 553,
+    "replies": 112,
+    "quotes": 15,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "metrics": {
+        "views": 20362,
+        "likes": 1325,
+        "reposts": 553,
+        "replies": 112,
+        "quotes": 15,
+        "bookmarks": 18
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:06.259Z",
+      "metrics": {
+        "views": 20362,
+        "likes": 1325,
+        "reposts": 553,
+        "replies": 112,
+        "quotes": 15,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "text": "QUELLE FOLIE ! Ursula von der Leyen est en Ukraine pour parler de son adhésion à l'Union européenne. Cette adhésion couterait une fortune aux Français et ruinerait une bonne fois pour toute notre agriculture. La France, déjà anéantie par la macronie, n'a pas besoin de ça."
+    }
+  ]
+}

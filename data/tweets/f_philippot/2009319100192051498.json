@@ -1,0 +1,37 @@
+{
+  "id": "2009319100192051498",
+  "handle": "f_philippot",
+  "text": "Oui oui et 100 fois oui !\n\n« On est Français et pas européens ! »\n#FREXIT !",
+  "url": "https://x.com/f_philippot/status/2009319100192051498",
+  "publishedAt": "2026-01-08T17:39:39.000Z",
+  "observedAt": "2026-10-17T08:46:57.467Z",
+  "firstSeenAt": "2026-10-17T08:46:57.467Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19854,
+    "likes": 1846,
+    "reposts": 688,
+    "replies": 86,
+    "quotes": 9,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:57.467Z",
+      "metrics": {
+        "views": 19854,
+        "likes": 1846,
+        "reposts": 688,
+        "replies": 86,
+        "quotes": 9,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:57.467Z",
+      "text": "Oui oui et 100 fois oui !\n\n« On est Français et pas européens ! »\n#FREXIT !"
+    }
+  ]
+}

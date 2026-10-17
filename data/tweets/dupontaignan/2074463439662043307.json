@@ -1,0 +1,48 @@
+{
+  "id": "2074463439662043307",
+  "handle": "dupontaignan",
+  "text": "En réduisant la peine d’inéligibilité, la Cour d’Appel revient à la raison en permettant à Marine Le Pen de se présenter à la présidentielle et à la démocratie de fonctionner. Le choix lui revient maintenant.\nLe peuple français est assez grand pour choisir en conscience son président.",
+  "url": "https://x.com/dupontaignan/status/2074463439662043307",
+  "publishedAt": "2026-07-07T12:00:00.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 54945,
+    "likes": 976,
+    "reposts": 228,
+    "replies": 184,
+    "quotes": 12,
+    "bookmarks": 22
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 54945,
+        "likes": 976,
+        "reposts": 228,
+        "replies": 184,
+        "quotes": 12,
+        "bookmarks": 22
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 54945,
+        "likes": 976,
+        "reposts": 228,
+        "replies": 184,
+        "quotes": 12,
+        "bookmarks": 22
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "En réduisant la peine d’inéligibilité, la Cour d’Appel revient à la raison en permettant à Marine Le Pen de se présenter à la présidentielle et à la démocratie de fonctionner. Le choix lui revient maintenant.\nLe peuple français est assez grand pour choisir en conscience son président."
+    }
+  ]
+}

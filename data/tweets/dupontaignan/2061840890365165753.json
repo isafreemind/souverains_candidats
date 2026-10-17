@@ -1,0 +1,48 @@
+{
+  "id": "2061840890365165753",
+  "handle": "dupontaignan",
+  "text": "Ce soir, ce sont les résultats Parcoursup, un système opaque, qu’il faut absolument réformer.",
+  "url": "https://x.com/dupontaignan/status/2061840890365165753",
+  "publishedAt": "2026-06-02T16:02:30.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 10435,
+    "likes": 404,
+    "reposts": 128,
+    "replies": 25,
+    "quotes": 0,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 10435,
+        "likes": 404,
+        "reposts": 128,
+        "replies": 25,
+        "quotes": 0,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 10435,
+        "likes": 404,
+        "reposts": 128,
+        "replies": 25,
+        "quotes": 0,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "Ce soir, ce sont les résultats Parcoursup, un système opaque, qu’il faut absolument réformer."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1982027007773835594",
+  "handle": "dupontaignan",
+  "text": "Un jour normal sur le service public ! Toujours entre neutralité, nuance et modestie évidemment puisque tout ça est payé par vos impôts, c’est la moindre des choses !",
+  "url": "https://x.com/dupontaignan/status/1982027007773835594",
+  "publishedAt": "2025-10-25T10:10:37.000Z",
+  "observedAt": "2026-10-17T08:50:42.097Z",
+  "firstSeenAt": "2026-10-17T08:50:42.097Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 12733,
+    "likes": 393,
+    "reposts": 108,
+    "replies": 35,
+    "quotes": 5,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:42.097Z",
+      "metrics": {
+        "views": 12733,
+        "likes": 393,
+        "reposts": 108,
+        "replies": 35,
+        "quotes": 5,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:42.097Z",
+      "text": "Un jour normal sur le service public ! Toujours entre neutralité, nuance et modestie évidemment puisque tout ça est payé par vos impôts, c’est la moindre des choses !"
+    }
+  ]
+}

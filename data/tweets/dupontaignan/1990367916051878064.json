@@ -1,0 +1,37 @@
+{
+  "id": "1990367916051878064",
+  "handle": "dupontaignan",
+  "text": "Avec quel argent ? Le nôtre bien évidemment !\n Une folie de plus, la destitution de Macron s'impose.",
+  "url": "https://x.com/dupontaignan/status/1990367916051878064",
+  "publishedAt": "2025-11-17T10:34:25.000Z",
+  "observedAt": "2026-10-17T08:50:27.110Z",
+  "firstSeenAt": "2026-10-17T08:50:27.110Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 43904,
+    "likes": 1956,
+    "reposts": 612,
+    "replies": 233,
+    "quotes": 14,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:27.110Z",
+      "metrics": {
+        "views": 43904,
+        "likes": 1956,
+        "reposts": 612,
+        "replies": 233,
+        "quotes": 14,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:27.110Z",
+      "text": "Avec quel argent ? Le nôtre bien évidemment !\n Une folie de plus, la destitution de Macron s'impose."
+    }
+  ]
+}

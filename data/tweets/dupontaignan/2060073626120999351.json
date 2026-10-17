@@ -1,0 +1,48 @@
+{
+  "id": "2060073626120999351",
+  "handle": "dupontaignan",
+  "text": "📺 Retrouvez-moi demain, vendredi 29 mai à 07h45, dans \"L'invité d'ICI Matin Roussillon\" sur @iciroussillon 🎙️",
+  "url": "https://x.com/dupontaignan/status/2060073626120999351",
+  "publishedAt": "2026-05-28T19:00:01.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2301,
+    "likes": 59,
+    "reposts": 16,
+    "replies": 4,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 2301,
+        "likes": 59,
+        "reposts": 16,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 2301,
+        "likes": 59,
+        "reposts": 16,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "📺 Retrouvez-moi demain, vendredi 29 mai à 07h45, dans \"L'invité d'ICI Matin Roussillon\" sur @iciroussillon 🎙️"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2076980269874044979",
+  "handle": "dupontaignan",
+  "text": "Défilé du 14 juillet : FIER de nos soldats , HONTE de nos dirigeants. Vivement 2027!",
+  "url": "https://x.com/dupontaignan/status/2076980269874044979",
+  "publishedAt": "2026-07-14T10:40:59.000Z",
+  "observedAt": "2026-10-17T08:41:09.504Z",
+  "firstSeenAt": "2026-10-17T08:36:01.792Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 14918,
+    "likes": 760,
+    "reposts": 167,
+    "replies": 107,
+    "quotes": 16,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "metrics": {
+        "views": 14918,
+        "likes": 760,
+        "reposts": 167,
+        "replies": 107,
+        "quotes": 16,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:09.504Z",
+      "metrics": {
+        "views": 14918,
+        "likes": 760,
+        "reposts": 167,
+        "replies": 107,
+        "quotes": 16,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "text": "Défilé du 14 juillet : FIER de nos soldats , HONTE de nos dirigeants. Vivement 2027!"
+    }
+  ]
+}

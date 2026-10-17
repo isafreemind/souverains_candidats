@@ -1,0 +1,48 @@
+{
+  "id": "2076016356030341263",
+  "handle": "f_asselineau",
+  "text": "⚠️ JE SUIS L'INVITÉ DE LA MATINALE\nDE NICOLAS STOQUER SUR GPTV\nce lundi 13 juillet 2026,\nde 8h45 à 10h00.",
+  "url": "https://x.com/f_asselineau/status/2076016356030341263",
+  "publishedAt": "2026-07-11T18:50:44.000Z",
+  "observedAt": "2026-10-17T08:37:38.030Z",
+  "firstSeenAt": "2026-10-17T08:32:34.741Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 41028,
+    "likes": 761,
+    "reposts": 283,
+    "replies": 25,
+    "quotes": 6,
+    "bookmarks": 13
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:32:34.741Z",
+      "metrics": {
+        "views": 41028,
+        "likes": 761,
+        "reposts": 283,
+        "replies": 25,
+        "quotes": 6,
+        "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:37:38.030Z",
+      "metrics": {
+        "views": 41028,
+        "likes": 761,
+        "reposts": 283,
+        "replies": 25,
+        "quotes": 6,
+        "bookmarks": 13
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:32:34.741Z",
+      "text": "⚠️ JE SUIS L'INVITÉ DE LA MATINALE\nDE NICOLAS STOQUER SUR GPTV\nce lundi 13 juillet 2026,\nde 8h45 à 10h00."
+    }
+  ]
+}

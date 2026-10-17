@@ -1,0 +1,37 @@
+{
+  "id": "2000178431628333341",
+  "handle": "f_philippot",
+  "text": "GENEVARD DÉMISSION ! Vite !\n\nMotion de censure !",
+  "url": "https://x.com/f_philippot/status/2000178431628333341",
+  "publishedAt": "2025-12-14T12:17:54.000Z",
+  "observedAt": "2026-10-17T08:47:20.560Z",
+  "firstSeenAt": "2026-10-17T08:47:20.560Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 27204,
+    "likes": 1809,
+    "reposts": 604,
+    "replies": 98,
+    "quotes": 10,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:20.560Z",
+      "metrics": {
+        "views": 27204,
+        "likes": 1809,
+        "reposts": 604,
+        "replies": 98,
+        "quotes": 10,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:20.560Z",
+      "text": "GENEVARD DÉMISSION ! Vite !\n\nMotion de censure !"
+    }
+  ]
+}

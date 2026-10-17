@@ -1,0 +1,37 @@
+{
+  "id": "2036106031147712692",
+  "handle": "dupontaignan",
+  "text": "Les prix du pétrole continuent de s’envoler, le Gouvernement doit absolument plafonner le prix du carburant et diminuer ses taxes afin de protéger le pouvoir d’achat des Français !",
+  "url": "https://x.com/dupontaignan/status/2036106031147712692",
+  "publishedAt": "2026-03-23T15:41:21.000Z",
+  "observedAt": "2026-10-17T08:48:53.135Z",
+  "firstSeenAt": "2026-10-17T08:48:53.135Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 15788,
+    "likes": 796,
+    "reposts": 349,
+    "replies": 76,
+    "quotes": 11,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:53.135Z",
+      "metrics": {
+        "views": 15788,
+        "likes": 796,
+        "reposts": 349,
+        "replies": 76,
+        "quotes": 11,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:53.135Z",
+      "text": "Les prix du pétrole continuent de s’envoler, le Gouvernement doit absolument plafonner le prix du carburant et diminuer ses taxes afin de protéger le pouvoir d’achat des Français !"
+    }
+  ]
+}

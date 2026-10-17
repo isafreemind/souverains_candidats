@@ -1,0 +1,48 @@
+{
+  "id": "2074161450025697520",
+  "handle": "dupontaignan",
+  "text": "Visite surprise au dépôt de bus Keolis à Burnoy pour rencontrer les chauffeurs : le constat est édifiant ! Direction impuissante, chauffeurs à bout, bus immobilisés ou rafistolés avec du scotch. Voilà la réalité à Keolis VYVS ! Mais les barons locaux endormis vous diront que tout va bien…",
+  "url": "https://x.com/dupontaignan/status/2074161450025697520",
+  "publishedAt": "2026-07-06T16:00:00.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 20669,
+    "likes": 763,
+    "reposts": 292,
+    "replies": 9,
+    "quotes": 0,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 20669,
+        "likes": 763,
+        "reposts": 292,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 20669,
+        "likes": 763,
+        "reposts": 292,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Visite surprise au dépôt de bus Keolis à Burnoy pour rencontrer les chauffeurs : le constat est édifiant ! Direction impuissante, chauffeurs à bout, bus immobilisés ou rafistolés avec du scotch. Voilà la réalité à Keolis VYVS ! Mais les barons locaux endormis vous diront que tout va bien…"
+    }
+  ]
+}

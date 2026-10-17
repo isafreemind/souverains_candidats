@@ -1,0 +1,37 @@
+{
+  "id": "2048813686916055224",
+  "handle": "f_philippot",
+  "text": "Heureusement ! \nL’inverse aurait été lunaire \n⤵️",
+  "url": "https://x.com/f_philippot/status/2048813686916055224",
+  "publishedAt": "2026-04-27T17:17:02.000Z",
+  "observedAt": "2026-10-17T08:44:42.097Z",
+  "firstSeenAt": "2026-10-17T08:44:42.097Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 17535,
+    "likes": 1587,
+    "reposts": 370,
+    "replies": 50,
+    "quotes": 5,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:42.097Z",
+      "metrics": {
+        "views": 17535,
+        "likes": 1587,
+        "reposts": 370,
+        "replies": 50,
+        "quotes": 5,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:42.097Z",
+      "text": "Heureusement ! \nL’inverse aurait été lunaire \n⤵️"
+    }
+  ]
+}

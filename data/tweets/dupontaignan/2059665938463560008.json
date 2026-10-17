@@ -1,0 +1,48 @@
+{
+  "id": "2059665938463560008",
+  "handle": "dupontaignan",
+  "text": "Le meurtrier d’Alban Gervaise va rentrer chez lui contre toute justice et tout respect pour les proches de la victime.",
+  "url": "https://x.com/dupontaignan/status/2059665938463560008",
+  "publishedAt": "2026-05-27T16:00:01.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4372,
+    "likes": 411,
+    "reposts": 168,
+    "replies": 14,
+    "quotes": 4,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 4372,
+        "likes": 411,
+        "reposts": 168,
+        "replies": 14,
+        "quotes": 4,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 4372,
+        "likes": 411,
+        "reposts": 168,
+        "replies": 14,
+        "quotes": 4,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "Le meurtrier d’Alban Gervaise va rentrer chez lui contre toute justice et tout respect pour les proches de la victime."
+    }
+  ]
+}

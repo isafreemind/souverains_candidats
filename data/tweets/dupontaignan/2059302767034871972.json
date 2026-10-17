@@ -1,0 +1,48 @@
+{
+  "id": "2059302767034871972",
+  "handle": "dupontaignan",
+  "text": "Oui à l’électrification, mais pas n’importe comment !",
+  "url": "https://x.com/dupontaignan/status/2059302767034871972",
+  "publishedAt": "2026-05-26T15:56:54.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3099,
+    "likes": 149,
+    "reposts": 45,
+    "replies": 21,
+    "quotes": 3,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 3099,
+        "likes": 149,
+        "reposts": 45,
+        "replies": 21,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 3099,
+        "likes": 149,
+        "reposts": 45,
+        "replies": 21,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "Oui à l’électrification, mais pas n’importe comment !"
+    }
+  ]
+}

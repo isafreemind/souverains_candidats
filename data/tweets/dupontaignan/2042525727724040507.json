@@ -1,0 +1,37 @@
+{
+  "id": "2042525727724040507",
+  "handle": "dupontaignan",
+  "text": "Merci Geneviève Salsat. En effet, pour moi, les actes comptent davantage que les paroles !",
+  "url": "https://x.com/dupontaignan/status/2042525727724040507",
+  "publishedAt": "2026-04-10T08:50:56.000Z",
+  "observedAt": "2026-10-17T08:48:43.404Z",
+  "firstSeenAt": "2026-10-17T08:48:43.404Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5223,
+    "likes": 156,
+    "reposts": 50,
+    "replies": 12,
+    "quotes": 3,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:43.404Z",
+      "metrics": {
+        "views": 5223,
+        "likes": 156,
+        "reposts": 50,
+        "replies": 12,
+        "quotes": 3,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:43.404Z",
+      "text": "Merci Geneviève Salsat. En effet, pour moi, les actes comptent davantage que les paroles !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2011775361143718160",
+  "handle": "f_philippot",
+  "text": "Brigitte a encore frappé ??!",
+  "url": "https://x.com/f_philippot/status/2011775361143718160",
+  "publishedAt": "2026-01-15T12:19:57.000Z",
+  "observedAt": "2026-10-17T08:46:43.293Z",
+  "firstSeenAt": "2026-10-17T08:46:43.293Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 28943,
+    "likes": 1014,
+    "reposts": 230,
+    "replies": 145,
+    "quotes": 12,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:43.293Z",
+      "metrics": {
+        "views": 28943,
+        "likes": 1014,
+        "reposts": 230,
+        "replies": 145,
+        "quotes": 12,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:43.293Z",
+      "text": "Brigitte a encore frappé ??!"
+    }
+  ]
+}

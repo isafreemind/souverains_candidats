@@ -1,0 +1,37 @@
+{
+  "id": "2069740365704220807",
+  "handle": "f_philippot",
+  "text": "Monstrueux !",
+  "url": "https://x.com/f_philippot/status/2069740365704220807",
+  "publishedAt": "2026-06-24T11:12:11.000Z",
+  "observedAt": "2026-10-17T08:43:43.732Z",
+  "firstSeenAt": "2026-10-17T08:43:43.732Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 78021,
+    "likes": 1509,
+    "reposts": 581,
+    "replies": 67,
+    "quotes": 14,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:43.732Z",
+      "metrics": {
+        "views": 78021,
+        "likes": 1509,
+        "reposts": 581,
+        "replies": 67,
+        "quotes": 14,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:43.732Z",
+      "text": "Monstrueux !"
+    }
+  ]
+}

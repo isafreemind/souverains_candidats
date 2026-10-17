@@ -1,0 +1,37 @@
+{
+  "id": "2070883653534523661",
+  "handle": "f_philippot",
+  "text": "La patronne de l’AFD en Allemagne rend hommage à Louis.\n\nMacron, lui, a oublié…",
+  "url": "https://x.com/f_philippot/status/2070883653534523661",
+  "publishedAt": "2026-06-27T14:55:12.000Z",
+  "observedAt": "2026-10-17T08:43:36.446Z",
+  "firstSeenAt": "2026-10-17T08:43:36.446Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 338346,
+    "likes": 30220,
+    "reposts": 5845,
+    "replies": 297,
+    "quotes": 53,
+    "bookmarks": 348
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:36.446Z",
+      "metrics": {
+        "views": 338346,
+        "likes": 30220,
+        "reposts": 5845,
+        "replies": 297,
+        "quotes": 53,
+        "bookmarks": 348
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:36.446Z",
+      "text": "La patronne de l’AFD en Allemagne rend hommage à Louis.\n\nMacron, lui, a oublié…"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2064679411102761430",
+  "handle": "dupontaignan",
+  "text": "Je propose un plan global de 18 mesures pour rendre à nouveau la justice au nom du peuple français.\nRetrouvez mon programme : https://www.debout-la-france.fr/projet/justice/",
+  "url": "https://x.com/dupontaignan/status/2064679411102761430",
+  "publishedAt": "2026-06-10T12:01:46.000Z",
+  "observedAt": "2026-10-17T08:41:28.320Z",
+  "firstSeenAt": "2026-10-17T08:36:19.102Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4201,
+    "likes": 353,
+    "reposts": 139,
+    "replies": 35,
+    "quotes": 4,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:19.102Z",
+      "metrics": {
+        "views": 4201,
+        "likes": 353,
+        "reposts": 139,
+        "replies": 35,
+        "quotes": 4,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:28.320Z",
+      "metrics": {
+        "views": 4201,
+        "likes": 353,
+        "reposts": 139,
+        "replies": 35,
+        "quotes": 4,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:19.102Z",
+      "text": "Je propose un plan global de 18 mesures pour rendre à nouveau la justice au nom du peuple français.\nRetrouvez mon programme : https://www.debout-la-france.fr/projet/justice/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1999527371804684720",
+  "handle": "f_philippot",
+  "text": "Relayez svp ! \n\n9 CRS ont tombé le casque pour soutenir les manifestants.\nÇa doit être la norme désormais.",
+  "url": "https://x.com/f_philippot/status/1999527371804684720",
+  "publishedAt": "2025-12-12T17:10:49.000Z",
+  "observedAt": "2026-10-17T08:47:25.572Z",
+  "firstSeenAt": "2026-10-17T08:47:25.572Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 121550,
+    "likes": 9474,
+    "reposts": 4584,
+    "replies": 345,
+    "quotes": 86,
+    "bookmarks": 202
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:25.572Z",
+      "metrics": {
+        "views": 121550,
+        "likes": 9474,
+        "reposts": 4584,
+        "replies": 345,
+        "quotes": 86,
+        "bookmarks": 202
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:25.572Z",
+      "text": "Relayez svp ! \n\n9 CRS ont tombé le casque pour soutenir les manifestants.\nÇa doit être la norme désormais."
+    }
+  ]
+}

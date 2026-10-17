@@ -1,0 +1,37 @@
+{
+  "id": "2049451244301812108",
+  "handle": "f_philippot",
+  "text": "Oui comme à peu près toutes les zones du monde à en croire la presse…\nQuelques exemples ⤵️",
+  "url": "https://x.com/f_philippot/status/2049451244301812108",
+  "publishedAt": "2026-04-29T11:30:28.000Z",
+  "observedAt": "2026-10-17T08:44:40.382Z",
+  "firstSeenAt": "2026-10-17T08:44:40.382Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 31502,
+    "likes": 1379,
+    "reposts": 588,
+    "replies": 90,
+    "quotes": 28,
+    "bookmarks": 104
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:40.382Z",
+      "metrics": {
+        "views": 31502,
+        "likes": 1379,
+        "reposts": 588,
+        "replies": 90,
+        "quotes": 28,
+        "bookmarks": 104
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:40.382Z",
+      "text": "Oui comme à peu près toutes les zones du monde à en croire la presse…\nQuelques exemples ⤵️"
+    }
+  ]
+}

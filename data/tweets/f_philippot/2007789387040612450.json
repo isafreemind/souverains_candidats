@@ -1,0 +1,37 @@
+{
+  "id": "2007789387040612450",
+  "handle": "f_philippot",
+  "text": "Seule question à lui poser : où sont passés les 2 millions ?!",
+  "url": "https://x.com/f_philippot/status/2007789387040612450",
+  "publishedAt": "2026-01-04T12:21:07.000Z",
+  "observedAt": "2026-10-17T08:47:02.764Z",
+  "firstSeenAt": "2026-10-17T08:47:02.764Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 51516,
+    "likes": 5113,
+    "reposts": 1830,
+    "replies": 215,
+    "quotes": 36,
+    "bookmarks": 24
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:02.764Z",
+      "metrics": {
+        "views": 51516,
+        "likes": 5113,
+        "reposts": 1830,
+        "replies": 215,
+        "quotes": 36,
+        "bookmarks": 24
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:02.764Z",
+      "text": "Seule question à lui poser : où sont passés les 2 millions ?!"
+    }
+  ]
+}

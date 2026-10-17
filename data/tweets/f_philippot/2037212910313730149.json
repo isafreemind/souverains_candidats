@@ -1,0 +1,37 @@
+{
+  "id": "2037212910313730149",
+  "handle": "f_philippot",
+  "text": "Cette ville va vite finir sous tutelle et ce ne sera pas plus mal !\n⤵️",
+  "url": "https://x.com/f_philippot/status/2037212910313730149",
+  "publishedAt": "2026-03-26T16:59:42.000Z",
+  "observedAt": "2026-10-17T08:45:14.647Z",
+  "firstSeenAt": "2026-10-17T08:45:14.647Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 54713,
+    "likes": 2352,
+    "reposts": 648,
+    "replies": 170,
+    "quotes": 12,
+    "bookmarks": 27
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:14.647Z",
+      "metrics": {
+        "views": 54713,
+        "likes": 2352,
+        "reposts": 648,
+        "replies": 170,
+        "quotes": 12,
+        "bookmarks": 27
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:14.647Z",
+      "text": "Cette ville va vite finir sous tutelle et ce ne sera pas plus mal !\n⤵️"
+    }
+  ]
+}

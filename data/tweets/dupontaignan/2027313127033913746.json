@@ -1,0 +1,37 @@
+{
+  "id": "2027313127033913746",
+  "handle": "dupontaignan",
+  "text": "Les données les plus intimes d’une dizaine de millions de Français ont fuité sur le web.\n\nCette fuite devrait sonner comme un avertissement pour les responsables politiques qui veulent imposer l'identité numérique pour se connecter aux réseaux sociaux, créer un portefeuille numérique européen, et instaurer un euro numérique.\n\nIl n’est pas trop tard pour renoncer afin de protéger nos données !",
+  "url": "https://x.com/dupontaignan/status/2027313127033913746",
+  "publishedAt": "2026-02-27T09:21:29.000Z",
+  "observedAt": "2026-10-17T08:49:07.129Z",
+  "firstSeenAt": "2026-10-17T08:49:07.129Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10544,
+    "likes": 430,
+    "reposts": 270,
+    "replies": 22,
+    "quotes": 4,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:07.129Z",
+      "metrics": {
+        "views": 10544,
+        "likes": 430,
+        "reposts": 270,
+        "replies": 22,
+        "quotes": 4,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:07.129Z",
+      "text": "Les données les plus intimes d’une dizaine de millions de Français ont fuité sur le web.\n\nCette fuite devrait sonner comme un avertissement pour les responsables politiques qui veulent imposer l'identité numérique pour se connecter aux réseaux sociaux, créer un portefeuille numérique européen, et instaurer un euro numérique.\n\nIl n’est pas trop tard pour renoncer afin de protéger nos données !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1995784787470983410",
+  "handle": "f_philippot",
+  "text": "L’UE TUE \n\nNouvel exemple ! ⤵️\n\nFrexit vite !",
+  "url": "https://x.com/f_philippot/status/1995784787470983410",
+  "publishedAt": "2025-12-02T09:19:07.000Z",
+  "observedAt": "2026-10-17T08:47:39.772Z",
+  "firstSeenAt": "2026-10-17T08:47:39.772Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 12098,
+    "likes": 416,
+    "reposts": 146,
+    "replies": 16,
+    "quotes": 5,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:39.772Z",
+      "metrics": {
+        "views": 12098,
+        "likes": 416,
+        "reposts": 146,
+        "replies": 16,
+        "quotes": 5,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:39.772Z",
+      "text": "L’UE TUE \n\nNouvel exemple ! ⤵️\n\nFrexit vite !"
+    }
+  ]
+}

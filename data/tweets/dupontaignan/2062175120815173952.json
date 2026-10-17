@@ -1,0 +1,48 @@
+{
+  "id": "2062175120815173952",
+  "handle": "dupontaignan",
+  "text": "« For sure » la mort de nos entreprises continue.\n\nAu lieu de se donner en spectacle à Versailles pour le sommet Choose France, Macron ferait mieux de s’occuper de la survie de nos PME et de nos artisans qui sont asphyxiés de normes et de taxes.",
+  "url": "https://x.com/dupontaignan/status/2062175120815173952",
+  "publishedAt": "2026-06-03T14:10:36.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8845,
+    "likes": 803,
+    "reposts": 368,
+    "replies": 64,
+    "quotes": 8,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 8845,
+        "likes": 803,
+        "reposts": 368,
+        "replies": 64,
+        "quotes": 8,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 8845,
+        "likes": 803,
+        "reposts": 368,
+        "replies": 64,
+        "quotes": 8,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "« For sure » la mort de nos entreprises continue.\n\nAu lieu de se donner en spectacle à Versailles pour le sommet Choose France, Macron ferait mieux de s’occuper de la survie de nos PME et de nos artisans qui sont asphyxiés de normes et de taxes."
+    }
+  ]
+}

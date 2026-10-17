@@ -1,0 +1,37 @@
+{
+  "id": "2049242272848384347",
+  "handle": "dupontaignan",
+  "text": "Merci Daniel Grenon de dévoiler ce scandale national. Il est temps de réagir.",
+  "url": "https://x.com/dupontaignan/status/2049242272848384347",
+  "publishedAt": "2026-04-28T21:40:05.000Z",
+  "observedAt": "2026-10-17T08:48:31.821Z",
+  "firstSeenAt": "2026-10-17T08:48:31.821Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7754,
+    "likes": 474,
+    "reposts": 250,
+    "replies": 12,
+    "quotes": 1,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:31.821Z",
+      "metrics": {
+        "views": 7754,
+        "likes": 474,
+        "reposts": 250,
+        "replies": 12,
+        "quotes": 1,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:31.821Z",
+      "text": "Merci Daniel Grenon de dévoiler ce scandale national. Il est temps de réagir."
+    }
+  ]
+}

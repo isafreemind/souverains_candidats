@@ -1,0 +1,37 @@
+{
+  "id": "2073769911684309048",
+  "handle": "f_philippot",
+  "text": "Il a tout fait pour bien cacher le drapeau français et bien mettre en valeur le torchon bleu à étoiles !",
+  "url": "https://x.com/f_philippot/status/2073769911684309048",
+  "publishedAt": "2026-07-05T14:04:10.000Z",
+  "observedAt": "2026-10-17T08:43:29.016Z",
+  "firstSeenAt": "2026-10-17T08:43:29.016Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 46564,
+    "likes": 5125,
+    "reposts": 1670,
+    "replies": 250,
+    "quotes": 37,
+    "bookmarks": 46
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "metrics": {
+        "views": 46564,
+        "likes": 5125,
+        "reposts": 1670,
+        "replies": 250,
+        "quotes": 37,
+        "bookmarks": 46
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "text": "Il a tout fait pour bien cacher le drapeau français et bien mettre en valeur le torchon bleu à étoiles !"
+    }
+  ]
+}

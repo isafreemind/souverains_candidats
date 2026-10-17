@@ -1,0 +1,48 @@
+{
+  "id": "2071282308351463616",
+  "handle": "dupontaignan",
+  "text": "Iran, Covid, canicule : La vérité triomphe toujours.\nRetrouvez ma nouvelle vidéo : https://youtu.be/VsBfPrNKlXE?si=O9XIWMD8cwabeugu",
+  "url": "https://x.com/dupontaignan/status/2071282308351463616",
+  "publishedAt": "2026-06-28T17:19:19.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4112,
+    "likes": 74,
+    "reposts": 27,
+    "replies": 1,
+    "quotes": 2,
+    "bookmarks": 0
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 4112,
+        "likes": 74,
+        "reposts": 27,
+        "replies": 1,
+        "quotes": 2,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 4112,
+        "likes": 74,
+        "reposts": 27,
+        "replies": 1,
+        "quotes": 2,
+        "bookmarks": 0
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "Iran, Covid, canicule : La vérité triomphe toujours.\nRetrouvez ma nouvelle vidéo : https://youtu.be/VsBfPrNKlXE?si=O9XIWMD8cwabeugu"
+    }
+  ]
+}

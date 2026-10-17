@@ -1,0 +1,48 @@
+{
+  "id": "2074523840470770127",
+  "handle": "dupontaignan",
+  "text": "Comme disait De Gaulle : « la meilleure cour suprême c’est le peuple ! »",
+  "url": "https://x.com/dupontaignan/status/2074523840470770127",
+  "publishedAt": "2026-07-07T16:00:01.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8946,
+    "likes": 661,
+    "reposts": 200,
+    "replies": 40,
+    "quotes": 5,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 8946,
+        "likes": 661,
+        "reposts": 200,
+        "replies": 40,
+        "quotes": 5,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 8946,
+        "likes": 661,
+        "reposts": 200,
+        "replies": 40,
+        "quotes": 5,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "Comme disait De Gaulle : « la meilleure cour suprême c’est le peuple ! »"
+    }
+  ]
+}

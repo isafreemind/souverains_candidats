@@ -1,0 +1,37 @@
+{
+  "id": "2041572318170735047",
+  "handle": "dupontaignan",
+  "text": "Les propos de Donald Trump menaçant de faire disparaître une civilisation entière en une nuit sont irresponsables et effrayants. \nOn ne libère pas un peuple en l’anéantissant sous les bombes.",
+  "url": "https://x.com/dupontaignan/status/2041572318170735047",
+  "publishedAt": "2026-04-07T17:42:25.000Z",
+  "observedAt": "2026-10-17T08:48:43.404Z",
+  "firstSeenAt": "2026-10-17T08:48:43.404Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8101,
+    "likes": 272,
+    "reposts": 69,
+    "replies": 75,
+    "quotes": 6,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:43.404Z",
+      "metrics": {
+        "views": 8101,
+        "likes": 272,
+        "reposts": 69,
+        "replies": 75,
+        "quotes": 6,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:43.404Z",
+      "text": "Les propos de Donald Trump menaçant de faire disparaître une civilisation entière en une nuit sont irresponsables et effrayants. \nOn ne libère pas un peuple en l’anéantissant sous les bombes."
+    }
+  ]
+}

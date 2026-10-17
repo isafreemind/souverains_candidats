@@ -1,0 +1,37 @@
+{
+  "id": "1995080138976051369",
+  "handle": "f_philippot",
+  "text": "A diffuser partout !\n#StopEuro #Frexit \n\n⤵️",
+  "url": "https://x.com/f_philippot/status/1995080138976051369",
+  "publishedAt": "2025-11-30T10:39:06.000Z",
+  "observedAt": "2026-10-17T08:47:41.749Z",
+  "firstSeenAt": "2026-10-17T08:47:41.749Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 32387,
+    "likes": 1486,
+    "reposts": 720,
+    "replies": 31,
+    "quotes": 14,
+    "bookmarks": 57
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:41.749Z",
+      "metrics": {
+        "views": 32387,
+        "likes": 1486,
+        "reposts": 720,
+        "replies": 31,
+        "quotes": 14,
+        "bookmarks": 57
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:41.749Z",
+      "text": "A diffuser partout !\n#StopEuro #Frexit \n\n⤵️"
+    }
+  ]
+}

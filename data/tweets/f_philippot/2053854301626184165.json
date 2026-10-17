@@ -1,0 +1,37 @@
+{
+  "id": "2053854301626184165",
+  "handle": "f_philippot",
+  "text": "Le cinéma le cinéma le cinéma…\nLà, même pendant le covid, on n’avait pas vu un truc pareil !🤦🏻‍♂️\n\nLe but : la peur !",
+  "url": "https://x.com/f_philippot/status/2053854301626184165",
+  "publishedAt": "2026-05-11T15:06:38.000Z",
+  "observedAt": "2026-10-17T08:44:26.396Z",
+  "firstSeenAt": "2026-10-17T08:44:26.396Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 18982,
+    "likes": 885,
+    "reposts": 350,
+    "replies": 82,
+    "quotes": 8,
+    "bookmarks": 19
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:26.396Z",
+      "metrics": {
+        "views": 18982,
+        "likes": 885,
+        "reposts": 350,
+        "replies": 82,
+        "quotes": 8,
+        "bookmarks": 19
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:26.396Z",
+      "text": "Le cinéma le cinéma le cinéma…\nLà, même pendant le covid, on n’avait pas vu un truc pareil !🤦🏻‍♂️\n\nLe but : la peur !"
+    }
+  ]
+}

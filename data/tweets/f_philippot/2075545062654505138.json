@@ -1,0 +1,37 @@
+{
+  "id": "2075545062654505138",
+  "handle": "f_philippot",
+  "text": "🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️",
+  "url": "https://x.com/f_philippot/status/2075545062654505138",
+  "publishedAt": "2026-07-10T11:37:59.000Z",
+  "observedAt": "2026-10-17T08:43:23.066Z",
+  "firstSeenAt": "2026-10-17T08:43:23.066Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 16627,
+    "likes": 285,
+    "reposts": 71,
+    "replies": 25,
+    "quotes": 1,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:23.066Z",
+      "metrics": {
+        "views": 16627,
+        "likes": 285,
+        "reposts": 71,
+        "replies": 25,
+        "quotes": 1,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:23.066Z",
+      "text": "🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2078087544621687247",
+  "handle": "f_philippot",
+  "text": "Et les Français, eux, le veulent aussi ? \nSTOP",
+  "url": "https://x.com/f_philippot/status/2078087544621687247",
+  "publishedAt": "2026-07-17T12:00:54.000Z",
+  "observedAt": "2026-10-17T08:39:59.184Z",
+  "firstSeenAt": "2026-10-17T08:34:55.515Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 14950,
+    "likes": 634,
+    "reposts": 226,
+    "replies": 45,
+    "quotes": 5,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "metrics": {
+        "views": 14950,
+        "likes": 634,
+        "reposts": 226,
+        "replies": 45,
+        "quotes": 5,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:39:59.184Z",
+      "metrics": {
+        "views": 14950,
+        "likes": 634,
+        "reposts": 226,
+        "replies": 45,
+        "quotes": 5,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "text": "Et les Français, eux, le veulent aussi ? \nSTOP"
+    }
+  ]
+}

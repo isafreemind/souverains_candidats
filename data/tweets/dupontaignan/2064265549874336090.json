@@ -1,0 +1,48 @@
+{
+  "id": "2064265549874336090",
+  "handle": "dupontaignan",
+  "text": "QUELLE HONTE ! Comment Laurent Nuñez peut-il oser utiliser le terme de « dysfonctionnement » après le viol et le meurtre d'une fillette de 11 ans ? DEHORS !",
+  "url": "https://x.com/dupontaignan/status/2064265549874336090",
+  "publishedAt": "2026-06-09T08:37:13.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10866,
+    "likes": 1126,
+    "reposts": 478,
+    "replies": 52,
+    "quotes": 7,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 10866,
+        "likes": 1126,
+        "reposts": 478,
+        "replies": 52,
+        "quotes": 7,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 10866,
+        "likes": 1126,
+        "reposts": 478,
+        "replies": 52,
+        "quotes": 7,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "QUELLE HONTE ! Comment Laurent Nuñez peut-il oser utiliser le terme de « dysfonctionnement » après le viol et le meurtre d'une fillette de 11 ans ? DEHORS !"
+    }
+  ]
+}

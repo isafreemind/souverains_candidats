@@ -1,0 +1,48 @@
+{
+  "id": "2076584820319146077",
+  "handle": "dupontaignan",
+  "text": "L'incendie qui ravage la forêt de Fontainebleau est un drame écologique et humain. Pensées pour nos pompiers, qui se battent avec un courage exemplaire. La France doit tirer toutes les leçons de cette catastrophe : prévention, moyens aériens et terrestres, protection de nos massifs forestiers. Notre patrimoine naturel mérite une véritable stratégie nationale.",
+  "url": "https://x.com/dupontaignan/status/2076584820319146077",
+  "publishedAt": "2026-07-13T08:29:36.000Z",
+  "observedAt": "2026-10-17T08:41:09.504Z",
+  "firstSeenAt": "2026-10-17T08:36:01.792Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10018,
+    "likes": 374,
+    "reposts": 119,
+    "replies": 51,
+    "quotes": 2,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "metrics": {
+        "views": 10018,
+        "likes": 374,
+        "reposts": 119,
+        "replies": 51,
+        "quotes": 2,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:09.504Z",
+      "metrics": {
+        "views": 10018,
+        "likes": 374,
+        "reposts": 119,
+        "replies": 51,
+        "quotes": 2,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "text": "L'incendie qui ravage la forêt de Fontainebleau est un drame écologique et humain. Pensées pour nos pompiers, qui se battent avec un courage exemplaire. La France doit tirer toutes les leçons de cette catastrophe : prévention, moyens aériens et terrestres, protection de nos massifs forestiers. Notre patrimoine naturel mérite une véritable stratégie nationale."
+    }
+  ]
+}

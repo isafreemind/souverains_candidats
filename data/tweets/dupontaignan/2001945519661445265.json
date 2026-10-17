@@ -1,0 +1,37 @@
+{
+  "id": "2001945519661445265",
+  "handle": "dupontaignan",
+  "text": "Nos agriculteurs Français ont un grand défaut : ne pas avoir la nationalité ukrainienne !",
+  "url": "https://x.com/dupontaignan/status/2001945519661445265",
+  "publishedAt": "2025-12-19T09:19:40.000Z",
+  "observedAt": "2026-10-17T08:49:55.015Z",
+  "firstSeenAt": "2026-10-17T08:49:55.015Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 12241,
+    "likes": 1013,
+    "reposts": 393,
+    "replies": 140,
+    "quotes": 12,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:55.015Z",
+      "metrics": {
+        "views": 12241,
+        "likes": 1013,
+        "reposts": 393,
+        "replies": 140,
+        "quotes": 12,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:55.015Z",
+      "text": "Nos agriculteurs Français ont un grand défaut : ne pas avoir la nationalité ukrainienne !"
+    }
+  ]
+}

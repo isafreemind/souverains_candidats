@@ -1,0 +1,37 @@
+{
+  "id": "1995603198711923061",
+  "handle": "f_philippot",
+  "text": "L’Élysée dans la tourmente ce soir après ce tweet désastreux utilisant les méthodes totalitaires qu’il prétend combattre !…\n\n⤵️",
+  "url": "https://x.com/f_philippot/status/1995603198711923061",
+  "publishedAt": "2025-12-01T21:17:33.000Z",
+  "observedAt": "2026-10-17T08:47:39.772Z",
+  "firstSeenAt": "2026-10-17T08:47:39.772Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 48701,
+    "likes": 2730,
+    "reposts": 894,
+    "replies": 102,
+    "quotes": 12,
+    "bookmarks": 40
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:39.772Z",
+      "metrics": {
+        "views": 48701,
+        "likes": 2730,
+        "reposts": 894,
+        "replies": 102,
+        "quotes": 12,
+        "bookmarks": 40
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:39.772Z",
+      "text": "L’Élysée dans la tourmente ce soir après ce tweet désastreux utilisant les méthodes totalitaires qu’il prétend combattre !…\n\n⤵️"
+    }
+  ]
+}

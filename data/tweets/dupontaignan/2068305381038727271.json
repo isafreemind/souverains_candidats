@@ -1,0 +1,48 @@
+{
+  "id": "2068305381038727271",
+  "handle": "dupontaignan",
+  "text": "L'Etat dilapide quotidiennement l'argent des contribuables mais quand il faut investir pour la justice ou la sécurité alors il n'y a plus personne.",
+  "url": "https://x.com/dupontaignan/status/2068305381038727271",
+  "publishedAt": "2026-06-20T12:10:04.000Z",
+  "observedAt": "2026-10-17T08:41:23.669Z",
+  "firstSeenAt": "2026-10-17T08:36:14.481Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 17045,
+    "likes": 1126,
+    "reposts": 322,
+    "replies": 27,
+    "quotes": 4,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "metrics": {
+        "views": 17045,
+        "likes": 1126,
+        "reposts": 322,
+        "replies": 27,
+        "quotes": 4,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:23.669Z",
+      "metrics": {
+        "views": 17045,
+        "likes": 1126,
+        "reposts": 322,
+        "replies": 27,
+        "quotes": 4,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "text": "L'Etat dilapide quotidiennement l'argent des contribuables mais quand il faut investir pour la justice ou la sécurité alors il n'y a plus personne."
+    }
+  ]
+}

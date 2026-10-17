@@ -1,0 +1,37 @@
+{
+  "id": "2057055098887422107",
+  "handle": "f_philippot",
+  "text": "VOTEZ CONTRE !\n\nIl faut bloquer Macron au maximum !",
+  "url": "https://x.com/f_philippot/status/2057055098887422107",
+  "publishedAt": "2026-05-20T11:05:28.000Z",
+  "observedAt": "2026-10-17T08:44:19.983Z",
+  "firstSeenAt": "2026-10-17T08:44:19.983Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 15067,
+    "likes": 722,
+    "reposts": 287,
+    "replies": 61,
+    "quotes": 5,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:19.983Z",
+      "metrics": {
+        "views": 15067,
+        "likes": 722,
+        "reposts": 287,
+        "replies": 61,
+        "quotes": 5,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:19.983Z",
+      "text": "VOTEZ CONTRE !\n\nIl faut bloquer Macron au maximum !"
+    }
+  ]
+}

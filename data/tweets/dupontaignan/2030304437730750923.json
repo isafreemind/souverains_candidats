@@ -1,0 +1,37 @@
+{
+  "id": "2030304437730750923",
+  "handle": "dupontaignan",
+  "text": "Bel exemple d'indépendance nationale, qui a permis à la France de dire sa vérité au monde, avant l'arrivée de présidents qui suivent le vent des États-Unis et de l'Union européenne et qui ne sont plus respectés par personne.",
+  "url": "https://x.com/dupontaignan/status/2030304437730750923",
+  "publishedAt": "2026-03-07T15:27:53.000Z",
+  "observedAt": "2026-10-17T08:49:01.555Z",
+  "firstSeenAt": "2026-10-17T08:49:01.555Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7127,
+    "likes": 278,
+    "reposts": 108,
+    "replies": 13,
+    "quotes": 2,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:01.555Z",
+      "metrics": {
+        "views": 7127,
+        "likes": 278,
+        "reposts": 108,
+        "replies": 13,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:01.555Z",
+      "text": "Bel exemple d'indépendance nationale, qui a permis à la France de dire sa vérité au monde, avant l'arrivée de présidents qui suivent le vent des États-Unis et de l'Union européenne et qui ne sont plus respectés par personne."
+    }
+  ]
+}

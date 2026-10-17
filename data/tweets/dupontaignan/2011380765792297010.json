@@ -1,0 +1,37 @@
+{
+  "id": "2011380765792297010",
+  "handle": "dupontaignan",
+  "text": "Nicolas Dupont-Aignan présente ses voeux à la presse https://x.com/i/broadcasts/1vAxRQwNDyDJl",
+  "url": "https://x.com/dupontaignan/status/2011380765792297010",
+  "publishedAt": "2026-01-14T10:11:58.000Z",
+  "observedAt": "2026-10-17T08:49:45.132Z",
+  "firstSeenAt": "2026-10-17T08:49:45.132Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2949,
+    "likes": 100,
+    "reposts": 29,
+    "replies": 7,
+    "quotes": 2,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:45.132Z",
+      "metrics": {
+        "views": 2949,
+        "likes": 100,
+        "reposts": 29,
+        "replies": 7,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:45.132Z",
+      "text": "Nicolas Dupont-Aignan présente ses voeux à la presse https://x.com/i/broadcasts/1vAxRQwNDyDJl"
+    }
+  ]
+}

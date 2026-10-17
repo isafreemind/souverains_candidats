@@ -1,0 +1,48 @@
+{
+  "id": "2061523175519989918",
+  "handle": "dupontaignan",
+  "text": "📺 Retrouvez-moi demain, mardi 2 juin à 07h40, dans \"L'invité Politique\" de @franceinfo TV, au micro de @Abouilhaguet 🎙️",
+  "url": "https://x.com/dupontaignan/status/2061523175519989918",
+  "publishedAt": "2026-06-01T19:00:00.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2315,
+    "likes": 41,
+    "reposts": 11,
+    "replies": 9,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 2315,
+        "likes": 41,
+        "reposts": 11,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 2315,
+        "likes": 41,
+        "reposts": 11,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "📺 Retrouvez-moi demain, mardi 2 juin à 07h40, dans \"L'invité Politique\" de @franceinfo TV, au micro de @Abouilhaguet 🎙️"
+    }
+  ]
+}

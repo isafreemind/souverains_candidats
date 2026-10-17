@@ -1,0 +1,48 @@
+{
+  "id": "2072711906532458510",
+  "handle": "dupontaignan",
+  "text": "Dans le cadre de mon Tour de France des solutions : visite dans la Marne, rencontre avec un Maire qui nous prouve qu’on ne pourra s’en sortir que par les initiatives locales de bon sens !\nIci : la géothermie permet de rafraîchir l’école 👏",
+  "url": "https://x.com/dupontaignan/status/2072711906532458510",
+  "publishedAt": "2026-07-02T16:00:02.000Z",
+  "observedAt": "2026-10-17T08:41:18.999Z",
+  "firstSeenAt": "2026-10-17T08:36:09.015Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8446,
+    "likes": 515,
+    "reposts": 175,
+    "replies": 11,
+    "quotes": 1,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "metrics": {
+        "views": 8446,
+        "likes": 515,
+        "reposts": 175,
+        "replies": 11,
+        "quotes": 1,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:18.999Z",
+      "metrics": {
+        "views": 8446,
+        "likes": 515,
+        "reposts": 175,
+        "replies": 11,
+        "quotes": 1,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "text": "Dans le cadre de mon Tour de France des solutions : visite dans la Marne, rencontre avec un Maire qui nous prouve qu’on ne pourra s’en sortir que par les initiatives locales de bon sens !\nIci : la géothermie permet de rafraîchir l’école 👏"
+    }
+  ]
+}

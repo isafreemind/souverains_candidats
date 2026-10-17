@@ -1,0 +1,37 @@
+{
+  "id": "1981751858893914506",
+  "handle": "dupontaignan",
+  "text": "Après le Louvre pillé, la place Vendôme souillée !",
+  "url": "https://x.com/dupontaignan/status/1981751858893914506",
+  "publishedAt": "2025-10-24T15:57:16.000Z",
+  "observedAt": "2026-10-17T08:50:42.097Z",
+  "firstSeenAt": "2026-10-17T08:50:42.097Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 13275,
+    "likes": 1029,
+    "reposts": 210,
+    "replies": 78,
+    "quotes": 11,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:42.097Z",
+      "metrics": {
+        "views": 13275,
+        "likes": 1029,
+        "reposts": 210,
+        "replies": 78,
+        "quotes": 11,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:42.097Z",
+      "text": "Après le Louvre pillé, la place Vendôme souillée !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1999242166967701754",
+  "handle": "f_philippot",
+  "text": "Tout est dit ! ⤵️",
+  "url": "https://x.com/f_philippot/status/1999242166967701754",
+  "publishedAt": "2025-12-11T22:17:31.000Z",
+  "observedAt": "2026-10-17T08:47:29.395Z",
+  "firstSeenAt": "2026-10-17T08:47:29.395Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 41912,
+    "likes": 1945,
+    "reposts": 744,
+    "replies": 74,
+    "quotes": 13,
+    "bookmarks": 35
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:29.395Z",
+      "metrics": {
+        "views": 41912,
+        "likes": 1945,
+        "reposts": 744,
+        "replies": 74,
+        "quotes": 13,
+        "bookmarks": 35
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:29.395Z",
+      "text": "Tout est dit ! ⤵️"
+    }
+  ]
+}

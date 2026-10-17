@@ -1,0 +1,37 @@
+{
+  "id": "2029969996038779373",
+  "handle": "dupontaignan",
+  "text": "La France ne peut pas laisser tomber les Libanais.",
+  "url": "https://x.com/dupontaignan/status/2029969996038779373",
+  "publishedAt": "2026-03-06T17:18:56.000Z",
+  "observedAt": "2026-10-17T08:49:01.555Z",
+  "firstSeenAt": "2026-10-17T08:49:01.555Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 15036,
+    "likes": 408,
+    "reposts": 82,
+    "replies": 94,
+    "quotes": 10,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:01.555Z",
+      "metrics": {
+        "views": 15036,
+        "likes": 408,
+        "reposts": 82,
+        "replies": 94,
+        "quotes": 10,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:01.555Z",
+      "text": "La France ne peut pas laisser tomber les Libanais."
+    }
+  ]
+}

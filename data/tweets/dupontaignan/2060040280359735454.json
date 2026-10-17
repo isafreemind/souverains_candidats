@@ -1,0 +1,48 @@
+{
+  "id": "2060040280359735454",
+  "handle": "dupontaignan",
+  "text": "Il est évident d'avoir un radiateur chez soi quand il fait froid, mais par idéologie il n'y a toujours pas de \"plan de climatisation\" pour vivre normalement pendant les grosses chaleurs.",
+  "url": "https://x.com/dupontaignan/status/2060040280359735454",
+  "publishedAt": "2026-05-28T16:47:31.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 6041,
+    "likes": 240,
+    "reposts": 79,
+    "replies": 25,
+    "quotes": 3,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 6041,
+        "likes": 240,
+        "reposts": 79,
+        "replies": 25,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 6041,
+        "likes": 240,
+        "reposts": 79,
+        "replies": 25,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "Il est évident d'avoir un radiateur chez soi quand il fait froid, mais par idéologie il n'y a toujours pas de \"plan de climatisation\" pour vivre normalement pendant les grosses chaleurs."
+    }
+  ]
+}

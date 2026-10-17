@@ -1,0 +1,48 @@
+{
+  "id": "2062570975162515486",
+  "handle": "dupontaignan",
+  "text": "Record d'hypocrisie devant les jeunes agriculteurs. Tous se plaignent de l'Union européenne, mais aucun ne veut en sortir.\nJe propose une politique agricole nationale comme en Suisse, c'est possible !\nhttps://www.debout-la-france.fr/projet/agriculture/",
+  "url": "https://x.com/dupontaignan/status/2062570975162515486",
+  "publishedAt": "2026-06-04T16:23:35.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4503,
+    "likes": 360,
+    "reposts": 129,
+    "replies": 21,
+    "quotes": 2,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 4503,
+        "likes": 360,
+        "reposts": 129,
+        "replies": 21,
+        "quotes": 2,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 4503,
+        "likes": 360,
+        "reposts": 129,
+        "replies": 21,
+        "quotes": 2,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "Record d'hypocrisie devant les jeunes agriculteurs. Tous se plaignent de l'Union européenne, mais aucun ne veut en sortir.\nJe propose une politique agricole nationale comme en Suisse, c'est possible !\nhttps://www.debout-la-france.fr/projet/agriculture/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1996632143221719148",
+  "handle": "dupontaignan",
+  "text": "Grâce à la levée de boucliers sur les réseaux sociaux, le Gouvernement est obligé de reculer sur l’installation obligatoire de thermostats connectés. C’est bien la preuve qu’il faut protéger la liberté d’expression.",
+  "url": "https://x.com/dupontaignan/status/1996632143221719148",
+  "publishedAt": "2025-12-04T17:26:13.000Z",
+  "observedAt": "2026-10-17T08:50:08.318Z",
+  "firstSeenAt": "2026-10-17T08:50:08.318Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 30800,
+    "likes": 3376,
+    "reposts": 1201,
+    "replies": 137,
+    "quotes": 21,
+    "bookmarks": 55
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:08.318Z",
+      "metrics": {
+        "views": 30800,
+        "likes": 3376,
+        "reposts": 1201,
+        "replies": 137,
+        "quotes": 21,
+        "bookmarks": 55
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:08.318Z",
+      "text": "Grâce à la levée de boucliers sur les réseaux sociaux, le Gouvernement est obligé de reculer sur l’installation obligatoire de thermostats connectés. C’est bien la preuve qu’il faut protéger la liberté d’expression."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2050522917377552629",
+  "handle": "f_philippot",
+  "text": "Qu’en dit @jnbarrot ?!",
+  "url": "https://x.com/f_philippot/status/2050522917377552629",
+  "publishedAt": "2026-05-02T10:28:55.000Z",
+  "observedAt": "2026-10-17T08:44:38.042Z",
+  "firstSeenAt": "2026-10-17T08:44:38.042Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 47315,
+    "likes": 2009,
+    "reposts": 765,
+    "replies": 131,
+    "quotes": 16,
+    "bookmarks": 51
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:38.042Z",
+      "metrics": {
+        "views": 47315,
+        "likes": 2009,
+        "reposts": 765,
+        "replies": 131,
+        "quotes": 16,
+        "bookmarks": 51
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:38.042Z",
+      "text": "Qu’en dit @jnbarrot ?!"
+    }
+  ]
+}

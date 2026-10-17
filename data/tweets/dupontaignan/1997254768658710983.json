@@ -1,0 +1,37 @@
+{
+  "id": "1997254768658710983",
+  "handle": "dupontaignan",
+  "text": "La France fait naufrage et son président s’amuse …..",
+  "url": "https://x.com/dupontaignan/status/1997254768658710983",
+  "publishedAt": "2025-12-06T10:40:18.000Z",
+  "observedAt": "2026-10-17T08:50:08.318Z",
+  "firstSeenAt": "2026-10-17T08:50:08.318Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 20059,
+    "likes": 1548,
+    "reposts": 372,
+    "replies": 152,
+    "quotes": 11,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:08.318Z",
+      "metrics": {
+        "views": 20059,
+        "likes": 1548,
+        "reposts": 372,
+        "replies": 152,
+        "quotes": 11,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:08.318Z",
+      "text": "La France fait naufrage et son président s’amuse ….."
+    }
+  ]
+}

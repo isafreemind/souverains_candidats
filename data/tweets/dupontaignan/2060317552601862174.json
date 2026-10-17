@@ -1,0 +1,48 @@
+{
+  "id": "2060317552601862174",
+  "handle": "dupontaignan",
+  "text": "Au moins ça a le mérite d’être clair : l’Union européenne ne veut pas la paix entre la Russie et l’Ukraine et préfère faire perdurer une guerre sanglante.",
+  "url": "https://x.com/dupontaignan/status/2060317552601862174",
+  "publishedAt": "2026-05-29T11:09:18.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9284,
+    "likes": 624,
+    "reposts": 251,
+    "replies": 72,
+    "quotes": 4,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 9284,
+        "likes": 624,
+        "reposts": 251,
+        "replies": 72,
+        "quotes": 4,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 9284,
+        "likes": 624,
+        "reposts": 251,
+        "replies": 72,
+        "quotes": 4,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "Au moins ça a le mérite d’être clair : l’Union européenne ne veut pas la paix entre la Russie et l’Ukraine et préfère faire perdurer une guerre sanglante."
+    }
+  ]
+}

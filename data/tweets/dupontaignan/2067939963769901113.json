@@ -1,0 +1,48 @@
+{
+  "id": "2067939963769901113",
+  "handle": "dupontaignan",
+  "text": "Le CESE ne sert tellement à rien qu’une agence de com va devoir définir « sa raison d’être » pour 285 000€…\n\nEn 2027, supprimons tous ces comités inutiles et coûteux !!!",
+  "url": "https://x.com/dupontaignan/status/2067939963769901113",
+  "publishedAt": "2026-06-19T11:58:02.000Z",
+  "observedAt": "2026-10-17T08:41:23.669Z",
+  "firstSeenAt": "2026-10-17T08:36:14.481Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 11656,
+    "likes": 849,
+    "reposts": 378,
+    "replies": 13,
+    "quotes": 2,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "metrics": {
+        "views": 11656,
+        "likes": 849,
+        "reposts": 378,
+        "replies": 13,
+        "quotes": 2,
+        "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:23.669Z",
+      "metrics": {
+        "views": 11656,
+        "likes": 849,
+        "reposts": 378,
+        "replies": 13,
+        "quotes": 2,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "text": "Le CESE ne sert tellement à rien qu’une agence de com va devoir définir « sa raison d’être » pour 285 000€…\n\nEn 2027, supprimons tous ces comités inutiles et coûteux !!!"
+    }
+  ]
+}

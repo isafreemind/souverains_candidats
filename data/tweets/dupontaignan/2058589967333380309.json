@@ -1,0 +1,48 @@
+{
+  "id": "2058589967333380309",
+  "handle": "dupontaignan",
+  "text": "En ce dimanche de Pentecôte phrase émouvante ….",
+  "url": "https://x.com/dupontaignan/status/2058589967333380309",
+  "publishedAt": "2026-05-24T16:44:29.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7376,
+    "likes": 233,
+    "reposts": 43,
+    "replies": 9,
+    "quotes": 0,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 7376,
+        "likes": 233,
+        "reposts": 43,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 7376,
+        "likes": 233,
+        "reposts": 43,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "En ce dimanche de Pentecôte phrase émouvante …."
+    }
+  ]
+}

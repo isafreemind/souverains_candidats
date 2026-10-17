@@ -1,0 +1,48 @@
+{
+  "id": "2061367598747435163",
+  "handle": "dupontaignan",
+  "text": "A force de s'excuser de tout, on excuse tout. Un député doit être un exemple pour les Français, Karl Olive l'a été pour les voyous.",
+  "url": "https://x.com/dupontaignan/status/2061367598747435163",
+  "publishedAt": "2026-06-01T08:41:48.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 13247,
+    "likes": 1012,
+    "reposts": 230,
+    "replies": 38,
+    "quotes": 4,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 13247,
+        "likes": 1012,
+        "reposts": 230,
+        "replies": 38,
+        "quotes": 4,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 13247,
+        "likes": 1012,
+        "reposts": 230,
+        "replies": 38,
+        "quotes": 4,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "A force de s'excuser de tout, on excuse tout. Un député doit être un exemple pour les Français, Karl Olive l'a été pour les voyous."
+    }
+  ]
+}

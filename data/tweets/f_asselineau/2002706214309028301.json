@@ -1,0 +1,37 @@
+{
+  "id": "2002706214309028301",
+  "handle": "f_asselineau",
+  "text": "",
+  "url": "https://x.com/f_asselineau/status/2002706214309028301",
+  "publishedAt": "2025-12-21T11:42:24.000Z",
+  "observedAt": "2026-10-17T08:52:18.953Z",
+  "firstSeenAt": "2026-10-17T08:52:18.953Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 26949,
+    "likes": 1715,
+    "reposts": 608,
+    "replies": 67,
+    "quotes": 16,
+    "bookmarks": 33
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:52:18.953Z",
+      "metrics": {
+        "views": 26949,
+        "likes": 1715,
+        "reposts": 608,
+        "replies": 67,
+        "quotes": 16,
+        "bookmarks": 33
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:52:18.953Z",
+      "text": ""
+    }
+  ]
+}

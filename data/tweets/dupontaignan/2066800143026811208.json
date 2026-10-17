@@ -1,0 +1,48 @@
+{
+  "id": "2066800143026811208",
+  "handle": "dupontaignan",
+  "text": "Enfin UN ESPOIR DE PAIX ! \nIl faut maintenant le concrétiser… La France, en puissance indépendante, doit jouer tout son rôle pour dénouer la crise libanaise, stabiliser le Moyen-Orient et garantir la libre circulation dans le détroit d'Ormuz.",
+  "url": "https://x.com/dupontaignan/status/2066800143026811208",
+  "publishedAt": "2026-06-16T08:28:48.000Z",
+  "observedAt": "2026-10-17T08:41:25.160Z",
+  "firstSeenAt": "2026-10-17T08:36:16.400Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2048,
+    "likes": 65,
+    "reposts": 19,
+    "replies": 7,
+    "quotes": 1,
+    "bookmarks": 0
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "metrics": {
+        "views": 2048,
+        "likes": 65,
+        "reposts": 19,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:25.160Z",
+      "metrics": {
+        "views": 2048,
+        "likes": 65,
+        "reposts": 19,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "text": "Enfin UN ESPOIR DE PAIX ! \nIl faut maintenant le concrétiser… La France, en puissance indépendante, doit jouer tout son rôle pour dénouer la crise libanaise, stabiliser le Moyen-Orient et garantir la libre circulation dans le détroit d'Ormuz."
+    }
+  ]
+}

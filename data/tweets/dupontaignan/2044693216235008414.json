@@ -1,0 +1,37 @@
+{
+  "id": "2044693216235008414",
+  "handle": "dupontaignan",
+  "text": "Un gag vu son bilan de Premier ministre...",
+  "url": "https://x.com/dupontaignan/status/2044693216235008414",
+  "publishedAt": "2026-04-16T08:23:45.000Z",
+  "observedAt": "2026-10-17T08:48:40.350Z",
+  "firstSeenAt": "2026-10-17T08:48:40.350Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 35158,
+    "likes": 3232,
+    "reposts": 699,
+    "replies": 937,
+    "quotes": 93,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:40.350Z",
+      "metrics": {
+        "views": 35158,
+        "likes": 3232,
+        "reposts": 699,
+        "replies": 937,
+        "quotes": 93,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:40.350Z",
+      "text": "Un gag vu son bilan de Premier ministre..."
+    }
+  ]
+}

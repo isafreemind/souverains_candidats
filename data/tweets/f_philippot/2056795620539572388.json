@@ -1,0 +1,37 @@
+{
+  "id": "2056795620539572388",
+  "handle": "f_philippot",
+  "text": "Nous n’avons rien à faire là-bas : quittons l’OTAN",
+  "url": "https://x.com/f_philippot/status/2056795620539572388",
+  "publishedAt": "2026-05-19T17:54:24.000Z",
+  "observedAt": "2026-10-17T08:44:19.983Z",
+  "firstSeenAt": "2026-10-17T08:44:19.983Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 15196,
+    "likes": 463,
+    "reposts": 137,
+    "replies": 30,
+    "quotes": 2,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:19.983Z",
+      "metrics": {
+        "views": 15196,
+        "likes": 463,
+        "reposts": 137,
+        "replies": 30,
+        "quotes": 2,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:19.983Z",
+      "text": "Nous n’avons rien à faire là-bas : quittons l’OTAN"
+    }
+  ]
+}

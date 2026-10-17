@@ -1,0 +1,37 @@
+{
+  "id": "2053504549684453561",
+  "handle": "dupontaignan",
+  "text": "NE NOUS LAISSONS PAS FAIRE. #Hantavirus @henrioncaude",
+  "url": "https://x.com/dupontaignan/status/2053504549684453561",
+  "publishedAt": "2026-05-10T15:56:51.000Z",
+  "observedAt": "2026-10-17T08:48:17.558Z",
+  "firstSeenAt": "2026-10-17T08:48:17.558Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 21894,
+    "likes": 1975,
+    "reposts": 944,
+    "replies": 70,
+    "quotes": 4,
+    "bookmarks": 57
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "metrics": {
+        "views": 21894,
+        "likes": 1975,
+        "reposts": 944,
+        "replies": 70,
+        "quotes": 4,
+        "bookmarks": 57
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "text": "NE NOUS LAISSONS PAS FAIRE. #Hantavirus @henrioncaude"
+    }
+  ]
+}

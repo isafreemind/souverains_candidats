@@ -1,0 +1,48 @@
+{
+  "id": "2070443795695501635",
+  "handle": "dupontaignan",
+  "text": "Il y aurait des choses à cacher ? Des gens à protéger ?",
+  "url": "https://x.com/dupontaignan/status/2070443795695501635",
+  "publishedAt": "2026-06-26T09:47:22.000Z",
+  "observedAt": "2026-10-17T08:41:22.317Z",
+  "firstSeenAt": "2026-10-17T08:36:12.968Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 71840,
+    "likes": 6331,
+    "reposts": 2043,
+    "replies": 418,
+    "quotes": 51,
+    "bookmarks": 48
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "metrics": {
+        "views": 71840,
+        "likes": 6331,
+        "reposts": 2043,
+        "replies": 418,
+        "quotes": 51,
+        "bookmarks": 48
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:22.317Z",
+      "metrics": {
+        "views": 71840,
+        "likes": 6331,
+        "reposts": 2043,
+        "replies": 418,
+        "quotes": 51,
+        "bookmarks": 48
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "text": "Il y aurait des choses à cacher ? Des gens à protéger ?"
+    }
+  ]
+}

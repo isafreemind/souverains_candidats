@@ -1,0 +1,37 @@
+{
+  "id": "2055972378300088336",
+  "handle": "f_philippot",
+  "text": "Ce neuneu mondialiste est sur le point de démissionner : bravo les Britanniques !",
+  "url": "https://x.com/f_philippot/status/2055972378300088336",
+  "publishedAt": "2026-05-17T11:23:07.000Z",
+  "observedAt": "2026-10-17T08:44:22.036Z",
+  "firstSeenAt": "2026-10-17T08:44:22.036Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 24011,
+    "likes": 1901,
+    "reposts": 499,
+    "replies": 101,
+    "quotes": 7,
+    "bookmarks": 13
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:22.036Z",
+      "metrics": {
+        "views": 24011,
+        "likes": 1901,
+        "reposts": 499,
+        "replies": 101,
+        "quotes": 7,
+        "bookmarks": 13
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:22.036Z",
+      "text": "Ce neuneu mondialiste est sur le point de démissionner : bravo les Britanniques !"
+    }
+  ]
+}

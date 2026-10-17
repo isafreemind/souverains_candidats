@@ -1,0 +1,37 @@
+{
+  "id": "2038203226592342468",
+  "handle": "dupontaignan",
+  "text": "Bon dimanche des Rameaux !",
+  "url": "https://x.com/dupontaignan/status/2038203226592342468",
+  "publishedAt": "2026-03-29T10:34:51.000Z",
+  "observedAt": "2026-10-17T08:48:49.310Z",
+  "firstSeenAt": "2026-10-17T08:48:49.310Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 27179,
+    "likes": 3089,
+    "reposts": 461,
+    "replies": 102,
+    "quotes": 10,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:49.310Z",
+      "metrics": {
+        "views": 27179,
+        "likes": 3089,
+        "reposts": 461,
+        "replies": 102,
+        "quotes": 10,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:49.310Z",
+      "text": "Bon dimanche des Rameaux !"
+    }
+  ]
+}

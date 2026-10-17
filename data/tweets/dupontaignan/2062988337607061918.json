@@ -1,0 +1,48 @@
+{
+  "id": "2062988337607061918",
+  "handle": "dupontaignan",
+  "text": "RIC : Yerres montre l’exemple !",
+  "url": "https://x.com/dupontaignan/status/2062988337607061918",
+  "publishedAt": "2026-06-05T20:02:02.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5156,
+    "likes": 141,
+    "reposts": 53,
+    "replies": 9,
+    "quotes": 2,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 5156,
+        "likes": 141,
+        "reposts": 53,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 5156,
+        "likes": 141,
+        "reposts": 53,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "RIC : Yerres montre l’exemple !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2061018355658534975",
+  "handle": "f_philippot",
+  "text": "Bonne fête à toutes les mamans de France !",
+  "url": "https://x.com/f_philippot/status/2061018355658534975",
+  "publishedAt": "2026-05-31T09:34:02.000Z",
+  "observedAt": "2026-10-17T08:44:05.912Z",
+  "firstSeenAt": "2026-10-17T08:44:05.912Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 7992,
+    "likes": 511,
+    "reposts": 103,
+    "replies": 43,
+    "quotes": 5,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:05.912Z",
+      "metrics": {
+        "views": 7992,
+        "likes": 511,
+        "reposts": 103,
+        "replies": 43,
+        "quotes": 5,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:05.912Z",
+      "text": "Bonne fête à toutes les mamans de France !"
+    }
+  ]
+}

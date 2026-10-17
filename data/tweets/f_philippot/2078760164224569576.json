@@ -4,7 +4,7 @@
   "text": "La propagande anti-russe vient encore de se noyer dans une fake news !…🤦🏻‍♂️\n\nVoyez ça ⤵️",
   "url": "https://x.com/f_philippot/status/2078760164224569576",
   "publishedAt": "2026-07-19T08:33:39.000Z",
-  "observedAt": "2026-10-17T08:03:49.749Z",
+  "observedAt": "2026-10-17T08:39:59.184Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
@@ -18,6 +18,28 @@
   "observations": [
     {
       "observedAt": "2026-10-17T08:03:49.749Z",
+      "metrics": {
+        "views": 24848,
+        "likes": 951,
+        "reposts": 367,
+        "replies": 43,
+        "quotes": 3,
+        "bookmarks": 22
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "metrics": {
+        "views": 24848,
+        "likes": 951,
+        "reposts": 367,
+        "replies": 43,
+        "quotes": 3,
+        "bookmarks": 22
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:39:59.184Z",
       "metrics": {
         "views": 24848,
         "likes": 951,

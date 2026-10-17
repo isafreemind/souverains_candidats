@@ -1,0 +1,37 @@
+{
+  "id": "2037966543993102774",
+  "handle": "f_philippot",
+  "text": "Dans le Var ça klaxonne à fond pour le Frexit !\n\nVidéo ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2037966543993102774",
+  "publishedAt": "2026-03-28T18:54:22.000Z",
+  "observedAt": "2026-10-17T08:45:11.309Z",
+  "firstSeenAt": "2026-10-17T08:45:11.309Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 16817,
+    "likes": 1878,
+    "reposts": 509,
+    "replies": 83,
+    "quotes": 3,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:11.309Z",
+      "metrics": {
+        "views": 16817,
+        "likes": 1878,
+        "reposts": 509,
+        "replies": 83,
+        "quotes": 3,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:11.309Z",
+      "text": "Dans le Var ça klaxonne à fond pour le Frexit !\n\nVidéo ! ⤵️"
+    }
+  ]
+}

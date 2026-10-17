@@ -4,11 +4,11 @@
   "text": "📺 Retrouvez-moi à 11:00, dans l'émission #LeGrandRDV sur @Cnews au micro de @Pierredevilno🎙️",
   "url": "https://x.com/dupontaignan/status/2109203911005343780",
   "publishedAt": "2026-10-11T08:46:14.000Z",
-  "observedAt": "2026-10-17T08:03:49.749Z",
+  "observedAt": "2026-10-17T08:40:13.721Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 3991,
+    "views": 3992,
     "likes": 67,
     "reposts": 17,
     "replies": 32,
@@ -31,6 +31,28 @@
       "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 3991,
+        "likes": 67,
+        "reposts": 17,
+        "replies": 32,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:35:05.985Z",
+      "metrics": {
+        "views": 3992,
+        "likes": 67,
+        "reposts": 17,
+        "replies": 32,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:40:13.721Z",
+      "metrics": {
+        "views": 3992,
         "likes": 67,
         "reposts": 17,
         "replies": 32,

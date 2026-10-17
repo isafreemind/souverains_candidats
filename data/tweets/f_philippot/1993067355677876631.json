@@ -1,0 +1,37 @@
+{
+  "id": "1993067355677876631",
+  "handle": "f_philippot",
+  "text": "C’est parfait : la propagande du régime aura maintenant officiellement son label pour se désigner au public !\n\nChampion mon frère !",
+  "url": "https://x.com/f_philippot/status/1993067355677876631",
+  "publishedAt": "2025-11-24T21:21:01.000Z",
+  "observedAt": "2026-10-17T08:47:51.438Z",
+  "firstSeenAt": "2026-10-17T08:47:51.438Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 51687,
+    "likes": 2318,
+    "reposts": 650,
+    "replies": 262,
+    "quotes": 22,
+    "bookmarks": 26
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:51.438Z",
+      "metrics": {
+        "views": 51687,
+        "likes": 2318,
+        "reposts": 650,
+        "replies": 262,
+        "quotes": 22,
+        "bookmarks": 26
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:51.438Z",
+      "text": "C’est parfait : la propagande du régime aura maintenant officiellement son label pour se désigner au public !\n\nChampion mon frère !"
+    }
+  ]
+}

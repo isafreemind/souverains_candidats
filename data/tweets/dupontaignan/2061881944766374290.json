@@ -1,0 +1,48 @@
+{
+  "id": "2061881944766374290",
+  "handle": "dupontaignan",
+  "text": "Pour sauver nos vies Christine Cotton a donné la sienne ! Une Résistante à l’infamie. Jamais je ne l’oublierai. La vérité l’emportera un jour … ce sera notre meilleur hommage. Merci Christine.",
+  "url": "https://x.com/dupontaignan/status/2061881944766374290",
+  "publishedAt": "2026-06-02T18:45:38.000Z",
+  "observedAt": "2026-10-17T08:41:32.265Z",
+  "firstSeenAt": "2026-10-17T08:36:21.755Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 110997,
+    "likes": 3716,
+    "reposts": 928,
+    "replies": 138,
+    "quotes": 6,
+    "bookmarks": 53
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "metrics": {
+        "views": 110997,
+        "likes": 3716,
+        "reposts": 928,
+        "replies": 138,
+        "quotes": 6,
+        "bookmarks": 53
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:32.265Z",
+      "metrics": {
+        "views": 110997,
+        "likes": 3716,
+        "reposts": 928,
+        "replies": 138,
+        "quotes": 6,
+        "bookmarks": 53
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:21.755Z",
+      "text": "Pour sauver nos vies Christine Cotton a donné la sienne ! Une Résistante à l’infamie. Jamais je ne l’oublierai. La vérité l’emportera un jour … ce sera notre meilleur hommage. Merci Christine."
+    }
+  ]
+}

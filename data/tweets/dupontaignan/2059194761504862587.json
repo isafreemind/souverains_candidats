@@ -1,0 +1,48 @@
+{
+  "id": "2059194761504862587",
+  "handle": "dupontaignan",
+  "text": "Pour LFI, la France chrétienne n’a jamais existé, c’est un reniement ultime et ridicule de notre histoire, de notre civilisation, et de notre patrimoine.\n\nLeur « nouvelle France » déracinée et communautarisée, nous n’en voulons pas !",
+  "url": "https://x.com/dupontaignan/status/2059194761504862587",
+  "publishedAt": "2026-05-26T08:47:43.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 7571,
+    "likes": 623,
+    "reposts": 176,
+    "replies": 71,
+    "quotes": 10,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 7571,
+        "likes": 623,
+        "reposts": 176,
+        "replies": 71,
+        "quotes": 10,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 7571,
+        "likes": 623,
+        "reposts": 176,
+        "replies": 71,
+        "quotes": 10,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "Pour LFI, la France chrétienne n’a jamais existé, c’est un reniement ultime et ridicule de notre histoire, de notre civilisation, et de notre patrimoine.\n\nLeur « nouvelle France » déracinée et communautarisée, nous n’en voulons pas !"
+    }
+  ]
+}

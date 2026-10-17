@@ -1,0 +1,48 @@
+{
+  "id": "2061476445344436665",
+  "handle": "dupontaignan",
+  "text": "PATHÉTIQUE ! Pour faire oublier les scènes de chaos à Paris qui ont marqué le monde entier, Macron fait diversion en arraisonnant un navire russe dans l'Atlantique. Il ferait mieux de s'occuper de la sécurité des Français.",
+  "url": "https://x.com/dupontaignan/status/2061476445344436665",
+  "publishedAt": "2026-06-01T15:54:19.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9671,
+    "likes": 892,
+    "reposts": 323,
+    "replies": 62,
+    "quotes": 8,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 9671,
+        "likes": 892,
+        "reposts": 323,
+        "replies": 62,
+        "quotes": 8,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 9671,
+        "likes": 892,
+        "reposts": 323,
+        "replies": 62,
+        "quotes": 8,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "PATHÉTIQUE ! Pour faire oublier les scènes de chaos à Paris qui ont marqué le monde entier, Macron fait diversion en arraisonnant un navire russe dans l'Atlantique. Il ferait mieux de s'occuper de la sécurité des Français."
+    }
+  ]
+}

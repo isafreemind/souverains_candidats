@@ -1,0 +1,37 @@
+{
+  "id": "2063150145408036972",
+  "handle": "f_philippot",
+  "text": "Il « présente ses excuses »…\n\nSuffisant ?\nNON !",
+  "url": "https://x.com/f_philippot/status/2063150145408036972",
+  "publishedAt": "2026-06-06T06:45:00.000Z",
+  "observedAt": "2026-10-17T08:44:02.944Z",
+  "firstSeenAt": "2026-10-17T08:44:02.944Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 29696,
+    "likes": 3472,
+    "reposts": 1057,
+    "replies": 287,
+    "quotes": 38,
+    "bookmarks": 20
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:02.944Z",
+      "metrics": {
+        "views": 29696,
+        "likes": 3472,
+        "reposts": 1057,
+        "replies": 287,
+        "quotes": 38,
+        "bookmarks": 20
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:02.944Z",
+      "text": "Il « présente ses excuses »…\n\nSuffisant ?\nNON !"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2069736451865034782",
+  "handle": "dupontaignan",
+  "text": "Alors pourquoi la macronie ne s'y est pas attelée dès 2017 ?",
+  "url": "https://x.com/dupontaignan/status/2069736451865034782",
+  "publishedAt": "2026-06-24T10:56:38.000Z",
+  "observedAt": "2026-10-17T08:41:22.317Z",
+  "firstSeenAt": "2026-10-17T08:36:12.968Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7696,
+    "likes": 355,
+    "reposts": 130,
+    "replies": 31,
+    "quotes": 0,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "metrics": {
+        "views": 7696,
+        "likes": 355,
+        "reposts": 130,
+        "replies": 31,
+        "quotes": 0,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:22.317Z",
+      "metrics": {
+        "views": 7696,
+        "likes": 355,
+        "reposts": 130,
+        "replies": 31,
+        "quotes": 0,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "text": "Alors pourquoi la macronie ne s'y est pas attelée dès 2017 ?"
+    }
+  ]
+}

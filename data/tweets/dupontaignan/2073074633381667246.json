@@ -1,0 +1,48 @@
+{
+  "id": "2073074633381667246",
+  "handle": "dupontaignan",
+  "text": "Voilà quatre ans qu’on nous traite de complotistes, encore une fois nous avions raison ! \nL’Ukraine est directement responsable du sabotage des gazoducs Nord Stream et non les Russes comme la propagande médiatique a essayé de nous le faire gober !",
+  "url": "https://x.com/dupontaignan/status/2073074633381667246",
+  "publishedAt": "2026-07-03T16:01:23.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 31052,
+    "likes": 4227,
+    "reposts": 1906,
+    "replies": 198,
+    "quotes": 34,
+    "bookmarks": 62
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 31052,
+        "likes": 4227,
+        "reposts": 1906,
+        "replies": 198,
+        "quotes": 34,
+        "bookmarks": 62
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 31052,
+        "likes": 4227,
+        "reposts": 1906,
+        "replies": 198,
+        "quotes": 34,
+        "bookmarks": 62
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Voilà quatre ans qu’on nous traite de complotistes, encore une fois nous avions raison ! \nL’Ukraine est directement responsable du sabotage des gazoducs Nord Stream et non les Russes comme la propagande médiatique a essayé de nous le faire gober !"
+    }
+  ]
+}

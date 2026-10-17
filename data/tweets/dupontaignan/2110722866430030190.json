@@ -4,13 +4,13 @@
   "text": "La créativité des pouvoirs publics pour pourrir le quotidien des Français est sans limite…",
   "url": "https://x.com/dupontaignan/status/2110722866430030190",
   "publishedAt": "2026-10-15T13:22:01.000Z",
-  "observedAt": "2026-10-17T08:03:49.749Z",
+  "observedAt": "2026-10-17T08:40:08.611Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 25087,
-    "likes": 2609,
-    "reposts": 965,
+    "views": 25116,
+    "likes": 2612,
+    "reposts": 966,
     "replies": 59,
     "quotes": 12,
     "bookmarks": 48
@@ -33,6 +33,28 @@
         "views": 25087,
         "likes": 2609,
         "reposts": 965,
+        "replies": 59,
+        "quotes": 12,
+        "bookmarks": 48
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:35:03.965Z",
+      "metrics": {
+        "views": 25114,
+        "likes": 2612,
+        "reposts": 966,
+        "replies": 59,
+        "quotes": 12,
+        "bookmarks": 48
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:40:08.611Z",
+      "metrics": {
+        "views": 25116,
+        "likes": 2612,
+        "reposts": 966,
         "replies": 59,
         "quotes": 12,
         "bookmarks": 48

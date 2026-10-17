@@ -1,0 +1,48 @@
+{
+  "id": "2065490251942961386",
+  "handle": "dupontaignan",
+  "text": "Sous prétexte d’ingérences étrangères fantasmées, Macron et Lecornu veulent cadenasser la présidentielle.",
+  "url": "https://x.com/dupontaignan/status/2065490251942961386",
+  "publishedAt": "2026-06-12T17:43:45.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 14722,
+    "likes": 2079,
+    "reposts": 1076,
+    "replies": 142,
+    "quotes": 32,
+    "bookmarks": 35
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 14722,
+        "likes": 2079,
+        "reposts": 1076,
+        "replies": 142,
+        "quotes": 32,
+        "bookmarks": 35
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 14722,
+        "likes": 2079,
+        "reposts": 1076,
+        "replies": 142,
+        "quotes": 32,
+        "bookmarks": 35
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "Sous prétexte d’ingérences étrangères fantasmées, Macron et Lecornu veulent cadenasser la présidentielle."
+    }
+  ]
+}

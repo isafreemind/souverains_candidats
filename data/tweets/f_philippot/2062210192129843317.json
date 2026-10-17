@@ -1,0 +1,37 @@
+{
+  "id": "2062210192129843317",
+  "handle": "f_philippot",
+  "text": "Il faut reconnaître que c’est une très bonne initiative ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2062210192129843317",
+  "publishedAt": "2026-06-03T16:29:58.000Z",
+  "observedAt": "2026-10-17T08:44:04.564Z",
+  "firstSeenAt": "2026-10-17T08:44:04.564Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10179,
+    "likes": 249,
+    "reposts": 82,
+    "replies": 8,
+    "quotes": 2,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:04.564Z",
+      "metrics": {
+        "views": 10179,
+        "likes": 249,
+        "reposts": 82,
+        "replies": 8,
+        "quotes": 2,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:04.564Z",
+      "text": "Il faut reconnaître que c’est une très bonne initiative ! ⤵️"
+    }
+  ]
+}

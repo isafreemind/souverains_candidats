@@ -1,0 +1,37 @@
+{
+  "id": "2071257640529740109",
+  "handle": "f_philippot",
+  "text": "À la manif anti loi macroniste Euthanasie cet après-midi",
+  "url": "https://x.com/f_philippot/status/2071257640529740109",
+  "publishedAt": "2026-06-28T15:41:18.000Z",
+  "observedAt": "2026-10-17T08:43:36.446Z",
+  "firstSeenAt": "2026-10-17T08:43:36.446Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 25399,
+    "likes": 1116,
+    "reposts": 366,
+    "replies": 53,
+    "quotes": 9,
+    "bookmarks": 19
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:36.446Z",
+      "metrics": {
+        "views": 25399,
+        "likes": 1116,
+        "reposts": 366,
+        "replies": 53,
+        "quotes": 9,
+        "bookmarks": 19
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:36.446Z",
+      "text": "À la manif anti loi macroniste Euthanasie cet après-midi"
+    }
+  ]
+}

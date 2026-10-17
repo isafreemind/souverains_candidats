@@ -1,0 +1,37 @@
+{
+  "id": "2023361862554034426",
+  "handle": "f_asselineau",
+  "text": "📰 ARTICLE DU COURRIER DE L'OUEST\nsur ma réunion publique du 15 février 2026.",
+  "url": "https://x.com/f_asselineau/status/2023361862554034426",
+  "publishedAt": "2026-02-16T11:40:34.000Z",
+  "observedAt": "2026-10-17T08:42:47.267Z",
+  "firstSeenAt": "2026-10-17T08:42:47.267Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 10777,
+    "likes": 577,
+    "reposts": 199,
+    "replies": 14,
+    "quotes": 3,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:42:47.267Z",
+      "metrics": {
+        "views": 10777,
+        "likes": 577,
+        "reposts": 199,
+        "replies": 14,
+        "quotes": 3,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:42:47.267Z",
+      "text": "📰 ARTICLE DU COURRIER DE L'OUEST\nsur ma réunion publique du 15 février 2026."
+    }
+  ]
+}

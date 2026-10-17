@@ -1,0 +1,37 @@
+{
+  "id": "2014405788450558279",
+  "handle": "dupontaignan",
+  "text": "Scandale à la SNCF !\nUn pays qui voit les enfants comme un fardeau et non comme la vie et l'avenir est en danger de mort !",
+  "url": "https://x.com/dupontaignan/status/2014405788450558279",
+  "publishedAt": "2026-01-22T18:32:20.000Z",
+  "observedAt": "2026-10-17T08:49:39.065Z",
+  "firstSeenAt": "2026-10-17T08:49:39.065Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 10157,
+    "likes": 380,
+    "reposts": 114,
+    "replies": 90,
+    "quotes": 5,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:39.065Z",
+      "metrics": {
+        "views": 10157,
+        "likes": 380,
+        "reposts": 114,
+        "replies": 90,
+        "quotes": 5,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:39.065Z",
+      "text": "Scandale à la SNCF !\nUn pays qui voit les enfants comme un fardeau et non comme la vie et l'avenir est en danger de mort !"
+    }
+  ]
+}

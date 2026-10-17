@@ -1,0 +1,48 @@
+{
+  "id": "2075342794814558538",
+  "handle": "dupontaignan",
+  "text": "Belle victoire contre le Maroc pour nos Bleus ! Direction les demi-finales ! \nAllez la France ! 🇫🇷",
+  "url": "https://x.com/dupontaignan/status/2075342794814558538",
+  "publishedAt": "2026-07-09T22:14:14.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 13872,
+    "likes": 250,
+    "reposts": 23,
+    "replies": 46,
+    "quotes": 4,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 13872,
+        "likes": 250,
+        "reposts": 23,
+        "replies": 46,
+        "quotes": 4,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 13872,
+        "likes": 250,
+        "reposts": 23,
+        "replies": 46,
+        "quotes": 4,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "Belle victoire contre le Maroc pour nos Bleus ! Direction les demi-finales ! \nAllez la France ! 🇫🇷"
+    }
+  ]
+}

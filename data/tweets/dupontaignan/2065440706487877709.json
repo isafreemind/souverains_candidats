@@ -1,0 +1,48 @@
+{
+  "id": "2065440706487877709",
+  "handle": "dupontaignan",
+  "text": "Toute la France est émue devant les obsèques de la petite Lyhanna. J’adresse mes pensées à sa famille et à ses proches face à cette tragédie insoutenable.",
+  "url": "https://x.com/dupontaignan/status/2065440706487877709",
+  "publishedAt": "2026-06-12T14:26:53.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 5017,
+    "likes": 252,
+    "reposts": 62,
+    "replies": 4,
+    "quotes": 0,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 5017,
+        "likes": 252,
+        "reposts": 62,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 5017,
+        "likes": 252,
+        "reposts": 62,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "Toute la France est émue devant les obsèques de la petite Lyhanna. J’adresse mes pensées à sa famille et à ses proches face à cette tragédie insoutenable."
+    }
+  ]
+}

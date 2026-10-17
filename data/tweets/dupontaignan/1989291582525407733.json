@@ -1,0 +1,37 @@
+{
+  "id": "1989291582525407733",
+  "handle": "dupontaignan",
+  "text": "ILS SONT DEVENUS FOUS !",
+  "url": "https://x.com/dupontaignan/status/1989291582525407733",
+  "publishedAt": "2025-11-14T11:17:27.000Z",
+  "observedAt": "2026-10-17T08:50:28.860Z",
+  "firstSeenAt": "2026-10-17T08:50:28.860Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5123,
+    "likes": 203,
+    "reposts": 61,
+    "replies": 9,
+    "quotes": 2,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:28.860Z",
+      "metrics": {
+        "views": 5123,
+        "likes": 203,
+        "reposts": 61,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:28.860Z",
+      "text": "ILS SONT DEVENUS FOUS !"
+    }
+  ]
+}

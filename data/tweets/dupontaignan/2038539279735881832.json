@@ -1,0 +1,37 @@
+{
+  "id": "2038539279735881832",
+  "handle": "dupontaignan",
+  "text": "Terrible attaque au couteau ce matin à Paris. Sans raison, un voyageur a été pris pour cible et lardé de coups de couteau dans le tramway. Je pense à lui et à sa famille.",
+  "url": "https://x.com/dupontaignan/status/2038539279735881832",
+  "publishedAt": "2026-03-30T08:50:13.000Z",
+  "observedAt": "2026-10-17T08:48:49.310Z",
+  "firstSeenAt": "2026-10-17T08:48:49.310Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 22957,
+    "likes": 669,
+    "reposts": 305,
+    "replies": 66,
+    "quotes": 23,
+    "bookmarks": 20
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:49.310Z",
+      "metrics": {
+        "views": 22957,
+        "likes": 669,
+        "reposts": 305,
+        "replies": 66,
+        "quotes": 23,
+        "bookmarks": 20
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:49.310Z",
+      "text": "Terrible attaque au couteau ce matin à Paris. Sans raison, un voyageur a été pris pour cible et lardé de coups de couteau dans le tramway. Je pense à lui et à sa famille."
+    }
+  ]
+}

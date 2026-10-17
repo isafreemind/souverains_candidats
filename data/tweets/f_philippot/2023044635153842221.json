@@ -1,0 +1,37 @@
+{
+  "id": "2023044635153842221",
+  "handle": "f_philippot",
+  "text": "Nous venons de faire une minute de silence pour Quentin 🙏🇫🇷",
+  "url": "https://x.com/f_philippot/status/2023044635153842221",
+  "publishedAt": "2026-02-15T14:40:02.000Z",
+  "observedAt": "2026-10-17T08:46:02.493Z",
+  "firstSeenAt": "2026-10-17T08:46:02.493Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 74219,
+    "likes": 5143,
+    "reposts": 1122,
+    "replies": 189,
+    "quotes": 32,
+    "bookmarks": 48
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:02.493Z",
+      "metrics": {
+        "views": 74219,
+        "likes": 5143,
+        "reposts": 1122,
+        "replies": 189,
+        "quotes": 32,
+        "bookmarks": 48
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:02.493Z",
+      "text": "Nous venons de faire une minute de silence pour Quentin 🙏🇫🇷"
+    }
+  ]
+}

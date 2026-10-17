@@ -1,0 +1,37 @@
+{
+  "id": "1984621025288503669",
+  "handle": "dupontaignan",
+  "text": "TOUT EST DIT !   À écouter absolument.",
+  "url": "https://x.com/dupontaignan/status/1984621025288503669",
+  "publishedAt": "2025-11-01T13:58:19.000Z",
+  "observedAt": "2026-10-17T08:50:38.765Z",
+  "firstSeenAt": "2026-10-17T08:50:38.765Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9173,
+    "likes": 509,
+    "reposts": 216,
+    "replies": 24,
+    "quotes": 6,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:38.765Z",
+      "metrics": {
+        "views": 9173,
+        "likes": 509,
+        "reposts": 216,
+        "replies": 24,
+        "quotes": 6,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:38.765Z",
+      "text": "TOUT EST DIT !   À écouter absolument."
+    }
+  ]
+}

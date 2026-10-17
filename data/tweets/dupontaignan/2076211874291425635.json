@@ -1,0 +1,48 @@
+{
+  "id": "2076211874291425635",
+  "handle": "dupontaignan",
+  "text": "Ces grands malades qui nous gouvernent ! Tout est prétexte pour empêcher les Français de se rassembler et de fêter ensemble le 14 juillet ! Quelle société nous préparent-ils ?",
+  "url": "https://x.com/dupontaignan/status/2076211874291425635",
+  "publishedAt": "2026-07-12T07:47:39.000Z",
+  "observedAt": "2026-10-17T08:41:09.504Z",
+  "firstSeenAt": "2026-10-17T08:36:01.792Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 77086,
+    "likes": 902,
+    "reposts": 334,
+    "replies": 155,
+    "quotes": 29,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "metrics": {
+        "views": 77086,
+        "likes": 902,
+        "reposts": 334,
+        "replies": 155,
+        "quotes": 29,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:09.504Z",
+      "metrics": {
+        "views": 77086,
+        "likes": 902,
+        "reposts": 334,
+        "replies": 155,
+        "quotes": 29,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "text": "Ces grands malades qui nous gouvernent ! Tout est prétexte pour empêcher les Français de se rassembler et de fêter ensemble le 14 juillet ! Quelle société nous préparent-ils ?"
+    }
+  ]
+}

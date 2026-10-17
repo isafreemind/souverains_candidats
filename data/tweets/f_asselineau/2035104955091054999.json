@@ -1,0 +1,37 @@
+{
+  "id": "2035104955091054999",
+  "handle": "f_asselineau",
+  "text": "📊 SONDAGE\nÀ votre avis, qu'est-il arrivé à Netanyahou ?",
+  "url": "https://x.com/f_asselineau/status/2035104955091054999",
+  "publishedAt": "2026-03-20T21:23:26.000Z",
+  "observedAt": "2026-10-17T08:42:26.280Z",
+  "firstSeenAt": "2026-10-17T08:42:26.280Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 30684,
+    "likes": 372,
+    "reposts": 154,
+    "replies": 131,
+    "quotes": 4,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:42:26.280Z",
+      "metrics": {
+        "views": 30684,
+        "likes": 372,
+        "reposts": 154,
+        "replies": 131,
+        "quotes": 4,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:42:26.280Z",
+      "text": "📊 SONDAGE\nÀ votre avis, qu'est-il arrivé à Netanyahou ?"
+    }
+  ]
+}

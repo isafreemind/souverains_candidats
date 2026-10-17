@@ -1,0 +1,37 @@
+{
+  "id": "2006635557808382387",
+  "handle": "f_philippot",
+  "text": "L’humiliation est totale ! Voyez ça ⤵️\n\nBravo aux paysans français ! 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2006635557808382387",
+  "publishedAt": "2026-01-01T07:56:13.000Z",
+  "observedAt": "2026-10-17T08:47:04.833Z",
+  "firstSeenAt": "2026-10-17T08:47:04.833Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 36350,
+    "likes": 1343,
+    "reposts": 329,
+    "replies": 65,
+    "quotes": 5,
+    "bookmarks": 30
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:04.833Z",
+      "metrics": {
+        "views": 36350,
+        "likes": 1343,
+        "reposts": 329,
+        "replies": 65,
+        "quotes": 5,
+        "bookmarks": 30
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:04.833Z",
+      "text": "L’humiliation est totale ! Voyez ça ⤵️\n\nBravo aux paysans français ! 🇫🇷"
+    }
+  ]
+}

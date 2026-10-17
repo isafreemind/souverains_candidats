@@ -1,0 +1,48 @@
+{
+  "id": "2061071624258916596",
+  "handle": "dupontaignan",
+  "text": "Pendant que les Français subissent l’explosion de la violence et du trafic de drogue, certains députés trouvent le temps de s’attaquer au secret de la confession, vieux de plusieurs siècles. Supprimer ce secret serait une atteinte grave à nos principes et à notre héritage. En macronie, on s'attaque à tout ce que l'on peut mais pas aux vrais problèmes des Français.",
+  "url": "https://x.com/dupontaignan/status/2061071624258916596",
+  "publishedAt": "2026-05-31T13:05:42.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 27337,
+    "likes": 1600,
+    "reposts": 687,
+    "replies": 125,
+    "quotes": 10,
+    "bookmarks": 27
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 27337,
+        "likes": 1600,
+        "reposts": 687,
+        "replies": 125,
+        "quotes": 10,
+        "bookmarks": 27
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 27337,
+        "likes": 1600,
+        "reposts": 687,
+        "replies": 125,
+        "quotes": 10,
+        "bookmarks": 27
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "Pendant que les Français subissent l’explosion de la violence et du trafic de drogue, certains députés trouvent le temps de s’attaquer au secret de la confession, vieux de plusieurs siècles. Supprimer ce secret serait une atteinte grave à nos principes et à notre héritage. En macronie, on s'attaque à tout ce que l'on peut mais pas aux vrais problèmes des Français."
+    }
+  ]
+}

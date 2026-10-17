@@ -1,0 +1,37 @@
+{
+  "id": "2006507049308619203",
+  "handle": "f_philippot",
+  "text": "Bonne année 2026 ! 💫🇫🇷",
+  "url": "https://x.com/f_philippot/status/2006507049308619203",
+  "publishedAt": "2025-12-31T23:25:34.000Z",
+  "observedAt": "2026-10-17T08:47:04.833Z",
+  "firstSeenAt": "2026-10-17T08:47:04.833Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 21324,
+    "likes": 1278,
+    "reposts": 143,
+    "replies": 156,
+    "quotes": 7,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:04.833Z",
+      "metrics": {
+        "views": 21324,
+        "likes": 1278,
+        "reposts": 143,
+        "replies": 156,
+        "quotes": 7,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:04.833Z",
+      "text": "Bonne année 2026 ! 💫🇫🇷"
+    }
+  ]
+}

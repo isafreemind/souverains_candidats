@@ -1,0 +1,48 @@
+{
+  "id": "2058987149186289911",
+  "handle": "dupontaignan",
+  "text": "Voilà pourquoi il est impossible de rester dans l’Union européenne !!!",
+  "url": "https://x.com/dupontaignan/status/2058987149186289911",
+  "publishedAt": "2026-05-25T19:02:45.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 13309,
+    "likes": 765,
+    "reposts": 304,
+    "replies": 43,
+    "quotes": 5,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 13309,
+        "likes": 765,
+        "reposts": 304,
+        "replies": 43,
+        "quotes": 5,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 13309,
+        "likes": 765,
+        "reposts": 304,
+        "replies": 43,
+        "quotes": 5,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "Voilà pourquoi il est impossible de rester dans l’Union européenne !!!"
+    }
+  ]
+}

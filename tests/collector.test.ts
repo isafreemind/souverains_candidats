@@ -1,10 +1,18 @@
 import { describe, expect, it } from 'vitest';
-import { fetchFx, normalizePost } from '../scripts/lib/fxtwitter';
+import { fetchFx, normalizePost, retryAfterMilliseconds } from '../scripts/lib/fxtwitter';
 import { mergeObservation } from '../scripts/lib/archive';
 
 const observedAt = '2026-10-17T08:00:00.000Z';
 const raw = { type: 'status', id: '2110866925698130204', text: 'Une publication.', author: { screen_name: 'f_asselineau' }, created_timestamp: 1792104867, replying_to: null, reposted_by: null, views: 100, likes: 10, reposts: 2, replies: 1, quotes: 1 };
 describe('Collecte et archives', () => {
+  it('respecte les deux formats Retry-After et ignore les indications invalides ou passées', () => {
+    const now = Date.UTC(2026, 9, 17, 8, 0, 0);
+    expect(retryAfterMilliseconds('30', now)).toBe(30_000);
+    expect(retryAfterMilliseconds('Sat, 17 Oct 2026 08:01:00 GMT', now)).toBe(60_000);
+    expect(retryAfterMilliseconds('Sat, 17 Oct 2026 07:59:00 GMT', now)).toBe(0);
+    expect(retryAfterMilliseconds(null, now)).toBe(0);
+    expect(retryAfterMilliseconds('invalide', now)).toBe(0);
+  });
   it('accepte seulement un tweet de l’auteur attendu sans réponse ni repost', () => {
     expect(normalizePost(raw, 'f_asselineau', observedAt).post).not.toBeNull();
     expect(normalizePost({ ...raw, author: { screen_name: 'autre' } }, 'f_asselineau', observedAt).post).toBeNull();

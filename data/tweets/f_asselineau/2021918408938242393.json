@@ -1,0 +1,37 @@
+{
+  "id": "2021918408938242393",
+  "handle": "f_asselineau",
+  "text": "📰 ÉCHO DE PRESSE\nMa réunion publique de dimanche prochain\nà Chemillé-en-Anjou est annoncée dans la presse locale du Maine-et-Loire.",
+  "url": "https://x.com/f_asselineau/status/2021918408938242393",
+  "publishedAt": "2026-02-12T12:04:48.000Z",
+  "observedAt": "2026-10-17T08:42:48.425Z",
+  "firstSeenAt": "2026-10-17T08:42:48.425Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 11360,
+    "likes": 711,
+    "reposts": 276,
+    "replies": 22,
+    "quotes": 3,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:42:48.425Z",
+      "metrics": {
+        "views": 11360,
+        "likes": 711,
+        "reposts": 276,
+        "replies": 22,
+        "quotes": 3,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:42:48.425Z",
+      "text": "📰 ÉCHO DE PRESSE\nMa réunion publique de dimanche prochain\nà Chemillé-en-Anjou est annoncée dans la presse locale du Maine-et-Loire."
+    }
+  ]
+}

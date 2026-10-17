@@ -1,0 +1,48 @@
+{
+  "id": "2061039794050785693",
+  "handle": "dupontaignan",
+  "text": "À toutes les mamans, ce bouquet d’amour et de reconnaissance. Auprès de soi ou dans notre cœur une maman est toujours irremplaçable ! ❤️",
+  "url": "https://x.com/dupontaignan/status/2061039794050785693",
+  "publishedAt": "2026-05-31T10:59:13.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8329,
+    "likes": 772,
+    "reposts": 105,
+    "replies": 27,
+    "quotes": 2,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 8329,
+        "likes": 772,
+        "reposts": 105,
+        "replies": 27,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 8329,
+        "likes": 772,
+        "reposts": 105,
+        "replies": 27,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "À toutes les mamans, ce bouquet d’amour et de reconnaissance. Auprès de soi ou dans notre cœur une maman est toujours irremplaçable ! ❤️"
+    }
+  ]
+}

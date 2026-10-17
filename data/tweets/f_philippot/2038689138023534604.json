@@ -1,0 +1,37 @@
+{
+  "id": "2038689138023534604",
+  "handle": "f_philippot",
+  "text": "Vous préférez le manger à quelle sauce, le torchon bleu à étoiles de l’UE ?",
+  "url": "https://x.com/f_philippot/status/2038689138023534604",
+  "publishedAt": "2026-03-30T18:45:42.000Z",
+  "observedAt": "2026-10-17T08:45:06.221Z",
+  "firstSeenAt": "2026-10-17T08:45:06.221Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 14412,
+    "likes": 561,
+    "reposts": 188,
+    "replies": 102,
+    "quotes": 12,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:06.221Z",
+      "metrics": {
+        "views": 14412,
+        "likes": 561,
+        "reposts": 188,
+        "replies": 102,
+        "quotes": 12,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:06.221Z",
+      "text": "Vous préférez le manger à quelle sauce, le torchon bleu à étoiles de l’UE ?"
+    }
+  ]
+}

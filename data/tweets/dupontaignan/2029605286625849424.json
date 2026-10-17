@@ -1,0 +1,37 @@
+{
+  "id": "2029605286625849424",
+  "handle": "dupontaignan",
+  "text": "Avec la hausse du prix des carburants liée à la crise iranienne, l'Etat voit ses recettes de TVA augmenter. Le minimum serait de baisser à proportion le taux de TVA pour alléger la facture des Français.",
+  "url": "https://x.com/dupontaignan/status/2029605286625849424",
+  "publishedAt": "2026-03-05T17:09:43.000Z",
+  "observedAt": "2026-10-17T08:49:01.555Z",
+  "firstSeenAt": "2026-10-17T08:49:01.555Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 30483,
+    "likes": 1629,
+    "reposts": 534,
+    "replies": 137,
+    "quotes": 17,
+    "bookmarks": 24
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:01.555Z",
+      "metrics": {
+        "views": 30483,
+        "likes": 1629,
+        "reposts": 534,
+        "replies": 137,
+        "quotes": 17,
+        "bookmarks": 24
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:01.555Z",
+      "text": "Avec la hausse du prix des carburants liée à la crise iranienne, l'Etat voit ses recettes de TVA augmenter. Le minimum serait de baisser à proportion le taux de TVA pour alléger la facture des Français."
+    }
+  ]
+}

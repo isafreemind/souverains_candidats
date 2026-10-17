@@ -1,0 +1,48 @@
+{
+  "id": "2058127468385476812",
+  "handle": "dupontaignan",
+  "text": "Après Bayeux, Cabourg, Nice, Cannes, Toulon, et avant Narbonne, Perpignan, Lyon, Le Mans, Lille, Arras, Mulhouse, Nancy, Metz…  Merci Gap pour ce bel accueil !",
+  "url": "https://x.com/dupontaignan/status/2058127468385476812",
+  "publishedAt": "2026-05-23T10:06:41.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4335,
+    "likes": 133,
+    "reposts": 32,
+    "replies": 7,
+    "quotes": 1,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 4335,
+        "likes": 133,
+        "reposts": 32,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 4335,
+        "likes": 133,
+        "reposts": 32,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "Après Bayeux, Cabourg, Nice, Cannes, Toulon, et avant Narbonne, Perpignan, Lyon, Le Mans, Lille, Arras, Mulhouse, Nancy, Metz…  Merci Gap pour ce bel accueil !"
+    }
+  ]
+}

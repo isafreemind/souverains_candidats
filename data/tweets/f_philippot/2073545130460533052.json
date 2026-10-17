@@ -1,0 +1,37 @@
+{
+  "id": "2073545130460533052",
+  "handle": "f_philippot",
+  "text": "Bravo la France ! 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2073545130460533052",
+  "publishedAt": "2026-07-04T23:10:58.000Z",
+  "observedAt": "2026-10-17T08:43:29.016Z",
+  "firstSeenAt": "2026-10-17T08:43:29.016Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 15096,
+    "likes": 141,
+    "reposts": 23,
+    "replies": 29,
+    "quotes": 1,
+    "bookmarks": 0
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "metrics": {
+        "views": 15096,
+        "likes": 141,
+        "reposts": 23,
+        "replies": 29,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:29.016Z",
+      "text": "Bravo la France ! 🇫🇷"
+    }
+  ]
+}

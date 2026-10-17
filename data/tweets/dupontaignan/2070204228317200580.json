@@ -1,0 +1,48 @@
+{
+  "id": "2070204228317200580",
+  "handle": "dupontaignan",
+  "text": "En France aujourd'hui, on peut mourir de chaleur dans sa chambre d'hôpital. Par idéologie, les gouvernements successifs ont refusé et continuent de refuser, comme à Nantes, de climatiser les chambres dans les hôpitaux. Urgence de lancer un grand plan de climatisation dans notre pays !",
+  "url": "https://x.com/dupontaignan/status/2070204228317200580",
+  "publishedAt": "2026-06-25T17:55:25.000Z",
+  "observedAt": "2026-10-17T08:41:22.317Z",
+  "firstSeenAt": "2026-10-17T08:36:12.968Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 9483,
+    "likes": 843,
+    "reposts": 314,
+    "replies": 21,
+    "quotes": 3,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "metrics": {
+        "views": 9483,
+        "likes": 843,
+        "reposts": 314,
+        "replies": 21,
+        "quotes": 3,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:22.317Z",
+      "metrics": {
+        "views": 9483,
+        "likes": 843,
+        "reposts": 314,
+        "replies": 21,
+        "quotes": 3,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "text": "En France aujourd'hui, on peut mourir de chaleur dans sa chambre d'hôpital. Par idéologie, les gouvernements successifs ont refusé et continuent de refuser, comme à Nantes, de climatiser les chambres dans les hôpitaux. Urgence de lancer un grand plan de climatisation dans notre pays !"
+    }
+  ]
+}

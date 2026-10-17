@@ -1,0 +1,37 @@
+{
+  "id": "2048327361645416611",
+  "handle": "f_philippot",
+  "text": "Ce tweet a plus de 2 ans. Ce compte n’a qu’un seul tweet : le nom du tireur cette nuit aux États-Unis. ⤵️\n\nY a-t-il des millions de comptes avec un seul tweet, un nom ?…",
+  "url": "https://x.com/f_philippot/status/2048327361645416611",
+  "publishedAt": "2026-04-26T09:04:33.000Z",
+  "observedAt": "2026-10-17T08:44:42.097Z",
+  "firstSeenAt": "2026-10-17T08:44:42.097Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 148887,
+    "likes": 1003,
+    "reposts": 260,
+    "replies": 86,
+    "quotes": 6,
+    "bookmarks": 104
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:42.097Z",
+      "metrics": {
+        "views": 148887,
+        "likes": 1003,
+        "reposts": 260,
+        "replies": 86,
+        "quotes": 6,
+        "bookmarks": 104
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:42.097Z",
+      "text": "Ce tweet a plus de 2 ans. Ce compte n’a qu’un seul tweet : le nom du tireur cette nuit aux États-Unis. ⤵️\n\nY a-t-il des millions de comptes avec un seul tweet, un nom ?…"
+    }
+  ]
+}

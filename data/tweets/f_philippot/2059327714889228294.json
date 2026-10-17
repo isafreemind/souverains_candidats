@@ -1,0 +1,37 @@
+{
+  "id": "2059327714889228294",
+  "handle": "f_philippot",
+  "text": "Il faut METTRE LA CLIM’ partout !\n\nÇa sauve des vies !",
+  "url": "https://x.com/f_philippot/status/2059327714889228294",
+  "publishedAt": "2026-05-26T17:36:02.000Z",
+  "observedAt": "2026-10-17T08:44:14.215Z",
+  "firstSeenAt": "2026-10-17T08:44:14.215Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 19691,
+    "likes": 494,
+    "reposts": 87,
+    "replies": 124,
+    "quotes": 3,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:14.215Z",
+      "metrics": {
+        "views": 19691,
+        "likes": 494,
+        "reposts": 87,
+        "replies": 124,
+        "quotes": 3,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:14.215Z",
+      "text": "Il faut METTRE LA CLIM’ partout !\n\nÇa sauve des vies !"
+    }
+  ]
+}

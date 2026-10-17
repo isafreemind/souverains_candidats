@@ -1,0 +1,48 @@
+{
+  "id": "2073704567284355082",
+  "handle": "dupontaignan",
+  "text": "Cela se rapproche dangereusement d’une dictature…",
+  "url": "https://x.com/dupontaignan/status/2073704567284355082",
+  "publishedAt": "2026-07-05T09:44:31.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 63027,
+    "likes": 3807,
+    "reposts": 1307,
+    "replies": 175,
+    "quotes": 20,
+    "bookmarks": 65
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 63027,
+        "likes": 3807,
+        "reposts": 1307,
+        "replies": 175,
+        "quotes": 20,
+        "bookmarks": 65
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 63027,
+        "likes": 3807,
+        "reposts": 1307,
+        "replies": 175,
+        "quotes": 20,
+        "bookmarks": 65
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Cela se rapproche dangereusement d’une dictature…"
+    }
+  ]
+}

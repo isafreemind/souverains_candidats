@@ -1,0 +1,48 @@
+{
+  "id": "2062920124357603425",
+  "handle": "dupontaignan",
+  "text": "HONTE à notre justice qui a laissé un prédateur sexuel en liberté ! Réformons-la de fond en comble !",
+  "url": "https://x.com/dupontaignan/status/2062920124357603425",
+  "publishedAt": "2026-06-05T15:30:59.000Z",
+  "observedAt": "2026-10-17T08:41:29.906Z",
+  "firstSeenAt": "2026-10-17T08:36:20.505Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5666,
+    "likes": 694,
+    "reposts": 233,
+    "replies": 45,
+    "quotes": 4,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "metrics": {
+        "views": 5666,
+        "likes": 694,
+        "reposts": 233,
+        "replies": 45,
+        "quotes": 4,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:29.906Z",
+      "metrics": {
+        "views": 5666,
+        "likes": 694,
+        "reposts": 233,
+        "replies": 45,
+        "quotes": 4,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:20.505Z",
+      "text": "HONTE à notre justice qui a laissé un prédateur sexuel en liberté ! Réformons-la de fond en comble !"
+    }
+  ]
+}

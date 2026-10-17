@@ -1,0 +1,37 @@
+{
+  "id": "2054208793681006933",
+  "handle": "f_philippot",
+  "text": "La colère populaire augmente ! \nEt le coup de l’Hantavirus ne fera que la déchaîner.\n\nVoyez ce qui vient de se passer à l’Assemblée nationale ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2054208793681006933",
+  "publishedAt": "2026-05-12T14:35:16.000Z",
+  "observedAt": "2026-10-17T08:44:24.827Z",
+  "firstSeenAt": "2026-10-17T08:44:24.827Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 24169,
+    "likes": 1284,
+    "reposts": 482,
+    "replies": 61,
+    "quotes": 7,
+    "bookmarks": 31
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:24.827Z",
+      "metrics": {
+        "views": 24169,
+        "likes": 1284,
+        "reposts": 482,
+        "replies": 61,
+        "quotes": 7,
+        "bookmarks": 31
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:24.827Z",
+      "text": "La colère populaire augmente ! \nEt le coup de l’Hantavirus ne fera que la déchaîner.\n\nVoyez ce qui vient de se passer à l’Assemblée nationale ! ⤵️"
+    }
+  ]
+}

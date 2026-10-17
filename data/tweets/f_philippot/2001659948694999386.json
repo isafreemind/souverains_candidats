@@ -1,0 +1,37 @@
+{
+  "id": "2001659948694999386",
+  "handle": "f_philippot",
+  "text": "BRUXELLES EST EN FEU pour nos paysans et pour le Frexit !",
+  "url": "https://x.com/f_philippot/status/2001659948694999386",
+  "publishedAt": "2025-12-18T14:24:55.000Z",
+  "observedAt": "2026-10-17T08:47:17.580Z",
+  "firstSeenAt": "2026-10-17T08:47:17.580Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 47622,
+    "likes": 3852,
+    "reposts": 1301,
+    "replies": 142,
+    "quotes": 47,
+    "bookmarks": 65
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:17.580Z",
+      "metrics": {
+        "views": 47622,
+        "likes": 3852,
+        "reposts": 1301,
+        "replies": 142,
+        "quotes": 47,
+        "bookmarks": 65
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:17.580Z",
+      "text": "BRUXELLES EST EN FEU pour nos paysans et pour le Frexit !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2054811446995738955",
+  "handle": "dupontaignan",
+  "text": "Joyeuse fête de l’Ascension !",
+  "url": "https://x.com/dupontaignan/status/2054811446995738955",
+  "publishedAt": "2026-05-14T06:30:00.000Z",
+  "observedAt": "2026-10-17T08:48:17.558Z",
+  "firstSeenAt": "2026-10-17T08:48:17.558Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 24982,
+    "likes": 3149,
+    "reposts": 604,
+    "replies": 82,
+    "quotes": 13,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "metrics": {
+        "views": 24982,
+        "likes": 3149,
+        "reposts": 604,
+        "replies": 82,
+        "quotes": 13,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "text": "Joyeuse fête de l’Ascension !"
+    }
+  ]
+}

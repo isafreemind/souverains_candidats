@@ -1,0 +1,37 @@
+{
+  "id": "2042271329379123476",
+  "handle": "dupontaignan",
+  "text": "AHURISSANT. Plutôt que de construire les places de prison nécessaires, ils préfèrent libérer les criminels.",
+  "url": "https://x.com/dupontaignan/status/2042271329379123476",
+  "publishedAt": "2026-04-09T16:00:03.000Z",
+  "observedAt": "2026-10-17T08:48:43.404Z",
+  "firstSeenAt": "2026-10-17T08:48:43.404Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5323,
+    "likes": 461,
+    "reposts": 205,
+    "replies": 31,
+    "quotes": 3,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:43.404Z",
+      "metrics": {
+        "views": 5323,
+        "likes": 461,
+        "reposts": 205,
+        "replies": 31,
+        "quotes": 3,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:43.404Z",
+      "text": "AHURISSANT. Plutôt que de construire les places de prison nécessaires, ils préfèrent libérer les criminels."
+    }
+  ]
+}

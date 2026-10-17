@@ -1,0 +1,48 @@
+{
+  "id": "2071226602449498230",
+  "handle": "dupontaignan",
+  "text": "Incapable d'arrêter les violeurs d'enfants, le gouvernement préfère s'attaquer à ceux qui boivent un verre pour se rafraichir pendant la canicule. ILS SONT DEVENUS FOUS !",
+  "url": "https://x.com/dupontaignan/status/2071226602449498230",
+  "publishedAt": "2026-06-28T13:37:58.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 41520,
+    "likes": 6066,
+    "reposts": 2160,
+    "replies": 265,
+    "quotes": 29,
+    "bookmarks": 39
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 41520,
+        "likes": 6066,
+        "reposts": 2160,
+        "replies": 265,
+        "quotes": 29,
+        "bookmarks": 39
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 41520,
+        "likes": 6066,
+        "reposts": 2160,
+        "replies": 265,
+        "quotes": 29,
+        "bookmarks": 39
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "Incapable d'arrêter les violeurs d'enfants, le gouvernement préfère s'attaquer à ceux qui boivent un verre pour se rafraichir pendant la canicule. ILS SONT DEVENUS FOUS !"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2060830402650972227",
+  "handle": "dupontaignan",
+  "text": "LA HONTE !",
+  "url": "https://x.com/dupontaignan/status/2060830402650972227",
+  "publishedAt": "2026-05-30T21:07:11.000Z",
+  "observedAt": "2026-10-17T08:41:33.463Z",
+  "firstSeenAt": "2026-10-17T08:36:23.120Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 16511,
+    "likes": 1232,
+    "reposts": 424,
+    "replies": 86,
+    "quotes": 10,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "metrics": {
+        "views": 16511,
+        "likes": 1232,
+        "reposts": 424,
+        "replies": 86,
+        "quotes": 10,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:33.463Z",
+      "metrics": {
+        "views": 16511,
+        "likes": 1232,
+        "reposts": 424,
+        "replies": 86,
+        "quotes": 10,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:23.120Z",
+      "text": "LA HONTE !"
+    }
+  ]
+}

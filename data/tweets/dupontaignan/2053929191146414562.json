@@ -1,0 +1,37 @@
+{
+  "id": "2053929191146414562",
+  "handle": "dupontaignan",
+  "text": "À ÉCOUTER D’URGENCE .. pour comprendre la nouvelle peur des HANTAVIRUS.",
+  "url": "https://x.com/dupontaignan/status/2053929191146414562",
+  "publishedAt": "2026-05-11T20:04:13.000Z",
+  "observedAt": "2026-10-17T08:48:17.558Z",
+  "firstSeenAt": "2026-10-17T08:48:17.558Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9620,
+    "likes": 492,
+    "reposts": 265,
+    "replies": 35,
+    "quotes": 4,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "metrics": {
+        "views": 9620,
+        "likes": 492,
+        "reposts": 265,
+        "replies": 35,
+        "quotes": 4,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:48:17.558Z",
+      "text": "À ÉCOUTER D’URGENCE .. pour comprendre la nouvelle peur des HANTAVIRUS."
+    }
+  ]
+}

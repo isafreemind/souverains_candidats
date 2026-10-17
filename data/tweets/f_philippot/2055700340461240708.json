@@ -1,0 +1,37 @@
+{
+  "id": "2055700340461240708",
+  "handle": "f_philippot",
+  "text": "L’hantavirus ayant fait un flop, on va passer à Ebola c’est ça ?! 🤦🏻‍♂️",
+  "url": "https://x.com/f_philippot/status/2055700340461240708",
+  "publishedAt": "2026-05-16T17:22:08.000Z",
+  "observedAt": "2026-10-17T08:44:22.036Z",
+  "firstSeenAt": "2026-10-17T08:44:22.036Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 46677,
+    "likes": 1905,
+    "reposts": 626,
+    "replies": 143,
+    "quotes": 15,
+    "bookmarks": 26
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:22.036Z",
+      "metrics": {
+        "views": 46677,
+        "likes": 1905,
+        "reposts": 626,
+        "replies": 143,
+        "quotes": 15,
+        "bookmarks": 26
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:22.036Z",
+      "text": "L’hantavirus ayant fait un flop, on va passer à Ebola c’est ça ?! 🤦🏻‍♂️"
+    }
+  ]
+}

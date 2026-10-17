@@ -1,0 +1,48 @@
+{
+  "id": "2076563966378013106",
+  "handle": "f_asselineau",
+  "text": "Je suis actuellement l’invité de Nicolas Stoquer dans la matinale de GPTV. \n\nhttps://www.youtube.com/live/Ya2uNEXxsOI",
+  "url": "https://x.com/f_asselineau/status/2076563966378013106",
+  "publishedAt": "2026-07-13T07:06:44.000Z",
+  "observedAt": "2026-10-17T08:37:36.278Z",
+  "firstSeenAt": "2026-10-17T08:32:32.742Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 21490,
+    "likes": 412,
+    "reposts": 149,
+    "replies": 11,
+    "quotes": 0,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:32:32.742Z",
+      "metrics": {
+        "views": 21490,
+        "likes": 412,
+        "reposts": 149,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:37:36.278Z",
+      "metrics": {
+        "views": 21490,
+        "likes": 412,
+        "reposts": 149,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:32:32.742Z",
+      "text": "Je suis actuellement l’invité de Nicolas Stoquer dans la matinale de GPTV. \n\nhttps://www.youtube.com/live/Ya2uNEXxsOI"
+    }
+  ]
+}

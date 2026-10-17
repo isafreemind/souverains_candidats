@@ -1,0 +1,48 @@
+{
+  "id": "2072378778756546908",
+  "handle": "dupontaignan",
+  "text": "Avec un nouvel ami comme Wauquiez, Edouard Philippe n'a plus besoin d'ennemis !",
+  "url": "https://x.com/dupontaignan/status/2072378778756546908",
+  "publishedAt": "2026-07-01T17:56:18.000Z",
+  "observedAt": "2026-10-17T08:41:18.999Z",
+  "firstSeenAt": "2026-10-17T08:36:09.015Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 12497,
+    "likes": 975,
+    "reposts": 301,
+    "replies": 33,
+    "quotes": 8,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "metrics": {
+        "views": 12497,
+        "likes": 975,
+        "reposts": 301,
+        "replies": 33,
+        "quotes": 8,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:18.999Z",
+      "metrics": {
+        "views": 12497,
+        "likes": 975,
+        "reposts": 301,
+        "replies": 33,
+        "quotes": 8,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "text": "Avec un nouvel ami comme Wauquiez, Edouard Philippe n'a plus besoin d'ennemis !"
+    }
+  ]
+}

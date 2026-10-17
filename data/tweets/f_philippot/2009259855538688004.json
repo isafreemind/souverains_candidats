@@ -1,0 +1,37 @@
+{
+  "id": "2009259855538688004",
+  "handle": "f_philippot",
+  "text": "C’est assez clair comme ça ?!\n\n#FREXIT ! 🚜 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2009259855538688004",
+  "publishedAt": "2026-01-08T13:44:14.000Z",
+  "observedAt": "2026-10-17T08:46:57.467Z",
+  "firstSeenAt": "2026-10-17T08:46:57.467Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 20916,
+    "likes": 2081,
+    "reposts": 576,
+    "replies": 124,
+    "quotes": 12,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:57.467Z",
+      "metrics": {
+        "views": 20916,
+        "likes": 2081,
+        "reposts": 576,
+        "replies": 124,
+        "quotes": 12,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:57.467Z",
+      "text": "C’est assez clair comme ça ?!\n\n#FREXIT ! 🚜 🇫🇷"
+    }
+  ]
+}

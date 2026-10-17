@@ -1,0 +1,37 @@
+{
+  "id": "2026269536547127660",
+  "handle": "f_philippot",
+  "text": "Quand tu veux, nous on se barre !\n#FrexitVite",
+  "url": "https://x.com/f_philippot/status/2026269536547127660",
+  "publishedAt": "2026-02-24T12:14:38.000Z",
+  "observedAt": "2026-10-17T08:45:46.977Z",
+  "firstSeenAt": "2026-10-17T08:45:46.977Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 11200,
+    "likes": 594,
+    "reposts": 144,
+    "replies": 36,
+    "quotes": 4,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:46.977Z",
+      "metrics": {
+        "views": 11200,
+        "likes": 594,
+        "reposts": 144,
+        "replies": 36,
+        "quotes": 4,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:46.977Z",
+      "text": "Quand tu veux, nous on se barre !\n#FrexitVite"
+    }
+  ]
+}

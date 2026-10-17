@@ -1,0 +1,48 @@
+{
+  "id": "2064422275697230061",
+  "handle": "dupontaignan",
+  "text": "📺 Retrouvez-moi demain, mercredi 10 juin à 08h10, dans l'émission #LaGrandeInterview sur @CNEWS et @Europe1, au micro de @LaurenceFerrari 🎙️",
+  "url": "https://x.com/dupontaignan/status/2064422275697230061",
+  "publishedAt": "2026-06-09T19:00:00.000Z",
+  "observedAt": "2026-10-17T08:41:28.320Z",
+  "firstSeenAt": "2026-10-17T08:36:19.102Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4383,
+    "likes": 138,
+    "reposts": 39,
+    "replies": 17,
+    "quotes": 1,
+    "bookmarks": 0
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:19.102Z",
+      "metrics": {
+        "views": 4383,
+        "likes": 138,
+        "reposts": 39,
+        "replies": 17,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:28.320Z",
+      "metrics": {
+        "views": 4383,
+        "likes": 138,
+        "reposts": 39,
+        "replies": 17,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:19.102Z",
+      "text": "📺 Retrouvez-moi demain, mercredi 10 juin à 08h10, dans l'émission #LaGrandeInterview sur @CNEWS et @Europe1, au micro de @LaurenceFerrari 🎙️"
+    }
+  ]
+}

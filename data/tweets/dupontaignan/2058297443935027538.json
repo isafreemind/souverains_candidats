@@ -1,0 +1,48 @@
+{
+  "id": "2058297443935027538",
+  "handle": "dupontaignan",
+  "text": "Pire encore il savait pertinemment que l’injection n’empêchait en rien la transmission du virus. Le professeur Delfraissy a avoué récemment qu’il avait prévenu le gouvernement dès mars 2021 !",
+  "url": "https://x.com/dupontaignan/status/2058297443935027538",
+  "publishedAt": "2026-05-23T21:22:06.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 12459,
+    "likes": 711,
+    "reposts": 254,
+    "replies": 15,
+    "quotes": 2,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 12459,
+        "likes": 711,
+        "reposts": 254,
+        "replies": 15,
+        "quotes": 2,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 12459,
+        "likes": 711,
+        "reposts": 254,
+        "replies": 15,
+        "quotes": 2,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "Pire encore il savait pertinemment que l’injection n’empêchait en rien la transmission du virus. Le professeur Delfraissy a avoué récemment qu’il avait prévenu le gouvernement dès mars 2021 !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2042641093469028667",
+  "handle": "f_philippot",
+  "text": "Tout en restant dans le marché européen de l’électricité qui nous fait payer l’électricité extrêmement cher ?!\n\nPure folie !",
+  "url": "https://x.com/f_philippot/status/2042641093469028667",
+  "publishedAt": "2026-04-10T16:29:21.000Z",
+  "observedAt": "2026-10-17T08:44:55.348Z",
+  "firstSeenAt": "2026-10-17T08:44:55.348Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 21039,
+    "likes": 1174,
+    "reposts": 428,
+    "replies": 98,
+    "quotes": 11,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:55.348Z",
+      "metrics": {
+        "views": 21039,
+        "likes": 1174,
+        "reposts": 428,
+        "replies": 98,
+        "quotes": 11,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:55.348Z",
+      "text": "Tout en restant dans le marché européen de l’électricité qui nous fait payer l’électricité extrêmement cher ?!\n\nPure folie !"
+    }
+  ]
+}

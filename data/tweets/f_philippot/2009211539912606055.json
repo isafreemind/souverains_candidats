@@ -1,0 +1,37 @@
+{
+  "id": "2009211539912606055",
+  "handle": "f_philippot",
+  "text": "On chante la Marseillaise ! 🇫🇷🇫🇷🇫🇷\n\nFREXIT\nRévolte paysanne !",
+  "url": "https://x.com/f_philippot/status/2009211539912606055",
+  "publishedAt": "2026-01-08T10:32:15.000Z",
+  "observedAt": "2026-10-17T08:46:58.790Z",
+  "firstSeenAt": "2026-10-17T08:46:58.790Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 25565,
+    "likes": 2705,
+    "reposts": 852,
+    "replies": 104,
+    "quotes": 44,
+    "bookmarks": 36
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:46:58.790Z",
+      "metrics": {
+        "views": 25565,
+        "likes": 2705,
+        "reposts": 852,
+        "replies": 104,
+        "quotes": 44,
+        "bookmarks": 36
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:46:58.790Z",
+      "text": "On chante la Marseillaise ! 🇫🇷🇫🇷🇫🇷\n\nFREXIT\nRévolte paysanne !"
+    }
+  ]
+}

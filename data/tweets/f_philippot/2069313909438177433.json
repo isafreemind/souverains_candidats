@@ -1,0 +1,37 @@
+{
+  "id": "2069313909438177433",
+  "handle": "f_philippot",
+  "text": "Non !\n➡️ Farage est plus haut que jamais, preuve que les Britanniques ne regrettent absolument pas le Brexit, mais regrettent qu’il ne soit pas encore totalement appliqué ! \nC’est très différent.\n\nVive le Brexit \nVivement le Frexit !",
+  "url": "https://x.com/f_philippot/status/2069313909438177433",
+  "publishedAt": "2026-06-23T06:57:36.000Z",
+  "observedAt": "2026-10-17T08:43:45.528Z",
+  "firstSeenAt": "2026-10-17T08:43:45.528Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 27853,
+    "likes": 918,
+    "reposts": 343,
+    "replies": 64,
+    "quotes": 11,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:45.528Z",
+      "metrics": {
+        "views": 27853,
+        "likes": 918,
+        "reposts": 343,
+        "replies": 64,
+        "quotes": 11,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:45.528Z",
+      "text": "Non !\n➡️ Farage est plus haut que jamais, preuve que les Britanniques ne regrettent absolument pas le Brexit, mais regrettent qu’il ne soit pas encore totalement appliqué ! \nC’est très différent.\n\nVive le Brexit \nVivement le Frexit !"
+    }
+  ]
+}

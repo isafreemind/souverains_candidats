@@ -1,0 +1,48 @@
+{
+  "id": "2059577450086945045",
+  "handle": "dupontaignan",
+  "text": "Aujourd'hui nous honorons les héros de la Résistance, ceux qui ont refusé la soumission, le mensonge, la trahison. Leur courage nous oblige. Dans une France à reconstruire, face à la lâcheté et à l’effacement, sachons à notre tour RÉSISTER.",
+  "url": "https://x.com/dupontaignan/status/2059577450086945045",
+  "publishedAt": "2026-05-27T10:08:23.000Z",
+  "observedAt": "2026-10-17T08:41:34.997Z",
+  "firstSeenAt": "2026-10-17T08:36:24.328Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3479,
+    "likes": 240,
+    "reposts": 98,
+    "replies": 23,
+    "quotes": 3,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "metrics": {
+        "views": 3479,
+        "likes": 240,
+        "reposts": 98,
+        "replies": 23,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:34.997Z",
+      "metrics": {
+        "views": 3479,
+        "likes": 240,
+        "reposts": 98,
+        "replies": 23,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:24.328Z",
+      "text": "Aujourd'hui nous honorons les héros de la Résistance, ceux qui ont refusé la soumission, le mensonge, la trahison. Leur courage nous oblige. Dans une France à reconstruire, face à la lâcheté et à l’effacement, sachons à notre tour RÉSISTER."
+    }
+  ]
+}

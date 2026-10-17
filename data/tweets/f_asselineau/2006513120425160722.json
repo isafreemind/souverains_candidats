@@ -1,0 +1,37 @@
+{
+  "id": "2006513120425160722",
+  "handle": "f_asselineau",
+  "text": "📊 SONDAGE\nAvez-vous écouté le discours des vœux\nde Macron pour 2026 ?",
+  "url": "https://x.com/f_asselineau/status/2006513120425160722",
+  "publishedAt": "2025-12-31T23:49:41.000Z",
+  "observedAt": "2026-10-17T08:51:57.589Z",
+  "firstSeenAt": "2026-10-17T08:51:57.589Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 32383,
+    "likes": 901,
+    "reposts": 613,
+    "replies": 222,
+    "quotes": 12,
+    "bookmarks": 13
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:51:57.589Z",
+      "metrics": {
+        "views": 32383,
+        "likes": 901,
+        "reposts": 613,
+        "replies": 222,
+        "quotes": 12,
+        "bookmarks": 13
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:51:57.589Z",
+      "text": "📊 SONDAGE\nAvez-vous écouté le discours des vœux\nde Macron pour 2026 ?"
+    }
+  ]
+}

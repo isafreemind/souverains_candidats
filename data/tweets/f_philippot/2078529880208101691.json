@@ -1,0 +1,48 @@
+{
+  "id": "2078529880208101691",
+  "handle": "f_philippot",
+  "text": "Il faut continuer de soutenir ces 2 films phénoménaux !\n\nParlez-en partout autour de vous : vive la France libre ! 🇫🇷🇫🇷🇫🇷",
+  "url": "https://x.com/f_philippot/status/2078529880208101691",
+  "publishedAt": "2026-07-18T17:18:35.000Z",
+  "observedAt": "2026-10-17T08:39:59.184Z",
+  "firstSeenAt": "2026-10-17T08:34:55.515Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 25852,
+    "likes": 1287,
+    "reposts": 510,
+    "replies": 60,
+    "quotes": 7,
+    "bookmarks": 25
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "metrics": {
+        "views": 25852,
+        "likes": 1287,
+        "reposts": 510,
+        "replies": 60,
+        "quotes": 7,
+        "bookmarks": 25
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:39:59.184Z",
+      "metrics": {
+        "views": 25852,
+        "likes": 1287,
+        "reposts": 510,
+        "replies": 60,
+        "quotes": 7,
+        "bookmarks": 25
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:34:55.515Z",
+      "text": "Il faut continuer de soutenir ces 2 films phénoménaux !\n\nParlez-en partout autour de vous : vive la France libre ! 🇫🇷🇫🇷🇫🇷"
+    }
+  ]
+}

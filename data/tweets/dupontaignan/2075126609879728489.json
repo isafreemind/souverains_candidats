@@ -1,0 +1,48 @@
+{
+  "id": "2075126609879728489",
+  "handle": "dupontaignan",
+  "text": "Séance de dédicaces à Vesoul puis Mulhouse : MERCI pour ce bel accueil !  Prochaine étape Strasbourg.",
+  "url": "https://x.com/dupontaignan/status/2075126609879728489",
+  "publishedAt": "2026-07-09T07:55:12.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5774,
+    "likes": 98,
+    "reposts": 26,
+    "replies": 14,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 5774,
+        "likes": 98,
+        "reposts": 26,
+        "replies": 14,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 5774,
+        "likes": 98,
+        "reposts": 26,
+        "replies": 14,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "Séance de dédicaces à Vesoul puis Mulhouse : MERCI pour ce bel accueil !  Prochaine étape Strasbourg."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1988379884226572634",
+  "handle": "dupontaignan",
+  "text": "Un IMMENSE MERCI !",
+  "url": "https://x.com/dupontaignan/status/1988379884226572634",
+  "publishedAt": "2025-11-11T22:54:41.000Z",
+  "observedAt": "2026-10-17T08:50:31.869Z",
+  "firstSeenAt": "2026-10-17T08:50:31.869Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7413,
+    "likes": 167,
+    "reposts": 62,
+    "replies": 9,
+    "quotes": 0,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:50:31.869Z",
+      "metrics": {
+        "views": 7413,
+        "likes": 167,
+        "reposts": 62,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:50:31.869Z",
+      "text": "Un IMMENSE MERCI !"
+    }
+  ]
+}

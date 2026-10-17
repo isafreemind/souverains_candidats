@@ -1,0 +1,48 @@
+{
+  "id": "2068691684741787921",
+  "handle": "dupontaignan",
+  "text": "Bonne fête des pères, à ceux qui nous tiennent la main chaque jour, comme à ceux qui veillent sur nous de là-haut.",
+  "url": "https://x.com/dupontaignan/status/2068691684741787921",
+  "publishedAt": "2026-06-21T13:45:06.000Z",
+  "observedAt": "2026-10-17T08:41:23.669Z",
+  "firstSeenAt": "2026-10-17T08:36:14.481Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5660,
+    "likes": 349,
+    "reposts": 61,
+    "replies": 11,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "metrics": {
+        "views": 5660,
+        "likes": 349,
+        "reposts": 61,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:23.669Z",
+      "metrics": {
+        "views": 5660,
+        "likes": 349,
+        "reposts": 61,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "text": "Bonne fête des pères, à ceux qui nous tiennent la main chaque jour, comme à ceux qui veillent sur nous de là-haut."
+    }
+  ]
+}

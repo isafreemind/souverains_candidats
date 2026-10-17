@@ -1,0 +1,37 @@
+{
+  "id": "2069873561204937027",
+  "handle": "f_philippot",
+  "text": "Ok Tsipras",
+  "url": "https://x.com/f_philippot/status/2069873561204937027",
+  "publishedAt": "2026-06-24T20:01:28.000Z",
+  "observedAt": "2026-10-17T08:43:43.732Z",
+  "firstSeenAt": "2026-10-17T08:43:43.732Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 16792,
+    "likes": 476,
+    "reposts": 107,
+    "replies": 34,
+    "quotes": 4,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:43.732Z",
+      "metrics": {
+        "views": 16792,
+        "likes": 476,
+        "reposts": 107,
+        "replies": 34,
+        "quotes": 4,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:43.732Z",
+      "text": "Ok Tsipras"
+    }
+  ]
+}

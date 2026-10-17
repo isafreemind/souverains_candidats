@@ -1,0 +1,48 @@
+{
+  "id": "2074434820218794226",
+  "handle": "dupontaignan",
+  "text": "Ce pays est devenu une véritable mafia criminelle ! Arrêtons de financer ces assassins !",
+  "url": "https://x.com/dupontaignan/status/2074434820218794226",
+  "publishedAt": "2026-07-07T10:06:16.000Z",
+  "observedAt": "2026-10-17T08:41:11.436Z",
+  "firstSeenAt": "2026-10-17T08:36:03.037Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 46581,
+    "likes": 1835,
+    "reposts": 654,
+    "replies": 72,
+    "quotes": 7,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "metrics": {
+        "views": 46581,
+        "likes": 1835,
+        "reposts": 654,
+        "replies": 72,
+        "quotes": 7,
+        "bookmarks": 18
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:11.436Z",
+      "metrics": {
+        "views": 46581,
+        "likes": 1835,
+        "reposts": 654,
+        "replies": 72,
+        "quotes": 7,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:03.037Z",
+      "text": "Ce pays est devenu une véritable mafia criminelle ! Arrêtons de financer ces assassins !"
+    }
+  ]
+}

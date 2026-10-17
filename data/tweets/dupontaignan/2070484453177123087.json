@@ -1,0 +1,48 @@
+{
+  "id": "2070484453177123087",
+  "handle": "dupontaignan",
+  "text": "L’Union européenne ressemble de plus en plus à l’Union soviétique.\n\nDes influenceurs vont pouvoir couvrir des événements européens à condition de relayer la propagande officielle.\n\nJusqu’où iront-ils ???",
+  "url": "https://x.com/dupontaignan/status/2070484453177123087",
+  "publishedAt": "2026-06-26T12:28:56.000Z",
+  "observedAt": "2026-10-17T08:41:22.317Z",
+  "firstSeenAt": "2026-10-17T08:36:12.968Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 22942,
+    "likes": 514,
+    "reposts": 183,
+    "replies": 29,
+    "quotes": 6,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "metrics": {
+        "views": 22942,
+        "likes": 514,
+        "reposts": 183,
+        "replies": 29,
+        "quotes": 6,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:22.317Z",
+      "metrics": {
+        "views": 22942,
+        "likes": 514,
+        "reposts": 183,
+        "replies": 29,
+        "quotes": 6,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:12.968Z",
+      "text": "L’Union européenne ressemble de plus en plus à l’Union soviétique.\n\nDes influenceurs vont pouvoir couvrir des événements européens à condition de relayer la propagande officielle.\n\nJusqu’où iront-ils ???"
+    }
+  ]
+}

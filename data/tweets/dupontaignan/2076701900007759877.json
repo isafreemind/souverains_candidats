@@ -1,0 +1,48 @@
+{
+  "id": "2076701900007759877",
+  "handle": "dupontaignan",
+  "text": "Feu en cours forêt de la grange à la limite des 2 communes de Yerres et de Limeil-Brevannes au niveau de la voie de TGV. Les  pompiers sont mobilisés pour y mettre fin, les policiers sécurisent la zone. Merci à eux pour leur dévouement et leur professionnalisme.⁩",
+  "url": "https://x.com/dupontaignan/status/2076701900007759877",
+  "publishedAt": "2026-07-13T16:14:50.000Z",
+  "observedAt": "2026-10-17T08:41:09.504Z",
+  "firstSeenAt": "2026-10-17T08:36:01.792Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 9717,
+    "likes": 324,
+    "reposts": 100,
+    "replies": 12,
+    "quotes": 4,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "metrics": {
+        "views": 9717,
+        "likes": 324,
+        "reposts": 100,
+        "replies": 12,
+        "quotes": 4,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:09.504Z",
+      "metrics": {
+        "views": 9717,
+        "likes": 324,
+        "reposts": 100,
+        "replies": 12,
+        "quotes": 4,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:01.792Z",
+      "text": "Feu en cours forêt de la grange à la limite des 2 communes de Yerres et de Limeil-Brevannes au niveau de la voie de TGV. Les  pompiers sont mobilisés pour y mettre fin, les policiers sécurisent la zone. Merci à eux pour leur dévouement et leur professionnalisme.⁩"
+    }
+  ]
+}

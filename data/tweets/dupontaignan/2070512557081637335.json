@@ -1,0 +1,48 @@
+{
+  "id": "2070512557081637335",
+  "handle": "dupontaignan",
+  "text": "Cette ministre délire, personne ne veut mettre la clim pour lutter contre les feux de forêts ????\n\nPS : Pour les feux de forêts on attend toujours les Canadair promis par Macron.",
+  "url": "https://x.com/dupontaignan/status/2070512557081637335",
+  "publishedAt": "2026-06-26T14:20:36.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 11677,
+    "likes": 1043,
+    "reposts": 299,
+    "replies": 45,
+    "quotes": 5,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 11677,
+        "likes": 1043,
+        "reposts": 299,
+        "replies": 45,
+        "quotes": 5,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 11677,
+        "likes": 1043,
+        "reposts": 299,
+        "replies": 45,
+        "quotes": 5,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "Cette ministre délire, personne ne veut mettre la clim pour lutter contre les feux de forêts ????\n\nPS : Pour les feux de forêts on attend toujours les Canadair promis par Macron."
+    }
+  ]
+}

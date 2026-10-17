@@ -1,0 +1,37 @@
+{
+  "id": "2035401358531010692",
+  "handle": "f_philippot",
+  "text": "Et quel algorithme est à l’origine de ça ?…⤵️",
+  "url": "https://x.com/f_philippot/status/2035401358531010692",
+  "publishedAt": "2026-03-21T17:01:14.000Z",
+  "observedAt": "2026-10-17T08:45:19.473Z",
+  "firstSeenAt": "2026-10-17T08:45:19.473Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 50907,
+    "likes": 2359,
+    "reposts": 563,
+    "replies": 49,
+    "quotes": 9,
+    "bookmarks": 66
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:19.473Z",
+      "metrics": {
+        "views": 50907,
+        "likes": 2359,
+        "reposts": 563,
+        "replies": 49,
+        "quotes": 9,
+        "bookmarks": 66
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:19.473Z",
+      "text": "Et quel algorithme est à l’origine de ça ?…⤵️"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1997728752890216917",
+  "handle": "f_philippot",
+  "text": "Effet Streisand incroyable : X bat ce week-end des record de téléchargement dans un grand nombre de pays de l’UE !\n\nLiberté 1 - UE 0 pointé !",
+  "url": "https://x.com/f_philippot/status/1997728752890216917",
+  "publishedAt": "2025-12-07T18:03:45.000Z",
+  "observedAt": "2026-10-17T08:47:33.954Z",
+  "firstSeenAt": "2026-10-17T08:47:33.954Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 27571,
+    "likes": 1702,
+    "reposts": 451,
+    "replies": 58,
+    "quotes": 5,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:33.954Z",
+      "metrics": {
+        "views": 27571,
+        "likes": 1702,
+        "reposts": 451,
+        "replies": 58,
+        "quotes": 5,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:33.954Z",
+      "text": "Effet Streisand incroyable : X bat ce week-end des record de téléchargement dans un grand nombre de pays de l’UE !\n\nLiberté 1 - UE 0 pointé !"
+    }
+  ]
+}

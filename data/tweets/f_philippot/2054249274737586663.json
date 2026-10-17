@@ -1,0 +1,37 @@
+{
+  "id": "2054249274737586663",
+  "handle": "f_philippot",
+  "text": "Bah voyons !\n\nJAMAIS !",
+  "url": "https://x.com/f_philippot/status/2054249274737586663",
+  "publishedAt": "2026-05-12T17:16:07.000Z",
+  "observedAt": "2026-10-17T08:44:24.827Z",
+  "firstSeenAt": "2026-10-17T08:44:24.827Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 20282,
+    "likes": 925,
+    "reposts": 378,
+    "replies": 136,
+    "quotes": 7,
+    "bookmarks": 26
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:24.827Z",
+      "metrics": {
+        "views": 20282,
+        "likes": 925,
+        "reposts": 378,
+        "replies": 136,
+        "quotes": 7,
+        "bookmarks": 26
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:24.827Z",
+      "text": "Bah voyons !\n\nJAMAIS !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2009581935534940407",
+  "handle": "dupontaignan",
+  "text": "C’est vrai, vous ne vous êtes JAMAIS réveillés !",
+  "url": "https://x.com/dupontaignan/status/2009581935534940407",
+  "publishedAt": "2026-01-09T11:04:04.000Z",
+  "observedAt": "2026-10-17T08:49:46.602Z",
+  "firstSeenAt": "2026-10-17T08:49:46.602Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10834,
+    "likes": 709,
+    "reposts": 182,
+    "replies": 25,
+    "quotes": 3,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:46.602Z",
+      "metrics": {
+        "views": 10834,
+        "likes": 709,
+        "reposts": 182,
+        "replies": 25,
+        "quotes": 3,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:46.602Z",
+      "text": "C’est vrai, vous ne vous êtes JAMAIS réveillés !"
+    }
+  ]
+}

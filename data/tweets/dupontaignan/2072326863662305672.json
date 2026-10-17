@@ -1,0 +1,48 @@
+{
+  "id": "2072326863662305672",
+  "handle": "dupontaignan",
+  "text": "📺 Retrouvez-moi à 16h50, dans l'émission \"Marschall Truchot\" sur @BFMTV au micro de @Olivier_Truchot et @AlainMarschall 🎙️",
+  "url": "https://x.com/dupontaignan/status/2072326863662305672",
+  "publishedAt": "2026-07-01T14:30:00.000Z",
+  "observedAt": "2026-10-17T08:41:18.999Z",
+  "firstSeenAt": "2026-10-17T08:36:09.015Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3482,
+    "likes": 35,
+    "reposts": 5,
+    "replies": 5,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "metrics": {
+        "views": 3482,
+        "likes": 35,
+        "reposts": 5,
+        "replies": 5,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:18.999Z",
+      "metrics": {
+        "views": 3482,
+        "likes": 35,
+        "reposts": 5,
+        "replies": 5,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:09.015Z",
+      "text": "📺 Retrouvez-moi à 16h50, dans l'émission \"Marschall Truchot\" sur @BFMTV au micro de @Olivier_Truchot et @AlainMarschall 🎙️"
+    }
+  ]
+}

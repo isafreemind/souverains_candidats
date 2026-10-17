@@ -1,0 +1,37 @@
+{
+  "id": "2003772928882811357",
+  "handle": "f_philippot",
+  "text": "Il est temps de la ressortir ! 😉",
+  "url": "https://x.com/f_philippot/status/2003772928882811357",
+  "publishedAt": "2025-12-24T10:21:09.000Z",
+  "observedAt": "2026-10-17T08:47:14.813Z",
+  "firstSeenAt": "2026-10-17T08:47:14.813Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 574134,
+    "likes": 4478,
+    "reposts": 903,
+    "replies": 558,
+    "quotes": 77,
+    "bookmarks": 31
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:47:14.813Z",
+      "metrics": {
+        "views": 574134,
+        "likes": 4478,
+        "reposts": 903,
+        "replies": 558,
+        "quotes": 77,
+        "bookmarks": 31
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:47:14.813Z",
+      "text": "Il est temps de la ressortir ! 😉"
+    }
+  ]
+}

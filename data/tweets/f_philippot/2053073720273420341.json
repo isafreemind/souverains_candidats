@@ -1,0 +1,37 @@
+{
+  "id": "2053073720273420341",
+  "handle": "f_philippot",
+  "text": "Notre combat pour le Frexit fait le tour du monde ! \n⤵️\n\nRelayons partout",
+  "url": "https://x.com/f_philippot/status/2053073720273420341",
+  "publishedAt": "2026-05-09T11:24:53.000Z",
+  "observedAt": "2026-10-17T08:44:28.185Z",
+  "firstSeenAt": "2026-10-17T08:44:28.185Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 27567,
+    "likes": 2514,
+    "reposts": 1029,
+    "replies": 80,
+    "quotes": 11,
+    "bookmarks": 43
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:28.185Z",
+      "metrics": {
+        "views": 27567,
+        "likes": 2514,
+        "reposts": 1029,
+        "replies": 80,
+        "quotes": 11,
+        "bookmarks": 43
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:28.185Z",
+      "text": "Notre combat pour le Frexit fait le tour du monde ! \n⤵️\n\nRelayons partout"
+    }
+  ]
+}

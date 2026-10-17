@@ -1,0 +1,37 @@
+{
+  "id": "2002085513256378506",
+  "handle": "dupontaignan",
+  "text": "À Bruxelles : 90 milliards d’euros pour l’Ukraine. À Paris : toujours pas de budget ! Les Français apprécieront !",
+  "url": "https://x.com/dupontaignan/status/2002085513256378506",
+  "publishedAt": "2025-12-19T18:35:57.000Z",
+  "observedAt": "2026-10-17T08:49:55.015Z",
+  "firstSeenAt": "2026-10-17T08:49:55.015Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 17568,
+    "likes": 1656,
+    "reposts": 739,
+    "replies": 105,
+    "quotes": 18,
+    "bookmarks": 25
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:49:55.015Z",
+      "metrics": {
+        "views": 17568,
+        "likes": 1656,
+        "reposts": 739,
+        "replies": 105,
+        "quotes": 18,
+        "bookmarks": 25
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:49:55.015Z",
+      "text": "À Bruxelles : 90 milliards d’euros pour l’Ukraine. À Paris : toujours pas de budget ! Les Français apprécieront !"
+    }
+  ]
+}

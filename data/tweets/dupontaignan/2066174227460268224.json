@@ -1,0 +1,48 @@
+{
+  "id": "2066174227460268224",
+  "handle": "dupontaignan",
+  "text": "Nicolas Décrypte l’Actu : le bilan de la semaine\n\nRetrouvez ma dernière vidéo : https://youtu.be/y7S6ItInpVE?si=zphhrLcK9V-fGuHL",
+  "url": "https://x.com/dupontaignan/status/2066174227460268224",
+  "publishedAt": "2026-06-14T15:01:38.000Z",
+  "observedAt": "2026-10-17T08:41:27.166Z",
+  "firstSeenAt": "2026-10-17T08:36:17.610Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 3005,
+    "likes": 85,
+    "reposts": 35,
+    "replies": 7,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "metrics": {
+        "views": 3005,
+        "likes": 85,
+        "reposts": 35,
+        "replies": 7,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:27.166Z",
+      "metrics": {
+        "views": 3005,
+        "likes": 85,
+        "reposts": 35,
+        "replies": 7,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:17.610Z",
+      "text": "Nicolas Décrypte l’Actu : le bilan de la semaine\n\nRetrouvez ma dernière vidéo : https://youtu.be/y7S6ItInpVE?si=zphhrLcK9V-fGuHL"
+    }
+  ]
+}

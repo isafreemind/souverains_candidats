@@ -1,0 +1,48 @@
+{
+  "id": "2077501285209723102",
+  "handle": "dupontaignan",
+  "text": "À LIRE ABSOLUMENT ! Tout est dit ….",
+  "url": "https://x.com/dupontaignan/status/2077501285209723102",
+  "publishedAt": "2026-07-15T21:11:19.000Z",
+  "observedAt": "2026-10-17T08:41:06.259Z",
+  "firstSeenAt": "2026-10-17T08:36:00.267Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 14882,
+    "likes": 778,
+    "reposts": 446,
+    "replies": 23,
+    "quotes": 4,
+    "bookmarks": 85
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "metrics": {
+        "views": 14882,
+        "likes": 778,
+        "reposts": 446,
+        "replies": 23,
+        "quotes": 4,
+        "bookmarks": 85
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:06.259Z",
+      "metrics": {
+        "views": 14882,
+        "likes": 778,
+        "reposts": 446,
+        "replies": 23,
+        "quotes": 4,
+        "bookmarks": 85
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "text": "À LIRE ABSOLUMENT ! Tout est dit …."
+    }
+  ]
+}

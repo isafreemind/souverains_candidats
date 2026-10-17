@@ -1,0 +1,48 @@
+{
+  "id": "2073798386688327707",
+  "handle": "dupontaignan",
+  "text": "Le Gouvernement britannique veut s’emparer de l’algorithme YouTube pour privilégier les discours mainstream !\nQuand un Gouvernement est désavoué par son peuple, il est prêt à tout pour rester au pouvoir. Ces gens préfèrent la censure à la liberté d’expression, et l’autoritarisme à la démocratie !\nVivement l'élection de Nigel Farage !",
+  "url": "https://x.com/dupontaignan/status/2073798386688327707",
+  "publishedAt": "2026-07-05T15:57:19.000Z",
+  "observedAt": "2026-10-17T08:41:13.857Z",
+  "firstSeenAt": "2026-10-17T08:36:04.319Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 12949,
+    "likes": 776,
+    "reposts": 320,
+    "replies": 24,
+    "quotes": 4,
+    "bookmarks": 14
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "metrics": {
+        "views": 12949,
+        "likes": 776,
+        "reposts": 320,
+        "replies": 24,
+        "quotes": 4,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:13.857Z",
+      "metrics": {
+        "views": 12949,
+        "likes": 776,
+        "reposts": 320,
+        "replies": 24,
+        "quotes": 4,
+        "bookmarks": 14
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:04.319Z",
+      "text": "Le Gouvernement britannique veut s’emparer de l’algorithme YouTube pour privilégier les discours mainstream !\nQuand un Gouvernement est désavoué par son peuple, il est prêt à tout pour rester au pouvoir. Ces gens préfèrent la censure à la liberté d’expression, et l’autoritarisme à la démocratie !\nVivement l'élection de Nigel Farage !"
+    }
+  ]
+}

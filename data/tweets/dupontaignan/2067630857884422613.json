@@ -1,0 +1,48 @@
+{
+  "id": "2067630857884422613",
+  "handle": "dupontaignan",
+  "text": "Au cœur de la Haute-Marne, berceau historique de la coutellerie française, je visite avec fierté l’entreprise NOGENT 3 étoiles qui incarne le Fabriqué en France authentique !\nSavoir-faire ancestral, lames d’exception, emplois locaux : voilà la France qui gagne. Face aux délocalisations, nous devons réindustrialiser massivement notre pays en protégeant nos PME, en baissant les charges et en relocalisant la production.",
+  "url": "https://x.com/dupontaignan/status/2067630857884422613",
+  "publishedAt": "2026-06-18T15:29:45.000Z",
+  "observedAt": "2026-10-17T08:41:23.669Z",
+  "firstSeenAt": "2026-10-17T08:36:14.481Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 4352,
+    "likes": 209,
+    "reposts": 63,
+    "replies": 5,
+    "quotes": 1,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "metrics": {
+        "views": 4352,
+        "likes": 209,
+        "reposts": 63,
+        "replies": 5,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:23.669Z",
+      "metrics": {
+        "views": 4352,
+        "likes": 209,
+        "reposts": 63,
+        "replies": 5,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "text": "Au cœur de la Haute-Marne, berceau historique de la coutellerie française, je visite avec fierté l’entreprise NOGENT 3 étoiles qui incarne le Fabriqué en France authentique !\nSavoir-faire ancestral, lames d’exception, emplois locaux : voilà la France qui gagne. Face aux délocalisations, nous devons réindustrialiser massivement notre pays en protégeant nos PME, en baissant les charges et en relocalisant la production."
+    }
+  ]
+}

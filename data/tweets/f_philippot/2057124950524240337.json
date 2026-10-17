@@ -1,0 +1,37 @@
+{
+  "id": "2057124950524240337",
+  "handle": "f_philippot",
+  "text": "Meloni se rebiffe !",
+  "url": "https://x.com/f_philippot/status/2057124950524240337",
+  "publishedAt": "2026-05-20T15:43:02.000Z",
+  "observedAt": "2026-10-17T08:44:19.983Z",
+  "firstSeenAt": "2026-10-17T08:44:19.983Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 15722,
+    "likes": 253,
+    "reposts": 75,
+    "replies": 21,
+    "quotes": 1,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:19.983Z",
+      "metrics": {
+        "views": 15722,
+        "likes": 253,
+        "reposts": 75,
+        "replies": 21,
+        "quotes": 1,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:19.983Z",
+      "text": "Meloni se rebiffe !"
+    }
+  ]
+}

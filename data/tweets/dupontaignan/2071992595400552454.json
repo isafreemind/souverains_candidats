@@ -1,0 +1,48 @@
+{
+  "id": "2071992595400552454",
+  "handle": "dupontaignan",
+  "text": "Ce soir notre démocratie a perdu son âme et sa dignité. 295 députés préfèrent que l’on tue les malades les plus fragiles ou les plus pauvres plutôt que de les soigner ou de les accompagner en soins palliatifs. C’est un renversement civilisationnel sans précédent sur lequel il faudra revenir au plus vite.",
+  "url": "https://x.com/dupontaignan/status/2071992595400552454",
+  "publishedAt": "2026-06-30T16:21:45.000Z",
+  "observedAt": "2026-10-17T08:41:20.790Z",
+  "firstSeenAt": "2026-10-17T08:36:10.864Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 49146,
+    "likes": 4815,
+    "reposts": 2011,
+    "replies": 410,
+    "quotes": 49,
+    "bookmarks": 92
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "metrics": {
+        "views": 49146,
+        "likes": 4815,
+        "reposts": 2011,
+        "replies": 410,
+        "quotes": 49,
+        "bookmarks": 92
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:20.790Z",
+      "metrics": {
+        "views": 49146,
+        "likes": 4815,
+        "reposts": 2011,
+        "replies": 410,
+        "quotes": 49,
+        "bookmarks": 92
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:10.864Z",
+      "text": "Ce soir notre démocratie a perdu son âme et sa dignité. 295 députés préfèrent que l’on tue les malades les plus fragiles ou les plus pauvres plutôt que de les soigner ou de les accompagner en soins palliatifs. C’est un renversement civilisationnel sans précédent sur lequel il faudra revenir au plus vite."
+    }
+  ]
+}

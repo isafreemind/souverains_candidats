@@ -4,11 +4,11 @@
   "text": "Un bon dessin vaut mieux qu’un long discours !",
   "url": "https://x.com/dupontaignan/status/2109335087070515531",
   "publishedAt": "2026-10-11T17:27:28.000Z",
-  "observedAt": "2026-10-17T08:03:49.749Z",
+  "observedAt": "2026-10-17T08:40:13.721Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 63697,
+    "views": 63698,
     "likes": 5916,
     "reposts": 1989,
     "replies": 145,
@@ -31,6 +31,28 @@
       "observedAt": "2026-10-17T08:03:49.749Z",
       "metrics": {
         "views": 63697,
+        "likes": 5916,
+        "reposts": 1989,
+        "replies": 145,
+        "quotes": 30,
+        "bookmarks": 119
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:35:05.985Z",
+      "metrics": {
+        "views": 63698,
+        "likes": 5916,
+        "reposts": 1989,
+        "replies": 145,
+        "quotes": 30,
+        "bookmarks": 119
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:40:13.721Z",
+      "metrics": {
+        "views": 63698,
         "likes": 5916,
         "reposts": 1989,
         "replies": 145,

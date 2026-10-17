@@ -1,0 +1,37 @@
+{
+  "id": "2053424828137251290",
+  "handle": "f_philippot",
+  "text": "Mais regardez ça ! ⤵️\n\nTout le cinéma est de sorti ! \nIncroyable ! 🤦🏻‍♂️",
+  "url": "https://x.com/f_philippot/status/2053424828137251290",
+  "publishedAt": "2026-05-10T10:40:04.000Z",
+  "observedAt": "2026-10-17T08:44:26.396Z",
+  "firstSeenAt": "2026-10-17T08:44:26.396Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19906,
+    "likes": 1058,
+    "reposts": 438,
+    "replies": 112,
+    "quotes": 10,
+    "bookmarks": 19
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:26.396Z",
+      "metrics": {
+        "views": 19906,
+        "likes": 1058,
+        "reposts": 438,
+        "replies": 112,
+        "quotes": 10,
+        "bookmarks": 19
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:26.396Z",
+      "text": "Mais regardez ça ! ⤵️\n\nTout le cinéma est de sorti ! \nIncroyable ! 🤦🏻‍♂️"
+    }
+  ]
+}

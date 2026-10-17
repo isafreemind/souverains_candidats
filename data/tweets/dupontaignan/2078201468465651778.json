@@ -1,0 +1,48 @@
+{
+  "id": "2078201468465651778",
+  "handle": "dupontaignan",
+  "text": "La dissuasion nucléaire ne se partage pas, car on ne se fait pas vitrifier pour autrui. En laissant l’Allemagne participer à un exercice nucléaire français, Emmanuel Macron met en danger nos intérêts fondamentaux.",
+  "url": "https://x.com/dupontaignan/status/2078201468465651778",
+  "publishedAt": "2026-07-17T19:33:35.000Z",
+  "observedAt": "2026-10-17T08:41:06.259Z",
+  "firstSeenAt": "2026-10-17T08:36:00.267Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 30634,
+    "likes": 3487,
+    "reposts": 1452,
+    "replies": 193,
+    "quotes": 29,
+    "bookmarks": 49
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "metrics": {
+        "views": 30634,
+        "likes": 3487,
+        "reposts": 1452,
+        "replies": 193,
+        "quotes": 29,
+        "bookmarks": 49
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:06.259Z",
+      "metrics": {
+        "views": 30634,
+        "likes": 3487,
+        "reposts": 1452,
+        "replies": 193,
+        "quotes": 29,
+        "bookmarks": 49
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:00.267Z",
+      "text": "La dissuasion nucléaire ne se partage pas, car on ne se fait pas vitrifier pour autrui. En laissant l’Allemagne participer à un exercice nucléaire français, Emmanuel Macron met en danger nos intérêts fondamentaux."
+    }
+  ]
+}

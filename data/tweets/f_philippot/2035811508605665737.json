@@ -1,0 +1,37 @@
+{
+  "id": "2035811508605665737",
+  "handle": "f_philippot",
+  "text": "Bayrou perd à Pau !\n\nAprès 50 ans de dévastation dans notre vie publique, il était temps !",
+  "url": "https://x.com/f_philippot/status/2035811508605665737",
+  "publishedAt": "2026-03-22T20:11:01.000Z",
+  "observedAt": "2026-10-17T08:45:17.306Z",
+  "firstSeenAt": "2026-10-17T08:45:17.306Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 92628,
+    "likes": 9651,
+    "reposts": 2114,
+    "replies": 563,
+    "quotes": 106,
+    "bookmarks": 56
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:45:17.306Z",
+      "metrics": {
+        "views": 92628,
+        "likes": 9651,
+        "reposts": 2114,
+        "replies": 563,
+        "quotes": 106,
+        "bookmarks": 56
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:45:17.306Z",
+      "text": "Bayrou perd à Pau !\n\nAprès 50 ans de dévastation dans notre vie publique, il était temps !"
+    }
+  ]
+}

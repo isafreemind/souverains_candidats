@@ -1,0 +1,48 @@
+{
+  "id": "2058893665724973275",
+  "handle": "dupontaignan",
+  "text": "TEXTE ÉBLOUISSANT DE VÉRITÉ.",
+  "url": "https://x.com/dupontaignan/status/2058893665724973275",
+  "publishedAt": "2026-05-25T12:51:16.000Z",
+  "observedAt": "2026-10-17T08:41:36.498Z",
+  "firstSeenAt": "2026-10-17T08:36:26.812Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 6632,
+    "likes": 164,
+    "reposts": 44,
+    "replies": 4,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "metrics": {
+        "views": 6632,
+        "likes": 164,
+        "reposts": 44,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:36.498Z",
+      "metrics": {
+        "views": 6632,
+        "likes": 164,
+        "reposts": 44,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:26.812Z",
+      "text": "TEXTE ÉBLOUISSANT DE VÉRITÉ."
+    }
+  ]
+}

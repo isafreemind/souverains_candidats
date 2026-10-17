@@ -1,0 +1,37 @@
+{
+  "id": "2071206170585354731",
+  "handle": "f_philippot",
+  "text": "Raison de plus de quitter au plus vite l’OTAN ! ⤵️",
+  "url": "https://x.com/f_philippot/status/2071206170585354731",
+  "publishedAt": "2026-06-28T12:16:46.000Z",
+  "observedAt": "2026-10-17T08:43:36.446Z",
+  "firstSeenAt": "2026-10-17T08:43:36.446Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19994,
+    "likes": 727,
+    "reposts": 213,
+    "replies": 29,
+    "quotes": 3,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:36.446Z",
+      "metrics": {
+        "views": 19994,
+        "likes": 727,
+        "reposts": 213,
+        "replies": 29,
+        "quotes": 3,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:36.446Z",
+      "text": "Raison de plus de quitter au plus vite l’OTAN ! ⤵️"
+    }
+  ]
+}

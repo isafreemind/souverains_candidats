@@ -1,0 +1,48 @@
+{
+  "id": "2066990302364107244",
+  "handle": "dupontaignan",
+  "text": "Bravo à l'équipe de France qui lance sa Coupe du Monde de la plus belle des manières avec cette victoire contre le Sénégal ! Allez les Bleus 🇲🇫",
+  "url": "https://x.com/dupontaignan/status/2066990302364107244",
+  "publishedAt": "2026-06-16T21:04:25.000Z",
+  "observedAt": "2026-10-17T08:41:25.160Z",
+  "firstSeenAt": "2026-10-17T08:36:16.400Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5691,
+    "likes": 81,
+    "reposts": 16,
+    "replies": 26,
+    "quotes": 1,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "metrics": {
+        "views": 5691,
+        "likes": 81,
+        "reposts": 16,
+        "replies": 26,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:25.160Z",
+      "metrics": {
+        "views": 5691,
+        "likes": 81,
+        "reposts": 16,
+        "replies": 26,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "text": "Bravo à l'équipe de France qui lance sa Coupe du Monde de la plus belle des manières avec cette victoire contre le Sénégal ! Allez les Bleus 🇲🇫"
+    }
+  ]
+}

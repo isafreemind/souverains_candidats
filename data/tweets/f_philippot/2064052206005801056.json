@@ -1,0 +1,37 @@
+{
+  "id": "2064052206005801056",
+  "handle": "f_philippot",
+  "text": "Un drone….ukrainien comme d’habitude ?!",
+  "url": "https://x.com/f_philippot/status/2064052206005801056",
+  "publishedAt": "2026-06-08T18:29:28.000Z",
+  "observedAt": "2026-10-17T08:43:59.026Z",
+  "firstSeenAt": "2026-10-17T08:43:59.026Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 11481,
+    "likes": 550,
+    "reposts": 150,
+    "replies": 20,
+    "quotes": 4,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:59.026Z",
+      "metrics": {
+        "views": 11481,
+        "likes": 550,
+        "reposts": 150,
+        "replies": 20,
+        "quotes": 4,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:59.026Z",
+      "text": "Un drone….ukrainien comme d’habitude ?!"
+    }
+  ]
+}

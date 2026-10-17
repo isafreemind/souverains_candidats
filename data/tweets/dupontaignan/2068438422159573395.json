@@ -1,0 +1,48 @@
+{
+  "id": "2068438422159573395",
+  "handle": "dupontaignan",
+  "text": "ET QUE LA FÊTE COMMENCE !",
+  "url": "https://x.com/dupontaignan/status/2068438422159573395",
+  "publishedAt": "2026-06-20T20:58:44.000Z",
+  "observedAt": "2026-10-17T08:41:23.669Z",
+  "firstSeenAt": "2026-10-17T08:36:14.481Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 9626,
+    "likes": 112,
+    "reposts": 16,
+    "replies": 11,
+    "quotes": 0,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "metrics": {
+        "views": 9626,
+        "likes": 112,
+        "reposts": 16,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:23.669Z",
+      "metrics": {
+        "views": 9626,
+        "likes": 112,
+        "reposts": 16,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:14.481Z",
+      "text": "ET QUE LA FÊTE COMMENCE !"
+    }
+  ]
+}

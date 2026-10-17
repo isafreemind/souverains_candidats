@@ -1,0 +1,37 @@
+{
+  "id": "2050908400939139406",
+  "handle": "f_philippot",
+  "text": "Quelle dinguerie nous mijote-t-il encore ? 🤦🏻‍♂️\n\nDehors dehors !",
+  "url": "https://x.com/f_philippot/status/2050908400939139406",
+  "publishedAt": "2026-05-03T12:00:41.000Z",
+  "observedAt": "2026-10-17T08:44:36.449Z",
+  "firstSeenAt": "2026-10-17T08:44:36.449Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 14260,
+    "likes": 600,
+    "reposts": 171,
+    "replies": 48,
+    "quotes": 4,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:44:36.449Z",
+      "metrics": {
+        "views": 14260,
+        "likes": 600,
+        "reposts": 171,
+        "replies": 48,
+        "quotes": 4,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:44:36.449Z",
+      "text": "Quelle dinguerie nous mijote-t-il encore ? 🤦🏻‍♂️\n\nDehors dehors !"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2066619649236549927",
+  "handle": "dupontaignan",
+  "text": "Retrouvez-moi demain, mardi 16 juin à 19h15, à l’Institut de Formation Politique pour une rencontre avec les auditeurs de @ifpfrance.\n\nInscriptions : justine.durand@ifpfrance.org",
+  "url": "https://x.com/dupontaignan/status/2066619649236549927",
+  "publishedAt": "2026-06-15T20:31:34.000Z",
+  "observedAt": "2026-10-17T08:41:25.160Z",
+  "firstSeenAt": "2026-10-17T08:36:16.400Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2927,
+    "likes": 58,
+    "reposts": 22,
+    "replies": 4,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "metrics": {
+        "views": 2927,
+        "likes": 58,
+        "reposts": 22,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-17T08:41:25.160Z",
+      "metrics": {
+        "views": 2927,
+        "likes": 58,
+        "reposts": 22,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:36:16.400Z",
+      "text": "Retrouvez-moi demain, mardi 16 juin à 19h15, à l’Institut de Formation Politique pour une rencontre avec les auditeurs de @ifpfrance.\n\nInscriptions : justine.durand@ifpfrance.org"
+    }
+  ]
+}

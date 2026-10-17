@@ -1,0 +1,37 @@
+{
+  "id": "2068633684685496498",
+  "handle": "f_philippot",
+  "text": "Joyeuse fête à tous les pères ! ✨",
+  "url": "https://x.com/f_philippot/status/2068633684685496498",
+  "publishedAt": "2026-06-21T09:54:38.000Z",
+  "observedAt": "2026-10-17T08:43:45.528Z",
+  "firstSeenAt": "2026-10-17T08:43:45.528Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 9394,
+    "likes": 402,
+    "reposts": 82,
+    "replies": 28,
+    "quotes": 2,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T08:43:45.528Z",
+      "metrics": {
+        "views": 9394,
+        "likes": 402,
+        "reposts": 82,
+        "replies": 28,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T08:43:45.528Z",
+      "text": "Joyeuse fête à tous les pères ! ✨"
+    }
+  ]
+}
