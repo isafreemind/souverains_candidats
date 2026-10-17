@@ -22,7 +22,7 @@ export default function MediaAppearances({ dataset, events, selected }: { datase
           </li>;
         })}</ol>
         <p className="media-caveat">La proximité d’un passage et d’une variation des courbes ne démontre pas un effet causal. Une invitation annoncée, une simple mention ou une date de passage incertaine ne crée pas de repère.</p>
-        <details><summary>Périmètre et limites de la recherche</summary><p>{dataset.selectionBasis}</p><p>Le recensement est documentaire et non exhaustif. Les déclarations de passages déjà effectués sont distinguées des sources publiées par les médias. Cette recherche est datée ; elle n’est pas actualisée automatiquement par la collecte FxTwitter.</p><ul>{dataset.coverage.map(c => <li key={`${c.handle}-${c.outletId}`}><strong>{ACCOUNTS.find(a => a.handle === c.handle)?.short} · {MEDIA_OUTLETS.find(o => o.id === c.outletId)?.name}</strong> : {c.notes}{c.status === 'limited' && ' Accès ou couverture limités.'}</li>)}</ul></details>
+        <details><summary>Périmètre et limites de la recherche</summary><p>{dataset.selectionBasis}</p><p>Le recensement est documentaire et non exhaustif. Les déclarations de passages déjà effectués sont distinguées des sources publiées par les médias. Cette recherche est datée ; elle n’est pas actualisée automatiquement par les relevés de publications.</p><ul>{dataset.coverage.map(c => <li key={`${c.handle}-${c.outletId}`}><strong>{ACCOUNTS.find(a => a.handle === c.handle)?.short} · {MEDIA_OUTLETS.find(o => o.id === c.outletId)?.name}</strong> : {c.notes}{c.status === 'limited' && ' Accès ou couverture limités.'}</li>)}</ul></details>
     </div>
   </section>;
 }

@@ -34,7 +34,7 @@ export default function MetricChart({ data, selected, percent, title, descriptio
           })}
           {ACCOUNTS.filter(a => selected.includes(a.handle)).map((a, i) => <Line key={a.handle} type="linear" dataKey={a.handle} name={a.handle} stroke={a.color} strokeWidth={2.5} strokeDasharray={i === 1 ? '7 3' : i === 2 ? '2 3' : undefined} dot={data.length < 35 ? { r: 2.8, strokeWidth: 2, fill: '#fff' } : false} activeDot={{ r: 5 }} connectNulls={false} isAnimationActive={false} />)}
         </LineChart>
-      </ResponsiveContainer> : <div className="empty-chart"><span>Pas encore de données sur cette période</span><p>Les mesures apparaîtront après une collecte FxTwitter réussie.</p></div>}
+      </ResponsiveContainer> : <div className="empty-chart"><span>Pas encore de données sur cette période</span><p>Les mesures apparaîtront après une collecte réussie.</p></div>}
     </div>
     <div className="chart-legend">{ACCOUNTS.filter(a => selected.includes(a.handle)).map(a => <span key={a.handle}><i style={{ background: a.color }} />{a.short}</span>)}</div>
     {markers.length > 0 && <a className="media-chart-note" href="#passages-medias">Repères pointillés : passages dans les médias · Cliquer sur un numéro pour lire sa note.</a>}
