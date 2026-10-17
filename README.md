@@ -22,7 +22,7 @@ npm.cmd run preview
 
 ## Fonctionnalités
 
-- Trois courbes comparant l’engagement, la moyenne des vues par publication et les abonnés.
+- Quatre courbes comparant l’engagement, les vues cumulées, la moyenne des vues par publication et les abonnés.
 - Sélection indépendante des comptes, périodes de 7/30/90 jours ou historique complet, regroupement par jour/semaine/mois.
 - Tableau des tweets, recherche textuelle, tri par date, vues ou engagement, pagination et liens vers les publications.
 - Export CSV du jeu de tweets filtré par comptes et période. La recherche et le tri du tableau ne modifient pas cet export.
@@ -38,6 +38,8 @@ npm.cmd run preview
 **Abonnés** = dernier compteur effectivement observé par compte et par jour UTC. Aucune reconstruction du passé ni interpolation. La première collecte ne fournit qu’un point par compte. Les valeurs des cartes sont les derniers relevés disponibles, indépendamment de la période de publication des tweets. La somme des abonnés des comptes ne déduplique pas leurs audiences communes.
 
 **Périmètre** : auteur correspondant exactement à l’un des trois comptes (sans distinction de casse), `replying_to: null`, `reposted_by: null`. Les suites de fils constituant des réponses sont donc exclues, y compris les réponses à soi-même. Une classification absente ou mal formée est exclue et signalée. Les publications accompagnées d’une citation sont incluses ; seul le tweet de l’auteur suivi est compté, jamais l’objet cité. Les dates et compteurs manquants ne sont pas inventés.
+
+**Vues cumulées dans le temps** = somme progressive, pour chaque compte, des dernières vues connues des tweets publiés jusqu’à chaque date de la période sélectionnée. Le cumul repart au début de cette période et suit le regroupement jour/semaine/mois. Il conserve le dernier total connu lorsqu’aucune nouvelle vue mesurable ne s’ajoute. Un compte sans aucune mesure reste indisponible. Les tweets aux vues inconnues sont exclus : le total peut donc être partiel. Cette courbe ne reconstitue pas les vues gagnées à chaque date ni les compteurs historiques.
 
 ## Collecte exclusivement FxTwitter
 

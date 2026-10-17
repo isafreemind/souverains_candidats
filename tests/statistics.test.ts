@@ -1,10 +1,32 @@
 import { describe, expect, it } from 'vitest';
-import { bucketDate, engagement, followerSeries, publicationSeries, summarize } from '../src/domain/statistics';
+import { bucketDate, cumulativeViewsSeries, engagement, followerSeries, publicationSeries, summarize } from '../src/domain/statistics';
 import type { Metrics, Post } from '../src/domain/model';
 
 const metrics: Metrics = { views: 100, likes: 10, reposts: 2, replies: 1, quotes: 1, bookmarks: 5 };
 const post = (id: string, values: Partial<Metrics> = {}): Post => ({ id, handle: 'f_asselineau', text: 'Texte', url: `https://x.com/f_asselineau/status/${id}`, publishedAt: '2026-10-14T12:00:00.000Z', observedAt: '2026-10-17T08:00:00.000Z', firstSeenAt: '2026-10-17T08:00:00.000Z', isQuote: false, metrics: { ...metrics, ...values } });
 describe('Statistiques', () => {
+  it('cumule les vues dans l’ordre des publications et sépare les comptes', () => {
+    const rows = cumulativeViewsSeries([
+      { ...post('3', { views: 300 }), publishedAt: '2026-10-16T12:00:00.000Z' },
+      post('1'),
+      { ...post('2', { views: 50 }), handle: 'f_philippot', publishedAt: '2026-10-15T12:00:00.000Z' },
+    ], 'day');
+    expect(rows).toEqual([
+      { date: '2026-10-14', f_asselineau: 100, f_philippot: null, dupontaignan: null },
+      { date: '2026-10-15', f_asselineau: 100, f_philippot: 50, dupontaignan: null },
+      { date: '2026-10-16', f_asselineau: 400, f_philippot: 50, dupontaignan: null },
+    ]);
+  });
+  it('exclut les vues inconnues du cumul et conserve un vrai zéro', () => {
+    expect(cumulativeViewsSeries([post('1', { views: null })], 'day')[0].f_asselineau).toBeNull();
+    expect(cumulativeViewsSeries([post('1', { views: 0 }), post('2', { views: null })], 'day')[0].f_asselineau).toBe(0);
+    expect(cumulativeViewsSeries([], 'day')).toEqual([]);
+  });
+  it('conserve le même cumul final avec les regroupements journaliers et hebdomadaires', () => {
+    const posts = [post('1'), { ...post('2', { views: 200 }), publishedAt: '2026-10-20T12:00:00.000Z' }];
+    expect(cumulativeViewsSeries(posts, 'week').map(p => p.date)).toEqual(['2026-10-12', '2026-10-19']);
+    expect(cumulativeViewsSeries(posts, 'week').at(-1)?.f_asselineau).toBe(cumulativeViewsSeries(posts, 'day').at(-1)?.f_asselineau);
+  });
   it('calcule un taux pondéré par les vues et exclut les signets', () => {
     expect(engagement(metrics)).toBeCloseTo(14);
     const summary = summarize([post('1'), post('2', { views: 1000, likes: 100 })]);

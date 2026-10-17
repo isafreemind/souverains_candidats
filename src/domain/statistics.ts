@@ -39,6 +39,21 @@ export function publicationSeries(posts: Post[], granularity: Granularity, metri
     date, ...Object.fromEntries(ACCOUNTS.map(a => [a.handle, summarize(items.filter(p => p.handle === a.handle))[metric]])),
   }));
 }
+export function cumulativeViewsSeries(posts: Post[], granularity: Granularity): ChartPoint[] {
+  const groups = new Map<string, Post[]>();
+  for (const post of posts) {
+    const date = bucketDate(post.publishedAt, granularity);
+    groups.set(date, [...(groups.get(date) ?? []), post]);
+  }
+  const totals: Partial<Record<Handle, number>> = {};
+  return [...groups.entries()].sort(([a], [b]) => a.localeCompare(b)).map(([date, items]) => {
+    for (const post of items) {
+      if (post.metrics.views !== null) totals[post.handle] = (totals[post.handle] ?? 0) + post.metrics.views;
+    }
+    // Carry known totals forward; an account without any observed views stays unknown.
+    return { date, ...Object.fromEntries(ACCOUNTS.map(a => [a.handle, totals[a.handle] ?? null])) };
+  });
+}
 export function followerSeries(samples: FollowerSample[]): ChartPoint[] {
   // Last actual observation per UTC day; no interpolation of historical counts.
   const groups = new Map<string, Partial<Record<Handle, FollowerSample>>>();
