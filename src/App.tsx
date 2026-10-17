@@ -1,10 +1,12 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Alert, Button, CircularProgress, MenuItem, Select, ToggleButton, ToggleButtonGroup } from '@mui/material';
+import { Alert, Button, CircularProgress, FormControlLabel, MenuItem, Select, Switch, ToggleButton, ToggleButtonGroup } from '@mui/material';
 import { Activity, ArrowDownToLine, ArrowUpRight, BarChart3, CalendarDays, Check, ChevronRight, CircleHelp, Database, Eye, FileText, Github, LayoutDashboard, Radio, RefreshCw, Search, ShieldCheck, Users } from 'lucide-react';
 import { ACCOUNTS, dashboardSchema, type Dashboard, type Handle, type Post } from './domain/model';
 import { cumulativeViewsSeries, engagement, followerSeries, publicationSeries, summarize, type Granularity } from './domain/statistics';
 import { compact, dateLabel, number, percent } from './domain/format';
 import MetricChart from './components/MetricChart';
+import MediaAppearances from './components/MediaAppearances';
+import { filterMediaEvents, mediaDatasetSchema, type MediaDataset } from './domain/media';
 
 function downloadCsv(posts: Post[]) {
   const fields = ['compte', 'id', 'publication_utc', 'observation_utc', 'texte', 'vues', 'aime', 'reposts', 'reponses', 'citations', 'engagement_pct', 'url'];
@@ -19,6 +21,9 @@ export default function App() {
   const [data, setData] = useState<Dashboard | null>(null);
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(true);
+  const [mediaData, setMediaData] = useState<MediaDataset | null>(null);
+  const [mediaError, setMediaError] = useState('');
+  const [showMedia, setShowMedia] = useState(true);
   const [selected, setSelected] = useState<Handle[]>(ACCOUNTS.map(a => a.handle));
   const [period, setPeriod] = useState('30');
   const [granularity, setGranularity] = useState<Granularity>('day');
@@ -27,12 +32,17 @@ export default function App() {
   const [page, setPage] = useState(0);
   async function load() {
     setLoading(true); setError('');
+    const mediaRequest = fetch(`${import.meta.env.BASE_URL}data/media-appearances.json?t=${Date.now()}`, { cache: 'no-store' })
+      .then(async response => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        setMediaData(mediaDatasetSchema.parse(await response.json())); setMediaError('');
+      }).catch(() => { setMediaError('Les notes des passages médias ne peuvent pas être chargées. Les courbes FxTwitter restent disponibles.'); });
     try {
       const response = await fetch(`${import.meta.env.BASE_URL}data/dashboard.json?t=${Date.now()}`, { cache: 'no-store' });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       setData(dashboardSchema.parse(await response.json()));
     } catch { setError('Les données ne peuvent pas être chargées. Vérifiez la connexion puis réessayez.'); }
-    finally { setLoading(false); }
+    finally { await mediaRequest; setLoading(false); }
   }
   useEffect(() => { void load(); }, []);
   useEffect(() => { setPage(0); }, [query, sort, period, selected]);
@@ -45,6 +55,8 @@ export default function App() {
   const tablePosts = [...posts].filter(p => `${p.text} ${p.handle}`.toLocaleLowerCase('fr').includes(query.toLocaleLowerCase('fr'))).sort((a,b) => sort === 'views' ? (b.metrics.views ?? -1) - (a.metrics.views ?? -1) : sort === 'engagement' ? (engagement(b.metrics) ?? -1) - (engagement(a.metrics) ?? -1) : b.publishedAt.localeCompare(a.publishedAt));
   const stale = data?.generatedAt ? Date.now() - Date.parse(data.generatedAt) > 48 * 3_600_000 : false;
   const firstObservation = data?.followers[0]?.observedAt;
+  const mediaEvents = filterMediaEvents(mediaData?.events ?? [], selected, period === 'all' ? '2006-01-01' : new Date(since).toISOString().slice(0, 10), new Date().toISOString().slice(0, 10));
+  const chartEvents = showMedia ? mediaEvents : [];
   return <div className="app-shell">
     <a className="skip-link" href="#main">Aller au contenu</a>
     <aside className="sidebar">
@@ -53,14 +65,15 @@ export default function App() {
       <nav aria-label="Navigation principale">
         <a className="nav-item active" href="#main"><LayoutDashboard size={18} />Vue d’ensemble<span className="nav-count">3</span></a>
         <a className="nav-item" href="#publications"><FileText size={18} />Les publications</a>
+        <a className="nav-item" href="#passages-medias"><Radio size={18} />Passages médias</a>
         <a className="nav-item" href="#methodologie"><ShieldCheck size={18} />Méthodologie</a>
       </nav>
       <div className="nav-group-label accounts-label">COMPTES SUIVIS <span>03</span></div>
       {ACCOUNTS.map(a => <a className="sidebar-account" href={`https://fxtwitter.com/${a.handle}`} target="_blank" rel="noreferrer" key={a.handle}><span className="account-dot" style={{ background: a.color }} /><span>{a.short}<small>@{a.handle}</small></span><ArrowUpRight size={13} /></a>)}
-      <div className="sidebar-bottom"><div className="source-card"><span className="source-icon"><Database size={18} /></span><strong>Une seule source.<br />Des données traçables.</strong><p>Collecte exclusive via FxTwitter.<br />Archives conservées à chaque relevé.</p><a href="#methodologie">Comprendre les données <ChevronRight size={13} /></a></div><span className="sidebar-footer">OBSERVATOIRE INDÉPENDANT <span>v1.0</span></span></div>
+      <div className="sidebar-bottom"><div className="source-card"><span className="source-icon"><Database size={18} /></span><strong>Des données traçables.<br />Des passages sourcés.</strong><p>Statistiques via FxTwitter.<br />Archives et sources des passages conservées.</p><a href="#methodologie">Comprendre les données <ChevronRight size={13} /></a></div><span className="sidebar-footer">OBSERVATOIRE INDÉPENDANT <span>v1.0</span></span></div>
     </aside>
     <div className="workspace">
-      <header className="topbar"><div className="breadcrumb">Espace d’analyse <ChevronRight size={13} /><strong>Vue d’ensemble</strong></div><div className="topbar-right"><span className="source-tag"><i />Source : FxTwitter</span><a href="#methodologie" aria-label="Aide et méthodologie"><CircleHelp size={19} /></a><span className="user-mark">OS</span></div></header>
+      <header className="topbar"><div className="breadcrumb">Espace d’analyse <ChevronRight size={13} /><strong>Vue d’ensemble</strong></div><div className="topbar-right"><span className="source-tag"><i />Statistiques : FxTwitter</span><a href="#methodologie" aria-label="Aide et méthodologie"><CircleHelp size={19} /></a><span className="user-mark">OS</span></div></header>
       <main id="main">
         <div className="page-heading"><div><div className="eyebrow">L’AUDIENCE, AU FIL DU TEMPS</div><h1>Trois comptes. Une vue d’ensemble<span>.</span></h1><p>Comparez la portée et l’engagement de leurs publications sur X / Twitter.</p></div><Button className="export-button" variant="outlined" startIcon={<ArrowDownToLine size={16} />} onClick={() => downloadCsv(posts)} disabled={!posts.length}>Exporter les tweets</Button></div>
         <div className="controls-panel"><div className="account-filters" aria-label="Comptes affichés">{ACCOUNTS.map(a => <button key={a.handle} className={`account-filter ${selected.includes(a.handle) ? 'selected' : ''}`} aria-pressed={selected.includes(a.handle)} onClick={() => setSelected(prev => prev.includes(a.handle) ? prev.filter(h => h !== a.handle) : [...prev, a.handle])}><span className="filter-avatar" style={{ color: a.color, background: `${a.color}13` }}>{a.initials}</span>{a.short}<span className="filter-check" style={{ background: selected.includes(a.handle) ? a.color : '#dbe0e9' }}><Check size={10} /></span></button>)}</div><div className="date-control"><CalendarDays size={16} /><Select value={period} onChange={e => setPeriod(e.target.value)} size="small" inputProps={{ 'aria-label': 'Période analysée' }}><MenuItem value="7">7 derniers jours</MenuItem><MenuItem value="30">30 derniers jours</MenuItem><MenuItem value="90">90 derniers jours</MenuItem><MenuItem value="all">Tout l’historique</MenuItem></Select></div></div>
@@ -77,11 +90,13 @@ export default function App() {
           <Kpi icon={<FileText size={18} />} title="Publications analysées" value={number(summary.count)} foot="Sans reposts ni réponses" detail="Sur la période sélectionnée" />
         </div>
         <div className="section-toolbar"><div><h2>Les tendances en un regard</h2><span>Les mêmes repères pour comparer les trois comptes.</span></div><ToggleButtonGroup exclusive value={granularity} size="small" onChange={(_,v: Granularity | null) => { if(v) setGranularity(v); }} aria-label="Regroupement des publications"><ToggleButton value="day">Jour</ToggleButton><ToggleButton value="week">Semaine</ToggleButton><ToggleButton value="month">Mois</ToggleButton></ToggleButtonGroup></div>
-        <MetricChart title="Évolution de l’engagement" description="Interactions rapportées aux vues, par date de publication" badge="EN % DES VUES" data={publicationSeries(posts, granularity, 'engagement')} selected={selected} percent tall />
-        <div className="cumulative-chart" style={{ marginTop: 18 }}><MetricChart title="Vues cumulées dans le temps" description="Somme progressive des vues connues, par date de publication, sur la période sélectionnée" badge={summary.viewsCount ? `${compact(summary.views)} VUES AU TOTAL` : 'VUES CUMULÉES'} data={cumulativeViewsSeries(posts, granularity)} selected={selected} tall /></div>
+        <div className="media-controls"><FormControlLabel control={<Switch size="small" checked={showMedia} onChange={(_, checked) => setShowMedia(checked)} />} label="Afficher les passages médias" /><a href="#passages-medias">{mediaEvents.length} passage{mediaEvents.length !== 1 ? 's' : ''} documenté{mediaEvents.length !== 1 ? 's' : ''} · Lire les notes</a></div>
+        <MetricChart title="Évolution de l’engagement" description="Interactions rapportées aux vues, par date de publication" badge="EN % DES VUES" data={publicationSeries(posts, granularity, 'engagement')} selected={selected} events={chartEvents} percent tall />
+        <div className="cumulative-chart" style={{ marginTop: 18 }}><MetricChart title="Vues cumulées dans le temps" description="Somme progressive des vues connues, par date de publication, sur la période sélectionnée" badge={summary.viewsCount ? `${compact(summary.views)} VUES AU TOTAL` : 'VUES CUMULÉES'} data={cumulativeViewsSeries(posts, granularity)} selected={selected} events={chartEvents} tall /></div>
         <div className="observation-note"><Eye size={14} /><span>Le cumul additionne les derniers compteurs connus des tweets publiés jusqu’à chaque date. Il ne mesure pas les vues gagnées ce jour-là. Les vues indisponibles sont exclues du total.</span></div>
-        <div className="two-charts"><MetricChart title="Vues par publication" description="Moyenne des compteurs cumulés, par date de publication" badge="VUES" data={publicationSeries(posts, granularity, 'averageViews')} selected={selected} /><MetricChart title="Évolution des abonnés" description="Dernier relevé observé chaque jour, sans historique estimé" badge="ABONNÉS" data={followerSeries(samples)} selected={selected} /></div>
+        <div className="two-charts"><MetricChart title="Vues par publication" description="Moyenne des compteurs cumulés, par date de publication" badge="VUES" data={publicationSeries(posts, granularity, 'averageViews')} selected={selected} events={chartEvents} /><MetricChart title="Évolution des abonnés" description="Dernier relevé observé chaque jour, sans historique estimé" badge="ABONNÉS" data={followerSeries(samples)} selected={selected} events={chartEvents} /></div>
         {firstObservation && <div className="observation-note"><Radio size={14} /><span>Le suivi des abonnés commence le {dateLabel(firstObservation, true)}. Une courbe se dessinera au fil des prochains relevés.</span></div>}
+        <MediaAppearances dataset={mediaData} events={mediaEvents} selected={selected} error={mediaError} />
         <section className="panel" id="publications"><div className="panel-heading table-heading"><div><div className="heading-with-count"><h2>Au plus près des publications</h2><span>{tablePosts.length}</span></div><p>Le détail derrière les courbes. Chaque tweet reste consultable.</p></div><div className="table-actions"><div className="search-box"><Search size={15} /><input aria-label="Rechercher une publication" placeholder="Rechercher un tweet…" value={query} onChange={e => setQuery(e.target.value)} /></div><Select size="small" value={sort} onChange={e => setSort(e.target.value)} inputProps={{ 'aria-label': 'Tri des publications' }}><MenuItem value="recent">Plus récents</MenuItem><MenuItem value="views">Plus de vues</MenuItem><MenuItem value="engagement">Plus d’engagement</MenuItem></Select></div></div>
           <div className="table-scroll"><table><thead><tr><th>PUBLICATION</th><th>DATE · UTC</th><th>VUES</th><th>ENGAGEMENT</th><th aria-label="Lien" /></tr></thead><tbody>{tablePosts.slice(page * 8, (page + 1) * 8).map(p => { const a = ACCOUNTS.find(a => a.handle === p.handle)!; return <tr key={p.id}><td><div className="tweet-cell"><span className="filter-avatar" style={{ color: a.color, background: `${a.color}12` }}>{a.initials}</span><div><strong>{a.name} <span>@{a.handle}</span></strong><p title={p.text}>{p.text}</p>{p.isQuote && <small>Publication avec citation</small>}</div></div></td><td>{dateLabel(p.publishedAt)}</td><td className="numeric">{number(p.metrics.views)}</td><td><span className="rate-pill">{percent(engagement(p.metrics))}</span></td><td><a className="tweet-link" href={p.url} target="_blank" rel="noreferrer" aria-label={`Ouvrir le tweet de ${a.short} du ${dateLabel(p.publishedAt)}`}><ArrowUpRight size={17} /></a></td></tr>; })}</tbody></table>{!tablePosts.length && <div className="table-empty">Aucune publication pour ces filtres.</div>}</div>
           <div className="table-footer"><span>{tablePosts.length ? `${page * 8 + 1}–${Math.min((page + 1) * 8, tablePosts.length)} sur ${number(tablePosts.length)} publications` : '0 publication'}</span><div><Button size="small" disabled={page === 0} onClick={() => setPage(p => p - 1)}>Précédent</Button><Button size="small" disabled={(page + 1) * 8 >= tablePosts.length} onClick={() => setPage(p => p + 1)}>Suivant <ChevronRight size={13} /></Button></div></div>

@@ -26,6 +26,7 @@ npm.cmd run preview
 - Sélection indépendante des comptes, périodes de 7/30/90 jours ou historique complet, regroupement par jour/semaine/mois.
 - Tableau des tweets, recherche textuelle, tri par date, vues ou engagement, pagination et liens vers les publications.
 - Export CSV du jeu de tweets filtré par comptes et période. La recherche et le tri du tableau ne modifient pas cet export.
+- Repères verticaux datés des passages médiatiques documentés, activables et filtrés par compte/période, avec notes et liens vers leurs sources.
 - États sans données, erreurs de chargement, relevés anciens et couverture partielle indiqués explicitement.
 - Mise en page adaptée aux mobiles, navigation au clavier, légendes et styles de ligne distincts.
 
@@ -65,6 +66,16 @@ La collecte peut être partielle. Un profil inaccessible n’empêche pas l’es
 Documentation primaire : [API FxTwitter](https://docs.fxembed.com/api/introduction/), [schéma OpenAPI](https://api.fxtwitter.com/2/openapi.json).
 
 ## Architecture et conservation pour les analyses futures
+
+### Passages dans les médias
+
+`public/data/media-appearances.json` est un recensement documentaire distinct des données statistiques FxTwitter. Il couvre du 19 juillet au 17 octobre 2026 dans les dix médias audiovisuels approuvés : TF1, France 2, France 3, M6, BFMTV, CNEWS, LCI, franceinfo, France Inter et RTL. Cette sélection ne prétend pas constituer un classement d’audience commun à la télévision et à la radio.
+
+Seules les participations effectives documentées sont retenues : entretien, débat, intervention. Une mention dans un article ou une invitation annoncée ne suffit pas. Les extraits publiés par les médias et les déclarations du compte relatant un passage déjà effectué sont distingués dans chaque note (`sourceType`). Les dates ambiguës sont écartées. Le jour civil de diffusion est conservé sans inventer d’horaire ; le repère utilise cette date sur l’axe UTC.
+
+Les repères utilisent un axe temporel numérique : en vue hebdomadaire ou mensuelle, un passage reste à sa date réelle et n’est pas déplacé au début du groupe. Plusieurs passages le même jour partagent une ligne avec leurs numéros de note. Ils ne créent aucune mesure statistique ni interpolation. Une corrélation temporelle ne démontre pas que le passage provoque une variation.
+
+Les recherches, exclusions et limites d’accès sont conservées dans `research_notes/Passages dans les médias/`, avec une synthèse dans `reports/Passages dans les médias.md`. Aucun résultat documenté ne signifie pas absence de passage. Le fichier est validé avec Zod et chargé séparément : son indisponibilité ne bloque pas les statistiques. Cette recherche est datée, sans mise à jour automatique par les collectes FxTwitter.
 
 ```text
 src/

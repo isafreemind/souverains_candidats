@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "researchedAt": "2026-10-17",
+  "period": {
+    "start": "2026-07-19",
+    "end": "2026-10-17"
+  },
+  "selectionBasis": "Dix grands médias audiovisuels français retenus : TF1, France 2, France 3, M6, BFMTV, CNEWS, LCI, franceinfo, France Inter et RTL. Cette sélection ne constitue pas un classement objectif des dix premiers médias tous supports confondus. Passages accomplis et datés uniquement ; recherche non exhaustive.",
+  "events": [
+    {
+      "id": "dupontaignan-2026-09-08-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-09-08",
+      "outletId": "bfmtv",
+      "title": "BFM Grand Soir : entretien sur les carburants et le pouvoir d’achat",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/carburants-mettons-fin-au-racket-fiscal-%C2%B7-bfmtv-08-09-2026/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay indique BFMTV, 08/09/2026 ; la page a été publiée le 10 septembre. L’annonce du 8 et le compte rendu du 9 sont archivés dans les tweets. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "Le site du candidat propose l’entretien intégral. Le tweet du 9 septembre renvoie à son passage réalisé dans BFM Grand Soir.",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "dupontaignan-2026-09-16-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-09-16",
+      "outletId": "cnews",
+      "title": "La Grande Interview avec Laurence Ferrari (CNEWS et Europe 1)",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/les-automobilistes-et-retraites-sont-les-vaches-a-lait-du-regime-%C2%B7-cnews-16-09-2026/",
+      "sourceType": "self-report",
+      "dateEvidence": "Titre daté du 16/09/2026 et publication le même jour. Compte rendu du passage publié le 16 dans l’archive FxTwitter. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "Replay intégral proposé par le candidat. L’index Europe 1 du 16 septembre identifie aussi sa participation à La Grande Interview Europe 1-CNEWS.",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "dupontaignan-2026-09-20-lci",
+      "handle": "dupontaignan",
+      "date": "2026-09-20",
+      "outletId": "lci",
+      "title": "Objectif 2027 (LCI et Le Parisien)",
+      "sourceUrl": "https://x.com/dupontaignan/status/2101748228773585241",
+      "sourceType": "self-report",
+      "dateEvidence": "Le résultat indexé de TF1 Info, publié le 20 septembre à 12 h 36, précise qu’il était invité ce dimanche 20 septembre sur LCI. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "TF1 Info décrit sa participation à Objectif 2027. Un compte rendu du passage avec replay est aussi archivé dans son tweet du 20 septembre.",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "dupontaignan-2026-09-21-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-09-21",
+      "outletId": "bfmtv",
+      "title": "100 % Mabrouk : entretien avec Sonia Mabrouk",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/president-jarreterai-toutes-subventions-a-lukraine-%C2%B7-bfmtv-21-09-26/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay indique le 21/09/26 ; la page et le compte rendu dans les tweets sont publiés le 22 septembre. Le guide Replay.fr date également l’extrait du 21 septembre. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "Le candidat publie un entretien intégral BFMTV et confirme son passage dans la grande interview de Sonia Mabrouk.",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "dupontaignan-2026-10-01-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-10-01",
+      "outletId": "bfmtv",
+      "title": "Le Forum BFMTV : intervention sur le baccalauréat et les lycées bloqués",
+      "sourceUrl": "https://www.bfmtv.com/politique/video-forum-bfmtv-lycees-bloques-au-baccalaureat-il-y-a-aujourd-hui-une-injustice-terrible-entre-les-etablissements-denonce-nicolas-dupont-aignan-candidat-debout-la-france-a-l-election-presidentielle_VN-202610010902.html",
+      "sourceType": "official-replay",
+      "dateEvidence": "Extrait BFMTV daté dans son URL 20261001 ; relais Elections2027 horodaté 1 octobre 2026, 22 h 47 ; annonce du candidat pour le Forum à 21 h le même jour. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "Le titre de l’extrait BFMTV et son relais attestent d’une intervention effective au Forum. Le contenu complet de BFMTV n’a pas pu être chargé.",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "f-philippot-bfmtv-2026-10-09",
+      "handle": "f_philippot",
+      "date": "2026-10-09",
+      "outletId": "bfmtv",
+      "title": "Entretien BFMTV : réactions aux révélations sur Jordan Bardella",
+      "sourceUrl": "https://www.dailymotion.com/video/xbki5yy",
+      "sourceType": "official-replay",
+      "dateEvidence": "Extrait publié par le compte officiel BFM sur Dailymotion, également référencé par BFMTV sous VN-202610090920 ; source RSS BFMTV conservée par Yaktu datée du 09/10/2026 à 23:51, après l’annonce du passage à 23h25 le même jour dans l’archive FxTwitter.",
+      "evidence": "L’extrait vidéo officiel BFM contient un échange direct entre les journalistes et Florian Philippot au sujet du RN et de l’élection présidentielle.",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "dupontaignan-2026-10-11-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-10-11",
+      "outletId": "cnews",
+      "title": "Le Grand Rendez-vous avec Pierre de Vilno (CNEWS, Europe 1 et Les Échos)",
+      "sourceUrl": "https://www.canalplus.com/actualites/le-grand-rendez-vous-emission-du-11-oct-2026/h/32264440_50213",
+      "sourceType": "official-replay",
+      "dateEvidence": "La fiche officielle CANAL+ indique Émission du 11 oct. 2026 et nomme Nicolas Dupont-Aignan comme invité. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "La fiche du replay décrit l’entretien de Pierre de Vilno avec Nicolas Dupont-Aignan dans Le Grand Rendez-vous.",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "dupontaignan-2026-10-15-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-10-15",
+      "outletId": "bfmtv",
+      "title": "100 % Mabrouk : entretien avec Sonia Mabrouk",
+      "sourceUrl": "https://www.rmcplus.fr/video/episode/invitee-segolene-royal-1021151202985",
+      "sourceType": "official-replay",
+      "dateEvidence": "RMC+ indique diffusé le 15/10/2026 sur BFM TV et décrit l’émission du 15 octobre. Le compte rendu du candidat est publié le 16 octobre, ce qui n’est pas la date retenue. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "Le replay officiel réunit Ségolène Royal, Béatrice Brugère et Nicolas Dupont-Aignan dans 100 % Mabrouk.",
+      "verifiedAt": "2026-10-17"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "outletId": "tf1",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "france2",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "france3",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "m6",
+      "status": "checked",
+      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "bfmtv",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "cnews",
+      "status": "checked",
+      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "lci",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "franceinfo",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "franceinter",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "rtl",
+      "status": "checked",
+      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "tf1",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "france2",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "france3",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "m6",
+      "status": "checked",
+      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "bfmtv",
+      "status": "limited",
+      "notes": "Un extrait BFM officiel retenu le 9 octobre. Séquence des 4/5 septembre exclue des repères : date contradictoire. Site BFMTV inaccessible ; recherche non exhaustive."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "cnews",
+      "status": "checked",
+      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "lci",
+      "status": "limited",
+      "notes": "Annonce du 17 septembre retrouvée, sans preuve suffisante de réalisation ; non intégrée. Accès primaire restreint."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "franceinfo",
+      "status": "limited",
+      "notes": "Piste de reportage à Arras publiée le 23 septembre, sans date de participation audiovisuelle établie ; exclue. Source primaire inaccessible."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "franceinter",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "rtl",
+      "status": "checked",
+      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "tf1",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "france2",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "france3",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "m6",
+      "status": "checked",
+      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "bfmtv",
+      "status": "limited",
+      "notes": "Quatre dates retenues : 8 et 21 septembre, 1 et 15 octobre. Deux replays du candidat ; extrait du 1 octobre vérifié par titre et relais daté, sans lecture directe ; fiche RMC+ du 15 octobre consultée."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "cnews",
+      "status": "checked",
+      "notes": "Deux dates retenues : 16 septembre (replay du candidat, recoupement Europe 1) et 11 octobre (fiche officielle CANAL+). Recherche non exhaustive."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "lci",
+      "status": "limited",
+      "notes": "Passage du 20 septembre retenu : compte rendu du candidat et résultat TF1 Info indexé concordants. Article complet non accessible."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "franceinfo",
+      "status": "limited",
+      "notes": "Pistes du 19 septembre et du 16 octobre exclues : nature de participation ou source primaire non résolue. Accès primaire restreint."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "franceinter",
+      "status": "limited",
+      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "rtl",
+      "status": "checked",
+      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+    }
+  ]
+}

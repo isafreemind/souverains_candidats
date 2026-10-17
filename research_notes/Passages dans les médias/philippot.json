@@ -1,0 +1,44 @@
+﻿{
+    "handle":  "f_philippot",
+    "period":  {
+                   "from":  "2026-07-19",
+                   "to":  "2026-10-17"
+               },
+    "events":  [
+                   {
+                       "id":  "f-philippot-bfmtv-2026-10-09",
+                       "handle":  "f_philippot",
+                       "date":  "2026-10-09",
+                       "outletId":  "bfmtv",
+                       "title":  "Entretien BFMTV : réactions aux révélations sur Jordan Bardella",
+                       "sourceUrl":  "https://www.dailymotion.com/video/xbki5yy",
+                       "sourceType":  "official-replay",
+                       "dateEvidence":  "Extrait publié par le compte officiel BFM sur Dailymotion, également référencé par BFMTV sous VN-202610090920 ; source RSS BFMTV conservée par Yaktu datée du 09/10/2026 à 23:51, après l’annonce du passage à 23h25 le même jour dans l’archive FxTwitter.",
+                       "evidence":  "L’extrait vidéo officiel BFM contient un échange direct entre les journalistes et Florian Philippot au sujet du RN et de l’élection présidentielle.",
+                       "corroboratingUrls":  [
+                                                 "https://www.bfmtv.com/politique/video-nouvelles-revelations-de-mediapart-sur-jordan-bardella-aujourd-hui-le-rn-ment-aux-francais-il-y-a-d-autres-mensonges-qui-sont-bien-plus-graves-declare-florian-philippot-president-des-patriotes-et-candidat-a-l-election-presidentielle_VN-202610090920.html",
+                                                 "https://www.yaktu.fr/quotidienne/2026-10-10/mediapart-relie-le-compte-twitter-de-jordan-bardella-aux-messages-antisemites-contestes/",
+                                                 "https://api.fxtwitter.com/f_philippot/status/2108627865998614878"
+                                             ],
+                       "verifiedAt":  "2026-10-17"
+                   }
+               ],
+    "candidates":  [
+                       {
+                           "id":  "f-philippot-bfmtv-2026-09-04",
+                           "handle":  "f_philippot",
+                           "date":  "2026-09-04",
+                           "outletId":  "bfmtv",
+                           "title":  "Débat sur BFMTV : souveraineté, Brexit et dette",
+                           "sourceUrl":  "https://www.bfmtv.com/politique/video-si-on-veut-reprendre-le-controle-de-notre-pays-il-faut-sortir-de-l-union-europeenne-estime-florian-philippot-president-du-parti-les-patriotes-et-candidat-a-l-election-presidentielle_VN-202609040727.html",
+                           "sourceType":  "corroborated-report",
+                           "dateEvidence":  "Extrait BFMTV daté du 04/09/2026 à 17:52 dans les sources RSS de Yaktu, et compte rendu du débat par son participant Antoine Léaument publié le 4 septembre. Date de diffusion retenue par recoupement ; Entrevue indique samedi dans un article du 6 septembre, divergence conservée dans les notes.",
+                           "evidence":  "Le site officiel d’Antoine Léaument décrit un débat diffusé sur BFMTV avec Florian Philippot ; un extrait BFMTV portant sur la sortie de l’UE est référencé le même jour.",
+                           "corroboratingUrls":  [
+                                                     "https://antoineleaument.fr/2026/09/04/bardella-et-farage-lalliance-des-voleurs/",
+                                                     "https://www.yaktu.fr/focus/presidentielle-france-2027/2026-08-31-to-2026-09-06/bruno-retailleau-veut-donner-le-dernier-mot-au-peuple-par-une-reforme-constitutionnelle/"
+                                                 ],
+                           "verifiedAt":  "2026-10-17"
+                       }
+                   ]
+}

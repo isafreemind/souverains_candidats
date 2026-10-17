@@ -1,0 +1,13 @@
+{
+  "handle": "f_asselineau",
+  "periodStart": "2026-07-19",
+  "periodEnd": "2026-10-17",
+  "verifiedAt": "2026-10-17",
+  "status": "searched-no-verified-events",
+  "events": [],
+  "limitations": [
+    "Aucun passage répondant aux critères n'a été vérifié dans les dix médias retenus ; cela ne démontre pas une absence de passage.",
+    "Recherche web et revue des textes des 319 publications locales, avec normalisation Unicode NFKC pour les caractères typographiques.",
+    "Accès restreint ou robots signalés pour BFMTV, france.tv, franceinfo et Radio France ; pages TF1 Info refusées en lecture directe (403)."
+  ]
+}
