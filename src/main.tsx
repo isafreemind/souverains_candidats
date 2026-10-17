@@ -8,6 +8,7 @@ import '@fontsource/dm-sans/latin-600.css';
 import '@fontsource/dm-sans/latin-700.css';
 import './styles.css';
 import './media.css';
+import './advanced-statistics.css';
 
 const theme = createTheme({
   palette: { primary: { main: '#5068de' }, background: { default: '#f6f7fb', paper: '#fff' }, text: { primary: '#1c2740', secondary: '#758095' } },

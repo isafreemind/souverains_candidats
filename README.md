@@ -23,6 +23,7 @@ npm.cmd run preview
 ## Fonctionnalités
 
 - Quatre courbes comparant l’engagement, les vues cumulées, la moyenne des vues par publication et les abonnés.
+- Analyses complémentaires : vues médianes, activité hebdomadaire, concentration des vues, vues pour 100 abonnés, répartition des interactions, gains hebdomadaires d’abonnés et comparaison des sept jours avant/après chaque passage média.
 - Sélection indépendante des comptes, périodes de 7/30/90/365 jours ou historique complet, regroupement par jour/semaine/mois. La vue initiale affiche un an.
 - Tableau des tweets, recherche textuelle, tri par date, vues ou engagement, pagination et liens vers les publications.
 - Export CSV du jeu de tweets filtré par comptes et période. La recherche et le tri du tableau ne modifient pas cet export.
@@ -37,6 +38,10 @@ npm.cmd run preview
 **Vues par publication** = moyenne des compteurs de vues non nuls au sens « non absents » ; une vraie valeur zéro est conservée. Les graphiques d’engagement et de vues sont regroupés selon la **date de publication en UTC**. Ils présentent les derniers compteurs cumulés observés pour ces tweets. Ils ne représentent pas les vues gagnées chaque jour. Les tweets récents ont eu moins de temps pour accumuler des vues. Le tableau exporté fournit la date de mesure propre à chaque tweet.
 
 **Abonnés** = dernier compteur effectivement observé par compte et par jour UTC. Aucune reconstruction du passé ni interpolation. La première collecte ne fournit qu’un point par compte. Les valeurs des cartes sont les derniers relevés disponibles, indépendamment de la période de publication des tweets. La somme des abonnés des comptes ne déduplique pas leurs audiences communes.
+
+**Analyses complémentaires** : la médiane conserve les vrais zéros et exclut les vues absentes. La concentration correspond aux vues des `ceil(n / 10)` tweets les plus vus divisées par les vues de tous les tweets mesurés du groupe. Pour le rapport vues/abonnés, chaque compteur de vues est associé au dernier relevé d’abonnés antérieur et datant de 24 heures au plus ; la courbe présente la moyenne de ces rapports, multipliée par 100. Les abonnés à la date de publication ne sont pas reconstruits. La répartition des interactions utilise uniquement les tweets dont les quatre compteurs sont connus. Les gains hebdomadaires comparent les derniers relevés de deux semaines consécutives, sans franchir de semaine manquante ; la semaine en cours reste provisoire.
+
+**Comparaison des passages médias** : pour chaque événement filtré, le tableau utilise toute l’archive du compte et compare les sept jours UTC avant aux sept jours après, en excluant le jour du passage. Effectifs, médianes et engagement pondéré sont affichés séparément. Les bornes peuvent être couvertes sans que l’archive soit exhaustive. Les fenêtres proches peuvent se chevaucher et les tweets récents ont eu moins de temps pour accumuler des vues. Cette comparaison ne démontre aucun effet causal. Des performances à âge égal (24 heures ou sept jours) ne peuvent pas être déduites des seuls compteurs actuels.
 
 **Périmètre** : auteur correspondant exactement à l’un des trois comptes (sans distinction de casse), `replying_to: null`, `reposted_by: null`. Les suites de fils constituant des réponses sont donc exclues, y compris les réponses à soi-même. Une classification absente ou mal formée est exclue et signalée. Les publications accompagnées d’une citation sont incluses ; seul le tweet de l’auteur suivi est compté, jamais l’objet cité. Les dates et compteurs manquants ne sont pas inventés.
 
