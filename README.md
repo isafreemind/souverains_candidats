@@ -75,7 +75,7 @@ Seules les participations effectives documentées sont retenues : entretien, dé
 
 Les repères utilisent un axe temporel numérique : en vue hebdomadaire ou mensuelle, un passage reste à sa date réelle et n’est pas déplacé au début du groupe. Plusieurs passages le même jour partagent une ligne avec leurs numéros de note. Ils ne créent aucune mesure statistique ni interpolation. Une corrélation temporelle ne démontre pas que le passage provoque une variation.
 
-Les recherches, exclusions et limites d’accès sont conservées dans `research_notes/Passages dans les médias/`, avec une synthèse dans `reports/Passages dans les médias.md`. Aucun résultat documenté ne signifie pas absence de passage. Le fichier est validé avec Zod et chargé séparément : son indisponibilité ne bloque pas les statistiques. Cette recherche est datée, sans mise à jour automatique par les collectes FxTwitter.
+Les recherches, exclusions et limites d’accès sont conservées dans `research_notes/Passages dans les médias/`, avec une synthèse dans `reports/Passages dans les médias.md`. Aucun résultat documenté ne signifie pas absence de passage. Le fichier canonique est validé avec Zod au démarrage de Vite et au build, puis intégré au JavaScript de l’application. Aucun chargement réseau supplémentaire n’est nécessaire pour afficher les notes ou les repères. Le JSON public reste consultable comme export documentaire. Après une modification de ce fichier, redémarrer Vite ou reconstruire le site. Cette recherche est datée, sans mise à jour automatique par les collectes FxTwitter.
 
 ```text
 src/

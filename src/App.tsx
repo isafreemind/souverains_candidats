@@ -6,7 +6,8 @@ import { cumulativeViewsSeries, engagement, followerSeries, publicationSeries, s
 import { compact, dateLabel, number, percent } from './domain/format';
 import MetricChart from './components/MetricChart';
 import MediaAppearances from './components/MediaAppearances';
-import { filterMediaEvents, mediaDatasetSchema, type MediaDataset } from './domain/media';
+import { filterMediaEvents } from './domain/media';
+import { MEDIA_DATASET } from './data/media';
 
 function downloadCsv(posts: Post[]) {
   const fields = ['compte', 'id', 'publication_utc', 'observation_utc', 'texte', 'vues', 'aime', 'reposts', 'reponses', 'citations', 'engagement_pct', 'url'];
@@ -21,8 +22,7 @@ export default function App() {
   const [data, setData] = useState<Dashboard | null>(null);
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(true);
-  const [mediaData, setMediaData] = useState<MediaDataset | null>(null);
-  const [mediaError, setMediaError] = useState('');
+  const mediaData = MEDIA_DATASET;
   const [showMedia, setShowMedia] = useState(true);
   const [selected, setSelected] = useState<Handle[]>(ACCOUNTS.map(a => a.handle));
   const [period, setPeriod] = useState('30');
@@ -32,17 +32,12 @@ export default function App() {
   const [page, setPage] = useState(0);
   async function load() {
     setLoading(true); setError('');
-    const mediaRequest = fetch(`${import.meta.env.BASE_URL}data/media-appearances.json?t=${Date.now()}`, { cache: 'no-store' })
-      .then(async response => {
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        setMediaData(mediaDatasetSchema.parse(await response.json())); setMediaError('');
-      }).catch(() => { setMediaError('Les notes des passages médias ne peuvent pas être chargées. Les courbes FxTwitter restent disponibles.'); });
     try {
       const response = await fetch(`${import.meta.env.BASE_URL}data/dashboard.json?t=${Date.now()}`, { cache: 'no-store' });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       setData(dashboardSchema.parse(await response.json()));
     } catch { setError('Les données ne peuvent pas être chargées. Vérifiez la connexion puis réessayez.'); }
-    finally { await mediaRequest; setLoading(false); }
+    finally { setLoading(false); }
   }
   useEffect(() => { void load(); }, []);
   useEffect(() => { setPage(0); }, [query, sort, period, selected]);
@@ -96,7 +91,7 @@ export default function App() {
         <div className="observation-note"><Eye size={14} /><span>Le cumul additionne les derniers compteurs connus des tweets publiés jusqu’à chaque date. Il ne mesure pas les vues gagnées ce jour-là. Les vues indisponibles sont exclues du total.</span></div>
         <div className="two-charts"><MetricChart title="Vues par publication" description="Moyenne des compteurs cumulés, par date de publication" badge="VUES" data={publicationSeries(posts, granularity, 'averageViews')} selected={selected} events={chartEvents} /><MetricChart title="Évolution des abonnés" description="Dernier relevé observé chaque jour, sans historique estimé" badge="ABONNÉS" data={followerSeries(samples)} selected={selected} events={chartEvents} /></div>
         {firstObservation && <div className="observation-note"><Radio size={14} /><span>Le suivi des abonnés commence le {dateLabel(firstObservation, true)}. Une courbe se dessinera au fil des prochains relevés.</span></div>}
-        <MediaAppearances dataset={mediaData} events={mediaEvents} selected={selected} error={mediaError} />
+        <MediaAppearances dataset={mediaData} events={mediaEvents} selected={selected} />
         <section className="panel" id="publications"><div className="panel-heading table-heading"><div><div className="heading-with-count"><h2>Au plus près des publications</h2><span>{tablePosts.length}</span></div><p>Le détail derrière les courbes. Chaque tweet reste consultable.</p></div><div className="table-actions"><div className="search-box"><Search size={15} /><input aria-label="Rechercher une publication" placeholder="Rechercher un tweet…" value={query} onChange={e => setQuery(e.target.value)} /></div><Select size="small" value={sort} onChange={e => setSort(e.target.value)} inputProps={{ 'aria-label': 'Tri des publications' }}><MenuItem value="recent">Plus récents</MenuItem><MenuItem value="views">Plus de vues</MenuItem><MenuItem value="engagement">Plus d’engagement</MenuItem></Select></div></div>
           <div className="table-scroll"><table><thead><tr><th>PUBLICATION</th><th>DATE · UTC</th><th>VUES</th><th>ENGAGEMENT</th><th aria-label="Lien" /></tr></thead><tbody>{tablePosts.slice(page * 8, (page + 1) * 8).map(p => { const a = ACCOUNTS.find(a => a.handle === p.handle)!; return <tr key={p.id}><td><div className="tweet-cell"><span className="filter-avatar" style={{ color: a.color, background: `${a.color}12` }}>{a.initials}</span><div><strong>{a.name} <span>@{a.handle}</span></strong><p title={p.text}>{p.text}</p>{p.isQuote && <small>Publication avec citation</small>}</div></div></td><td>{dateLabel(p.publishedAt)}</td><td className="numeric">{number(p.metrics.views)}</td><td><span className="rate-pill">{percent(engagement(p.metrics))}</span></td><td><a className="tweet-link" href={p.url} target="_blank" rel="noreferrer" aria-label={`Ouvrir le tweet de ${a.short} du ${dateLabel(p.publishedAt)}`}><ArrowUpRight size={17} /></a></td></tr>; })}</tbody></table>{!tablePosts.length && <div className="table-empty">Aucune publication pour ces filtres.</div>}</div>
           <div className="table-footer"><span>{tablePosts.length ? `${page * 8 + 1}–${Math.min((page + 1) * 8, tablePosts.length)} sur ${number(tablePosts.length)} publications` : '0 publication'}</span><div><Button size="small" disabled={page === 0} onClick={() => setPage(p => p - 1)}>Précédent</Button><Button size="small" disabled={(page + 1) * 8 >= tablePosts.length} onClick={() => setPage(p => p + 1)}>Suivant <ChevronRight size={13} /></Button></div></div>
