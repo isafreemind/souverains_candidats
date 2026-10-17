@@ -4,11 +4,11 @@
   "text": "60,8% pour le NON à l’UE pour le moment en Islande",
   "url": "https://x.com/f_philippot/status/2093841980371443916",
   "publishedAt": "2026-08-29T23:23:24.000Z",
-  "observedAt": "2026-10-17T08:39:11.210Z",
+  "observedAt": "2026-10-17T20:43:21.365Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 23501,
+    "views": 23502,
     "likes": 1334,
     "reposts": 383,
     "replies": 61,
@@ -53,6 +53,17 @@
       "observedAt": "2026-10-17T08:39:11.210Z",
       "metrics": {
         "views": 23501,
+        "likes": 1334,
+        "reposts": 383,
+        "replies": 61,
+        "quotes": 2,
+        "bookmarks": 25
+      }
+    },
+    {
+      "observedAt": "2026-10-17T20:43:21.365Z",
+      "metrics": {
+        "views": 23502,
         "likes": 1334,
         "reposts": 383,
         "replies": 61,

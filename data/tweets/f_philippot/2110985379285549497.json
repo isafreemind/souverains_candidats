@@ -4,16 +4,16 @@
   "text": "Nuñez annonce à l’instant le rétablissement de la grenade assourdissante, celle qui arrache des mains. \n\nC’est irresponsable. \nRecherche du chaos assumé par les macronistes !\nIls vont aussi jouer avec leurs blackblocs.",
   "url": "https://x.com/f_philippot/status/2110985379285549497",
   "publishedAt": "2026-10-16T06:45:09.000Z",
-  "observedAt": "2026-10-17T08:38:20.138Z",
+  "observedAt": "2026-10-17T20:42:59.014Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 19452,
-    "likes": 1131,
-    "reposts": 553,
-    "replies": 140,
-    "quotes": 18,
-    "bookmarks": 19
+    "views": 20854,
+    "likes": 1190,
+    "reposts": 584,
+    "replies": 144,
+    "quotes": 21,
+    "bookmarks": 20
   },
   "observations": [
     {
@@ -58,6 +58,17 @@
         "replies": 140,
         "quotes": 18,
         "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-10-17T20:42:59.014Z",
+      "metrics": {
+        "views": 20854,
+        "likes": 1190,
+        "reposts": 584,
+        "replies": 144,
+        "quotes": 21,
+        "bookmarks": 20
       }
     }
   ],

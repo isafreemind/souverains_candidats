@@ -1,0 +1,37 @@
+{
+  "id": "2111407463530377435",
+  "handle": "dupontaignan",
+  "text": "ZÉRO IMPUNITÉ !!!",
+  "url": "https://x.com/dupontaignan/status/2111407463530377435",
+  "publishedAt": "2026-10-17T10:42:22.000Z",
+  "observedAt": "2026-10-17T20:43:42.925Z",
+  "firstSeenAt": "2026-10-17T20:43:42.925Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 8101,
+    "likes": 330,
+    "reposts": 103,
+    "replies": 28,
+    "quotes": 1,
+    "bookmarks": 0
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T20:43:42.925Z",
+      "metrics": {
+        "views": 8101,
+        "likes": 330,
+        "reposts": 103,
+        "replies": 28,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T20:43:42.925Z",
+      "text": "ZÉRO IMPUNITÉ !!!"
+    }
+  ]
+}

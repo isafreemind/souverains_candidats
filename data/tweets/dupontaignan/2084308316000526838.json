@@ -4,14 +4,14 @@
   "text": "La Maison des Jeunes est ouverte tous les jours de la semaine. Gratuite, elle propose tout un panel d’activités. Venez nombreux !",
   "url": "https://x.com/dupontaignan/status/2084308316000526838",
   "publishedAt": "2026-08-03T16:00:01.000Z",
-  "observedAt": "2026-10-17T08:40:51.571Z",
+  "observedAt": "2026-10-17T20:44:05.357Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 15509,
+    "views": 15510,
     "likes": 127,
     "reposts": 23,
-    "replies": 12,
+    "replies": 11,
     "quotes": 0,
     "bookmarks": 5
   },
@@ -56,6 +56,17 @@
         "likes": 127,
         "reposts": 23,
         "replies": 12,
+        "quotes": 0,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-17T20:44:05.357Z",
+      "metrics": {
+        "views": 15510,
+        "likes": 127,
+        "reposts": 23,
+        "replies": 11,
         "quotes": 0,
         "bookmarks": 5
       }

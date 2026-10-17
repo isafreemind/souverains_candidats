@@ -4,7 +4,7 @@
   "text": "Quelle honte !",
   "url": "https://x.com/f_philippot/status/2079538960368365894",
   "publishedAt": "2026-07-21T12:08:18.000Z",
-  "observedAt": "2026-10-17T08:39:53.364Z",
+  "observedAt": "2026-10-17T20:43:38.975Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
@@ -40,6 +40,17 @@
     },
     {
       "observedAt": "2026-10-17T08:39:53.364Z",
+      "metrics": {
+        "views": 20874,
+        "likes": 735,
+        "reposts": 239,
+        "replies": 62,
+        "quotes": 5,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-17T20:43:38.975Z",
       "metrics": {
         "views": 20874,
         "likes": 735,
