@@ -1,0 +1,22 @@
+.media-audience-analysis { margin: 30px 0; scroll-margin-top: 20px; }
+.media-count-chart { height: 240px; margin: 12px 20px 0 5px; }
+.media-count-values { display: flex; flex-wrap: wrap; gap: 18px 30px; list-style: none; margin: 12px 24px; padding: 0; }
+.media-count-values li { display: flex; flex-direction: column; gap: 4px; font-size: 11px; }
+.media-count-values span { color: #758095; font-size: 10px; }
+.audience-findings { margin-top: 20px; }
+.audience-summary-table { min-width: 1160px; }
+.audience-summary-table td:first-child, .isolated-event-table td:first-child { width: auto; min-width: 150px; }
+.audience-summary-table td, .isolated-event-table td { font-size: 11px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.isolated-event-table { min-width: 940px; }
+.audience-conclusions { margin: 20px 24px; color: #44516c; font-size: 12px; line-height: 1.85; }
+.audience-conclusions p { margin: 12px 0; }
+.isolated-event-details { margin: 18px 24px; color: #667389; font-size: 11px; line-height: 1.8; }
+.isolated-event-details summary { color: #5068de; cursor: pointer; }
+.isolated-event-details ul { padding-left: 18px; }
+.isolated-event-details a { color: #5068de; }
+@media (max-width: 650px) {
+  .media-count-panel .panel-heading { flex-direction: column; align-items: flex-start; gap: 10px; }
+  .media-count-chart { margin-right: 12px; }
+  .media-count-values { flex-direction: column; gap: 12px; margin: 12px 16px; }
+  .audience-conclusions { margin: 16px; font-size: 11px; }
+}

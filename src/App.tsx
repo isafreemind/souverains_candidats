@@ -7,6 +7,7 @@ import { compact, dateLabel, number, percent } from './domain/format';
 import MetricChart from './components/MetricChart';
 import MediaAppearances from './components/MediaAppearances';
 import AdvancedStatistics from './components/AdvancedStatistics';
+import MediaAudienceAnalysis from './components/MediaAudienceAnalysis';
 import { filterMediaAnnouncements, filterMediaEvents } from './domain/media';
 import { MEDIA_DATASET } from './data/media';
 
@@ -64,6 +65,7 @@ export default function App() {
         <a className="nav-item active" href="#main"><LayoutDashboard size={18} />Vue d’ensemble<span className="nav-count">3</span></a>
         <a className="nav-item" href="#publications"><FileText size={18} />Les publications</a>
         <a className="nav-item" href="#analyses-complementaires"><Activity size={18} />Analyses complémentaires</a>
+        <a className="nav-item" href="#medias-audience"><BarChart3 size={18} />Médias et audience</a>
         <a className="nav-item" href="#passages-medias"><Radio size={18} />Passages médias</a>
         <a className="nav-item" href="#methodologie"><ShieldCheck size={18} />Méthodologie</a>
       </nav>
@@ -95,6 +97,7 @@ export default function App() {
         <div className="observation-note"><Eye size={14} /><span>Le cumul additionne les derniers compteurs connus des tweets publiés jusqu’à chaque date. Il ne mesure pas les vues gagnées ce jour-là. Les vues indisponibles sont exclues du total.</span></div>
         <div className="two-charts"><MetricChart title="Vues par publication" description="Moyenne des compteurs cumulés, par date de publication" badge="VUES" data={publicationSeries(posts, granularity, 'averageViews')} selected={selected} events={chartEvents} /><MetricChart title="Évolution des abonnés" description="Dernier relevé observé chaque jour, sans historique estimé" badge="ABONNÉS" data={followerSeries(samples)} selected={selected} events={chartEvents} /></div>
         {firstObservation && <div className="observation-note"><Radio size={14} /><span>Le suivi des abonnés commence le {dateLabel(firstObservation, true)}. Une courbe se dessinera au fil des prochains relevés.</span></div>}
+        <MediaAudienceAnalysis data={data} media={mediaData} selected={selected} since={since} />
         <AdvancedStatistics posts={posts} allPosts={data?.posts ?? []} samples={(data?.followers ?? []).filter(s => selected.includes(s.handle))} since={since} selected={selected} granularity={granularity} events={mediaEvents} showMedia={showMedia} availableUntil={data?.generatedAt ?? new Date().toISOString()} />
         <MediaAppearances dataset={mediaData} events={mediaEvents} announcements={mediaAnnouncements} selected={selected} />
         <section className="panel" id="publications"><div className="panel-heading table-heading"><div><div className="heading-with-count"><h2>Au plus près des publications</h2><span>{tablePosts.length}</span></div><p>Le détail derrière les courbes. Chaque tweet reste consultable.</p></div><div className="table-actions"><div className="search-box"><Search size={15} /><input aria-label="Rechercher une publication" placeholder="Rechercher un tweet…" value={query} onChange={e => setQuery(e.target.value)} /></div><Select size="small" value={sort} onChange={e => setSort(e.target.value)} inputProps={{ 'aria-label': 'Tri des publications' }}><MenuItem value="recent">Plus récents</MenuItem><MenuItem value="views">Plus de vues</MenuItem><MenuItem value="engagement">Plus d’engagement</MenuItem></Select></div></div>

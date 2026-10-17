@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "observedAt": "2026-10-17T08:53:26.646Z",
+  "sources": {
+    "dashboard": "public/data/dashboard.json",
+    "media": "public/data/media-appearances.json"
+  },
+  "mediaResearchPeriod": {
+    "start": "2025-10-17",
+    "end": "2026-10-17"
+  },
+  "annualMediaCounts": [
+    {
+      "handle": "f_asselineau",
+      "name": "François Asselineau",
+      "short": "Asselineau",
+      "initials": "FA",
+      "color": "#5068de",
+      "count": 0,
+      "broadcaster": 0,
+      "selfReported": 0,
+      "announced": 0
+    },
+    {
+      "handle": "f_philippot",
+      "name": "Florian Philippot",
+      "short": "Philippot",
+      "initials": "FP",
+      "color": "#159581",
+      "count": 12,
+      "broadcaster": 8,
+      "selfReported": 4,
+      "announced": 2
+    },
+    {
+      "handle": "dupontaignan",
+      "name": "Nicolas Dupont-Aignan",
+      "short": "Dupont-Aignan",
+      "initials": "NDA",
+      "color": "#d88a36",
+      "count": 35,
+      "broadcaster": 22,
+      "selfReported": 13,
+      "announced": 1
+    }
+  ],
+  "comparison": {
+    "start": "2025-11-13",
+    "endExclusive": "2026-10-17",
+    "lastDay": "2026-10-16",
+    "days": 338,
+    "minWindowPosts": 5,
+    "rows": [
+      {
+        "handle": "f_asselineau",
+        "name": "Asselineau",
+        "count": 1407,
+        "views": 59753154,
+        "viewsCount": 1407,
+        "rateCount": 1407,
+        "averageViews": 42468.481876332626,
+        "engagement": 5.818079494180341,
+        "media": {
+          "handle": "f_asselineau",
+          "name": "François Asselineau",
+          "short": "Asselineau",
+          "initials": "FA",
+          "color": "#5068de",
+          "count": 0,
+          "broadcaster": 0,
+          "selfReported": 0,
+          "announced": 0
+        },
+        "medianViews": 29521,
+        "postsPerWeek": 29.13905325443787,
+        "concentration": 32.52657926642667,
+        "eventStudy": {
+          "fullWindows": 0,
+          "isolatedCandidates": 0,
+          "measuredWindows": 0,
+          "increases": 0,
+          "medianViewsChange": null,
+          "medianEngagementChangePoints": null,
+          "windows": []
+        }
+      },
+      {
+        "handle": "f_philippot",
+        "name": "Philippot",
+        "count": 2945,
+        "views": 140694280,
+        "viewsCount": 2945,
+        "rateCount": 2945,
+        "averageViews": 47773.94906621392,
+        "engagement": 7.542567473247669,
+        "media": {
+          "handle": "f_philippot",
+          "name": "Florian Philippot",
+          "short": "Philippot",
+          "initials": "FP",
+          "color": "#159581",
+          "count": 12,
+          "broadcaster": 8,
+          "selfReported": 4,
+          "announced": 2
+        },
+        "medianViews": 29811,
+        "postsPerWeek": 60.99112426035503,
+        "concentration": 36.97055345817897,
+        "eventStudy": {
+          "fullWindows": 11,
+          "isolatedCandidates": 5,
+          "measuredWindows": 5,
+          "increases": 2,
+          "medianViewsChange": -1.619519368445499,
+          "medianEngagementChangePoints": 0.8121055240808275,
+          "windows": [
+            {
+              "id": "f-philippot-2026-01-27-cnews",
+              "date": "2026-01-27",
+              "beforePosts": 64,
+              "afterPosts": 66,
+              "beforeMeasured": 64,
+              "afterMeasured": 66,
+              "beforeMedian": 42510.5,
+              "afterMedian": 35491.5,
+              "medianViewsChange": -16.511214876324676,
+              "engagementChangePoints": 0.9731808932337707
+            },
+            {
+              "id": "f-philippot-2026-02-25-bfmtv",
+              "date": "2026-02-25",
+              "beforePosts": 66,
+              "afterPosts": 70,
+              "beforeMeasured": 66,
+              "afterMeasured": 70,
+              "beforeMedian": 28173,
+              "afterMedian": 29260.5,
+              "medianViewsChange": 3.860078798849953,
+              "engagementChangePoints": -2.542521861995792
+            },
+            {
+              "id": "f-philippot-2026-07-13-cnews",
+              "date": "2026-07-13",
+              "beforePosts": 57,
+              "afterPosts": 56,
+              "beforeMeasured": 57,
+              "afterMeasured": 56,
+              "beforeMedian": 29163,
+              "afterMedian": 30927,
+              "medianViewsChange": 6.0487604155951,
+              "engagementChangePoints": 0.8121055240808275
+            },
+            {
+              "id": "f-philippot-2026-09-04-bfmtv",
+              "date": "2026-09-04",
+              "beforePosts": 54,
+              "afterPosts": 60,
+              "beforeMeasured": 54,
+              "afterMeasured": 60,
+              "beforeMedian": 25841,
+              "afterMedian": 25422.5,
+              "medianViewsChange": -1.619519368445499,
+              "engagementChangePoints": -1.2796685483578445
+            },
+            {
+              "id": "f-philippot-bfmtv-2026-10-09",
+              "date": "2026-10-09",
+              "beforePosts": 65,
+              "afterPosts": 62,
+              "beforeMeasured": 65,
+              "afterMeasured": 62,
+              "beforeMedian": 22087,
+              "afterMedian": 19852.5,
+              "medianViewsChange": -10.116810793679543,
+              "engagementChangePoints": 1.115968930865332
+            }
+          ]
+        }
+      },
+      {
+        "handle": "dupontaignan",
+        "name": "Dupont-Aignan",
+        "count": 1492,
+        "views": 33893190,
+        "viewsCount": 1492,
+        "rateCount": 1492,
+        "averageViews": 22716.61528150134,
+        "engagement": 7.701856921700199,
+        "media": {
+          "handle": "dupontaignan",
+          "name": "Nicolas Dupont-Aignan",
+          "short": "Dupont-Aignan",
+          "initials": "NDA",
+          "color": "#d88a36",
+          "count": 33,
+          "broadcaster": 22,
+          "selfReported": 11,
+          "announced": 1
+        },
+        "medianViews": 11994.5,
+        "postsPerWeek": 30.899408284023668,
+        "concentration": 48.67846018624981,
+        "eventStudy": {
+          "fullWindows": 31,
+          "isolatedCandidates": 1,
+          "measuredWindows": 1,
+          "increases": 0,
+          "medianViewsChange": -12.820788145602924,
+          "medianEngagementChangePoints": -1.111741451429113,
+          "windows": [
+            {
+              "id": "dupontaignan-2026-02-26-bfmtv",
+              "date": "2026-02-26",
+              "beforePosts": 28,
+              "afterPosts": 26,
+              "beforeMeasured": 28,
+              "afterMeasured": 26,
+              "beforeMedian": 13969.5,
+              "afterMedian": 12178.5,
+              "medianViewsChange": -12.820788145602924,
+              "engagementChangePoints": -1.111741451429113
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "method": {
+    "period": "Jours UTC complets communs aux trois archives et à la recherche médias ; jour de collecte en cours exclu.",
+    "views": "Derniers compteurs connus, par date de publication ; personnes uniques et vues gagnées par jour inconnues.",
+    "events": "Participations documentées uniquement ; annonces exclues. Le recensement est non exhaustif.",
+    "isolation": "Aucun autre passage documenté du même compte dans les 14 jours avant ou après, même jour inclus.",
+    "windows": "Sept jours avant et sept jours après, jour du passage exclu ; au moins cinq tweets avec vues dans chaque fenêtre.",
+    "interpretation": "Comparaisons descriptives ; ni effet causal ni preuve d’absence d’effet. Âge des tweets, actualités et événements manquants non contrôlés."
+  }
+}

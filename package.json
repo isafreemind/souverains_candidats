@@ -8,6 +8,7 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --host 127.0.0.1",
     "collect": "tsx scripts/collect.ts",
+    "analyze": "tsx scripts/analyze-media-audience.ts",
     "test": "vitest run",
     "check": "tsc --noEmit"
   },
