@@ -1,0 +1,37 @@
+{
+  "id": "2085302801295417490",
+  "handle": "dupontaignan",
+  "text": "Décidément, ces gens ont peur de la liberté d'expression, si une source d'information échappe à leur bien-pensance alors ils veulent la censurer.",
+  "url": "https://x.com/dupontaignan/status/2085302801295417490",
+  "publishedAt": "2026-08-06T09:51:45.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19628,
+    "likes": 1584,
+    "reposts": 411,
+    "replies": 89,
+    "quotes": 6,
+    "bookmarks": 11
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 19628,
+        "likes": 1584,
+        "reposts": 411,
+        "replies": 89,
+        "quotes": 6,
+        "bookmarks": 11
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Décidément, ces gens ont peur de la liberté d'expression, si une source d'information échappe à leur bien-pensance alors ils veulent la censurer."
+    }
+  ]
+}

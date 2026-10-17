@@ -1,0 +1,37 @@
+{
+  "id": "2088303488992182781",
+  "handle": "f_philippot",
+  "text": "Aïe 😅",
+  "url": "https://x.com/f_philippot/status/2088303488992182781",
+  "publishedAt": "2026-08-14T16:35:25.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 24437,
+    "likes": 303,
+    "reposts": 48,
+    "replies": 14,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 24437,
+        "likes": 303,
+        "reposts": 48,
+        "replies": 14,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Aïe 😅"
+    }
+  ]
+}

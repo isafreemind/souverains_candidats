@@ -1,0 +1,37 @@
+{
+  "id": "2089381744353099866",
+  "handle": "dupontaignan",
+  "text": "Pourquoi le Gaullisme est ma boussole ?",
+  "url": "https://x.com/dupontaignan/status/2089381744353099866",
+  "publishedAt": "2026-08-17T16:00:01.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 17917,
+    "likes": 160,
+    "reposts": 43,
+    "replies": 50,
+    "quotes": 4,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 17917,
+        "likes": 160,
+        "reposts": 43,
+        "replies": 50,
+        "quotes": 4,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Pourquoi le Gaullisme est ma boussole ?"
+    }
+  ]
+}

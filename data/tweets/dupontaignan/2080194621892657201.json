@@ -1,0 +1,37 @@
+{
+  "id": "2080194621892657201",
+  "handle": "dupontaignan",
+  "text": "Tout est dit !  RÉSISTONS ….",
+  "url": "https://x.com/dupontaignan/status/2080194621892657201",
+  "publishedAt": "2026-07-23T07:33:40.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 26752,
+    "likes": 1202,
+    "reposts": 438,
+    "replies": 31,
+    "quotes": 4,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 26752,
+        "likes": 1202,
+        "reposts": 438,
+        "replies": 31,
+        "quotes": 4,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Tout est dit !  RÉSISTONS …."
+    }
+  ]
+}

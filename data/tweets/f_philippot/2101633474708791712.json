@@ -1,0 +1,37 @@
+{
+  "id": "2101633474708791712",
+  "handle": "f_philippot",
+  "text": "Ne rien lâcher ! 🇫🇷🇫🇷🇫🇷",
+  "url": "https://x.com/f_philippot/status/2101633474708791712",
+  "publishedAt": "2026-09-20T11:24:01.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 15560,
+    "likes": 569,
+    "reposts": 199,
+    "replies": 33,
+    "quotes": 5,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 15560,
+        "likes": 569,
+        "reposts": 199,
+        "replies": 33,
+        "quotes": 5,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Ne rien lâcher ! 🇫🇷🇫🇷🇫🇷"
+    }
+  ]
+}

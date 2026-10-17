@@ -1,0 +1,37 @@
+{
+  "id": "2106810869212500087",
+  "handle": "f_philippot",
+  "text": "La France donne les milliards à l’Ukraine.\n\nL’Ukraine achète allemand.\n\nOn continue ?…\nSTOP 🛑",
+  "url": "https://x.com/f_philippot/status/2106810869212500087",
+  "publishedAt": "2026-10-04T18:17:08.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 21831,
+    "likes": 2105,
+    "reposts": 935,
+    "replies": 101,
+    "quotes": 23,
+    "bookmarks": 29
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 21831,
+        "likes": 2105,
+        "reposts": 935,
+        "replies": 101,
+        "quotes": 23,
+        "bookmarks": 29
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "La France donne les milliards à l’Ukraine.\n\nL’Ukraine achète allemand.\n\nOn continue ?…\nSTOP 🛑"
+    }
+  ]
+}

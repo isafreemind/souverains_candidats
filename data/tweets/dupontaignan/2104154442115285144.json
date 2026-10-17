@@ -1,0 +1,37 @@
+{
+  "id": "2104154442115285144",
+  "handle": "dupontaignan",
+  "text": "Quelle leçon !",
+  "url": "https://x.com/dupontaignan/status/2104154442115285144",
+  "publishedAt": "2026-09-27T10:21:26.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 20306,
+    "likes": 2486,
+    "reposts": 754,
+    "replies": 59,
+    "quotes": 20,
+    "bookmarks": 43
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 20306,
+        "likes": 2486,
+        "reposts": 754,
+        "replies": 59,
+        "quotes": 20,
+        "bookmarks": 43
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Quelle leçon !"
+    }
+  ]
+}

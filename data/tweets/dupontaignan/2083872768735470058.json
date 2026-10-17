@@ -1,0 +1,37 @@
+{
+  "id": "2083872768735470058",
+  "handle": "dupontaignan",
+  "text": "Merci Philippe !!!",
+  "url": "https://x.com/dupontaignan/status/2083872768735470058",
+  "publishedAt": "2026-08-02T11:09:19.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 25506,
+    "likes": 3459,
+    "reposts": 1156,
+    "replies": 106,
+    "quotes": 11,
+    "bookmarks": 30
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 25506,
+        "likes": 3459,
+        "reposts": 1156,
+        "replies": 106,
+        "quotes": 11,
+        "bookmarks": 30
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Merci Philippe !!!"
+    }
+  ]
+}

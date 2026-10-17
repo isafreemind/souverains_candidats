@@ -1,0 +1,37 @@
+{
+  "id": "2101301554997326092",
+  "handle": "dupontaignan",
+  "text": "Retrouvez, à 16h30, en direct mon discours sur YouTube, X et Facebook !",
+  "url": "https://x.com/dupontaignan/status/2101301554997326092",
+  "publishedAt": "2026-09-19T13:25:05.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 5854,
+    "likes": 46,
+    "reposts": 17,
+    "replies": 3,
+    "quotes": 0,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 5854,
+        "likes": 46,
+        "reposts": 17,
+        "replies": 3,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Retrouvez, à 16h30, en direct mon discours sur YouTube, X et Facebook !"
+    }
+  ]
+}

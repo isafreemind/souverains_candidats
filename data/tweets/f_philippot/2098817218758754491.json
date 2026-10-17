@@ -1,0 +1,37 @@
+{
+  "id": "2098817218758754491",
+  "handle": "f_philippot",
+  "text": "En route vers 2027 ! 🇫🇷🇫🇷🇫🇷",
+  "url": "https://x.com/f_philippot/status/2098817218758754491",
+  "publishedAt": "2026-09-12T16:53:13.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 56237,
+    "likes": 1092,
+    "reposts": 249,
+    "replies": 88,
+    "quotes": 10,
+    "bookmarks": 17
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 56237,
+        "likes": 1092,
+        "reposts": 249,
+        "replies": 88,
+        "quotes": 10,
+        "bookmarks": 17
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "En route vers 2027 ! 🇫🇷🇫🇷🇫🇷"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2111115672486846594",
+  "handle": "f_philippot",
+  "text": "À 19h ce vendredi 16/10 : grand direct YouTube d’actualité sur ma chaîne ! 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2111115672486846594",
+  "publishedAt": "2026-10-16T15:22:53.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 6322,
+    "likes": 111,
+    "reposts": 32,
+    "replies": 9,
+    "quotes": 2,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 6322,
+        "likes": 111,
+        "reposts": 32,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "À 19h ce vendredi 16/10 : grand direct YouTube d’actualité sur ma chaîne ! 🇫🇷"
+    }
+  ]
+}

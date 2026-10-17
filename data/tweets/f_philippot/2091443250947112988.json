@@ -1,0 +1,37 @@
+{
+  "id": "2091443250947112988",
+  "handle": "f_philippot",
+  "text": "Vive(ment) le Québec libre ! \n\nVoyez ça ⤵️",
+  "url": "https://x.com/f_philippot/status/2091443250947112988",
+  "publishedAt": "2026-08-23T08:31:42.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 24833,
+    "likes": 365,
+    "reposts": 107,
+    "replies": 38,
+    "quotes": 4,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 24833,
+        "likes": 365,
+        "reposts": 107,
+        "replies": 38,
+        "quotes": 4,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Vive(ment) le Québec libre ! \n\nVoyez ça ⤵️"
+    }
+  ]
+}

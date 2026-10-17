@@ -1,0 +1,37 @@
+{
+  "id": "2103600451975626969",
+  "handle": "dupontaignan",
+  "text": "MERCI Saint-Père !",
+  "url": "https://x.com/dupontaignan/status/2103600451975626969",
+  "publishedAt": "2026-09-25T21:40:05.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 16243,
+    "likes": 2228,
+    "reposts": 566,
+    "replies": 52,
+    "quotes": 11,
+    "bookmarks": 30
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 16243,
+        "likes": 2228,
+        "reposts": 566,
+        "replies": 52,
+        "quotes": 11,
+        "bookmarks": 30
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "MERCI Saint-Père !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2103112329529590105",
+  "handle": "f_philippot",
+  "text": "L’opération Peur bat son plein !\n⤵️\nIls seront de plus en plus dingues et totalitaires, préparez-vous.",
+  "url": "https://x.com/f_philippot/status/2103112329529590105",
+  "publishedAt": "2026-09-24T13:20:27.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 35148,
+    "likes": 1137,
+    "reposts": 394,
+    "replies": 53,
+    "quotes": 6,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 35148,
+        "likes": 1137,
+        "reposts": 394,
+        "replies": 53,
+        "quotes": 6,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "L’opération Peur bat son plein !\n⤵️\nIls seront de plus en plus dingues et totalitaires, préparez-vous."
+    }
+  ]
+}

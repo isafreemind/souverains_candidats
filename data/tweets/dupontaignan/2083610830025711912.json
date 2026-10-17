@@ -1,0 +1,37 @@
+{
+  "id": "2083610830025711912",
+  "handle": "dupontaignan",
+  "text": "Le Tour de France Femmes s’élance aujourd’hui ! 🇫🇷 Bonne chance à toutes les championnes qui feront vibrer les routes de notre pays. Que la meilleure l’emporte, et vive le sport !",
+  "url": "https://x.com/dupontaignan/status/2083610830025711912",
+  "publishedAt": "2026-08-01T17:48:28.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 16078,
+    "likes": 74,
+    "reposts": 21,
+    "replies": 5,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 16078,
+        "likes": 74,
+        "reposts": 21,
+        "replies": 5,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Le Tour de France Femmes s’élance aujourd’hui ! 🇫🇷 Bonne chance à toutes les championnes qui feront vibrer les routes de notre pays. Que la meilleure l’emporte, et vive le sport !"
+    }
+  ]
+}

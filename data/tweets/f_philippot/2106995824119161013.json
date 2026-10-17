@@ -1,0 +1,37 @@
+{
+  "id": "2106995824119161013",
+  "handle": "f_philippot",
+  "text": "…Mais les prix à la pompe restent à un niveau délirant !\nCherchez l’erreur !\n\nSTOP mensonges 🛑",
+  "url": "https://x.com/f_philippot/status/2106995824119161013",
+  "publishedAt": "2026-10-05T06:32:05.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 18548,
+    "likes": 1515,
+    "reposts": 488,
+    "replies": 28,
+    "quotes": 2,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 18548,
+        "likes": 1515,
+        "reposts": 488,
+        "replies": 28,
+        "quotes": 2,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "…Mais les prix à la pompe restent à un niveau délirant !\nCherchez l’erreur !\n\nSTOP mensonges 🛑"
+    }
+  ]
+}

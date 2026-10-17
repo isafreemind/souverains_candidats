@@ -1,0 +1,37 @@
+{
+  "id": "2097649177362649465",
+  "handle": "f_philippot",
+  "text": "Jamais eu confiance une seule seconde dans ce machin et encore moins aujourd’hui.\nÀ bas l’UE, vive le Frexit !\n\nEt vous votre avis ?",
+  "url": "https://x.com/f_philippot/status/2097649177362649465",
+  "publishedAt": "2026-09-09T11:31:50.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 19002,
+    "likes": 673,
+    "reposts": 181,
+    "replies": 101,
+    "quotes": 7,
+    "bookmarks": 10
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 19002,
+        "likes": 673,
+        "reposts": 181,
+        "replies": 101,
+        "quotes": 7,
+        "bookmarks": 10
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Jamais eu confiance une seule seconde dans ce machin et encore moins aujourd’hui.\nÀ bas l’UE, vive le Frexit !\n\nEt vous votre avis ?"
+    }
+  ]
+}

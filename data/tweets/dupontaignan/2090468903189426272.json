@@ -1,0 +1,37 @@
+{
+  "id": "2090468903189426272",
+  "handle": "dupontaignan",
+  "text": "Sommes-nous encore en démocratie ?",
+  "url": "https://x.com/dupontaignan/status/2090468903189426272",
+  "publishedAt": "2026-08-20T16:00:00.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 11314,
+    "likes": 491,
+    "reposts": 162,
+    "replies": 83,
+    "quotes": 2,
+    "bookmarks": 6
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 11314,
+        "likes": 491,
+        "reposts": 162,
+        "replies": 83,
+        "quotes": 2,
+        "bookmarks": 6
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Sommes-nous encore en démocratie ?"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2099554427954663583",
+  "handle": "f_philippot",
+  "text": "Le clip des Assises !\nQuelle force ! \nLe patriotisme c’est l’avenir ! 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2099554427954663583",
+  "publishedAt": "2026-09-14T17:42:38.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 17971,
+    "likes": 654,
+    "reposts": 202,
+    "replies": 46,
+    "quotes": 11,
+    "bookmarks": 13
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 17971,
+        "likes": 654,
+        "reposts": 202,
+        "replies": 46,
+        "quotes": 11,
+        "bookmarks": 13
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Le clip des Assises !\nQuelle force ! \nLe patriotisme c’est l’avenir ! 🇫🇷"
+    }
+  ]
+}

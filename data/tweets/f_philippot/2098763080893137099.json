@@ -1,0 +1,37 @@
+{
+  "id": "2098763080893137099",
+  "handle": "f_philippot",
+  "text": ".@anatolium et @dupontaignan à Arras !\nRavi de vous accueillir aux Assises dans l’excellente émission de \n@EricMorillot",
+  "url": "https://x.com/f_philippot/status/2098763080893137099",
+  "publishedAt": "2026-09-12T13:18:06.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 19204,
+    "likes": 1113,
+    "reposts": 257,
+    "replies": 39,
+    "quotes": 4,
+    "bookmarks": 13
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 19204,
+        "likes": 1113,
+        "reposts": 257,
+        "replies": 39,
+        "quotes": 4,
+        "bookmarks": 13
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": ".@anatolium et @dupontaignan à Arras !\nRavi de vous accueillir aux Assises dans l’excellente émission de \n@EricMorillot"
+    }
+  ]
+}

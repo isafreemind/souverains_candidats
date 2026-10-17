@@ -1,0 +1,37 @@
+{
+  "id": "2106792989754548396",
+  "handle": "dupontaignan",
+  "text": "La France mérite l’Union des souverainistes ! Bravo Philippe pour cette bonne idée …. Je suis prêt !",
+  "url": "https://x.com/dupontaignan/status/2106792989754548396",
+  "publishedAt": "2026-10-04T17:06:05.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 28670,
+    "likes": 1202,
+    "reposts": 447,
+    "replies": 101,
+    "quotes": 11,
+    "bookmarks": 18
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 28670,
+        "likes": 1202,
+        "reposts": 447,
+        "replies": 101,
+        "quotes": 11,
+        "bookmarks": 18
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "La France mérite l’Union des souverainistes ! Bravo Philippe pour cette bonne idée …. Je suis prêt !"
+    }
+  ]
+}

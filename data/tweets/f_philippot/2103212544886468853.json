@@ -1,0 +1,37 @@
+{
+  "id": "2103212544886468853",
+  "handle": "f_philippot",
+  "text": "Pfizerman démissionne : excellent !",
+  "url": "https://x.com/f_philippot/status/2103212544886468853",
+  "publishedAt": "2026-09-24T19:58:41.000Z",
+  "observedAt": "2026-10-17T07:34:05.595Z",
+  "firstSeenAt": "2026-10-17T07:34:05.595Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 24923,
+    "likes": 1386,
+    "reposts": 527,
+    "replies": 52,
+    "quotes": 5,
+    "bookmarks": 28
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "metrics": {
+        "views": 24923,
+        "likes": 1386,
+        "reposts": 527,
+        "replies": 52,
+        "quotes": 5,
+        "bookmarks": 28
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-17T07:34:05.595Z",
+      "text": "Pfizerman démissionne : excellent !"
+    }
+  ]
+}
