@@ -1,0 +1,767 @@
+{
+  "schemaVersion": 1,
+  "researchedAt": "2026-10-17",
+  "period": {
+    "start": "2025-10-17",
+    "end": "2026-10-17"
+  },
+  "handle": "f_philippot",
+  "scope": "Entretiens, débats et prises de parole directement réalisées dans les dix médias retenus. Les annonces non corroborées sont séparées. Recherche non exhaustive des antennes.",
+  "events": [
+    {
+      "id": "f-philippot-2025-11-19-cnews",
+      "handle": "f_philippot",
+      "date": "2025-11-19",
+      "outletId": "cnews",
+      "title": "L’Heure des Pros : réseaux sociaux et liberté d’expression",
+      "sourceUrl": "https://www.dailymotion.com/video/x9u1vq0",
+      "sourceType": "official-replay",
+      "dateEvidence": "Extrait du compte officiel CNEWS mis en ligne le 19 novembre 2025 ; created_time et taken_time renvoient tous deux au 19 novembre. L’annonce archivée la veille situe le direct le mercredi 19 novembre, puis précise 9h25 le matin même.",
+      "evidence": "La vidéo officielle contient l’intervention de Florian Philippot dans L’Heure des Pros sur les signaleurs de confiance de l’Arcom.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/1990864855213932973",
+        "https://x.com/f_philippot/status/1991038252149608604"
+      ]
+    },
+    {
+      "id": "f-philippot-2025-12-18-lci",
+      "handle": "f_philippot",
+      "date": "2025-12-18",
+      "outletId": "lci",
+      "title": "Direct annoncé depuis la manifestation agricole à Bruxelles",
+      "sourceUrl": "https://x.com/f_philippot/status/2001641798255689964",
+      "sourceType": "self-report",
+      "dateEvidence": "Publication du 18 décembre à 13h12 UTC annonçant un direct à 14h30 à Paris, soit environ 18 minutes plus tard.",
+      "evidence": "Annonce antérieure au passage ; aucun extrait ou compte rendu après l’événement retrouvé permettant de confirmer sa réalisation.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "announced",
+      "supportingUrls": []
+    },
+    {
+      "id": "f-philippot-2026-01-27-cnews",
+      "handle": "f_philippot",
+      "date": "2026-01-27",
+      "outletId": "cnews",
+      "title": "L’Heure des Pros : Union européenne et souveraineté",
+      "sourceUrl": "https://www.dailymotion.com/video/x9ylghy",
+      "sourceType": "official-replay",
+      "dateEvidence": "La description officielle indique explicitement « ce mardi 27 janvier ». Les métadonnées created_time et taken_time sont au 27 janvier 2026, en accord avec l’annonce archivée du 26 janvier pour le lendemain.",
+      "evidence": "L’extrait publié par CNEWS montre l’entretien effectué, au-delà de sa seule annonce.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2015873346789949821"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-02-25-bfmtv",
+      "handle": "f_philippot",
+      "date": "2026-02-25",
+      "outletId": "bfmtv",
+      "title": "Débat avec Charles Consigny sur les médias et les politiques",
+      "sourceUrl": "https://www.dailymotion.com/video/xa0q7ye",
+      "sourceType": "official-replay",
+      "dateEvidence": "La description officielle BFMTV situe le face-à-face « ce mercredi 25 février ». created_time et taken_time sont au 25 février 2026. L’annonce et la publication archivée du lendemain citant « sur BFMTV ce 25/02 » concordent.",
+      "evidence": "Un extrait du compte officiel BFM documente la participation directe de Florian Philippot au débat avec Charles Consigny.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2026682978718318777",
+        "https://x.com/f_philippot/status/2027095460721164570"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-03-27-cnews",
+      "handle": "f_philippot",
+      "date": "2026-03-27",
+      "outletId": "cnews",
+      "title": "L’Heure des Pros : nucléaire, prix de l’énergie et Union européenne",
+      "sourceUrl": "https://www.dailymotion.com/video/xa3fgqy",
+      "sourceType": "official-replay",
+      "dateEvidence": "La description CNEWS situe l’entretien « ce vendredi 27 mars ». created_time et taken_time sont au 27 mars 2026, comme l’annonce archivée publiée ce matin-là.",
+      "evidence": "L’extrait officiel contient une intervention directe au sujet de l’enquête européenne sur les nouveaux réacteurs nucléaires.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2037412149773979922"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-03-28-lci",
+      "handle": "f_philippot",
+      "date": "2026-03-28",
+      "outletId": "lci",
+      "title": "Entretien en direct de la manifestation pour le Frexit",
+      "sourceUrl": "https://x.com/f_philippot/status/2038264953002397934",
+      "sourceType": "self-report",
+      "dateEvidence": "L’annonce archivée du 28 mars prévoit un direct à 15h depuis la manifestation. Le 29 mars, une publication après l’événement renvoie à la vidéo de cette interview. Le 29 est la date de publication de l’extrait, pas un deuxième passage.",
+      "evidence": "La publication après le passage et son lien vidéo confirment la réalisation de l’entretien annoncé la veille. Le replay du diffuseur n’a pas été retrouvé.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2037882105280057752",
+        "https://www.youtube.com/watch?v=bvP7gXEtS9A"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-05-06-cnews",
+      "handle": "f_philippot",
+      "date": "2026-05-06",
+      "outletId": "cnews",
+      "title": "Entretien sur CNEWS : journée de l’Europe et drapeaux européens",
+      "sourceUrl": "https://www.dailymotion.com/video/xa8buca",
+      "sourceType": "official-replay",
+      "dateEvidence": "Extrait officiel CNEWS mis en ligne le 6 mai 2026 ; taken_time renvoie au même jour. L’annonce archivée indique un direct ce soir-là à 20h30. La mise en ligne est à 18h47 UTC, soit 20h47 à Paris.",
+      "evidence": "L’extrait contient les réponses de Florian Philippot au sujet des drapeaux européens et de la journée du 9 mai.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2052044760106377605",
+        "https://www.youtube.com/watch?v=aL9In7eaRmQ"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-05-09-france2",
+      "handle": "f_philippot",
+      "date": "2026-05-09",
+      "outletId": "france2",
+      "title": "Les 4 Vérités : déclaration de candidature à la présidentielle",
+      "sourceUrl": "https://x.com/f_philippot/status/2053156569752170997",
+      "sourceType": "self-report",
+      "dateEvidence": "L’annonce du 8 mai situe l’entretien au samedi 9 mai à 8h10. Le 9 mai, la publication du participant renvoie à la vidéo de sa candidature sur France 2. Le Parisien, publié le même jour à 13h05, décrit ce passage comme effectué ce samedi matin.",
+      "evidence": "La vidéo signalée après l’émission et les comptes rendus contemporains confirment la réalisation de l’entretien, au-delà de l’annonce antérieure.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2052826054880833970",
+        "https://www.youtube.com/watch?v=RCDAynjEWM4",
+        "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-florian-philippot-declare-sa-candidature-mais-se-dit-deja-pret-a-se-retirer-09-05-2026-ABUDCTJBNZCR7DVIYOHXLHZHSA.php"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-06-06-lci",
+      "handle": "f_philippot",
+      "date": "2026-06-06",
+      "outletId": "lci",
+      "title": "Entretien d’actualité en direct sur LCI",
+      "sourceUrl": "https://x.com/f_philippot/status/2063267216259272756",
+      "sourceType": "self-report",
+      "dateEvidence": "L’annonce du 6 juin prévoit un direct à 15h30. La publication du même jour à 14h30 UTC, soit 16h30 à Paris, déclare que l’entretien vient d’être effectué et renvoie à la vidéo.",
+      "evidence": "La déclaration après le passage confirme la participation réalisée à LCI. Le replay du diffuseur n’a pas été retrouvé.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2063241079210553452",
+        "https://x.com/f_philippot/status/2063318308317765860",
+        "https://www.youtube.com/watch?v=kWjQQ8DRGVQ"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-06-11-franceinfo",
+      "handle": "f_philippot",
+      "date": "2026-06-11",
+      "outletId": "franceinfo",
+      "title": "L’invité politique de la matinale de franceinfo TV",
+      "sourceUrl": "https://x.com/f_philippot/status/2065064143648903493",
+      "sourceType": "self-report",
+      "dateEvidence": "L’annonce du 10 juin prévoit le jeudi matin ; le 11 juin, le participant confirme avoir été reçu ce matin-là. La liste officielle franceinfo des invités de juin situe Florian Philippot le 11/06 sous la rubrique 7h55. L’horaire annoncé 7h40 n’est donc pas conservé comme heure certifiée.",
+      "evidence": "La publication après le passage confirme sa réalisation. La liste officielle franceinfo a été retrouvée dans l’index de recherche et sa copie consultable, l’URL canonique restant inaccessible à l’outil.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2064759853482938817",
+        "https://www.youtube.com/watch?v=VTpt_jpWFgk",
+        "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-retrouvez-la-liste-des-invites-de-la-chaine-info-canal-16-en-juin-2026_8077622.html"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-07-13-cnews",
+      "handle": "f_philippot",
+      "date": "2026-07-13",
+      "outletId": "cnews",
+      "title": "Entretien sur CNEWS : souveraineté et sécurité",
+      "sourceUrl": "https://www.dailymotion.com/video/xaothka",
+      "sourceType": "official-replay",
+      "dateEvidence": "Deux extraits officiels CNEWS ont leurs created_time et taken_time au 13 juillet 2026. L’annonce archivée publiée le 12 juillet indique le lundi 13 juillet à 9h. Ces extraits corroborent la réalisation du passage annoncé.",
+      "evidence": "Deux extraits d’une même séquence sont regroupés sous un seul passage : souveraineté et sécurité. Aucun deuxième passage n’est déduit du nombre de clips.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2076372232926867872",
+        "https://www.dailymotion.com/video/xaotsai"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-09-04-bfmtv",
+      "handle": "f_philippot",
+      "date": "2026-09-04",
+      "outletId": "bfmtv",
+      "title": "Débat BFMTV : Frexit et rapprochement Bardella-Farage",
+      "sourceUrl": "https://www.dailymotion.com/video/xb3ynly",
+      "sourceType": "official-replay",
+      "dateEvidence": "L’extrait du compte officiel BFM est mis en ligne le 4 septembre 2026 à 15h52 UTC ; taken_time renvoie également au 4 septembre. L’annonce archivée du 4 septembre pour 17h35 et le compte rendu du participant Antoine Léaument daté du 4 septembre concordent. Le 5 septembre est une reprise du clip, pas une nouvelle diffusion démontrée.",
+      "evidence": "Le replay officiel BFM résout la divergence antérieure entre le 4 et le 5 septembre en faveur du 4 septembre.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2095881569005175055",
+        "https://x.com/f_philippot/status/2096234753665974763",
+        "https://antoineleaument.fr/2026/09/04/bardella-et-farage-lalliance-des-voleurs/",
+        "https://www.bfmtv.com/politique/video-si-on-veut-reprendre-le-controle-de-notre-pays-il-faut-sortir-de-l-union-europeenne-estime-florian-philippot-president-du-parti-les-patriotes-et-candidat-a-l-election-presidentielle_VN-202609040727.html"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-09-17-lci",
+      "handle": "f_philippot",
+      "date": "2026-09-17",
+      "outletId": "lci",
+      "title": "Entretien en direct sur LCI",
+      "sourceUrl": "https://x.com/f_philippot/status/2100490281141305462",
+      "sourceType": "self-report",
+      "dateEvidence": "Auto-annonce du compte publiée : « À 10h20 ce jeudi en direct sur LCI ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
+      "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "announced",
+      "supportingUrls": []
+    },
+    {
+      "id": "f-philippot-bfmtv-2026-10-09",
+      "handle": "f_philippot",
+      "date": "2026-10-09",
+      "outletId": "bfmtv",
+      "title": "Entretien BFMTV : révélations sur Jordan Bardella",
+      "sourceUrl": "https://www.dailymotion.com/video/xbki5yy",
+      "sourceType": "official-replay",
+      "dateEvidence": "L’extrait du compte officiel BFM a ses created_time et taken_time au 9 octobre 2026. L’annonce archivée prévoit le même soir 23h25 ; mise en ligne à 21h51 UTC, soit 23h51 à Paris. La date de diffusion concorde.",
+      "evidence": "L’extrait officiel contient un échange direct entre les journalistes et Florian Philippot. Sa description textuelle générique parle des lycées et ne doit pas remplacer le contenu de l’extrait ou son titre.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2108627865998614878",
+        "https://x.com/f_philippot/status/2108937314437148757"
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_philippot",
+      "outletId": "tf1",
+      "status": "limited",
+      "notes": "Requêtes sur le nom et TF1 pour l’année, requêtes de domaine TF1/TF1 Info, contrôle des résultats historiques. Aucun entretien réalisé vérifié. Un article TF1 Info ancien mis à jour en 2026 ne vaut pas passage récent. Le compte Dailymotion TF1 ne remplace pas toutes les archives antenne."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "france2",
+      "status": "limited",
+      "notes": "Passage du 9 mai confirmé par déclaration après émission, vidéo signalée par le participant et compte rendu contemporain. Recherche France 2 et période complète ; les autres résultats trouvés sont des commentaires sur une émission ou des archives anciennes."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "france3",
+      "status": "limited",
+      "notes": "Requêtes France 3 et période, recherches sur les archives et contrôle Dailymotion. Aucun entretien direct daté vérifié. Une publication ICI ou une mention de candidature sur le web ne prouve pas une invitation sur France 3."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "m6",
+      "status": "limited",
+      "notes": "Requêtes M6 et nom sur l’année, contrôle du compte public de vidéos. Aucun entretien direct daté vérifié ; couverture des reportages incomplets et indexation limitée."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "bfmtv",
+      "status": "limited",
+      "notes": "Trois dates confirmées par extraits du compte officiel BFM : 25 février, 4 septembre, 9 octobre. API Dailymotion BFMTV : total 3, has_more false pour Philippot après le 17 octobre 2025. Le site BFMTV reste inaccessible à l’outil ; les clips disponibles ne garantissent pas l’intégralité des antennes."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "cnews",
+      "status": "limited",
+      "notes": "Cinq dates confirmées par six extraits du compte officiel CNEWS : 19 novembre, 27 janvier, 27 mars, 6 mai, 13 juillet. API Dailymotion : total 6, has_more false. Lecture d’un message le 10 février exclue : absence de participation directe. La recherche porte aussi sur les mois sans extrait retrouvé."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "lci",
+      "status": "limited",
+      "notes": "Deux entretiens confirmés après coup par le participant : 28 mars et 6 juin. Deux annonces distinctes à conserver hors repères confirmés : 18 décembre et 17 septembre. Requêtes de mois et dates, TF1 Info et vidéos ; aucun replay primaire retrouvé pour ces annonces."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "franceinfo",
+      "status": "limited",
+      "notes": "Matinale du 11 juin confirmée après coup et mentionnée dans la liste officielle des invités de juin, retrouvée via index et copie consultable. Recherche autres mois 2025 et 2026. Reportage d’Arras du 23 septembre conservé comme piste, sans date certaine de recueil/diffusion ni entretien en plateau établi."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "franceinter",
+      "status": "limited",
+      "notes": "Requêtes France Inter et période annuelle, recherche des archives et vidéos. Les invitations retrouvées sont historiques (2016/2017/2019), exclues. Aucun entretien direct récent vérifié ; accès Radio France limité."
+    },
+    {
+      "handle": "f_philippot",
+      "outletId": "rtl",
+      "status": "limited",
+      "notes": "Requêtes RTL et période annuelle, contrôle des archives indexées. Les entretiens retrouvés concernent principalement 2017/2018 ; les citations d’autres invités commentées par Philippot ne sont pas ses passages. Aucun entretien direct récent vérifié."
+    }
+  ],
+  "candidates": [
+    {
+      "outletId": "franceinfo",
+      "date": "2026-09-23",
+      "title": "Reportage sur le rassemblement d’Arras",
+      "sourceUrl": "https://pourquijevote.com/transcripts/aa4369b9-f230-49a3-92db-8c90e59b6202",
+      "reason": "Date d’indexation/publication du reportage ; date de recueil des propos et diffusion audiovisuelle non établies. Ne pas transformer en entretien invité ou inventer une date."
+    }
+  ],
+  "exclusions": [
+    {
+      "date": "2026-02-10",
+      "outletId": "cnews",
+      "sourceUrl": "https://x.com/f_philippot/status/2021145939126194422",
+      "reason": "Pascal Praud lit une réaction écrite de Philippot ; le participant dit regarder le débat. Ce n’est pas une participation directe."
+    },
+    {
+      "date": "2026-09-05",
+      "outletId": "bfmtv",
+      "sourceUrl": "https://x.com/f_philippot/status/2096234753665974763",
+      "reason": "Reprise d’une intervention du 4 septembre. Le replay officiel et sa date excluent un double comptage 4/5 septembre."
+    },
+    {
+      "date": "2025-07-17",
+      "outletId": "cnews",
+      "sourceUrl": "https://www.dailymotion.com/video/x9n2c3w",
+      "reason": "Jeudi 17 juillet 2025, hors période. Budget 2026 évoqué ne signifie pas diffusion en 2026."
+    },
+    {
+      "outletId": "tf1",
+      "sourceUrl": "https://www.tf1info.fr/societe/philippot-inter-quand-lextreme-droite-recupere-la-cause-animale-1532198.html",
+      "reason": "Interview France Inter du 27 avril 2017 mentionnée dans un article ancien actualisé en 2026. Ni TF1 récent ni France Inter récent."
+    },
+    {
+      "outletId": "franceinter",
+      "sourceUrl": "https://mediateur.radiofrance.com/messages/chers-auditeurs-de-france-inter-arretez-de-plaindre/",
+      "reason": "Médiation renvoyant explicitement au débat du 8 août 2016."
+    }
+  ],
+  "outsideScope": [
+    {
+      "date": "2026-07-13",
+      "outlet": "Radio Courtoisie",
+      "sourceUrl": "https://www.rc.fr/2026/07/13/ligne-droite-du-13-juillet-2026/",
+      "reason": "Entretien primaire trouvé mais média hors sélection de dix."
+    },
+    {
+      "date": "2026-09-10",
+      "outlet": "Omerta",
+      "sourceUrl": "https://pourquijevote.com/transcripts/7766d539-8133-4f25-9fe3-c83eb84a1f54",
+      "reason": "Hors sélection ; agrégateur utilisé comme piste uniquement."
+    }
+  ],
+  "searches": [
+    "Florian Philippot CNEWS 2026 interview",
+    "Florian Philippot BFMTV 2026 interview",
+    "Florian Philippot LCI 2026 interview",
+    "site:les-patriotes.fr Philippot médias 2026",
+    "\"Florian Philippot\" \"TF1\" after:2025-10-16 before:2026-10-18",
+    "\"Florian Philippot\" \"France 2\" \"2026\"",
+    "\"Florian Philippot\" \"France 3\" \"2026\"",
+    "\"Florian Philippot\" \"M6\" \"2026\"",
+    "\"Florian Philippot\" \"France Inter\" after:2025-10-16 before:2026-10-18",
+    "\"Florian Philippot\" \"RTL\" after:2025-10-16 before:2026-10-18 interview",
+    "\"Florian Philippot\" \"franceinfo\" \"2026\" invité",
+    "\"Florian Philippot\" \"LCI\" \"2025\" \"novembre\" OR \"décembre\"",
+    "\"Philippot\" \"CNEWS\" \"6 mai 2026\"",
+    "\"Philippot\" \"CNEWS\" \"19 novembre 2025\"",
+    "\"Philippot\" \"LCI\" \"28 mars 2026\"",
+    "\"Philippot\" \"LCI\" \"6 juin 2026\"",
+    "\"Philippot\" site:cnews.fr \"2026\" interview",
+    "\"Philippot\" site:bfmtv.com \"2026\" invité",
+    "\"Philippot\" site:tf1info.fr \"LCI\" \"2026\"",
+    "\"Philippot\" site:france.tv \"2026\"",
+    "\"Philippot\" \"CNEWS\" \"2025\" \"novembre\" interview",
+    "\"Philippot\" \"CNEWS\" \"2025\" \"décembre\" invité",
+    "\"Philippot\" \"CNEWS\" \"2026\" \"février\" invité",
+    "\"Philippot\" \"CNEWS\" \"2026\" \"avril\" invité",
+    "\"Florian Philippot\" \"France 2\" \"9 mai\" site:franceinfo.fr",
+    "\"Philippot\" \"CNEWS\" \"13 juillet 2026\"",
+    "\"Philippot\" \"BFMTV\" \"25 février 2026\"",
+    "\"Philippot\" \"LCI\" \"18 décembre 2025\"",
+    "\"Philippot\" \"CNEWS\" \"2026\" \"juillet\" \"août\"",
+    "\"Philippot\" \"CNEWS\" \"2026\" \"septembre\" \"octobre\"",
+    "\"Philippot\" site:dailymotion.com/video \"novembre\" \"2025\"",
+    "\"Philippot\" site:dailymotion.com/video \"2026\" \"LCI\"",
+    "\"Philippot\" \"LCI\" \"septembre\" \"2026\" interview",
+    "\"Philippot\" \"CNEWS\" \"19/11/2025\"",
+    "\"Philippot\" \"CNEWS\" \"06/05/2026\"",
+    "\"Philippot\" \"CNEWS\" \"13/07/2026\"",
+    "\"Philippot\" \"Sans liberté d’expression\" \"19 novembre 2025\"",
+    "\"Philippot\" \"La seule solution est de sortir\" \"2026\"",
+    "\"Philippot\" \"Je demande aux maires de désobéir\" \"mai\"",
+    "\"Philippot\" \"TF1\" \"octobre 2025\" OR \"novembre 2025\" OR \"décembre 2025\"",
+    "\"Florian Philippot\" \"Sans liberté\" site:cnews.fr",
+    "\"Florian Philippot\" \"maires\" \"désobéir\" \"6 mai 2026\"",
+    "\"Florian Philippot\" \"La seule solution\" site:cnews.fr",
+    "\"Philippot\" \"TRANSPARENCE\" \"2026\" \"invités\"",
+    "\"Florian Philippot\" \"Cnews\" \"octobre\" \"2025\" interview",
+    "\"Florian Philippot\" \"BFMTV\" after:2025-10-16 before:2026-01-01 invité",
+    "\"Florian Philippot\" \"LCI\" \"2026\" \"janvier\" \"février\" \"mars\"",
+    "\"Florian Philippot\" \"CNEWS\" \"août 2026\" invité",
+    "\"Philippot\" \"sans-liberte-dexpression-il-ny-aucun-combat-possible\"",
+    "\"Florian Philippot\" \"13 juillet\" \"2026\" CNews vidéo",
+    "\"Florian Philippot\" \"6 mai\" CNews désobéir",
+    "\"Florian Philippot\" site:patriotes.tv"
+  ],
+  "primaryQueries": [
+    "https://api.dailymotion.com/user/CNEWS/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/BFMTV/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/franceinfo/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/FranceInter/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/rtl-fr/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/LCI/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/TF1/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/France2/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/France3/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+    "https://api.dailymotion.com/user/M6/videos?search=Philippot&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+  ],
+  "primaryVideoMetadata": [
+    {
+      "id": "xaotsai",
+      "url": "https://www.dailymotion.com/video/xaotsai",
+      "title": "Florian Philippot : «Les gens en ont ras-le-bol de voir ce laxisme épouvantable»",
+      "owner": "CNEWS",
+      "createdAt": "2026-07-13T09:21:17.000Z",
+      "takenAt": "2026-07-13T00:00:00.000Z"
+    },
+    {
+      "id": "xaothka",
+      "url": "https://www.dailymotion.com/video/xaothka",
+      "title": "Florian Philippot : «La seule solution est de sortir de l'Union européenne»",
+      "owner": "CNEWS",
+      "createdAt": "2026-07-13T08:40:40.000Z",
+      "takenAt": "2026-07-13T00:00:00.000Z"
+    },
+    {
+      "id": "xa8buca",
+      "url": "https://www.dailymotion.com/video/xa8buca",
+      "title": "Florian Philippot : «Je demande aux maires de désobéir»",
+      "owner": "CNEWS",
+      "createdAt": "2026-05-06T18:47:56.000Z",
+      "takenAt": "2026-05-06T00:00:00.000Z"
+    },
+    {
+      "id": "xa3fgqy",
+      "url": "https://www.dailymotion.com/video/xa3fgqy",
+      "title": "Florian Philippot : «Ils font tout pour nous mettre des bâtons dans les roues»",
+      "owner": "CNEWS",
+      "createdAt": "2026-03-27T08:56:24.000Z",
+      "takenAt": "2026-03-27T00:00:00.000Z"
+    },
+    {
+      "id": "x9ylghy",
+      "url": "https://www.dailymotion.com/video/x9ylghy",
+      "title": "Florian Philippot : «Par principe je n’accepte pas qu’il y ait une autorité supranationale»",
+      "owner": "CNEWS",
+      "createdAt": "2026-01-27T08:50:12.000Z",
+      "takenAt": "2026-01-27T00:00:00.000Z"
+    },
+    {
+      "id": "x9u1vq0",
+      "url": "https://www.dailymotion.com/video/x9u1vq0",
+      "title": "Florian Philippot : «L'Arcom va désigner ses \"signaleurs de confiance\" comme SOS Racisme»",
+      "owner": "CNEWS",
+      "createdAt": "2025-11-19T08:43:04.000Z",
+      "takenAt": "2025-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "xbki5yy",
+      "url": "https://www.dailymotion.com/video/xbki5yy",
+      "title": "Nouvelles révélations de Mediapart sur Jordan Bardella: \"Aujourd'hui le RN ment aux Français, il y a d'autres mensonges qui sont bien plus graves\", déclare Florian Philippot, président des (Patriotes) et candidat à l'élection présidentielle",
+      "owner": "BFM",
+      "createdAt": "2026-10-09T21:51:32.000Z",
+      "takenAt": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "id": "xb3ynly",
+      "url": "https://www.dailymotion.com/video/xb3ynly",
+      "title": "\"Si on veut reprendre le contrôle de notre pays, il faut sortir de l'Union européenne\", estime Florian Philippot, président du parti Les Patriotes et candidat à l'élection présidentielle",
+      "owner": "BFM",
+      "createdAt": "2026-09-04T15:52:35.000Z",
+      "takenAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "xa0q7ye",
+      "url": "https://www.dailymotion.com/video/xa0q7ye",
+      "title": "SIGNÉ CONSIGNY - Les médias, cibles trop faciles des politiques? \"C'est de la politique, c'est complètement excessif\", estime Charles Consigny",
+      "owner": "BFM",
+      "createdAt": "2026-02-25T18:10:05.000Z",
+      "takenAt": "2026-02-25T00:00:00.000Z"
+    }
+  ],
+  "suggestedCorrections": [
+    {
+      "id": "f-philippot-2025-11-19-cnews",
+      "action": "replace-source-and-confirm",
+      "reason": "Replay officiel CNEWS retrouvé : remplacer l’annonce seule par le replay, conserver l’annonce en source complémentaire.",
+      "replacement": {
+        "id": "f-philippot-2025-11-19-cnews",
+        "handle": "f_philippot",
+        "date": "2025-11-19",
+        "outletId": "cnews",
+        "title": "L’Heure des Pros : réseaux sociaux et liberté d’expression",
+        "sourceUrl": "https://www.dailymotion.com/video/x9u1vq0",
+        "sourceType": "official-replay",
+        "dateEvidence": "Extrait du compte officiel CNEWS mis en ligne le 19 novembre 2025 ; created_time et taken_time renvoient tous deux au 19 novembre. L’annonce archivée la veille situe le direct le mercredi 19 novembre, puis précise 9h25 le matin même.",
+        "evidence": "La vidéo officielle contient l’intervention de Florian Philippot dans L’Heure des Pros sur les signaleurs de confiance de l’Arcom.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/1990864855213932973",
+          "https://x.com/f_philippot/status/1991038252149608604"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-01-27-cnews",
+      "action": "replace-source-and-confirm",
+      "reason": "Replay officiel CNEWS retrouvé : remplacer l’annonce seule par le replay, conserver l’annonce en source complémentaire.",
+      "replacement": {
+        "id": "f-philippot-2026-01-27-cnews",
+        "handle": "f_philippot",
+        "date": "2026-01-27",
+        "outletId": "cnews",
+        "title": "L’Heure des Pros : Union européenne et souveraineté",
+        "sourceUrl": "https://www.dailymotion.com/video/x9ylghy",
+        "sourceType": "official-replay",
+        "dateEvidence": "La description officielle indique explicitement « ce mardi 27 janvier ». Les métadonnées created_time et taken_time sont au 27 janvier 2026, en accord avec l’annonce archivée du 26 janvier pour le lendemain.",
+        "evidence": "L’extrait publié par CNEWS montre l’entretien effectué, au-delà de sa seule annonce.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2015873346789949821"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-05-06-cnews",
+      "action": "replace-source-and-confirm",
+      "reason": "Replay officiel CNEWS retrouvé : remplacer l’annonce seule par le replay, conserver l’annonce en source complémentaire.",
+      "replacement": {
+        "id": "f-philippot-2026-05-06-cnews",
+        "handle": "f_philippot",
+        "date": "2026-05-06",
+        "outletId": "cnews",
+        "title": "Entretien sur CNEWS : journée de l’Europe et drapeaux européens",
+        "sourceUrl": "https://www.dailymotion.com/video/xa8buca",
+        "sourceType": "official-replay",
+        "dateEvidence": "Extrait officiel CNEWS mis en ligne le 6 mai 2026 ; taken_time renvoie au même jour. L’annonce archivée indique un direct ce soir-là à 20h30. La mise en ligne est à 18h47 UTC, soit 20h47 à Paris.",
+        "evidence": "L’extrait contient les réponses de Florian Philippot au sujet des drapeaux européens et de la journée du 9 mai.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2052044760106377605",
+          "https://www.youtube.com/watch?v=aL9In7eaRmQ"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-07-13-cnews",
+      "action": "replace-source-and-confirm",
+      "reason": "Replay officiel CNEWS retrouvé : remplacer l’annonce seule par le replay, conserver l’annonce en source complémentaire.",
+      "replacement": {
+        "id": "f-philippot-2026-07-13-cnews",
+        "handle": "f_philippot",
+        "date": "2026-07-13",
+        "outletId": "cnews",
+        "title": "Entretien sur CNEWS : souveraineté et sécurité",
+        "sourceUrl": "https://www.dailymotion.com/video/xaothka",
+        "sourceType": "official-replay",
+        "dateEvidence": "Deux extraits officiels CNEWS ont leurs created_time et taken_time au 13 juillet 2026. L’annonce archivée publiée le 12 juillet indique le lundi 13 juillet à 9h. Ces extraits corroborent la réalisation du passage annoncé.",
+        "evidence": "Deux extraits d’une même séquence sont regroupés sous un seul passage : souveraineté et sécurité. Aucun deuxième passage n’est déduit du nombre de clips.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2076372232926867872",
+          "https://www.dailymotion.com/video/xaotsai"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-03-28-lci",
+      "action": "replace-source-and-confirm",
+      "reason": "Une publication après le passage renvoyant à la vidéo confirme sa réalisation.",
+      "replacement": {
+        "id": "f-philippot-2026-03-28-lci",
+        "handle": "f_philippot",
+        "date": "2026-03-28",
+        "outletId": "lci",
+        "title": "Entretien en direct de la manifestation pour le Frexit",
+        "sourceUrl": "https://x.com/f_philippot/status/2038264953002397934",
+        "sourceType": "self-report",
+        "dateEvidence": "L’annonce archivée du 28 mars prévoit un direct à 15h depuis la manifestation. Le 29 mars, une publication après l’événement renvoie à la vidéo de cette interview. Le 29 est la date de publication de l’extrait, pas un deuxième passage.",
+        "evidence": "La publication après le passage et son lien vidéo confirment la réalisation de l’entretien annoncé la veille. Le replay du diffuseur n’a pas été retrouvé.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2037882105280057752",
+          "https://www.youtube.com/watch?v=bvP7gXEtS9A"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-06-06-lci",
+      "action": "replace-source-and-confirm",
+      "reason": "Une publication après le passage renvoyant à la vidéo confirme sa réalisation.",
+      "replacement": {
+        "id": "f-philippot-2026-06-06-lci",
+        "handle": "f_philippot",
+        "date": "2026-06-06",
+        "outletId": "lci",
+        "title": "Entretien d’actualité en direct sur LCI",
+        "sourceUrl": "https://x.com/f_philippot/status/2063267216259272756",
+        "sourceType": "self-report",
+        "dateEvidence": "L’annonce du 6 juin prévoit un direct à 15h30. La publication du même jour à 14h30 UTC, soit 16h30 à Paris, déclare que l’entretien vient d’être effectué et renvoie à la vidéo.",
+        "evidence": "La déclaration après le passage confirme la participation réalisée à LCI. Le replay du diffuseur n’a pas été retrouvé.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2063241079210553452",
+          "https://x.com/f_philippot/status/2063318308317765860",
+          "https://www.youtube.com/watch?v=kWjQQ8DRGVQ"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-05-09-france2",
+      "action": "replace-source-and-confirm",
+      "reason": "Publication après émission et compte rendu contemporain retrouvés. L’ancien texte disait à tort aucune confirmation retrouvée.",
+      "replacement": {
+        "id": "f-philippot-2026-05-09-france2",
+        "handle": "f_philippot",
+        "date": "2026-05-09",
+        "outletId": "france2",
+        "title": "Les 4 Vérités : déclaration de candidature à la présidentielle",
+        "sourceUrl": "https://x.com/f_philippot/status/2053156569752170997",
+        "sourceType": "self-report",
+        "dateEvidence": "L’annonce du 8 mai situe l’entretien au samedi 9 mai à 8h10. Le 9 mai, la publication du participant renvoie à la vidéo de sa candidature sur France 2. Le Parisien, publié le même jour à 13h05, décrit ce passage comme effectué ce samedi matin.",
+        "evidence": "La vidéo signalée après l’émission et les comptes rendus contemporains confirment la réalisation de l’entretien, au-delà de l’annonce antérieure.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2052826054880833970",
+          "https://www.youtube.com/watch?v=RCDAynjEWM4",
+          "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-florian-philippot-declare-sa-candidature-mais-se-dit-deja-pret-a-se-retirer-09-05-2026-ABUDCTJBNZCR7DVIYOHXLHZHSA.php"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-06-11-franceinfo",
+      "action": "clarify-time-and-sources",
+      "reason": "Liste officielle des invités situe le 11/06 sous 7h55 ; ne pas certifier 7h40, simple horaire annoncé.",
+      "replacement": {
+        "id": "f-philippot-2026-06-11-franceinfo",
+        "handle": "f_philippot",
+        "date": "2026-06-11",
+        "outletId": "franceinfo",
+        "title": "L’invité politique de la matinale de franceinfo TV",
+        "sourceUrl": "https://x.com/f_philippot/status/2065064143648903493",
+        "sourceType": "self-report",
+        "dateEvidence": "L’annonce du 10 juin prévoit le jeudi matin ; le 11 juin, le participant confirme avoir été reçu ce matin-là. La liste officielle franceinfo des invités de juin situe Florian Philippot le 11/06 sous la rubrique 7h55. L’horaire annoncé 7h40 n’est donc pas conservé comme heure certifiée.",
+        "evidence": "La publication après le passage confirme sa réalisation. La liste officielle franceinfo a été retrouvée dans l’index de recherche et sa copie consultable, l’URL canonique restant inaccessible à l’outil.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2064759853482938817",
+          "https://www.youtube.com/watch?v=VTpt_jpWFgk",
+          "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-retrouvez-la-liste-des-invites-de-la-chaine-info-canal-16-en-juin-2026_8077622.html"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-09-17-lci",
+      "action": "mark-announced",
+      "reason": "Annonce antérieure uniquement. Aucun replay ou compte rendu après le passage retrouvé : retirer des repères confirmés et conserver dans les annonces."
+    },
+    {
+      "id": "f-philippot-2026-02-25-bfmtv",
+      "action": "add-confirmed",
+      "reason": "Nouveau replay officiel BFM et publication archivée du lendemain.",
+      "replacement": {
+        "id": "f-philippot-2026-02-25-bfmtv",
+        "handle": "f_philippot",
+        "date": "2026-02-25",
+        "outletId": "bfmtv",
+        "title": "Débat avec Charles Consigny sur les médias et les politiques",
+        "sourceUrl": "https://www.dailymotion.com/video/xa0q7ye",
+        "sourceType": "official-replay",
+        "dateEvidence": "La description officielle BFMTV situe le face-à-face « ce mercredi 25 février ». created_time et taken_time sont au 25 février 2026. L’annonce et la publication archivée du lendemain citant « sur BFMTV ce 25/02 » concordent.",
+        "evidence": "Un extrait du compte officiel BFM documente la participation directe de Florian Philippot au débat avec Charles Consigny.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2026682978718318777",
+          "https://x.com/f_philippot/status/2027095460721164570"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-03-27-cnews",
+      "action": "add-confirmed",
+      "reason": "Nouveau replay officiel CNEWS.",
+      "replacement": {
+        "id": "f-philippot-2026-03-27-cnews",
+        "handle": "f_philippot",
+        "date": "2026-03-27",
+        "outletId": "cnews",
+        "title": "L’Heure des Pros : nucléaire, prix de l’énergie et Union européenne",
+        "sourceUrl": "https://www.dailymotion.com/video/xa3fgqy",
+        "sourceType": "official-replay",
+        "dateEvidence": "La description CNEWS situe l’entretien « ce vendredi 27 mars ». created_time et taken_time sont au 27 mars 2026, comme l’annonce archivée publiée ce matin-là.",
+        "evidence": "L’extrait officiel contient une intervention directe au sujet de l’enquête européenne sur les nouveaux réacteurs nucléaires.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2037412149773979922"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2026-09-04-bfmtv",
+      "action": "add-confirmed",
+      "reason": "Replay officiel BFM résout l’ancienne divergence de dates ; date du 4 septembre confirmée.",
+      "replacement": {
+        "id": "f-philippot-2026-09-04-bfmtv",
+        "handle": "f_philippot",
+        "date": "2026-09-04",
+        "outletId": "bfmtv",
+        "title": "Débat BFMTV : Frexit et rapprochement Bardella-Farage",
+        "sourceUrl": "https://www.dailymotion.com/video/xb3ynly",
+        "sourceType": "official-replay",
+        "dateEvidence": "L’extrait du compte officiel BFM est mis en ligne le 4 septembre 2026 à 15h52 UTC ; taken_time renvoie également au 4 septembre. L’annonce archivée du 4 septembre pour 17h35 et le compte rendu du participant Antoine Léaument daté du 4 septembre concordent. Le 5 septembre est une reprise du clip, pas une nouvelle diffusion démontrée.",
+        "evidence": "Le replay officiel BFM résout la divergence antérieure entre le 4 et le 5 septembre en faveur du 4 septembre.",
+        "verifiedAt": "2026-10-17",
+        "confirmationStatus": "confirmed",
+        "supportingUrls": [
+          "https://x.com/f_philippot/status/2095881569005175055",
+          "https://x.com/f_philippot/status/2096234753665974763",
+          "https://antoineleaument.fr/2026/09/04/bardella-et-farage-lalliance-des-voleurs/",
+          "https://www.bfmtv.com/politique/video-si-on-veut-reprendre-le-controle-de-notre-pays-il-faut-sortir-de-l-union-europeenne-estime-florian-philippot-president-du-parti-les-patriotes-et-candidat-a-l-election-presidentielle_VN-202609040727.html"
+        ]
+      }
+    },
+    {
+      "id": "f-philippot-2025-12-18-lci",
+      "action": "add-announced",
+      "reason": "Annonce retrouvée dans l’archive locale, sans preuve de réalisation."
+    }
+  ],
+  "limits": [
+    "Les clips d’une même émission sont dédupliqués par date et média.",
+    "La complétude d’une requête Dailymotion signifie seulement épuisement de ses résultats indexés, pas exhaustivité de l’antenne.",
+    "created_time est une mise en ligne et taken_time une métadonnée du média, recoupées avec descriptions explicites ou annonces/post-confirmations ; moderation.reviewedAt n’est jamais une date de diffusion.",
+    "L’archive locale des publications commence le 12 novembre 2025 pour Philippot, ce qui laisse une lacune avant cette date.",
+    "patriotes.tv inaccessible à l’outil ; site Les Patriotes consulté, sans index presse annuel exhaustif disponible.",
+    "YouTube a fréquemment refusé la lecture par throttling ; des liens signalés sont conservés sans prétendre avoir visionné toute la vidéo."
+  ]
+}

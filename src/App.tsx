@@ -7,7 +7,7 @@ import { compact, dateLabel, number, percent } from './domain/format';
 import MetricChart from './components/MetricChart';
 import MediaAppearances from './components/MediaAppearances';
 import AdvancedStatistics from './components/AdvancedStatistics';
-import { filterMediaEvents } from './domain/media';
+import { filterMediaAnnouncements, filterMediaEvents } from './domain/media';
 import { MEDIA_DATASET } from './data/media';
 
 function downloadCsv(posts: Post[]) {
@@ -52,6 +52,7 @@ export default function App() {
   const stale = data?.generatedAt ? Date.now() - Date.parse(data.generatedAt) > 48 * 3_600_000 : false;
   const firstObservation = data?.followers[0]?.observedAt;
   const mediaEvents = filterMediaEvents(mediaData?.events ?? [], selected, period === 'all' ? '2006-01-01' : new Date(since).toISOString().slice(0, 10), new Date().toISOString().slice(0, 10));
+  const mediaAnnouncements = filterMediaAnnouncements(mediaData.events, selected, period === 'all' ? '2006-01-01' : new Date(since).toISOString().slice(0, 10), new Date().toISOString().slice(0, 10));
   const chartEvents = showMedia ? mediaEvents : [];
   const incompleteCoverage = data?.coverage.filter(c => selected.includes(c.handle) && (c.error || c.invalid || !c.reachedCutoff)) ?? [];
   return <div className="app-shell">
@@ -95,7 +96,7 @@ export default function App() {
         <div className="two-charts"><MetricChart title="Vues par publication" description="Moyenne des compteurs cumulés, par date de publication" badge="VUES" data={publicationSeries(posts, granularity, 'averageViews')} selected={selected} events={chartEvents} /><MetricChart title="Évolution des abonnés" description="Dernier relevé observé chaque jour, sans historique estimé" badge="ABONNÉS" data={followerSeries(samples)} selected={selected} events={chartEvents} /></div>
         {firstObservation && <div className="observation-note"><Radio size={14} /><span>Le suivi des abonnés commence le {dateLabel(firstObservation, true)}. Une courbe se dessinera au fil des prochains relevés.</span></div>}
         <AdvancedStatistics posts={posts} allPosts={data?.posts ?? []} samples={(data?.followers ?? []).filter(s => selected.includes(s.handle))} since={since} selected={selected} granularity={granularity} events={mediaEvents} showMedia={showMedia} availableUntil={data?.generatedAt ?? new Date().toISOString()} />
-        <MediaAppearances dataset={mediaData} events={mediaEvents} selected={selected} />
+        <MediaAppearances dataset={mediaData} events={mediaEvents} announcements={mediaAnnouncements} selected={selected} />
         <section className="panel" id="publications"><div className="panel-heading table-heading"><div><div className="heading-with-count"><h2>Au plus près des publications</h2><span>{tablePosts.length}</span></div><p>Le détail derrière les courbes. Chaque tweet reste consultable.</p></div><div className="table-actions"><div className="search-box"><Search size={15} /><input aria-label="Rechercher une publication" placeholder="Rechercher un tweet…" value={query} onChange={e => setQuery(e.target.value)} /></div><Select size="small" value={sort} onChange={e => setSort(e.target.value)} inputProps={{ 'aria-label': 'Tri des publications' }}><MenuItem value="recent">Plus récents</MenuItem><MenuItem value="views">Plus de vues</MenuItem><MenuItem value="engagement">Plus d’engagement</MenuItem></Select></div></div>
           <div className="table-scroll"><table><thead><tr><th>PUBLICATION</th><th>DATE · UTC</th><th>VUES</th><th>ENGAGEMENT</th><th aria-label="Lien" /></tr></thead><tbody>{tablePosts.slice(page * 8, (page + 1) * 8).map(p => { const a = ACCOUNTS.find(a => a.handle === p.handle)!; return <tr key={p.id}><td><div className="tweet-cell"><span className="filter-avatar" style={{ color: a.color, background: `${a.color}12` }}>{a.initials}</span><div><strong>{a.name} <span>@{a.handle}</span></strong><p title={p.text}>{p.text}</p>{p.isQuote && <small>Publication avec citation</small>}</div></div></td><td>{dateLabel(p.publishedAt)}</td><td className="numeric">{number(p.metrics.views)}</td><td><span className="rate-pill">{percent(engagement(p.metrics))}</span></td><td><a className="tweet-link" href={p.url} target="_blank" rel="noreferrer" aria-label={`Ouvrir le tweet de ${a.short} du ${dateLabel(p.publishedAt)}`}><ArrowUpRight size={17} /></a></td></tr>; })}</tbody></table>{!tablePosts.length && <div className="table-empty">Aucune publication pour ces filtres.</div>}</div>
           <div className="table-footer"><span>{tablePosts.length ? `${page * 8 + 1}–${Math.min((page + 1) * 8, tablePosts.length)} sur ${number(tablePosts.length)} publications` : '0 publication'}</span><div><Button size="small" disabled={page === 0} onClick={() => setPage(p => p - 1)}>Précédent</Button><Button size="small" disabled={(page + 1) * 8 >= tablePosts.length} onClick={() => setPage(p => p + 1)}>Suivant <ChevronRight size={13} /></Button></div></div>

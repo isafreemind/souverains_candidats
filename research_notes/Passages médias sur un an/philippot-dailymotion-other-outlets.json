@@ -1,0 +1,72 @@
+﻿[
+    {
+        "ownerQuery":  "LCI",
+        "queryUrl":  "https://api.dailymotion.com/user/LCI/videos?search=Philippot\u0026created_after=1760659200\u0026limit=100\u0026sort=recent\u0026fields=id,title,description,created_time,taken_time,owner.screenname,url",
+        "response":  {
+                         "page":  1,
+                         "limit":  100,
+                         "explicit":  false,
+                         "total":  0,
+                         "has_more":  false,
+                         "list":  [
+
+                                  ]
+                     }
+    },
+    {
+        "ownerQuery":  "TF1",
+        "queryUrl":  "https://api.dailymotion.com/user/TF1/videos?search=Philippot\u0026created_after=1760659200\u0026limit=100\u0026sort=recent\u0026fields=id,title,description,created_time,taken_time,owner.screenname,url",
+        "response":  {
+                         "page":  1,
+                         "limit":  100,
+                         "explicit":  false,
+                         "total":  0,
+                         "has_more":  false,
+                         "list":  [
+
+                                  ]
+                     }
+    },
+    {
+        "ownerQuery":  "France2",
+        "queryUrl":  "https://api.dailymotion.com/user/France2/videos?search=Philippot\u0026created_after=1760659200\u0026limit=100\u0026sort=recent\u0026fields=id,title,description,created_time,taken_time,owner.screenname,url",
+        "response":  {
+                         "page":  1,
+                         "limit":  100,
+                         "explicit":  false,
+                         "total":  0,
+                         "has_more":  false,
+                         "list":  [
+
+                                  ]
+                     }
+    },
+    {
+        "ownerQuery":  "France3",
+        "queryUrl":  "https://api.dailymotion.com/user/France3/videos?search=Philippot\u0026created_after=1760659200\u0026limit=100\u0026sort=recent\u0026fields=id,title,description,created_time,taken_time,owner.screenname,url",
+        "response":  {
+                         "page":  1,
+                         "limit":  100,
+                         "explicit":  false,
+                         "total":  0,
+                         "has_more":  false,
+                         "list":  [
+
+                                  ]
+                     }
+    },
+    {
+        "ownerQuery":  "M6",
+        "queryUrl":  "https://api.dailymotion.com/user/M6/videos?search=Philippot\u0026created_after=1760659200\u0026limit=100\u0026sort=recent\u0026fields=id,title,description,created_time,taken_time,owner.screenname,url",
+        "response":  {
+                         "page":  1,
+                         "limit":  100,
+                         "explicit":  false,
+                         "total":  0,
+                         "has_more":  false,
+                         "list":  [
+
+                                  ]
+                     }
+    }
+]

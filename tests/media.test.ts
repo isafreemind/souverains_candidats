@@ -1,8 +1,17 @@
 import { describe, expect, it } from 'vitest';
-import { filterMediaEvents, groupMediaMarkers, mediaDatasetSchema, mediaEventSchema, type MediaEvent } from '../src/domain/media';
+import { filterMediaAnnouncements, filterMediaEvents, groupMediaMarkers, mediaDatasetSchema, mediaEventSchema, type MediaEvent } from '../src/domain/media';
 
 const event: MediaEvent = { id: 'test-event', handle: 'dupontaignan', date: '2026-10-15', outletId: 'bfmtv', title: 'Entretien', sourceUrl: 'https://www.bfmtv.com/test', sourceType: 'official-replay', dateEvidence: 'Date indiquée par le média.', evidence: 'Participation à un entretien.', verifiedAt: '2026-10-17' };
 describe('Repères des passages médias', () => {
+  it('conserve les annonces séparément, sans les compter dans les repères confirmés', () => {
+    const announced: MediaEvent = { ...event, id: 'announced-event', confirmationStatus: 'announced' };
+    const confirmed: MediaEvent = { ...event, confirmationStatus: 'confirmed' };
+    expect(filterMediaEvents([announced, confirmed], ['dupontaignan'], '2026-10-01', '2026-10-17').map(e => [e.id, e.number])).toEqual([['test-event', 1]]);
+    expect(filterMediaAnnouncements([announced, confirmed], ['dupontaignan'], '2026-10-01', '2026-10-17')).toEqual([announced]);
+    expect(filterMediaAnnouncements([announced], ['f_philippot'], '2026-10-01', '2026-10-17')).toEqual([]);
+    expect(filterMediaAnnouncements([announced], ['dupontaignan'], '2026-10-16', '2026-10-17')).toEqual([]);
+    expect(mediaEventSchema.safeParse({ ...event, supportingUrls: ['http://example.com'] }).success).toBe(false);
+  });
   it('respecte les comptes, les bornes inclusives et la numérotation chronologique', () => {
     const result = filterMediaEvents([
       event,

@@ -1,0 +1,109 @@
+﻿[
+    {
+        "sourceUrl":  "https://api.dailymotion.com/user/CNEWS/videos?search=Philippot\u0026created_after=1760659200\u0026limit=100\u0026sort=recent\u0026fields=id,title,description,created_time,taken_time,owner.screenname,url",
+        "retrievedAt":  "2026-10-17T10:53:43.5819450Z",
+        "response":  {
+                         "page":  1,
+                         "limit":  100,
+                         "explicit":  false,
+                         "total":  6,
+                         "has_more":  false,
+                         "list":  [
+                                      {
+                                          "id":  "xaotsai",
+                                          "title":  "Florian Philippot : «Les gens en ont ras-le-bol de voir ce laxisme épouvantable»",
+                                          "description":  "Après le viol d\u0027une jeune femme par un récidiviste tout juste sorti de prison, Florian Philippot, président du parti Les patriotes, a réagi : «Les gens en ont ras-le-bol de voir ce laxisme épouvantable».\u003cbr /\u003e",
+                                          "created_time":  1783934477,
+                                          "taken_time":  1783900800,
+                                          "owner.screenname":  "CNEWS",
+                                          "url":  "https://www.dailymotion.com/video/xaotsai"
+                                      },
+                                      {
+                                          "id":  "xaothka",
+                                          "title":  "Florian Philippot : «La seule solution est de sortir de l\u0027Union européenne»",
+                                          "description":  "«La seule solution est de sortir de l\u0027Union européenne et de reconstruire des frontières», a affirmé Florian Philippot, président du parti Les Patriotes, interrogé sur sa vision de la souveraineté nationale.",
+                                          "created_time":  1783932040,
+                                          "taken_time":  1783900800,
+                                          "owner.screenname":  "CNEWS",
+                                          "url":  "https://www.dailymotion.com/video/xaothka"
+                                      },
+                                      {
+                                          "id":  "xa8buca",
+                                          "title":  "Florian Philippot : «Je demande aux maires de désobéir»",
+                                          "description":  "Le président Les Patriotes, Florian Philippot, parle de la journée de l’Europe : «Je demande aux maires de désobéir et de ne pas mettre les drapeaux européens sur les mairies».",
+                                          "created_time":  1778093276,
+                                          "taken_time":  1778025600,
+                                          "owner.screenname":  "CNEWS",
+                                          "url":  "https://www.dailymotion.com/video/xa8buca"
+                                      },
+                                      {
+                                          "id":  "xa3fgqy",
+                                          "title":  "Florian Philippot : «Ils font tout pour nous mettre des bâtons dans les roues»",
+                                          "description":  "Le président du parti Les Patriotes, Florian Philippot, était l\u0027invité de l\u0027Heure des Pros, sur CNEWS, ce vendredi 27 mars. Il est revenu sur l’enquête lancée par la Commission européenne sur le financement public du projet de nouveaux réacteurs nucléaires EPR en France. «Ils font tout pour nous mettre des bâtons dans les roues», a-t-il fustigé.  ",
+                                          "created_time":  1774601784,
+                                          "taken_time":  1774569600,
+                                          "owner.screenname":  "CNEWS",
+                                          "url":  "https://www.dailymotion.com/video/xa3fgqy"
+                                      },
+                                      {
+                                          "id":  "x9ylghy",
+                                          "title":  "Florian Philippot : «Par principe je n’accepte pas qu’il y ait une autorité supranationale»",
+                                          "description":  "Florian Philippot était l’invité de L’Heure des Pros sur CNews, ce mardi 27 janvier. «Par principe je n’accepte pas qu’il y ait une autorité supranationale», a lancé le président des Patriotes. Il appelle à sortir de l’Union européenne.",
+                                          "created_time":  1769503812,
+                                          "taken_time":  1769472000,
+                                          "owner.screenname":  "CNEWS",
+                                          "url":  "https://www.dailymotion.com/video/x9ylghy"
+                                      },
+                                      {
+                                          "id":  "x9u1vq0",
+                                          "title":  "Florian Philippot : «L\u0027Arcom va désigner ses \"signaleurs de confiance\" comme SOS Racisme»",
+                                          "description":  "Interrogé sur le thème des réseaux sociaux, Florian Philippot, président des Patriotes, révèle : «L\u0027Arcom va désigner ses \"signaleurs de confiance\" comme SOS Racisme», dans #HDPros",
+                                          "created_time":  1763541784,
+                                          "taken_time":  1763510400,
+                                          "owner.screenname":  "CNEWS",
+                                          "url":  "https://www.dailymotion.com/video/x9u1vq0"
+                                      }
+                                  ]
+                     }
+    },
+    {
+        "sourceUrl":  "https://api.dailymotion.com/user/BFMTV/videos?search=Philippot\u0026created_after=1760659200\u0026limit=100\u0026sort=recent\u0026fields=id,title,description,created_time,taken_time,owner.screenname,url",
+        "retrievedAt":  "2026-10-17T10:53:44.0473168Z",
+        "response":  {
+                         "page":  1,
+                         "limit":  100,
+                         "explicit":  false,
+                         "total":  3,
+                         "has_more":  false,
+                         "list":  [
+                                      {
+                                          "id":  "xbki5yy",
+                                          "title":  "Nouvelles révélations de Mediapart sur Jordan Bardella: \"Aujourd\u0027hui le RN ment aux Français, il y a d\u0027autres mensonges qui sont bien plus graves\", déclare Florian Philippot, président des (Patriotes) et candidat à l\u0027élection présidentielle",
+                                          "description":  "Les blocages de lycées se poursuivent ce vendredi alors que l\u0027intersyndicale a appelé à une nouvelle journée de mobilisation le 13 octobre prochain. Le ministre de l\u0027Éducation a annoncé l\u0027arrivée de 3.000 professeurs remplaçants dans les établissements les plus en difficulté.",
+                                          "created_time":  1791582692,
+                                          "taken_time":  1791504000,
+                                          "owner.screenname":  "BFM",
+                                          "url":  "https://www.dailymotion.com/video/xbki5yy"
+                                      },
+                                      {
+                                          "id":  "xb3ynly",
+                                          "title":  "\"Si on veut reprendre le contrôle de notre pays, il faut sortir de l\u0027Union européenne\", estime Florian Philippot, président du parti Les Patriotes et candidat à l\u0027élection présidentielle",
+                                          "description":  "Jordan Bardella a pris la parole ce vendredi 4 septembre lors du congrès de Reform-UK, dirigé par Nigel Farage, avant de participer à une conférence de presse commune avec le leader de l\u0027extrême droite britannique. ",
+                                          "created_time":  1788537155,
+                                          "taken_time":  1788480000,
+                                          "owner.screenname":  "BFM",
+                                          "url":  "https://www.dailymotion.com/video/xb3ynly"
+                                      },
+                                      {
+                                          "id":  "xa0q7ye",
+                                          "title":  "SIGNÉ CONSIGNY - Les médias, cibles trop faciles des politiques? \"C\u0027est de la politique, c\u0027est complètement excessif\", estime Charles Consigny",
+                                          "description":  "Charles Consigny, avocat et essayiste, fait face à Florian Philippot ce mercredi 25 février. Ils ont débattu sur la question des médias devenus une cible trop faciles des politiques.",
+                                          "created_time":  1772043005,
+                                          "taken_time":  1771977600,
+                                          "owner.screenname":  "BFM",
+                                          "url":  "https://www.dailymotion.com/video/xa0q7ye"
+                                      }
+                                  ]
+                     }
+    }
+]

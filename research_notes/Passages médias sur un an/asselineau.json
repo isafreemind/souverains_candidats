@@ -1,0 +1,419 @@
+{
+  "researchedAt": "2026-10-17",
+  "period": {
+    "start": "2025-10-17",
+    "end": "2026-10-17"
+  },
+  "handle": "f_asselineau",
+  "result": "searched-no-verified-events",
+  "events": [],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "outletId": "tf1",
+      "status": "limited",
+      "notes": "TF1+ / TF1 Info et requêtes nominales sur 2025 et 2026. La fiche TF1 Info est indexée mais son ouverture renvoie 403 ; les archives trouvées ne datent pas un entretien dans la période."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "france2",
+      "status": "limited",
+      "notes": "France.tv / FranceTVPro, requêtes nominales 2025 et 2026 et contrôle des publications archivées. Les résultats renvoient aux scrutins antérieurs ou aux passages d’autres invités ; aucun passage admissible daté retrouvé."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "france3",
+      "status": "limited",
+      "notes": "FranceTVPro, France.tv et requêtes nominales 2025 et 2026. Un replay Asselineau est daté du 12 mai 2024, un signalement régional du 27 septembre 2025 est antérieur à la période. Aucun passage de la période confirmé."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "m6",
+      "status": "limited",
+      "notes": "Requêtes nominales et site:m6.fr, 2025 et 2026. Aucun entretien daté et attribuable au candidat retrouvé ; couverture limitée par l’indexation et la durée de disponibilité des replays."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "bfmtv",
+      "status": "limited",
+      "notes": "Requêtes sur les archives BFM, nominales 2025 et 2026, index UPR et publications archivées. L’accès direct est limité par robots.txt. Une question sur une invitation au débat du 10 juin 2026 ne démontre aucune participation."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "cnews",
+      "status": "limited",
+      "notes": "Site CNEWS, Dailymotion officiel, requêtes nominales 2025 et 2026 et publications archivées. Le replay retrouvé concerne le 10 avril 2024 ; les autres mentions concernent des tiers ou des déclarations de non-invitation."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "lci",
+      "status": "limited",
+      "notes": "TF1 Info, nominales 2025 et 2026, publications archivées et UPR. L’accès direct TF1 Info est limité (403). Un lien Asselineau/Quatremer repris en décembre 2025 ne fournit aucune date de diffusion nouvelle ; aucun passage de la période vérifié."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "franceinfo",
+      "status": "limited",
+      "notes": "Franceinfo, Radio France et requêtes nominales 2025 et 2026, publications archivées. Les résultats récents parlent du candidat ou d’autres invités ; aucun entretien de la période confirmé. Accès à certaines archives limité."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "franceinter",
+      "status": "limited",
+      "notes": "Radio France, requêtes nominales 2025 et 2026 et publications archivées. Les entretiens retrouvés sont anciens ; aucune date de passage de la période vérifiée. Accès direct limité par robots.txt."
+    },
+    {
+      "handle": "f_asselineau",
+      "outletId": "rtl",
+      "status": "limited",
+      "notes": "Page thématique RTL ouverte et requêtes nominales 2025 et 2026. La page affiche des archives jusqu’à 2022 ; aucun entretien de la période identifié. L’absence de résultat ne prouve pas une absence de passage."
+    }
+  ],
+  "candidates": [
+    {
+      "title": "François Asselineau face à Jean Quatremer (LCI)",
+      "date": null,
+      "sourceUrl": "https://upr.fr/actualites/direct-n91-francois-asselineau-repond-a-vos-questions",
+      "supportingUrls": [
+        "https://www.youtube.com/watch?v=pynlsYIr7X4"
+      ],
+      "reason": "Liste de références anciennes republiée le 18 décembre 2025 ; la vidéo ciblée est indisponible à l’outil (throttled). Le 18 décembre est la date de l’article contenant le lien, pas une date de diffusion démontrée."
+    },
+    {
+      "title": "Publication Telegram/Telemetr reprenant une interview de Laurence Ferrari",
+      "date": null,
+      "sourceUrl": "https://telemetr.io/ar/channels/3759694485-francoisasselineaus/posts?cursor=IBQ%3D",
+      "supportingUrls": [
+        "https://youtu.be/kyPiiNRzd90"
+      ],
+      "reason": "Le canal porte le nom d’Asselineau mais juxtapose des publications de Dupont-Aignan sur Yerres et son livre, ainsi que des offres d’investissement. Attribution non fiable ; aucune preuve de passage d’Asselineau."
+    }
+  ],
+  "exclusions": [
+    {
+      "title": "L’Heure des Pros, CNEWS",
+      "date": "2024-04-10",
+      "sourceUrl": "https://www.dailymotion.com/video/x8wlf9e",
+      "reason": "Replay du compte officiel CNEWS : candidature aux européennes, mercredi 10 avril ; antérieur à la période annuelle.",
+      "verification": "official-replay"
+    },
+    {
+      "title": "Dimanche en politique, France 3",
+      "date": "2024-05-12",
+      "sourceUrl": "https://www.francetvpro.fr/contenu-de-presse/66702269",
+      "supportingUrls": [
+        "https://www.telereplay.fr/emission/611592/Dimanche_En_Politique.html"
+      ],
+      "reason": "Communiqué sur les européennes 2024 et replay explicitement daté du 12 mai 2024. Ne pas utiliser les dates des autres replays listés sur la même page."
+    },
+    {
+      "title": "Morning Glory : Assélineau superstar, TMC",
+      "date": "2017-04-11",
+      "sourceUrl": "https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/morning-glory-president.html",
+      "reason": "Publication officielle datée 11 avril 2017. TMC n’est de plus pas TF1, même si hébergé sur TF1+."
+    },
+    {
+      "title": "François Asselineau face à Jean Quatremer (LCI)",
+      "date": null,
+      "sourceUrl": "https://upr.fr/actualites/direct-n91-francois-asselineau-repond-a-vos-questions",
+      "supportingUrls": [
+        "https://www.youtube.com/watch?v=pynlsYIr7X4"
+      ],
+      "reason": "Liste de références anciennes republiée le 18 décembre 2025 ; la vidéo ciblée est indisponible à l’outil (throttled). Le 18 décembre est la date de l’article contenant le lien, pas une date de diffusion démontrée."
+    },
+    {
+      "title": "Débat BFM du 10 juin 2026 : question sur une prétendue invitation refusée",
+      "date": "2026-06-10",
+      "sourceUrl": "https://upr.fr/actualites/direct-n116-francois-asselineau-repond-a-vos-questions",
+      "reason": "Question d’un internaute publiée le 18 juin, pas une preuve d’invitation ni de présence. Ne pas la transformer en passage."
+    },
+    {
+      "title": "Publication Telegram/Telemetr reprenant une interview de Laurence Ferrari",
+      "date": null,
+      "sourceUrl": "https://telemetr.io/ar/channels/3759694485-francoisasselineaus/posts?cursor=IBQ%3D",
+      "supportingUrls": [
+        "https://youtu.be/kyPiiNRzd90"
+      ],
+      "reason": "Le canal porte le nom d’Asselineau mais juxtapose des publications de Dupont-Aignan sur Yerres et son livre, ainsi que des offres d’investissement. Attribution non fiable ; aucune preuve de passage d’Asselineau."
+    },
+    {
+      "title": "Déclaration d’absence de BFMTV",
+      "date": "2026-09-10",
+      "sourceUrl": "https://x.com/f_asselineau/status/2097997159597547943",
+      "reason": "Auto-déclaration de non-visibilité depuis deux ans et demi. Contexte utile, pas un événement média ni un audit indépendant."
+    },
+    {
+      "title": "Déclaration d’absence de LCI",
+      "date": "2026-06-14",
+      "sourceUrl": "https://x.com/f_asselineau/status/2066200856442130469",
+      "reason": "Le candidat affirme ne pas être invité depuis neuf ans. Contexte utile, pas une preuve exhaustive ni un passage."
+    },
+    {
+      "title": "JT France 3 Centre-Val de Loire, signalement de septembre 2025",
+      "date": "2025-09-27",
+      "sourceUrl": "https://jilbab.twstalker.com/UPR_Manche",
+      "reason": "Signalement tiers d’un entretien de 12/13 le 27 septembre 2025, avant le 17 octobre 2025. Aucun repère ajouté ; replay primaire non retrouvé dans cette passe."
+    },
+    {
+      "title": "Rétro 2025, Sud Radio",
+      "date": "2025-12-30",
+      "originalDate": "2025-09",
+      "sourceUrl": "https://www.sudradio.fr/sud-radio/retro-2025-asselineau-ce-nest-pas-lalliance-des-souverainistes-cest-celle-de-la-droite-identitaire",
+      "reason": "La page explique qu’il s’agit d’un retour sur un entretien de septembre 2025. Sud Radio hors des dix médias ; date de republication distincte de la date du passage."
+    }
+  ],
+  "searches": [
+    {
+      "date": "2026-10-17",
+      "query": "François Asselineau interview 2025 2026 BFMTV CNEWS LCI"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "François Asselineau TF1 France 2 France 3 2025 2026"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "François Asselineau franceinfo France Inter RTL M6 2025 2026"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site.upr.fr Asselineau médias 2026 2025"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:upr.fr/medias/ Asselineau 2026"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:upr.fr/medias/ Asselineau 2025 octobre novembre décembre"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:cnews.fr Asselineau after:2025-10-16 before:2026-10-18"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:bfmtv.com Asselineau interview after:2025-10-16 before:2026-10-18"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"CNEWS\" \"2026\" interview -site:upr.fr -site:linkedin.com"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"TF1\" \"2026\" interview"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"France 2\" \"2026\" invité"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"France 3\" \"2026\" interview"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"LCI\" \"2026\" interview"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"RTL\" \"2026\" invité"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"France Inter\" \"2026\" invité"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"franceinfo\" \"2026\" interview"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"M6\" \"2026\""
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"CNEWS\" \"2025\" novembre décembre"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"BFMTV\" \"2025\" novembre décembre"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"interview\" \"2026\" \"LCI\" -site:upr.fr -site:linkedin.com"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:rtl.fr Asselineau 2026 interview"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:radiofrance.fr Asselineau 2026 invité"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:france.tv Asselineau 2026"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:m6.fr Asselineau 2026"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"TF1\" \"2025\" \"novembre\""
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"France 2\" \"2025\" interview octobre novembre décembre"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"France 3\" \"2025\" interview octobre novembre décembre"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "Asselineau \"RTL\" \"France Inter\" \"2025\" interview"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"octobre 2025\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"novembre 2025\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"décembre 2025\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"janvier 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"février 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"mars 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"avril 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"mai 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"juin 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"juillet 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"août 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"septembre 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:radiofrance.fr \"Asselineau\" after:2025-10-16 before:2026-10-18"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:francetvpro.fr \"Asselineau\" after:2025-10-16 before:2026-10-18"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:tf1.fr \"Asselineau\" after:2025-10-16 before:2026-10-18"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" interview \"octobre 2026\" télévision"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" \"franceinfo\" \"2025\" invité interview"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" \"M6\" \"2025\" interview"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" \"LCI\" \"2025\" interview Quatremer"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" \"France 3\" \"septembre 2026\""
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"pynlsYIr7X4\""
+    },
+    {
+      "date": "2026-10-17",
+      "query": "\"Asselineau\" \"CNEWS\" \"2026\" \"interview\" janvier février mars avril mai juin juillet août septembre octobre"
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:upr.fr/medias \"Asselineau\" \"BFM\" \"2026\""
+    },
+    {
+      "date": "2026-10-17",
+      "query": "site:upr.fr/medias \"Asselineau\" \"TF1\" \"LCI\" \"2026\""
+    }
+  ],
+  "leadsOutsideScope": [
+    {
+      "outlet": "TV Finance",
+      "date": "2026-07-07",
+      "sourceUrl": "https://www.tvfmedia.fr/je-suis-le-seul-candidat-a-lelection-presidentielle-en-france-itw-politique/",
+      "reason": "Entretien identifié sur la page de diffusion. Hors liste validée ; disponible pour un élargissement du périmètre."
+    },
+    {
+      "outlet": "Anadolu",
+      "date": "2026-06-09",
+      "sourceUrl": "https://upr.fr/medias/francois-asselineau-interroge-par-lagence-anadolu-09-06-2026",
+      "supportingUrls": [
+        "https://www.aa.com.tr/fr/monde/francois-asselineau-accuse-emmanuel-macron-d-accompagner-le-déclassement-de-la-france/3964864"
+      ],
+      "reason": "Agence turque ; hors liste des dix médias français. Compte rendu UPR retrouvé, date de dépêche à vérifier séparément."
+    },
+    {
+      "outlet": "Sud Radio",
+      "date": null,
+      "sourceUrl": "https://www.sudradio.fr/sud-radio/retro-2025-asselineau-ce-nest-pas-lalliance-des-souverainistes-cest-celle-de-la-droite-identitaire",
+      "reason": "Une republication du 30 décembre 2025 renvoie à septembre 2025, hors période. Chercher les autres entretiens seulement si le périmètre est élargi."
+    },
+    {
+      "outlet": "Arcom (audit, pas passage)",
+      "date": null,
+      "sourceUrl": "https://2027etmoi.fr/candidats/bertrand.html",
+      "reason": "Source secondaire signalant Asselineau absent des fichiers mensuels janvier-juin 2026 qu’elle a dépouillés. Vérifier les fichiers Arcom primaires avant toute conclusion ; agrégats mensuels insuffisants pour dater des passages."
+    }
+  ],
+  "localArchiveAudit": {
+    "posts": 1542,
+    "mediaMatches": 95,
+    "normalization": "NFKC",
+    "path": "data/tweets/f_asselineau",
+    "results": "Aucune auto-déclaration d’un passage accompli ou annoncé dans les dix médias sélectionnés n’a été trouvée dans les correspondances contrôlées.",
+    "limits": "L’archive ne garantit pas l’exhaustivité des publications ; certains textes longs sont tronqués et les réponses/reposts sont exclus."
+  },
+  "limitations": [
+    "Aucun dépouillement intégral de chaque émission des dix médias sur 365 jours.",
+    "Le moteur peut ignorer les filtres after/before ; dates contrôlées individuellement sur les candidats retenus.",
+    "BFMTV et Radio France soumis à restrictions robots, TF1 Info 403 ; certains replays YouTube throttled.",
+    "L’index UPR /thematique?category=medias affiche zéro article malgré des articles individuels consultables ; il ne peut servir de registre exhaustif.",
+    "Un zéro signifie aucun passage vérifié retrouvé, pas absence démontrée de toute apparition."
+  ]
+}

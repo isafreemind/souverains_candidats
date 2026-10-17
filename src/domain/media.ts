@@ -14,6 +14,8 @@ export const mediaEventSchema = z.object({
   outletId: outletIdSchema, title: z.string().min(1),
   sourceUrl: z.url().refine(url => new URL(url).protocol === 'https:', 'Une source HTTPS est requise.'),
   sourceType: z.enum(['official-replay', 'self-report']),
+  confirmationStatus: z.enum(['confirmed', 'announced']).optional(),
+  supportingUrls: z.array(z.url().refine(url => new URL(url).protocol === 'https:', 'Une source HTTPS est requise.')).optional(),
   dateEvidence: z.string().min(1), evidence: z.string().min(1), verifiedAt: z.iso.date(),
 });
 export type MediaEvent = z.infer<typeof mediaEventSchema>;
@@ -34,9 +36,13 @@ export const mediaDatasetSchema = z.object({
 export type MediaDataset = z.infer<typeof mediaDatasetSchema>;
 export type NumberedMediaEvent = MediaEvent & { number: number };
 export function filterMediaEvents(events: MediaEvent[], selected: Handle[], startDate: string, endDate: string): NumberedMediaEvent[] {
-  return events.filter(e => selected.includes(e.handle) && e.date >= startDate && e.date <= endDate)
+  return events.filter(e => e.confirmationStatus !== 'announced' && selected.includes(e.handle) && e.date >= startDate && e.date <= endDate)
     .sort((a, b) => a.date.localeCompare(b.date) || a.id.localeCompare(b.id))
     .map((event, index) => ({ ...event, number: index + 1 }));
+}
+export function filterMediaAnnouncements(events: MediaEvent[], selected: Handle[], startDate: string, endDate: string): MediaEvent[] {
+  return events.filter(e => e.confirmationStatus === 'announced' && selected.includes(e.handle) && e.date >= startDate && e.date <= endDate)
+    .sort((a, b) => a.date.localeCompare(b.date) || a.id.localeCompare(b.id));
 }
 export function groupMediaMarkers(events: NumberedMediaEvent[]) {
   const groups = new Map<string, NumberedMediaEvent[]>();

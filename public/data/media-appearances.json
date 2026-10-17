@@ -5,7 +5,7 @@
     "start": "2025-10-17",
     "end": "2026-10-17"
   },
-  "selectionBasis": "Dix grands médias audiovisuels français retenus : TF1, France 2, France 3, M6, BFMTV, CNEWS, LCI, franceinfo, France Inter et RTL. Cette sélection ne constitue pas un classement objectif des dix premiers médias tous supports confondus. Passages datés uniquement ; recherche non exhaustive. Les auto-annonces de participation en première personne (« en direct », « Retrouvez-moi ») sont retenues comme signalements du compte et distinguées des mentions par un tiers ; leur niveau de preuve est indiqué dans chaque note.",
+  "selectionBasis": "Dix médias audiovisuels français retenus avec l’utilisateur : TF1, France 2, France 3, M6, BFMTV, CNEWS, LCI, franceinfo, France Inter et RTL. Cette sélection ne constitue pas un classement objectif des dix premiers médias tous supports confondus. Les entretiens, débats et interventions directes datés sont recherchés sur toute la période. La réalisation est documentée par une source du diffuseur ou par un compte rendu après diffusion du participant, dont la provenance reste précisée. Les annonces non corroborées sont conservées séparément et exclues des repères et des analyses avant/après. Les extraits d’un même entretien sont regroupés. Recherche non exhaustive ; aucun passage retrouvé ne signifie pas absence démontrée de passage.",
   "events": [
     {
       "id": "dupontaignan-2025-10-19-lci",
@@ -13,11 +13,15 @@
       "date": "2025-10-19",
       "outletId": "lci",
       "title": "En Toute Franchise : matinale de LCI",
-      "sourceUrl": "https://x.com/dupontaignan/status/1979586600423034997",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/seul-un-nouveau-patriotisme-peut-sauver-la-france-%C2%B7-lci-19-10-25/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, dimanche 19 octobre à 10:00, dans En Toute Franchise sur LCI ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2025-10-19. La page est publiée le 2025-10-19 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1979586600423034997"
+      ]
     },
     {
       "id": "dupontaignan-2025-11-11-tf1",
@@ -25,23 +29,33 @@
       "date": "2025-11-11",
       "outletId": "tf1",
       "title": "En Toute Franchise : matinale de TF1",
-      "sourceUrl": "https://x.com/dupontaignan/status/1987973541669765576",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/la-france-est-abandonnee-par-ses-dirigeants-ne-nous-laissons-plus-faire-%C2%B7-tf1-11-11-25/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mardi 11 novembre à 07h35, dans En Toute Franchise sur TF1 ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2025-11-11. La page est publiée le 2025-11-11 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié. La fiche TF1 Info datée du 11 novembre à 7h38 indique son entretien avec Adrien Gindre.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1987973541669765576",
+        "https://www.tf1info.fr/politique/videos/video-en-toute-franchise-nicolas-dupont-aignan-61924-2405963.html"
+      ]
     },
     {
       "id": "f-philippot-2025-11-19-cnews",
       "handle": "f_philippot",
       "date": "2025-11-19",
       "outletId": "cnews",
-      "title": "Entretien en direct sur CNEWS et Europe 1",
-      "sourceUrl": "https://x.com/f_philippot/status/1990864855213932973",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte publiée : « Ce mercredi à 9h en direct sur CNews et E1 ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "title": "L’Heure des Pros : réseaux sociaux et liberté d’expression",
+      "sourceUrl": "https://www.dailymotion.com/video/x9u1vq0",
+      "sourceType": "official-replay",
+      "dateEvidence": "Extrait du compte officiel CNEWS mis en ligne le 19 novembre 2025 ; created_time et taken_time renvoient tous deux au 19 novembre. L’annonce archivée la veille situe le direct le mercredi 19 novembre, puis précise 9h25 le matin même.",
+      "evidence": "La vidéo officielle contient l’intervention de Florian Philippot dans L’Heure des Pros sur les signaleurs de confiance de l’Arcom.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/1990864855213932973",
+        "https://x.com/f_philippot/status/1991038252149608604"
+      ]
     },
     {
       "id": "dupontaignan-2025-11-24-bfmtv",
@@ -49,11 +63,17 @@
       "date": "2025-11-24",
       "outletId": "bfmtv",
       "title": "BFM Grand Soir : entretien avec Julie Hammett",
-      "sourceUrl": "https://x.com/dupontaignan/status/1995163995859484824",
-      "sourceType": "self-report",
-      "dateEvidence": "Annonce le 24 novembre 2025 à 19h00 UTC pour le soir même à 23h00 dans BFM Grand Soir. Le compte rendu de l’entretien et son replay sont publiés le 30 novembre. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le tweet du 30 novembre renvoie à l’entretien intégral avec Julie Hammett, dont la diffusion était annoncée pour le 24 novembre. Un écart de six jours avant la publication du replay ne démontre pas un second passage.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/x9ud2as",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2025-11-24 et une mise en ligne le 2025-11-24 22:43 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche. La description officielle nomme BFM Grand Soir et Julie Hammett : le programme est ainsi recoupé malgré un ancien intitulé différent dans l’agenda du parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1995163995859484824",
+        "https://www.debout-la-france.fr/actualite/ukraine-les-dirigeants-de-lue-sont-des-nains-de-jardin-%C2%B7-bfmtv-24-11-25/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2025-12-02-cnews",
@@ -61,11 +81,17 @@
       "date": "2025-12-02",
       "outletId": "cnews",
       "title": "La Grande Interview avec Sonia Mabrouk (CNEWS et Europe 1)",
-      "sourceUrl": "https://x.com/dupontaignan/status/1995583809333723245",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mardi 2 décembre à 08h10, dans La Grande Interview sur CNEWS et Europe 1 ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/x9uu9mc",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2025-12-02 et une mise en ligne le 2025-12-02 07:29 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1995583809333723245",
+        "https://www.debout-la-france.fr/actualite/lurgence-debrancher-macron-et-quitter-lunion-europeenne-%C2%B7-cnews-02-12-25/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2025-12-04-lci",
@@ -73,11 +99,15 @@
       "date": "2025-12-04",
       "outletId": "lci",
       "title": "22h Rochebin : entretien avec Darius Rochebin",
-      "sourceUrl": "https://x.com/dupontaignan/status/1996308457939522008",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/assez-de-propagande-faisons-la-paix-%C2%B7-lci-04-12-25/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, jeudi 4 décembre à 22h00, dans 22h Rochebin sur LCI ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2025-12-04. La page est publiée le 2025-12-10 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1996308457939522008"
+      ]
     },
     {
       "id": "dupontaignan-2025-12-12-bfmtv",
@@ -85,11 +115,16 @@
       "date": "2025-12-12",
       "outletId": "bfmtv",
       "title": "BFM Grand Soir : entretien avec Émilie Brouss",
-      "sourceUrl": "https://x.com/dupontaignan/status/1999569952693539126",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi à 22h45, dans BFM Grand Soir sur BFMTV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/x9vlx88",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2025-12-12 et une mise en ligne le 2025-12-12 22:10 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche. La transcription du replay contient une discussion directe sur les candidats à la présidentielle et le projet de sortie de l’Union européenne ; l’annonce archivée fixe le passage au 12 décembre, en concordance avec les métadonnées.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1999569952693539126",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2025-12-17-bfmtv",
@@ -97,11 +132,47 @@
       "date": "2025-12-17",
       "outletId": "bfmtv",
       "title": "Marschall Truchot : débat face à Charles Consigny",
-      "sourceUrl": "https://x.com/dupontaignan/status/2001019627682586783",
+      "sourceUrl": "https://www.dailymotion.com/video/x9vwmj6",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2025-12-17 et une mise en ligne le 2025-12-17 18:02 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2001019627682586783",
+        "https://www.debout-la-france.fr/actualite/il-faut-une-exception-agricole-francaise-pour-sauver-nos-eleveurs-%C2%B7-bfmtv-17-12-25/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "f-philippot-2025-12-18-lci",
+      "handle": "f_philippot",
+      "date": "2025-12-18",
+      "outletId": "lci",
+      "title": "Direct annoncé depuis la manifestation agricole à Bruxelles",
+      "sourceUrl": "https://x.com/f_philippot/status/2001641798255689964",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mercredi 17 décembre à 18h30, dans Marschall Truchot sur BFMTV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Publication du 18 décembre à 13h12 UTC annonçant un direct à 14h30 à Paris, soit environ 18 minutes plus tard.",
+      "evidence": "Annonce antérieure au passage ; aucun extrait ou compte rendu après l’événement retrouvé permettant de confirmer sa réalisation.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "announced",
+      "supportingUrls": []
+    },
+    {
+      "id": "dupontaignan-2026-01-08-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-01-08",
+      "outletId": "cnews",
+      "title": "Morandini Live : intervention en direct à la mobilisation agricole",
+      "sourceUrl": "https://www.dailymotion.com/video/x9xc4ra",
+      "sourceType": "official-replay",
+      "dateEvidence": "Le replay officiel CNEWS est intitulé Morandini Live (Émission du 08/01/2026). Son ouverture donne le jeudi 8 janvier 2026. Nicolas Dupont-Aignan est accueilli en direct vers 29 min 52 s, puis répond vers 31 min 25 s. Précision au jour.",
+      "evidence": "La fiche et la transcription officielle attestent un échange direct avec le candidat à la mobilisation agricole. Le parti propose aussi un entretien CNEWS daté 08/01/26, sans programme certifié ; il ne devient pas un second événement.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.debout-la-france.fr/actualite/nos-dirigeants-sont-en-train-de-suicider-leur-propre-pays-%C2%B7-cnews-08-01-26/"
+      ]
     },
     {
       "id": "dupontaignan-2026-01-15-cnews",
@@ -109,11 +180,16 @@
       "date": "2026-01-15",
       "outletId": "cnews",
       "title": "La Grande Interview avec Sonia Mabrouk (CNEWS et Europe 1)",
-      "sourceUrl": "https://x.com/dupontaignan/status/2011804267229610105",
-      "sourceType": "self-report",
-      "dateEvidence": "Annonce le 14 janvier pour le jeudi 15 janvier à 08h10 ; compte rendu de l’entretien publié le 15 janvier. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le tweet du 15 janvier renvoie à l’entretien intégral dans La Grande Interview (CNEWS et Europe 1), au micro de Sonia Mabrouk.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.europe1.fr/emissions/la-grande-interview-europe-1-cnews-de-sonia-mabrouk/la-grande-interview-de-sonia-mabrouk-avec-nicolas-dupont-aignan-879218",
+      "sourceType": "official-replay",
+      "dateEvidence": "Le diffuseur partenaire Europe 1 date la Grande interview avec Sonia Mabrouk du 15 janvier 2026. Le replay CNEWS sur Dailymotion confirme un échange direct. La page DLF donne 15/01/26 dans son index mais 15-01-25 dans son URL ; cette URL ambiguë est écartée comme preuve de date.",
+      "evidence": "La fiche du diffuseur identifie le candidat et son entretien. Métadonnées indexées consultées ; le contenu direct retourne 403. Les références complémentaires recoupent le passage.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2011804267229610105",
+        "https://www.dailymotion.com/video/x9xsy0s"
+      ]
     },
     {
       "id": "dupontaignan-2026-01-23-franceinfo",
@@ -121,23 +197,31 @@
       "date": "2026-01-23",
       "outletId": "franceinfo",
       "title": "Le Pour Et Le Contre (franceinfo TV)",
-      "sourceUrl": "https://x.com/dupontaignan/status/2014775142757363716",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/je-suis-en-candidat-en-2027-pour-defendre-la-sortie-de-lunion-europeenne-france-info-tv-23-01-26/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi à 22h20, dans Le Pour Et Le Contre sur franceinfo TV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-01-23. La page est publiée le 2026-01-25 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2014775142757363716"
+      ]
     },
     {
       "id": "f-philippot-2026-01-27-cnews",
       "handle": "f_philippot",
       "date": "2026-01-27",
       "outletId": "cnews",
-      "title": "Entretien en direct sur CNEWS",
-      "sourceUrl": "https://x.com/f_philippot/status/2015873346789949821",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte publiée : « Sur CNews en direct à 9h30 ce mardi ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "title": "L’Heure des Pros : Union européenne et souveraineté",
+      "sourceUrl": "https://www.dailymotion.com/video/x9ylghy",
+      "sourceType": "official-replay",
+      "dateEvidence": "La description officielle indique explicitement « ce mardi 27 janvier ». Les métadonnées created_time et taken_time sont au 27 janvier 2026, en accord avec l’annonce archivée du 26 janvier pour le lendemain.",
+      "evidence": "L’extrait publié par CNEWS montre l’entretien effectué, au-delà de sa seule annonce.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2015873346789949821"
+      ]
     },
     {
       "id": "dupontaignan-2026-02-04-franceinfo",
@@ -145,11 +229,32 @@
       "date": "2026-02-04",
       "outletId": "franceinfo",
       "title": "L'Invité Politique (franceinfo TV)",
-      "sourceUrl": "https://x.com/dupontaignan/status/2018776507347554350",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/et-si-on-traitait-enfin-des-problemes-des-francais-france-info-tv-04-02-26/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mercredi 4 février à 07h45, dans L'Invité Politique de franceinfo TV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-02-04. La page est publiée le 2026-02-04 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2018776507347554350"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-02-25-bfmtv",
+      "handle": "f_philippot",
+      "date": "2026-02-25",
+      "outletId": "bfmtv",
+      "title": "Débat avec Charles Consigny sur les médias et les politiques",
+      "sourceUrl": "https://www.dailymotion.com/video/xa0q7ye",
+      "sourceType": "official-replay",
+      "dateEvidence": "La description officielle BFMTV situe le face-à-face « ce mercredi 25 février ». created_time et taken_time sont au 25 février 2026. L’annonce et la publication archivée du lendemain citant « sur BFMTV ce 25/02 » concordent.",
+      "evidence": "Un extrait du compte officiel BFM documente la participation directe de Florian Philippot au débat avec Charles Consigny.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2026682978718318777",
+        "https://x.com/f_philippot/status/2027095460721164570"
+      ]
     },
     {
       "id": "dupontaignan-2026-02-26-bfmtv",
@@ -157,11 +262,15 @@
       "date": "2026-02-26",
       "outletId": "bfmtv",
       "title": "Le Forum BFMTV",
-      "sourceUrl": "https://x.com/dupontaignan/status/2027100568695562635",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/sortons-de-lue-pour-restaurer-notre-democratie-%C2%B7-bfmtv-26-02-2026/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi ce soir à 21h00, dans Le Forum BFMTV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-02-26. La page est publiée le 2026-02-27 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2027100568695562635"
+      ]
     },
     {
       "id": "dupontaignan-2026-03-25-cnews",
@@ -169,11 +278,18 @@
       "date": "2026-03-25",
       "outletId": "cnews",
       "title": "La Grande Interview avec Laurence Ferrari (CNEWS et Europe 1)",
-      "sourceUrl": "https://x.com/dupontaignan/status/2036533511767654401",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mercredi 25 mars à 08h10, dans La Grande Interview sur CNEWS et Europe 1 ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xa38qlq",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-03-25 et une mise en ligne le 2026-03-25 07:48 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2036533511767654401",
+        "https://www.debout-la-france.fr/actualite/assez-des-tambouilles-politiciennes-liberons-la-france-%C2%B7-cnews-25-03-26/",
+        "https://www.europe1.fr/emissions/la-grande-interview-europe-1-cnews-de-laurence-ferrari/la-grande-interview-de-laurence-ferrari-avec-nicolas-dupont-aignan-916936",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2026-03-26-bfmtv",
@@ -181,23 +297,50 @@
       "date": "2026-03-26",
       "outletId": "bfmtv",
       "title": "Marschall Truchot : débat face à Charles Consigny",
-      "sourceUrl": "https://x.com/dupontaignan/status/2037487677059088444",
-      "sourceType": "self-report",
-      "dateEvidence": "Annonce le 26 mars à 16h30 pour le soir même à 18h30 ; compte rendu du passage publié le 27 mars. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le tweet du 27 mars renvoie à l’intégralité du passage sur BFMTV face à Charles Consigny.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xa3dr6e",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-03-26 et une mise en ligne le 2026-03-26 17:51 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2037487677059088444",
+        "https://www.debout-la-france.fr/actualite/carburant-mettons-fin-au-racket-de-letat-%C2%B7-bfmtv-26-03-26/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "f-philippot-2026-03-27-cnews",
+      "handle": "f_philippot",
+      "date": "2026-03-27",
+      "outletId": "cnews",
+      "title": "L’Heure des Pros : nucléaire, prix de l’énergie et Union européenne",
+      "sourceUrl": "https://www.dailymotion.com/video/xa3fgqy",
+      "sourceType": "official-replay",
+      "dateEvidence": "La description CNEWS situe l’entretien « ce vendredi 27 mars ». created_time et taken_time sont au 27 mars 2026, comme l’annonce archivée publiée ce matin-là.",
+      "evidence": "L’extrait officiel contient une intervention directe au sujet de l’enquête européenne sur les nouveaux réacteurs nucléaires.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2037412149773979922"
+      ]
     },
     {
       "id": "f-philippot-2026-03-28-lci",
       "handle": "f_philippot",
       "date": "2026-03-28",
       "outletId": "lci",
-      "title": "Intervention en direct sur LCI (manifestation pour le Frexit)",
-      "sourceUrl": "https://x.com/f_philippot/status/2037882105280057752",
+      "title": "Entretien en direct de la manifestation pour le Frexit",
+      "sourceUrl": "https://x.com/f_philippot/status/2038264953002397934",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte publiée : « À 15h je serai sur LCI en direct de la manifestation nationale pour le Frexit ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "L’annonce archivée du 28 mars prévoit un direct à 15h depuis la manifestation. Le 29 mars, une publication après l’événement renvoie à la vidéo de cette interview. Le 29 est la date de publication de l’extrait, pas un deuxième passage.",
+      "evidence": "La publication après le passage et son lien vidéo confirment la réalisation de l’entretien annoncé la veille. Le replay du diffuseur n’a pas été retrouvé.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2037882105280057752",
+        "https://www.youtube.com/watch?v=bvP7gXEtS9A"
+      ]
     },
     {
       "id": "dupontaignan-2026-03-31-lci",
@@ -205,11 +348,15 @@
       "date": "2026-03-31",
       "outletId": "lci",
       "title": "Cartes sur table (LCI)",
-      "sourceUrl": "https://x.com/dupontaignan/status/2038692740423438341",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/je-suis-candidat-pour-defendre-la-sortie-de-lunion-europeenne-%C2%B7-lci-31-03-26/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mardi 31 mars à 10h00, dans Cartes sur table sur LCI ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-03-31. La page est publiée le 2026-04-03 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2038692740423438341"
+      ]
     },
     {
       "id": "dupontaignan-2026-04-14-bfmtv",
@@ -217,11 +364,17 @@
       "date": "2026-04-14",
       "outletId": "bfmtv",
       "title": "60 Minutes Fauvelle : entretien avec Marc Fauvelle",
-      "sourceUrl": "https://x.com/dupontaignan/status/2045134358239973681",
-      "sourceType": "self-report",
-      "dateEvidence": "Annonce le 14 avril à 16h00 pour le soir même à 19h30 ; compte rendu publié le 17 avril. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le tweet du 17 avril renvoie à l’intégralité du passage dans 60 Minutes Fauvelle sur BFMTV.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xa5j4rk",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-04-14 et une mise en ligne le 2026-04-14 17:42 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2045134358239973681",
+        "https://www.debout-la-france.fr/actualite/le-gouvernement-est-toujours-en-retard-dun-wagon-bfmtv-14-04-2026/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2026-04-22-cnews",
@@ -229,11 +382,17 @@
       "date": "2026-04-22",
       "outletId": "cnews",
       "title": "L'heure des Pros avec Pascal Praud (CNEWS)",
-      "sourceUrl": "https://x.com/dupontaignan/status/2046665269842411726",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mercredi 22 avril à 10h00, dans L'heure des Pros sur CNEWS ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xa6bb88",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-04-22 et une mise en ligne le 2026-04-22 08:18 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2046665269842411726",
+        "https://www.debout-la-france.fr/actualite/avec-mon-livre-je-veux-dire-aux-francais-reveillez-vous-%C2%B7-cnews-22-04-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2026-04-24-tf1",
@@ -241,11 +400,17 @@
       "date": "2026-04-24",
       "outletId": "tf1",
       "title": "En Toute Franchise : matinale de TF1",
-      "sourceUrl": "https://x.com/dupontaignan/status/2047693020519141652",
-      "sourceType": "self-report",
-      "dateEvidence": "Annonce le 23 avril pour le vendredi 24 avril à 07h35 ; compte rendu publié le 24 avril. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le tweet du 24 avril renvoie au passage dans la matinale En Toute Franchise de TF1.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.tf1info.fr/politique/videos/video-en-toute-franchise-nicolas-dupont-aignan-8109-2437894.html",
+      "sourceType": "official-replay",
+      "dateEvidence": "TF1 Info date le replay du 24 avril 2026 et nomme Bastien Augey et son invité. Fiche TF1+ Bonjour! concordante. Malgré /lci/ dans une URL TF1+, le programme est Bonjour!, matinale de TF1. Précision au jour.",
+      "evidence": "La fiche du diffuseur identifie le candidat et son entretien. Métadonnées indexées consultées ; le contenu direct retourne 403. Les références complémentaires recoupent le passage.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2047693020519141652",
+        "https://www.tf1.fr/lci/bonjour-la-matinale-tf1/videos/en-toute-franchise-nicolas-dupont-aignan-96528840.html",
+        "https://www.debout-la-france.fr/actualite/en-2027-reprenons-notre-liberte-pour-resoudre-nos-problemes-%C2%B7-tf1-24-04-26/"
+      ]
     },
     {
       "id": "dupontaignan-2026-05-02-france2",
@@ -257,7 +422,9 @@
       "sourceType": "self-report",
       "dateEvidence": "Annonce le 1er mai pour le samedi 2 mai à 08h10 ; compte rendu publié le 2 mai et replay daté France 2, 02/05/26 sur le site du candidat. Précision au jour ; heure de diffusion non certifiée.",
       "evidence": "Le site du candidat publie l’entretien « Assez du pillage de la France ! » daté France 2, 02/05/26, recoupé par le compte rendu du 2 mai.",
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": []
     },
     {
       "id": "dupontaignan-2026-05-03-cnews",
@@ -265,35 +432,51 @@
       "date": "2026-05-03",
       "outletId": "cnews",
       "title": "Le Grand Rendez-vous avec Pierre de Vilno (CNEWS, Europe 1 et Les Échos)",
-      "sourceUrl": "https://www.dupontaignan.fr/actualite/2027-comment-sauver-la-france-%C2%B7-cnews-03-05-2026/",
-      "sourceType": "self-report",
-      "dateEvidence": "Annonce le 2 mai pour le dimanche 3 mai à 10h00 ; replay daté CNEWS, 03/05/2026 sur le site du candidat. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le site du candidat publie l’entretien « 2027 : Comment sauver la France » daté CNEWS, 03/05/2026, concordant avec l’annonce du 2 mai.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xa7xgkw",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-05-03 et une mise en ligne le 2026-05-03 09:11 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/2027-comment-sauver-la-france-%C2%B7-cnews-03-05-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "f-philippot-2026-05-06-cnews",
       "handle": "f_philippot",
       "date": "2026-05-06",
       "outletId": "cnews",
-      "title": "Entretien en direct sur CNEWS",
-      "sourceUrl": "https://x.com/f_philippot/status/2052044760106377605",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte publiée : « Ce soir en direct à 20h30 sur CNews ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "title": "Entretien sur CNEWS : journée de l’Europe et drapeaux européens",
+      "sourceUrl": "https://www.dailymotion.com/video/xa8buca",
+      "sourceType": "official-replay",
+      "dateEvidence": "Extrait officiel CNEWS mis en ligne le 6 mai 2026 ; taken_time renvoie au même jour. L’annonce archivée indique un direct ce soir-là à 20h30. La mise en ligne est à 18h47 UTC, soit 20h47 à Paris.",
+      "evidence": "L’extrait contient les réponses de Florian Philippot au sujet des drapeaux européens et de la journée du 9 mai.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2052044760106377605",
+        "https://www.youtube.com/watch?v=aL9In7eaRmQ"
+      ]
     },
     {
       "id": "f-philippot-2026-05-09-france2",
       "handle": "f_philippot",
       "date": "2026-05-09",
       "outletId": "france2",
-      "title": "Entretien en direct sur France 2",
-      "sourceUrl": "https://x.com/f_philippot/status/2052826054880833970",
+      "title": "Les 4 Vérités : déclaration de candidature à la présidentielle",
+      "sourceUrl": "https://x.com/f_philippot/status/2053156569752170997",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte publiée : « Ce samedi 9 mai à 8h10 en direct sur France2 ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "L’annonce du 8 mai situe l’entretien au samedi 9 mai à 8h10. Le 9 mai, la publication du participant renvoie à la vidéo de sa candidature sur France 2. Le Parisien, publié le même jour à 13h05, décrit ce passage comme effectué ce samedi matin.",
+      "evidence": "La vidéo signalée après l’émission et les comptes rendus contemporains confirment la réalisation de l’entretien, au-delà de l’annonce antérieure.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2052826054880833970",
+        "https://www.youtube.com/watch?v=RCDAynjEWM4",
+        "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-florian-philippot-declare-sa-candidature-mais-se-dit-deja-pret-a-se-retirer-09-05-2026-ABUDCTJBNZCR7DVIYOHXLHZHSA.php"
+      ]
     },
     {
       "id": "dupontaignan-2026-06-02-bfmtv",
@@ -301,11 +484,15 @@
       "date": "2026-06-02",
       "outletId": "bfmtv",
       "title": "Marschall Truchot : débat face à Charles Consigny",
-      "sourceUrl": "https://x.com/dupontaignan/status/2061825167815283044",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/2027-laissons-enfin-choisir-les-francais-%C2%B7-bfmtv-02-06-26/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi à 18h20, dans Marschall Truchot sur BFMTV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-06-02. La page est publiée le 2026-06-04 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2061825167815283044"
+      ]
     },
     {
       "id": "dupontaignan-2026-06-02-franceinfo",
@@ -313,23 +500,33 @@
       "date": "2026-06-02",
       "outletId": "franceinfo",
       "title": "L'Invité Politique (franceinfo TV)",
-      "sourceUrl": "https://x.com/dupontaignan/status/2061523175519989918",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/psg-la-prison-ferme-seule-reponse-pour-mettre-fin-aux-violences-%C2%B7-france-info-tv-02-06-2026/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mardi 2 juin à 07h40, dans L'Invité Politique de franceinfo TV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-06-02. La page est publiée le 2026-06-04 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2061523175519989918"
+      ]
     },
     {
       "id": "f-philippot-2026-06-06-lci",
       "handle": "f_philippot",
       "date": "2026-06-06",
       "outletId": "lci",
-      "title": "Entretien en direct sur LCI",
-      "sourceUrl": "https://x.com/f_philippot/status/2063241079210553452",
+      "title": "Entretien d’actualité en direct sur LCI",
+      "sourceUrl": "https://x.com/f_philippot/status/2063267216259272756",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte publiée : « En direct sur LCI à 15h30 ce samedi ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "L’annonce du 6 juin prévoit un direct à 15h30. La publication du même jour à 14h30 UTC, soit 16h30 à Paris, déclare que l’entretien vient d’être effectué et renvoie à la vidéo.",
+      "evidence": "La déclaration après le passage confirme la participation réalisée à LCI. Le replay du diffuseur n’a pas été retrouvé.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2063241079210553452",
+        "https://x.com/f_philippot/status/2063318308317765860",
+        "https://www.youtube.com/watch?v=kWjQQ8DRGVQ"
+      ]
     },
     {
       "id": "dupontaignan-2026-06-10-cnews",
@@ -337,23 +534,35 @@
       "date": "2026-06-10",
       "outletId": "cnews",
       "title": "La Grande Interview avec Laurence Ferrari (CNEWS et Europe 1)",
-      "sourceUrl": "https://x.com/dupontaignan/status/2064422275697230061",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, mercredi 10 juin à 08h10, dans La Grande Interview sur CNEWS et Europe 1 ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xaeajya",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-06-10 et une mise en ligne le 2026-06-10 06:44 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2064422275697230061",
+        "https://www.debout-la-france.fr/actualite/lyhanna-il-faut-un-referendum-sur-la-peine-de-mort-dans-notre-pays-%C2%B7-cnews-10-06-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "f-philippot-2026-06-11-franceinfo",
       "handle": "f_philippot",
       "date": "2026-06-11",
       "outletId": "franceinfo",
-      "title": "Matinale de franceinfo TV : entretien en direct",
+      "title": "L’invité politique de la matinale de franceinfo TV",
       "sourceUrl": "https://x.com/f_philippot/status/2065064143648903493",
       "sourceType": "self-report",
-      "dateEvidence": "Annonce le 10 juin « en direct à 7h40 ce jeudi » ; le 11 juin, le compte déclare « J’étais ce matin sur France Info TV en direct » et renvoie à la vidéo. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le tweet du 11 juin confirme la participation effectuée à la matinale de franceinfo TV et renvoie à la vidéo.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "L’annonce du 10 juin prévoit le jeudi matin ; le 11 juin, le participant confirme avoir été reçu ce matin-là. La liste officielle franceinfo des invités de juin situe Florian Philippot le 11/06 sous la rubrique 7h55. L’horaire annoncé 7h40 n’est donc pas conservé comme heure certifiée.",
+      "evidence": "La publication après le passage confirme sa réalisation. La liste officielle franceinfo a été retrouvée dans l’index de recherche et sa copie consultable, l’URL canonique restant inaccessible à l’outil.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2064759853482938817",
+        "https://www.youtube.com/watch?v=VTpt_jpWFgk",
+        "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-retrouvez-la-liste-des-invites-de-la-chaine-info-canal-16-en-juin-2026_8077622.html"
+      ]
     },
     {
       "id": "dupontaignan-2026-06-14-lci",
@@ -361,11 +570,15 @@
       "date": "2026-06-14",
       "outletId": "lci",
       "title": "Le Duel (LCI) : face à Jean-Michel Aphatie",
-      "sourceUrl": "https://x.com/dupontaignan/status/2065871831140372666",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/pour-j-m-aphatie-respecter-le-peuple-cest-de-la-demagogie-%C2%B7-lci-14-06-26/",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, dimanche 14 juin à 19h15, dans Le Duel sur LCI ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-06-14. La page est publiée le 2026-06-17 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2065871831140372666"
+      ]
     },
     {
       "id": "dupontaignan-2026-07-01-bfmtv",
@@ -377,7 +590,9 @@
       "sourceType": "self-report",
       "dateEvidence": "Annonce le 1er juillet à 14h30 pour le soir même à 16h50 ; replay daté BFMTV, 01/07/26 sur le site du candidat. Précision au jour ; heure de diffusion non certifiée.",
       "evidence": "Le site du candidat publie l’entretien daté BFMTV, 01/07/26, recoupé par l’annonce du jour dans Marschall Truchot.",
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": []
     },
     {
       "id": "dupontaignan-2026-07-03-cnews",
@@ -385,23 +600,84 @@
       "date": "2026-07-03",
       "outletId": "cnews",
       "title": "La Grande Interview avec Thomas Bonnet (CNEWS et Europe 1)",
-      "sourceUrl": "https://www.dupontaignan.fr/actualite/2027-tout-est-possible-%C2%B7-cnews-03-07-2026/",
-      "sourceType": "self-report",
-      "dateEvidence": "Annonce le 2 juillet pour le vendredi 3 juillet à 08h10 ; compte rendu « mon passage ce matin » publié le 3 juillet et replay daté CNews, 03/07/2026. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le site du candidat publie l’entretien « 2027 : TOUT EST POSSIBLE ! » daté CNews, 03/07/2026, concordant avec l’annonce et le compte rendu du 3 juillet.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xakt65m",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-07-03 et une mise en ligne le 2026-07-03 06:56 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/2027-tout-est-possible-%C2%B7-cnews-03-07-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "f-philippot-2026-07-13-cnews",
       "handle": "f_philippot",
       "date": "2026-07-13",
       "outletId": "cnews",
-      "title": "Entretien en direct sur CNEWS",
-      "sourceUrl": "https://x.com/f_philippot/status/2076372232926867872",
-      "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte publiée : « Ce lundi 13/07 à 9h en direct sur CNews ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "title": "Entretien sur CNEWS : souveraineté et sécurité",
+      "sourceUrl": "https://www.dailymotion.com/video/xaothka",
+      "sourceType": "official-replay",
+      "dateEvidence": "Deux extraits officiels CNEWS ont leurs created_time et taken_time au 13 juillet 2026. L’annonce archivée publiée le 12 juillet indique le lundi 13 juillet à 9h. Ces extraits corroborent la réalisation du passage annoncé.",
+      "evidence": "Deux extraits d’une même séquence sont regroupés sous un seul passage : souveraineté et sécurité. Aucun deuxième passage n’est déduit du nombre de clips.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2076372232926867872",
+        "https://www.dailymotion.com/video/xaotsai"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-07-22-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-07-22",
+      "outletId": "bfmtv",
+      "title": "Entretien sur les assistantes maternelles illégales à Yerres",
+      "sourceUrl": "https://www.dailymotion.com/video/xar7wqy",
+      "sourceType": "official-replay",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ],
+      "verifiedAt": "2026-10-17",
+      "dateEvidence": "Les métadonnées du compte officiel donnent la date du média (taken_time) et la mise en ligne (created_time) au 22 juillet 2026. La description et la transcription identifient un entretien direct sur les faits récents à Yerres. Précision au jour ; nom du programme et horaire non certifiés.",
+      "evidence": "Le journaliste BFM salue le maire, l’interroge sur place puis le remercie d’avoir répondu. Nicolas Dupont-Aignan décrit les circonstances de l’inspection. Entretien direct établi par la transcription."
+    },
+    {
+      "id": "dupontaignan-2026-07-22-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-07-22",
+      "outletId": "cnews",
+      "title": "Entretien sur les assistantes maternelles illégales à Yerres",
+      "sourceUrl": "https://www.dailymotion.com/video/xar8bj6",
+      "sourceType": "official-replay",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ],
+      "verifiedAt": "2026-10-17",
+      "dateEvidence": "Les métadonnées du compte officiel donnent la date du média (taken_time) et la mise en ligne (created_time) au 22 juillet 2026. La description et la transcription identifient un entretien direct sur les faits récents à Yerres. Précision au jour ; nom du programme et horaire non certifiés.",
+      "evidence": "Le compte officiel CNEWS publie une réponse de Nicolas Dupont-Aignan sur la découverte d’une activité illégale d’assistantes maternelles à Yerres. La transcription présente son explication et sa réaction. Entretien direct établi."
+    },
+    {
+      "id": "f-philippot-2026-09-04-bfmtv",
+      "handle": "f_philippot",
+      "date": "2026-09-04",
+      "outletId": "bfmtv",
+      "title": "Débat BFMTV : Frexit et rapprochement Bardella-Farage",
+      "sourceUrl": "https://www.dailymotion.com/video/xb3ynly",
+      "sourceType": "official-replay",
+      "dateEvidence": "L’extrait du compte officiel BFM est mis en ligne le 4 septembre 2026 à 15h52 UTC ; taken_time renvoie également au 4 septembre. L’annonce archivée du 4 septembre pour 17h35 et le compte rendu du participant Antoine Léaument daté du 4 septembre concordent. Le 5 septembre est une reprise du clip, pas une nouvelle diffusion démontrée.",
+      "evidence": "Le replay officiel BFM résout la divergence antérieure entre le 4 et le 5 septembre en faveur du 4 septembre.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2095881569005175055",
+        "https://x.com/f_philippot/status/2096234753665974763",
+        "https://antoineleaument.fr/2026/09/04/bardella-et-farage-lalliance-des-voleurs/",
+        "https://www.bfmtv.com/politique/video-si-on-veut-reprendre-le-controle-de-notre-pays-il-faut-sortir-de-l-union-europeenne-estime-florian-philippot-president-du-parti-les-patriotes-et-candidat-a-l-election-presidentielle_VN-202609040727.html"
+      ]
     },
     {
       "id": "dupontaignan-2026-09-08-bfmtv",
@@ -409,11 +685,16 @@
       "date": "2026-09-08",
       "outletId": "bfmtv",
       "title": "BFM Grand Soir : entretien sur les carburants et le pouvoir d’achat",
-      "sourceUrl": "https://www.dupontaignan.fr/actualite/carburants-mettons-fin-au-racket-fiscal-%C2%B7-bfmtv-08-09-2026/",
-      "sourceType": "self-report",
-      "dateEvidence": "Le titre du replay indique BFMTV, 08/09/2026 ; la page a été publiée le 10 septembre. L’annonce du 8 et le compte rendu du 9 sont archivés dans les tweets. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le site du candidat propose l’entretien intégral. Le tweet du 9 septembre renvoie à son passage réalisé dans BFM Grand Soir.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xb5jwsq",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-09-08 et une mise en ligne le 2026-09-08 19:38 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/carburants-mettons-fin-au-racket-fiscal-%C2%B7-bfmtv-08-09-2026/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2026-09-16-cnews",
@@ -421,11 +702,16 @@
       "date": "2026-09-16",
       "outletId": "cnews",
       "title": "La Grande Interview avec Laurence Ferrari (CNEWS et Europe 1)",
-      "sourceUrl": "https://www.dupontaignan.fr/actualite/les-automobilistes-et-retraites-sont-les-vaches-a-lait-du-regime-%C2%B7-cnews-16-09-2026/",
-      "sourceType": "self-report",
-      "dateEvidence": "Titre daté du 16/09/2026 et publication le même jour. Compte rendu du passage publié le 16 dans l’archive. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Replay intégral proposé par le candidat. L’index Europe 1 du 16 septembre identifie aussi sa participation à La Grande Interview Europe 1-CNEWS.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xb89aay",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-09-16 et une mise en ligne le 2026-09-16 06:51 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/les-automobilistes-et-retraites-sont-les-vaches-a-lait-du-regime-%C2%B7-cnews-16-09-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "f-philippot-2026-09-17-lci",
@@ -437,7 +723,9 @@
       "sourceType": "self-report",
       "dateEvidence": "Auto-annonce du compte publiée : « À 10h20 ce jeudi en direct sur LCI ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
       "evidence": "Le compte déclare en première personne sa propre participation en direct, avec date et heure précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "announced",
+      "supportingUrls": []
     },
     {
       "id": "dupontaignan-2026-09-20-lci",
@@ -449,7 +737,11 @@
       "sourceType": "self-report",
       "dateEvidence": "Le résultat indexé de TF1 Info, publié le 20 septembre à 12 h 36, précise qu’il était invité ce dimanche 20 septembre sur LCI. Précision au jour ; heure de diffusion non certifiée.",
       "evidence": "TF1 Info décrit sa participation à Objectif 2027. Un compte rendu du passage avec replay est aussi archivé dans son tweet du 20 septembre.",
-      "verifiedAt": "2026-10-17"
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.tf1info.fr/politique/en-direct-objectif-2027-suivez-notre-emission-politique-sur-lci-avec-nicolas-dupont-aignan-president-de-debout-la-france-dimanche-20-septembre-2464869.html"
+      ]
     },
     {
       "id": "dupontaignan-2026-09-21-bfmtv",
@@ -457,11 +749,16 @@
       "date": "2026-09-21",
       "outletId": "bfmtv",
       "title": "100 % Mabrouk : entretien avec Sonia Mabrouk",
-      "sourceUrl": "https://www.dupontaignan.fr/actualite/president-jarreterai-toutes-subventions-a-lukraine-%C2%B7-bfmtv-21-09-26/",
-      "sourceType": "self-report",
-      "dateEvidence": "Le titre du replay indique le 21/09/26 ; la page et le compte rendu dans les tweets sont publiés le 22 septembre. Le guide Replay.fr date également l’extrait du 21 septembre. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le candidat publie un entretien intégral BFMTV et confirme son passage dans la grande interview de Sonia Mabrouk.",
-      "verifiedAt": "2026-10-17"
+      "sourceUrl": "https://www.dailymotion.com/video/xbb6x4a",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-09-21 et une mise en ligne le 2026-09-21 18:17 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/president-jarreterai-toutes-subventions-a-lukraine-%C2%B7-bfmtv-21-09-26/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2026-10-01-bfmtv",
@@ -469,23 +766,33 @@
       "date": "2026-10-01",
       "outletId": "bfmtv",
       "title": "Le Forum BFMTV : intervention sur le baccalauréat et les lycées bloqués",
-      "sourceUrl": "https://www.bfmtv.com/politique/video-forum-bfmtv-lycees-bloques-au-baccalaureat-il-y-a-aujourd-hui-une-injustice-terrible-entre-les-etablissements-denonce-nicolas-dupont-aignan-candidat-debout-la-france-a-l-election-presidentielle_VN-202610010902.html",
+      "sourceUrl": "https://www.dailymotion.com/video/xbg51p2",
       "sourceType": "official-replay",
-      "dateEvidence": "Extrait BFMTV daté dans son URL 20261001 ; relais Elections2027 horodaté 1 octobre 2026, 22 h 47 ; annonce du candidat pour le Forum à 21 h le même jour. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le titre de l’extrait BFMTV et son relais attestent d’une intervention effective au Forum. Le contenu complet de BFMTV n’a pas pu être chargé.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-10-01 et une mise en ligne le 2026-10-01 20:10 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.bfmtv.com/politique/video-forum-bfmtv-lycees-bloques-au-baccalaureat-il-y-a-aujourd-hui-une-injustice-terrible-entre-les-etablissements-denonce-nicolas-dupont-aignan-candidat-debout-la-france-a-l-election-presidentielle_VN-202610010902.html",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "f-philippot-bfmtv-2026-10-09",
       "handle": "f_philippot",
       "date": "2026-10-09",
       "outletId": "bfmtv",
-      "title": "Entretien BFMTV : réactions aux révélations sur Jordan Bardella",
+      "title": "Entretien BFMTV : révélations sur Jordan Bardella",
       "sourceUrl": "https://www.dailymotion.com/video/xbki5yy",
       "sourceType": "official-replay",
-      "dateEvidence": "Extrait publié par le compte officiel BFM sur Dailymotion, également référencé par BFMTV sous VN-202610090920 ; source RSS BFMTV conservée par Yaktu datée du 09/10/2026 à 23:51, après l’annonce du passage à 23h25 le même jour dans l’archive.",
-      "evidence": "L’extrait vidéo officiel BFM contient un échange direct entre les journalistes et Florian Philippot au sujet du RN et de l’élection présidentielle.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "L’extrait du compte officiel BFM a ses created_time et taken_time au 9 octobre 2026. L’annonce archivée prévoit le même soir 23h25 ; mise en ligne à 21h51 UTC, soit 23h51 à Paris. La date de diffusion concorde.",
+      "evidence": "L’extrait officiel contient un échange direct entre les journalistes et Florian Philippot. Sa description textuelle générique parle des lycées et ne doit pas remplacer le contenu de l’extrait ou son titre.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/f_philippot/status/2108627865998614878",
+        "https://x.com/f_philippot/status/2108937314437148757"
+      ]
     },
     {
       "id": "dupontaignan-2026-10-11-cnews",
@@ -493,11 +800,16 @@
       "date": "2026-10-11",
       "outletId": "cnews",
       "title": "Le Grand Rendez-vous avec Pierre de Vilno (CNEWS, Europe 1 et Les Échos)",
-      "sourceUrl": "https://www.canalplus.com/actualites/le-grand-rendez-vous-emission-du-11-oct-2026/h/32264440_50213",
+      "sourceUrl": "https://www.dailymotion.com/video/xblggpe",
       "sourceType": "official-replay",
-      "dateEvidence": "La fiche officielle CANAL+ indique Émission du 11 oct. 2026 et nomme Nicolas Dupont-Aignan comme invité. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "La fiche du replay décrit l’entretien de Pierre de Vilno avec Nicolas Dupont-Aignan dans Le Grand Rendez-vous.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-10-11 et une mise en ligne le 2026-10-11 09:59 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.canalplus.com/actualites/le-grand-rendez-vous-emission-du-11-oct-2026/h/32264440_50213",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2026-10-15-bfmtv",
@@ -505,11 +817,16 @@
       "date": "2026-10-15",
       "outletId": "bfmtv",
       "title": "100 % Mabrouk : entretien avec Sonia Mabrouk",
-      "sourceUrl": "https://www.rmcplus.fr/video/episode/invitee-segolene-royal-1021151202985",
+      "sourceUrl": "https://www.dailymotion.com/video/xbnznaq",
       "sourceType": "official-replay",
-      "dateEvidence": "RMC+ indique diffusé le 15/10/2026 sur BFM TV et décrit l’émission du 15 octobre. Le compte rendu du candidat est publié le 16 octobre, ce qui n’est pas la date retenue. Précision au jour ; heure de diffusion non certifiée.",
-      "evidence": "Le replay officiel réunit Ségolène Royal, Béatrice Brugère et Nicolas Dupont-Aignan dans 100 % Mabrouk.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-10-15 et une mise en ligne le 2026-10-15 19:47 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.rmcplus.fr/video/episode/invitee-segolene-royal-1021151202985",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
     },
     {
       "id": "dupontaignan-2026-10-16-franceinfo",
@@ -519,9 +836,15 @@
       "title": "L'Invité Politique (franceinfo TV)",
       "sourceUrl": "https://x.com/dupontaignan/status/2110815473432674385",
       "sourceType": "self-report",
-      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, à 07h40, dans L'Invité Politique de franceinfo TV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
-      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
-      "verifiedAt": "2026-10-17"
+      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, à 07h40, dans L'Invité Politique de franceinfo TV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée. Une fiche de replay du 16 octobre nommant le programme a été identifiée ; son domaine ne permet pas la consultation directe. Les reprises du sommaire par des agrégateurs ne sont pas traitées comme une vérification indépendante de la vidéo.",
+      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup. Le lien de replay et les reprises restent conservés pour vérification ; cette annonce ne figure pas parmi les passages confirmés.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "announced",
+      "supportingUrls": [
+        "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-16-octobre-2026_8210528.html",
+        "https://lacampagne2027.com/candidats/nicolas-dupont-aignan",
+        "https://hamanieh-flash.net/article.php?slug=mobilisation-des-lyceens-sebastien-lecornu-seme-lui-meme-le-chaos-estime-nicolas-dupont-aignan"
+      ]
     }
   ],
   "coverage": [
@@ -529,181 +852,181 @@
       "handle": "f_asselineau",
       "outletId": "tf1",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "TF1+ / TF1 Info et requêtes nominales sur 2025 et 2026. La fiche TF1 Info est indexée mais son ouverture renvoie 403 ; les archives trouvées ne datent pas un entretien dans la période."
     },
     {
       "handle": "f_asselineau",
       "outletId": "france2",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "France.tv / FranceTVPro, requêtes nominales 2025 et 2026 et contrôle des publications archivées. Les résultats renvoient aux scrutins antérieurs ou aux passages d’autres invités ; aucun passage admissible daté retrouvé."
     },
     {
       "handle": "f_asselineau",
       "outletId": "france3",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "FranceTVPro, France.tv et requêtes nominales 2025 et 2026. Un replay Asselineau est daté du 12 mai 2024, un signalement régional du 27 septembre 2025 est antérieur à la période. Aucun passage de la période confirmé."
     },
     {
       "handle": "f_asselineau",
       "outletId": "m6",
-      "status": "checked",
-      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+      "status": "limited",
+      "notes": "Requêtes nominales et site:m6.fr, 2025 et 2026. Aucun entretien daté et attribuable au candidat retrouvé ; couverture limitée par l’indexation et la durée de disponibilité des replays."
     },
     {
       "handle": "f_asselineau",
       "outletId": "bfmtv",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "Requêtes sur les archives BFM, nominales 2025 et 2026, index UPR et publications archivées. L’accès direct est limité par robots.txt. Une question sur une invitation au débat du 10 juin 2026 ne démontre aucune participation."
     },
     {
       "handle": "f_asselineau",
       "outletId": "cnews",
-      "status": "checked",
-      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+      "status": "limited",
+      "notes": "Site CNEWS, Dailymotion officiel, requêtes nominales 2025 et 2026 et publications archivées. Le replay retrouvé concerne le 10 avril 2024 ; les autres mentions concernent des tiers ou des déclarations de non-invitation."
     },
     {
       "handle": "f_asselineau",
       "outletId": "lci",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "TF1 Info, nominales 2025 et 2026, publications archivées et UPR. L’accès direct TF1 Info est limité (403). Un lien Asselineau/Quatremer repris en décembre 2025 ne fournit aucune date de diffusion nouvelle ; aucun passage de la période vérifié."
     },
     {
       "handle": "f_asselineau",
       "outletId": "franceinfo",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "Franceinfo, Radio France et requêtes nominales 2025 et 2026, publications archivées. Les résultats récents parlent du candidat ou d’autres invités ; aucun entretien de la période confirmé. Accès à certaines archives limité."
     },
     {
       "handle": "f_asselineau",
       "outletId": "franceinter",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "Radio France, requêtes nominales 2025 et 2026 et publications archivées. Les entretiens retrouvés sont anciens ; aucune date de passage de la période vérifiée. Accès direct limité par robots.txt."
     },
     {
       "handle": "f_asselineau",
       "outletId": "rtl",
-      "status": "checked",
-      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+      "status": "limited",
+      "notes": "Page thématique RTL ouverte et requêtes nominales 2025 et 2026. La page affiche des archives jusqu’à 2022 ; aucun entretien de la période identifié. L’absence de résultat ne prouve pas une absence de passage."
     },
     {
       "handle": "f_philippot",
       "outletId": "tf1",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "Requêtes sur le nom et TF1 pour l’année, requêtes de domaine TF1/TF1 Info, contrôle des résultats historiques. Aucun entretien réalisé vérifié. Un article TF1 Info ancien mis à jour en 2026 ne vaut pas passage récent. Le compte Dailymotion TF1 ne remplace pas toutes les archives antenne."
     },
     {
       "handle": "f_philippot",
       "outletId": "france2",
       "status": "limited",
-      "notes": "Un passage retenu par auto-annonce « en direct » : 9 mai. Accès direct restreint à certaines sources du média ; recherche non exhaustive."
+      "notes": "Passage du 9 mai confirmé par déclaration après émission, vidéo signalée par le participant et compte rendu contemporain. Recherche France 2 et période complète ; les autres résultats trouvés sont des commentaires sur une émission ou des archives anciennes."
     },
     {
       "handle": "f_philippot",
       "outletId": "france3",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "Requêtes France 3 et période, recherches sur les archives et contrôle Dailymotion. Aucun entretien direct daté vérifié. Une publication ICI ou une mention de candidature sur le web ne prouve pas une invitation sur France 3."
     },
     {
       "handle": "f_philippot",
       "outletId": "m6",
-      "status": "checked",
-      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+      "status": "limited",
+      "notes": "Requêtes M6 et nom sur l’année, contrôle du compte public de vidéos. Aucun entretien direct daté vérifié ; couverture des reportages incomplets et indexation limitée."
     },
     {
       "handle": "f_philippot",
       "outletId": "bfmtv",
       "status": "limited",
-      "notes": "Un extrait BFM officiel retenu le 9 octobre. Séquence des 4/5 septembre exclue des repères : date contradictoire. Site BFMTV inaccessible ; recherche non exhaustive."
+      "notes": "Trois dates confirmées par extraits du compte officiel BFM : 25 février, 4 septembre, 9 octobre. API Dailymotion BFMTV : total 3, has_more false pour Philippot après le 17 octobre 2025. Le site BFMTV reste inaccessible à l’outil ; les clips disponibles ne garantissent pas l’intégralité des antennes."
     },
     {
       "handle": "f_philippot",
       "outletId": "cnews",
-      "status": "checked",
-      "notes": "Quatre passages retenus par auto-annonce « en direct » : 19 novembre, 27 janvier, 6 mai et 13 juillet. Auto-déclarations du compte ; recherche non exhaustive."
+      "status": "limited",
+      "notes": "Cinq dates confirmées par six extraits du compte officiel CNEWS : 19 novembre, 27 janvier, 27 mars, 6 mai, 13 juillet. API Dailymotion : total 6, has_more false. Lecture d’un message le 10 février exclue : absence de participation directe. La recherche porte aussi sur les mois sans extrait retrouvé."
     },
     {
       "handle": "f_philippot",
       "outletId": "lci",
       "status": "limited",
-      "notes": "Trois passages retenus par auto-annonce « en direct » : 28 mars, 6 juin et 17 septembre. Annonce du 17 septembre intégrée comme auto-déclaration. Accès primaire restreint."
+      "notes": "Deux entretiens confirmés après coup par le participant : 28 mars et 6 juin. Deux annonces distinctes à conserver hors repères confirmés : 18 décembre et 17 septembre. Requêtes de mois et dates, TF1 Info et vidéos ; aucun replay primaire retrouvé pour ces annonces."
     },
     {
       "handle": "f_philippot",
       "outletId": "franceinfo",
       "status": "limited",
-      "notes": "Un passage retenu le 11 juin (matinale franceinfo TV), compte rendu du candidat. Piste de reportage à Arras du 23 septembre exclue : sans date de participation audiovisuelle établie."
+      "notes": "Matinale du 11 juin confirmée après coup et mentionnée dans la liste officielle des invités de juin, retrouvée via index et copie consultable. Recherche autres mois 2025 et 2026. Reportage d’Arras du 23 septembre conservé comme piste, sans date certaine de recueil/diffusion ni entretien en plateau établi."
     },
     {
       "handle": "f_philippot",
       "outletId": "franceinter",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "Requêtes France Inter et période annuelle, recherche des archives et vidéos. Les invitations retrouvées sont historiques (2016/2017/2019), exclues. Aucun entretien direct récent vérifié ; accès Radio France limité."
     },
     {
       "handle": "f_philippot",
       "outletId": "rtl",
-      "status": "checked",
-      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+      "status": "limited",
+      "notes": "Requêtes RTL et période annuelle, contrôle des archives indexées. Les entretiens retrouvés concernent principalement 2017/2018 ; les citations d’autres invités commentées par Philippot ne sont pas ses passages. Aucun entretien direct récent vérifié."
     },
     {
       "handle": "dupontaignan",
       "outletId": "tf1",
       "status": "limited",
-      "notes": "Deux passages retenus : 11 novembre (auto-annonce « En Toute Franchise ») et 24 avril (compte rendu du candidat). Recherche non exhaustive."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 2 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
     },
     {
       "handle": "dupontaignan",
       "outletId": "france2",
       "status": "limited",
-      "notes": "Un passage retenu le 2 mai (Les 4 Vérités), replay du candidat. Accès direct restreint à certaines sources du média ; recherche non exhaustive."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 1 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
     },
     {
       "handle": "dupontaignan",
       "outletId": "france3",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 0 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
     },
     {
       "handle": "dupontaignan",
       "outletId": "m6",
       "status": "checked",
-      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 0 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
     },
     {
       "handle": "dupontaignan",
       "outletId": "bfmtv",
       "status": "limited",
-      "notes": "Douze dates retenues : 24 novembre, 12 et 17 décembre, 26 février, 26 mars, 14 avril, 2 juin, 1er juillet, 8 et 21 septembre, 1 et 15 octobre. Replays et comptes rendus du candidat, auto-annonces, et extrait ou fiche officiels pour le 1er et le 15 octobre."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 13 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage. Compte officiel Dailymotion interrogé sur l’année : pagination épuisée, replays et extraits dédupliqués ; mentions par des tiers et homonymes exclus."
     },
     {
       "handle": "dupontaignan",
       "outletId": "cnews",
       "status": "checked",
-      "notes": "Neuf dates retenues : 2 décembre, 15 janvier, 25 mars, 22 avril, 3 mai, 10 juin, 3 juillet, 16 septembre et 11 octobre. Replays du candidat, auto-annonces, et fiche officielle CANAL+ pour le 11 octobre. Recherche non exhaustive."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 11 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage. Compte officiel Dailymotion interrogé sur l’année : pagination épuisée, replays et extraits dédupliqués ; mentions par des tiers et homonymes exclus."
     },
     {
       "handle": "dupontaignan",
       "outletId": "lci",
       "status": "limited",
-      "notes": "Cinq dates retenues : 19 octobre, 4 décembre, 31 mars, 14 juin et 20 septembre. Compte rendu du candidat pour le 20 septembre ; auto-annonces pour les autres."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 5 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
     },
     {
       "handle": "dupontaignan",
       "outletId": "franceinfo",
       "status": "limited",
-      "notes": "Quatre dates retenues : 23 janvier, 4 février, 2 juin et 16 octobre, par auto-annonce « Retrouvez-moi » sans confirmation indépendante post-événement. Accès primaire restreint."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 3 passages documentés après diffusion, 1 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage. Domaine primaire bloqué par robots.txt."
     },
     {
       "handle": "dupontaignan",
       "outletId": "franceinter",
       "status": "limited",
-      "notes": "Recherches web et publications originales archivées contrôlées ; accès direct restreint à certaines sources du média. Aucun passage daté retenu ; absence non démontrée."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 0 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage. Domaine primaire bloqué par robots.txt."
     },
     {
       "handle": "dupontaignan",
       "outletId": "rtl",
       "status": "checked",
-      "notes": "Recherches web et publications originales archivées contrôlées. Aucun passage daté retenu ; recherche non exhaustive."
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 0 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
     }
   ]
 }

@@ -1,0 +1,2492 @@
+{
+  "schemaVersion": 1,
+  "researchedAt": "2026-10-17",
+  "period": {
+    "start": "2025-10-17",
+    "end": "2026-10-17"
+  },
+  "handle": "dupontaignan",
+  "events": [
+    {
+      "id": "dupontaignan-2025-10-19-lci",
+      "handle": "dupontaignan",
+      "date": "2025-10-19",
+      "outletId": "lci",
+      "title": "En Toute Franchise : matinale de LCI",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/seul-un-nouveau-patriotisme-peut-sauver-la-france-%C2%B7-lci-19-10-25/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2025-10-19. La page est publiée le 2025-10-19 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1979586600423034997"
+      ]
+    },
+    {
+      "id": "dupontaignan-2025-11-11-tf1",
+      "handle": "dupontaignan",
+      "date": "2025-11-11",
+      "outletId": "tf1",
+      "title": "En Toute Franchise : matinale de TF1",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/la-france-est-abandonnee-par-ses-dirigeants-ne-nous-laissons-plus-faire-%C2%B7-tf1-11-11-25/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2025-11-11. La page est publiée le 2025-11-11 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié. La fiche TF1 Info datée du 11 novembre à 7h38 indique son entretien avec Adrien Gindre.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1987973541669765576",
+        "https://www.tf1info.fr/politique/videos/video-en-toute-franchise-nicolas-dupont-aignan-61924-2405963.html"
+      ]
+    },
+    {
+      "id": "dupontaignan-2025-11-24-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2025-11-24",
+      "outletId": "bfmtv",
+      "title": "BFM Grand Soir : entretien avec Julie Hammett",
+      "sourceUrl": "https://www.dailymotion.com/video/x9ud2as",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2025-11-24 et une mise en ligne le 2025-11-24 22:43 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche. La description officielle nomme BFM Grand Soir et Julie Hammett : le programme est ainsi recoupé malgré un ancien intitulé différent dans l’agenda du parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1995163995859484824",
+        "https://www.debout-la-france.fr/actualite/ukraine-les-dirigeants-de-lue-sont-des-nains-de-jardin-%C2%B7-bfmtv-24-11-25/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2025-12-02-cnews",
+      "handle": "dupontaignan",
+      "date": "2025-12-02",
+      "outletId": "cnews",
+      "title": "La Grande Interview avec Sonia Mabrouk (CNEWS et Europe 1)",
+      "sourceUrl": "https://www.dailymotion.com/video/x9uu9mc",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2025-12-02 et une mise en ligne le 2025-12-02 07:29 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1995583809333723245",
+        "https://www.debout-la-france.fr/actualite/lurgence-debrancher-macron-et-quitter-lunion-europeenne-%C2%B7-cnews-02-12-25/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2025-12-04-lci",
+      "handle": "dupontaignan",
+      "date": "2025-12-04",
+      "outletId": "lci",
+      "title": "22h Rochebin : entretien avec Darius Rochebin",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/assez-de-propagande-faisons-la-paix-%C2%B7-lci-04-12-25/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2025-12-04. La page est publiée le 2025-12-10 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1996308457939522008"
+      ]
+    },
+    {
+      "id": "dupontaignan-2025-12-12-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2025-12-12",
+      "outletId": "bfmtv",
+      "title": "BFM Grand Soir : entretien avec Émilie Brouss",
+      "sourceUrl": "https://www.dailymotion.com/video/x9vlx88",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2025-12-12 et une mise en ligne le 2025-12-12 22:10 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche. La transcription du replay contient une discussion directe sur les candidats à la présidentielle et le projet de sortie de l’Union européenne ; l’annonce archivée fixe le passage au 12 décembre, en concordance avec les métadonnées.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/1999569952693539126",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2025-12-17-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2025-12-17",
+      "outletId": "bfmtv",
+      "title": "Marschall Truchot : débat face à Charles Consigny",
+      "sourceUrl": "https://www.dailymotion.com/video/x9vwmj6",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2025-12-17 et une mise en ligne le 2025-12-17 18:02 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2001019627682586783",
+        "https://www.debout-la-france.fr/actualite/il-faut-une-exception-agricole-francaise-pour-sauver-nos-eleveurs-%C2%B7-bfmtv-17-12-25/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-01-08-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-01-08",
+      "outletId": "cnews",
+      "title": "Morandini Live : intervention en direct à la mobilisation agricole",
+      "sourceUrl": "https://www.dailymotion.com/video/x9xc4ra",
+      "sourceType": "official-replay",
+      "dateEvidence": "Le replay officiel CNEWS est intitulé Morandini Live (Émission du 08/01/2026). Son ouverture donne le jeudi 8 janvier 2026. Nicolas Dupont-Aignan est accueilli en direct vers 29 min 52 s, puis répond vers 31 min 25 s. Précision au jour.",
+      "evidence": "La fiche et la transcription officielle attestent un échange direct avec le candidat à la mobilisation agricole. Le parti propose aussi un entretien CNEWS daté 08/01/26, sans programme certifié ; il ne devient pas un second événement.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.debout-la-france.fr/actualite/nos-dirigeants-sont-en-train-de-suicider-leur-propre-pays-%C2%B7-cnews-08-01-26/"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-01-15-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-01-15",
+      "outletId": "cnews",
+      "title": "La Grande Interview avec Sonia Mabrouk (CNEWS et Europe 1)",
+      "sourceUrl": "https://www.europe1.fr/emissions/la-grande-interview-europe-1-cnews-de-sonia-mabrouk/la-grande-interview-de-sonia-mabrouk-avec-nicolas-dupont-aignan-879218",
+      "sourceType": "official-replay",
+      "dateEvidence": "Le diffuseur partenaire Europe 1 date la Grande interview avec Sonia Mabrouk du 15 janvier 2026. Le replay CNEWS sur Dailymotion confirme un échange direct. La page DLF donne 15/01/26 dans son index mais 15-01-25 dans son URL ; cette URL ambiguë est écartée comme preuve de date.",
+      "evidence": "La fiche du diffuseur identifie le candidat et son entretien. Métadonnées indexées consultées ; le contenu direct retourne 403. Les références complémentaires recoupent le passage.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2011804267229610105",
+        "https://www.dailymotion.com/video/x9xsy0s"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-01-23-franceinfo",
+      "handle": "dupontaignan",
+      "date": "2026-01-23",
+      "outletId": "franceinfo",
+      "title": "Le Pour Et Le Contre (franceinfo TV)",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/je-suis-en-candidat-en-2027-pour-defendre-la-sortie-de-lunion-europeenne-france-info-tv-23-01-26/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-01-23. La page est publiée le 2026-01-25 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2014775142757363716"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-02-04-franceinfo",
+      "handle": "dupontaignan",
+      "date": "2026-02-04",
+      "outletId": "franceinfo",
+      "title": "L'Invité Politique (franceinfo TV)",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/et-si-on-traitait-enfin-des-problemes-des-francais-france-info-tv-04-02-26/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-02-04. La page est publiée le 2026-02-04 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2018776507347554350"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-02-26-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-02-26",
+      "outletId": "bfmtv",
+      "title": "Le Forum BFMTV",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/sortons-de-lue-pour-restaurer-notre-democratie-%C2%B7-bfmtv-26-02-2026/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-02-26. La page est publiée le 2026-02-27 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2027100568695562635"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-03-25-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-03-25",
+      "outletId": "cnews",
+      "title": "La Grande Interview avec Laurence Ferrari (CNEWS et Europe 1)",
+      "sourceUrl": "https://www.dailymotion.com/video/xa38qlq",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-03-25 et une mise en ligne le 2026-03-25 07:48 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2036533511767654401",
+        "https://www.debout-la-france.fr/actualite/assez-des-tambouilles-politiciennes-liberons-la-france-%C2%B7-cnews-25-03-26/",
+        "https://www.europe1.fr/emissions/la-grande-interview-europe-1-cnews-de-laurence-ferrari/la-grande-interview-de-laurence-ferrari-avec-nicolas-dupont-aignan-916936",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-03-26-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-03-26",
+      "outletId": "bfmtv",
+      "title": "Marschall Truchot : débat face à Charles Consigny",
+      "sourceUrl": "https://www.dailymotion.com/video/xa3dr6e",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-03-26 et une mise en ligne le 2026-03-26 17:51 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2037487677059088444",
+        "https://www.debout-la-france.fr/actualite/carburant-mettons-fin-au-racket-de-letat-%C2%B7-bfmtv-26-03-26/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-03-31-lci",
+      "handle": "dupontaignan",
+      "date": "2026-03-31",
+      "outletId": "lci",
+      "title": "Cartes sur table (LCI)",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/je-suis-candidat-pour-defendre-la-sortie-de-lunion-europeenne-%C2%B7-lci-31-03-26/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-03-31. La page est publiée le 2026-04-03 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2038692740423438341"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-04-14-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-04-14",
+      "outletId": "bfmtv",
+      "title": "60 Minutes Fauvelle : entretien avec Marc Fauvelle",
+      "sourceUrl": "https://www.dailymotion.com/video/xa5j4rk",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-04-14 et une mise en ligne le 2026-04-14 17:42 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2045134358239973681",
+        "https://www.debout-la-france.fr/actualite/le-gouvernement-est-toujours-en-retard-dun-wagon-bfmtv-14-04-2026/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-04-22-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-04-22",
+      "outletId": "cnews",
+      "title": "L'heure des Pros avec Pascal Praud (CNEWS)",
+      "sourceUrl": "https://www.dailymotion.com/video/xa6bb88",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-04-22 et une mise en ligne le 2026-04-22 08:18 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2046665269842411726",
+        "https://www.debout-la-france.fr/actualite/avec-mon-livre-je-veux-dire-aux-francais-reveillez-vous-%C2%B7-cnews-22-04-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-04-24-tf1",
+      "handle": "dupontaignan",
+      "date": "2026-04-24",
+      "outletId": "tf1",
+      "title": "En Toute Franchise : matinale de TF1",
+      "sourceUrl": "https://www.tf1info.fr/politique/videos/video-en-toute-franchise-nicolas-dupont-aignan-8109-2437894.html",
+      "sourceType": "official-replay",
+      "dateEvidence": "TF1 Info date le replay du 24 avril 2026 et nomme Bastien Augey et son invité. Fiche TF1+ Bonjour! concordante. Malgré /lci/ dans une URL TF1+, le programme est Bonjour!, matinale de TF1. Précision au jour.",
+      "evidence": "La fiche du diffuseur identifie le candidat et son entretien. Métadonnées indexées consultées ; le contenu direct retourne 403. Les références complémentaires recoupent le passage.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2047693020519141652",
+        "https://www.tf1.fr/lci/bonjour-la-matinale-tf1/videos/en-toute-franchise-nicolas-dupont-aignan-96528840.html",
+        "https://www.debout-la-france.fr/actualite/en-2027-reprenons-notre-liberte-pour-resoudre-nos-problemes-%C2%B7-tf1-24-04-26/"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-05-02-france2",
+      "handle": "dupontaignan",
+      "date": "2026-05-02",
+      "outletId": "france2",
+      "title": "Les 4 Vérités : matinale de France 2",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/assez-du-pillage-de-la-france-france-2-02-05-26/",
+      "sourceType": "self-report",
+      "dateEvidence": "Annonce le 1er mai pour le samedi 2 mai à 08h10 ; compte rendu publié le 2 mai et replay daté France 2, 02/05/26 sur le site du candidat. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "Le site du candidat publie l’entretien « Assez du pillage de la France ! » daté France 2, 02/05/26, recoupé par le compte rendu du 2 mai.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": []
+    },
+    {
+      "id": "dupontaignan-2026-05-03-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-05-03",
+      "outletId": "cnews",
+      "title": "Le Grand Rendez-vous avec Pierre de Vilno (CNEWS, Europe 1 et Les Échos)",
+      "sourceUrl": "https://www.dailymotion.com/video/xa7xgkw",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-05-03 et une mise en ligne le 2026-05-03 09:11 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/2027-comment-sauver-la-france-%C2%B7-cnews-03-05-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-06-02-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-06-02",
+      "outletId": "bfmtv",
+      "title": "Marschall Truchot : débat face à Charles Consigny",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/2027-laissons-enfin-choisir-les-francais-%C2%B7-bfmtv-02-06-26/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-06-02. La page est publiée le 2026-06-04 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2061825167815283044"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-06-02-franceinfo",
+      "handle": "dupontaignan",
+      "date": "2026-06-02",
+      "outletId": "franceinfo",
+      "title": "L'Invité Politique (franceinfo TV)",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/psg-la-prison-ferme-seule-reponse-pour-mettre-fin-aux-violences-%C2%B7-france-info-tv-02-06-2026/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-06-02. La page est publiée le 2026-06-04 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2061523175519989918"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-06-10-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-06-10",
+      "outletId": "cnews",
+      "title": "La Grande Interview avec Laurence Ferrari (CNEWS et Europe 1)",
+      "sourceUrl": "https://www.dailymotion.com/video/xaeajya",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-06-10 et une mise en ligne le 2026-06-10 06:44 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2064422275697230061",
+        "https://www.debout-la-france.fr/actualite/lyhanna-il-faut-un-referendum-sur-la-peine-de-mort-dans-notre-pays-%C2%B7-cnews-10-06-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-06-14-lci",
+      "handle": "dupontaignan",
+      "date": "2026-06-14",
+      "outletId": "lci",
+      "title": "Le Duel (LCI) : face à Jean-Michel Aphatie",
+      "sourceUrl": "https://www.debout-la-france.fr/actualite/pour-j-m-aphatie-respecter-le-peuple-cest-de-la-demagogie-%C2%B7-lci-14-06-26/",
+      "sourceType": "self-report",
+      "dateEvidence": "Le titre du replay du parti indique la diffusion du 2026-06-14. La page est publiée le 2026-06-17 ; la date retenue est celle de diffusion, pas la mise en ligne. Précision au jour ; horaire non certifié.",
+      "evidence": "Le parti propose un entretien intégral réalisé, au-delà de la seule annonce. Ce compte rendu confirme sa déclaration de participation ; il reste une auto-déclaration du candidat et de son parti.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://x.com/dupontaignan/status/2065871831140372666"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-07-01-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-07-01",
+      "outletId": "bfmtv",
+      "title": "Marschall Truchot : entretien avec Olivier Truchot et Alain Marschall",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/la-macronie-est-contre-la-peine-de-mort-pour-les-meurtriers-mais-pour-leuthanasie-de-nos-aines-%C2%B7-bfmtv-01-07-26/",
+      "sourceType": "self-report",
+      "dateEvidence": "Annonce le 1er juillet à 14h30 pour le soir même à 16h50 ; replay daté BFMTV, 01/07/26 sur le site du candidat. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "Le site du candidat publie l’entretien daté BFMTV, 01/07/26, recoupé par l’annonce du jour dans Marschall Truchot.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": []
+    },
+    {
+      "id": "dupontaignan-2026-07-03-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-07-03",
+      "outletId": "cnews",
+      "title": "La Grande Interview avec Thomas Bonnet (CNEWS et Europe 1)",
+      "sourceUrl": "https://www.dailymotion.com/video/xakt65m",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-07-03 et une mise en ligne le 2026-07-03 06:56 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/2027-tout-est-possible-%C2%B7-cnews-03-07-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-07-22-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-07-22",
+      "outletId": "bfmtv",
+      "title": "Entretien sur les assistantes maternelles illégales à Yerres",
+      "sourceUrl": "https://www.dailymotion.com/video/xar7wqy",
+      "sourceType": "official-replay",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ],
+      "verifiedAt": "2026-10-17",
+      "dateEvidence": "Les métadonnées du compte officiel donnent la date du média (taken_time) et la mise en ligne (created_time) au 22 juillet 2026. La description et la transcription identifient un entretien direct sur les faits récents à Yerres. Précision au jour ; nom du programme et horaire non certifiés.",
+      "evidence": "Le journaliste BFM salue le maire, l’interroge sur place puis le remercie d’avoir répondu. Nicolas Dupont-Aignan décrit les circonstances de l’inspection. Entretien direct établi par la transcription."
+    },
+    {
+      "id": "dupontaignan-2026-07-22-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-07-22",
+      "outletId": "cnews",
+      "title": "Entretien sur les assistantes maternelles illégales à Yerres",
+      "sourceUrl": "https://www.dailymotion.com/video/xar8bj6",
+      "sourceType": "official-replay",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ],
+      "verifiedAt": "2026-10-17",
+      "dateEvidence": "Les métadonnées du compte officiel donnent la date du média (taken_time) et la mise en ligne (created_time) au 22 juillet 2026. La description et la transcription identifient un entretien direct sur les faits récents à Yerres. Précision au jour ; nom du programme et horaire non certifiés.",
+      "evidence": "Le compte officiel CNEWS publie une réponse de Nicolas Dupont-Aignan sur la découverte d’une activité illégale d’assistantes maternelles à Yerres. La transcription présente son explication et sa réaction. Entretien direct établi."
+    },
+    {
+      "id": "dupontaignan-2026-09-08-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-09-08",
+      "outletId": "bfmtv",
+      "title": "BFM Grand Soir : entretien sur les carburants et le pouvoir d’achat",
+      "sourceUrl": "https://www.dailymotion.com/video/xb5jwsq",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-09-08 et une mise en ligne le 2026-09-08 19:38 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/carburants-mettons-fin-au-racket-fiscal-%C2%B7-bfmtv-08-09-2026/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-09-16-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-09-16",
+      "outletId": "cnews",
+      "title": "La Grande Interview avec Laurence Ferrari (CNEWS et Europe 1)",
+      "sourceUrl": "https://www.dailymotion.com/video/xb89aay",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-09-16 et une mise en ligne le 2026-09-16 06:51 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/les-automobilistes-et-retraites-sont-les-vaches-a-lait-du-regime-%C2%B7-cnews-16-09-2026/",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-09-20-lci",
+      "handle": "dupontaignan",
+      "date": "2026-09-20",
+      "outletId": "lci",
+      "title": "Objectif 2027 (LCI et Le Parisien)",
+      "sourceUrl": "https://x.com/dupontaignan/status/2101748228773585241",
+      "sourceType": "self-report",
+      "dateEvidence": "Le résultat indexé de TF1 Info, publié le 20 septembre à 12 h 36, précise qu’il était invité ce dimanche 20 septembre sur LCI. Précision au jour ; heure de diffusion non certifiée.",
+      "evidence": "TF1 Info décrit sa participation à Objectif 2027. Un compte rendu du passage avec replay est aussi archivé dans son tweet du 20 septembre.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.tf1info.fr/politique/en-direct-objectif-2027-suivez-notre-emission-politique-sur-lci-avec-nicolas-dupont-aignan-president-de-debout-la-france-dimanche-20-septembre-2464869.html"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-09-21-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-09-21",
+      "outletId": "bfmtv",
+      "title": "100 % Mabrouk : entretien avec Sonia Mabrouk",
+      "sourceUrl": "https://www.dailymotion.com/video/xbb6x4a",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-09-21 et une mise en ligne le 2026-09-21 18:17 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.dupontaignan.fr/actualite/president-jarreterai-toutes-subventions-a-lukraine-%C2%B7-bfmtv-21-09-26/",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-10-01-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-10-01",
+      "outletId": "bfmtv",
+      "title": "Le Forum BFMTV : intervention sur le baccalauréat et les lycées bloqués",
+      "sourceUrl": "https://www.dailymotion.com/video/xbg51p2",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-10-01 et une mise en ligne le 2026-10-01 20:10 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.bfmtv.com/politique/video-forum-bfmtv-lycees-bloques-au-baccalaureat-il-y-a-aujourd-hui-une-injustice-terrible-entre-les-etablissements-denonce-nicolas-dupont-aignan-candidat-debout-la-france-a-l-election-presidentielle_VN-202610010902.html",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-10-11-cnews",
+      "handle": "dupontaignan",
+      "date": "2026-10-11",
+      "outletId": "cnews",
+      "title": "Le Grand Rendez-vous avec Pierre de Vilno (CNEWS, Europe 1 et Les Échos)",
+      "sourceUrl": "https://www.dailymotion.com/video/xblggpe",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel CNEWS donnent taken_time au 2026-10-11 et une mise en ligne le 2026-10-11 09:59 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.canalplus.com/actualites/le-grand-rendez-vous-emission-du-11-oct-2026/h/32264440_50213",
+        "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-10-15-bfmtv",
+      "handle": "dupontaignan",
+      "date": "2026-10-15",
+      "outletId": "bfmtv",
+      "title": "100 % Mabrouk : entretien avec Sonia Mabrouk",
+      "sourceUrl": "https://www.dailymotion.com/video/xbnznaq",
+      "sourceType": "official-replay",
+      "dateEvidence": "Les métadonnées publiques du compte officiel BFM donnent taken_time au 2026-10-15 et une mise en ligne le 2026-10-15 19:47 UTC. Le titre, la description ou le compte rendu du candidat recoupent la participation ce jour. La mise en ligne seule ne sert pas de date de diffusion. Précision au jour.",
+      "evidence": "Replay ou extrait du diffuseur officiel nommant le candidat. Les extraits du même entretien sont regroupés en une seule participation. Métadonnées intégrales conservées dans le dossier de recherche.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "confirmed",
+      "supportingUrls": [
+        "https://www.rmcplus.fr/video/episode/invitee-segolene-royal-1021151202985",
+        "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url"
+      ]
+    },
+    {
+      "id": "dupontaignan-2026-10-16-franceinfo",
+      "handle": "dupontaignan",
+      "date": "2026-10-16",
+      "outletId": "franceinfo",
+      "title": "L'Invité Politique (franceinfo TV)",
+      "sourceUrl": "https://x.com/dupontaignan/status/2110815473432674385",
+      "sourceType": "self-report",
+      "dateEvidence": "Auto-annonce du compte : « Retrouvez-moi demain, à 07h40, dans L'Invité Politique de franceinfo TV ». Date et heure indiquées par l'intéressé ; aucune confirmation indépendante post-événement n'a été retrouvée. Précision au jour ; heure non certifiée.",
+      "evidence": "Le compte annonce en première personne sa propre participation, avec date, heure et émission précises. Auto-déclaration antérieure au passage ; niveau de preuve inférieur aux passages confirmés par une source du média ou un compte rendu après coup.",
+      "verifiedAt": "2026-10-17",
+      "confirmationStatus": "announced",
+      "supportingUrls": []
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "dupontaignan",
+      "outletId": "tf1",
+      "status": "limited",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 2 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "france2",
+      "status": "limited",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 1 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "france3",
+      "status": "limited",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 0 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "m6",
+      "status": "checked",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 0 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "bfmtv",
+      "status": "limited",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 13 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage. Compte officiel Dailymotion interrogé sur l’année : pagination épuisée, replays et extraits dédupliqués ; mentions par des tiers et homonymes exclus."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "cnews",
+      "status": "checked",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 11 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage. Compte officiel Dailymotion interrogé sur l’année : pagination épuisée, replays et extraits dédupliqués ; mentions par des tiers et homonymes exclus."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "lci",
+      "status": "limited",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 5 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "franceinfo",
+      "status": "limited",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 3 passages documentés après diffusion, 1 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage. Domaine primaire bloqué par robots.txt."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "franceinter",
+      "status": "limited",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 0 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage. Domaine primaire bloqué par robots.txt."
+    },
+    {
+      "handle": "dupontaignan",
+      "outletId": "rtl",
+      "status": "checked",
+      "notes": "Recherche annuelle 17/10/2025-17/10/2026 : 0 passages documentés après diffusion, 0 annonces à confirmer. Index annuels des replays du candidat et du parti dépouillés, recherche ciblée sur le diffuseur. Un résultat absent ne démontre pas une absence de passage."
+    }
+  ],
+  "summary": {
+    "existingRecordsAudited": 33,
+    "totalRecords": 36,
+    "confirmed": 35,
+    "announced": 1,
+    "newConfirmed": 3,
+    "exhaustive": false
+  },
+  "candidates": [
+    {
+      "date": "2026-10-16",
+      "outletId": "franceinfo",
+      "status": "primary-replay-identified-but-blocked",
+      "sourceUrl": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-16-octobre-2026_8210528.html",
+      "supportingUrls": [
+        "https://lacampagne2027.com/candidats/nicolas-dupont-aignan",
+        "https://hamanieh-flash.net/article.php?slug=mobilisation-des-lyceens-sebastien-lecornu-seme-lui-meme-le-chaos-estime-nicolas-dupont-aignan"
+      ],
+      "notes": "Lien exact du replay retrouvé. Deux agrégateurs reproduisent le sommaire attribué à franceinfo daté du 16 octobre et nommant son invité du 7.40. Accès primaire bloqué : aucun visionnage effectué. Conserver en attente ou valider uniquement au niveau des métadonnées avec réserve explicite."
+    },
+    {
+      "date": "2026-09-19",
+      "outletId": "franceinfo",
+      "status": "format-not-established",
+      "sourceUrl": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+      "notes": "Article sur la déclaration de candidature à Yerres ; présence audio/vidéo à l’antenne non établie. Pas de repère."
+    },
+    {
+      "date": "2026-01-31",
+      "outletId": "bfmtv",
+      "status": "direct-participation-not-established",
+      "sourceUrl": "https://www.dailymotion.com/video/x9yxf5c",
+      "notes": "Vidéo intitulée avec plusieurs responsables présents dans un cortège policier. Pas de visionnage ni entretien direct du candidat établi ; pas de repère."
+    }
+  ],
+  "exclusions": [
+    {
+      "sourceUrl": "https://www.rtl.fr/sujet/nicolas-dupont-aignan",
+      "reason": "Entretien du 9 juin 2025 hors période. Résultats récents : mentions, chroniques et sondages, sans entretien établi."
+    },
+    {
+      "sourceUrl": "https://actu.m6.fr/divertissement/cest-ahurissant-les-propos-du-chef-detat-major-des-armees-declenchent-un-vif-debat-dans-tbt9",
+      "reason": "Article du 21 novembre 2025 sur TBT9 de W9 ; mention de sa réaction. Ni passage M6 ni entretien direct établis."
+    },
+    {
+      "sourceUrl": "https://www.debout-la-france.fr/categorie/video/page/5/",
+      "reason": "CNEWS du 12 octobre 2025, LCI du 7 octobre, BFMTV des 5 octobre et 30 septembre hors période annuelle."
+    },
+    {
+      "sourceUrl": "https://www.dailymotion.com/video/xba7axa",
+      "reason": "Extrait de discours à la rentrée politique du 19 septembre, sans interview directe. Les quatre extraits CNEWS de ce discours ne deviennent pas quatre passages invités."
+    },
+    {
+      "sourceUrl": "https://www.dailymotion.com/video/xa38rj6",
+      "reason": "David Lisnard évoque Nicolas Dupont-Aignan : celui qui participe à cet entretien est Lisnard, pas Dupont-Aignan."
+    },
+    {
+      "sourceUrl": "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100",
+      "reason": "Recherche hyphénée élargie par le moteur : résultats Marie-Estelle Dupont sans rapport exclus manuellement ; sur BFMTV, Xavier Dupont de Ligonnès, Antoine Dupont et Sophie Dupont ne sont pas le candidat."
+    }
+  ],
+  "outsideScope": [
+    {
+      "date": "2025-11-21",
+      "outlet": "RMC",
+      "sourceUrl": "https://www.debout-la-france.fr/categorie/video/page/5/"
+    },
+    {
+      "date": "2026-05-19",
+      "outlet": "RMC",
+      "sourceUrl": "https://www.debout-la-france.fr/categorie/video/"
+    },
+    {
+      "date": "2026-05-18",
+      "outlet": "Sud Radio",
+      "sourceUrl": "https://www.debout-la-france.fr/membres/dlfaryupadmin/page/2/"
+    },
+    {
+      "date": "2026-09-20",
+      "outlet": "Sud Radio",
+      "sourceUrl": "https://www.dupontaignan.fr/actualite/"
+    }
+  ],
+  "suggestedCorrections": [
+    {
+      "recordId": "dupontaignan-2026-01-08-cnews",
+      "action": "add",
+      "reason": "Participation directe dans un replay officiel, absente des 33 notes initiales."
+    },
+    {
+      "recordId": "dupontaignan-2026-01-15-cnews",
+      "action": "avoid-ambiguous-source-url",
+      "reason": "Slug DLF 15-01-25 contre titre 15/01/26 ; Europe 1 date explicitement le passage du 15 janvier 2026."
+    },
+    {
+      "recordId": "dupontaignan-2025-11-11-tf1",
+      "action": "confirm-outlet",
+      "reason": "En Toute Franchise existe sur TF1 dans Bonjour! et comme émission LCI distincte. Les passages du 11 novembre et du 24 avril sont bien TF1 ; celui du 19 octobre est LCI."
+    },
+    {
+      "recordId": "dupontaignan-2026-10-16-franceinfo",
+      "action": "primary-replay-review",
+      "reason": "Lien exact retrouvé, contenu bloqué. Sommaire repris par plusieurs agrégateurs : confirmation possible au niveau métadonnées seulement."
+    },
+    {
+      "recordId": "dupontaignan-2025-11-24-bfmtv",
+      "action": "programme-confirmed",
+      "reason": "La description officielle BFM du replay x9ud2as nomme bien BFM Grand Soir. Conserver cet intitulé ; l’ancien agenda DLF est moins probant."
+    },
+    {
+      "recordId": "dupontaignan-2025-12-12-bfmtv",
+      "action": "confirm",
+      "reason": "Extrait officiel BFM x9vlx88, métadonnées du 12 décembre et échange direct transcrit, annonce concordante."
+    },
+    {
+      "recordId": "dupontaignan-2026-07-22-bfmtv",
+      "action": "add",
+      "reason": "Entretien direct sur place, source officielle absent des anciens repères."
+    },
+    {
+      "recordId": "dupontaignan-2026-07-22-cnews",
+      "action": "add",
+      "reason": "Entretien distinct sur CNEWS, source officielle absent des anciens repères."
+    }
+  ],
+  "archivePagesReviewed": [
+    "https://www.dupontaignan.fr/actualite/",
+    "https://www.dupontaignan.fr/actualite/2/",
+    "https://www.debout-la-france.fr/categorie/video/",
+    "https://www.debout-la-france.fr/categorie/video/page/2/",
+    "https://www.debout-la-france.fr/categorie/video/page/3/",
+    "https://www.debout-la-france.fr/categorie/video/page/4/",
+    "https://www.debout-la-france.fr/categorie/video/page/5/",
+    "https://www.debout-la-france.fr/membres/dlfaryupadmin/page/2/",
+    "https://www.debout-la-france.fr/membres/dlfaryupadmin/page/3/",
+    "https://www.debout-la-france.fr/membres/dlfaryupadmin/page/4/",
+    "https://www.debout-la-france.fr/membres/dlfaryupadmin/page/5/",
+    "https://www.debout-la-france.fr/membres/dlfaryupadmin/page/7/"
+  ],
+  "searches": [
+    "site:dupontaignan.fr 2026 LCI",
+    "site:dupontaignan.fr 2025 BFMTV",
+    "site:dupontaignan.fr 2026 CNews",
+    "site:dupontaignan.fr 2026 franceinfo",
+    "Dupont-Aignan 2026 En toute franchise",
+    "Dupont-Aignan 2025 novembre BFMTV",
+    "Dupont-Aignan 2026 RTL",
+    "Dupont-Aignan 2026 France Inter",
+    "site:debout-la-france.fr/actualite/ 2026 BFMTV",
+    "site:debout-la-france.fr/actualite/ 2026 franceinfo",
+    "site:debout-la-france.fr/actualite/ 2025 CNEWS",
+    "site:debout-la-france.fr/actualite/ 2026 LCI",
+    "site:debout-la-france.fr/actualite/ 2026 TF1",
+    "site:debout-la-france.fr/actualite/ 2026 France 3",
+    "site:debout-la-france.fr/actualite/ 2026 M6",
+    "Dupont-Aignan 08/01/26 CNEWS",
+    "site:debout-la-france.fr 12/12/25",
+    "site:debout-la-france.fr 22/04/26",
+    "Dupont-Aignan 16 octobre 2026 franceinfo",
+    "Nicolas Dupont-Aignan 2026 site:franceinfo.fr -sondage -présidentielle",
+    "Nicolas Dupont-Aignan 2026 site:radiofrance.fr invité",
+    "Nicolas Dupont-Aignan 2026 site:rtl.fr invité",
+    "Nicolas Dupont-Aignan 2026 site:canalplus.com interview",
+    "Dupont-Aignan 8 janvier 2026 CNEWS",
+    "Dupont-Aignan 12 décembre 2025 BFM",
+    "Dupont-Aignan 11 novembre 2025 TF1",
+    "Dupont-Aignan 2026 France 2 interview",
+    "Dupont-Aignan 2026 BFMTV interview janvier février août",
+    "Dupont-Aignan 2025 BFMTV décembre",
+    "Dupont-Aignan 2025 LCI octobre novembre décembre",
+    "Dupont-Aignan 2026 La Grande Interview janvier mars",
+    "Dupont-Aignan 28 avril 2026 CNEWS",
+    "Dupont-Aignan 16 octobre 2026 7.40",
+    "Dupont-Aignan 2025 M6 interview",
+    "Dupont-Aignan 2025 France 3 interview octobre novembre décembre"
+  ],
+  "limitations": [
+    "Inventaire documentaire non exhaustif : archives et indexation inégales.",
+    "Le site de campagne contient seulement deux pages dont une très brève ; ancien site du parti dépouillé en complément.",
+    "Catégorie vidéo page 2 : version 2024 périmée restituée par le moteur ; période avril-mai recouverte par pages auteur 2 et 3.",
+    "Accès direct 403 ou robots à plusieurs médias. Métadonnées indexées distinctes de la lecture de la vidéo.",
+    "Un replay proposé après coup par le candidat confirme sa déclaration de participation mais reste une source non indépendante.",
+    "CNEWS-Europe 1 : une seule entrée, Europe 1 hors des dix médias sélectionnés.",
+    "API Dailymotion : compte officiel CNEWS, 91 résultats bruts ; BFMTV, 85 ; franceinfo, 1 faux positif. has_more=false pour les trois. Une pagination épuisée sur cette recherche ne garantit pas l’intégralité des programmes du diffuseur ni une recherche exacte sur un nom hyphéné."
+  ],
+  "apiInventories": [
+    {
+      "account": "CNEWS",
+      "sourceUrl": "https://api.dailymotion.com/user/CNEWS/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+      "response": {
+        "page": 1,
+        "limit": 100,
+        "explicit": false,
+        "total": 91,
+        "has_more": false,
+        "list": [
+          {
+            "id": "xblggpe",
+            "title": "Nicolas Dupont-Aignan : Le Grand Rendez-Vous (Émission du 11/10/2026)",
+            "description": "Pierre de Vilno reçoit Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, dans #LeGrandRDV, en partenariat avec Europe 1 et Les Echos.",
+            "created_time": 1791712779,
+            "taken_time": 1791676800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xblggpe"
+          },
+          {
+            "id": "xblgce6",
+            "title": "Nicolas Dupont-Aignan : «Volodymyr Zelensky est l'obstacle à la paix»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, était l’invité du Grand Rendez-Vous le 11/10/2026, et a évoqué la politique internationale : «Volodymyr Zelensky est l'obstacle à la paix». ",
+            "created_time": 1791712161,
+            "taken_time": 1791676800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xblgce6"
+          },
+          {
+            "id": "xblg6wu",
+            "title": "Nicolas Dupont-Aignan : «L'Union européenne aujourd'hui est en train de nous étrangler»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, était l’invité du Grand Rendez-Vous le 11/10/2026, a évoqué la politique européenne : «L'Union européenne aujourd'hui est en train de nous étrangler». ",
+            "created_time": 1791711555,
+            "taken_time": 1791676800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xblg6wu"
+          },
+          {
+            "id": "xblfyve",
+            "title": "Nicolas Dupont-Aignan : «Je mettrai fin à l'aide à l'Ukraine»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, était l’invité du Grand Rendez-Vous le 11/10/2026, a évoqué le budget de l'Etat : «Je mettrai fin à l'aide à l'Ukraine». ",
+            "created_time": 1791710782,
+            "taken_time": 1791676800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xblfyve"
+          },
+          {
+            "id": "xblfv2e",
+            "title": "Nicolas Dupont-Aignan : «Le programme est simple : suppression du droit du sol»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, était l’invité du Grand Rendez-Vous le 11/10/2026, et est revenu sur l'immigration : «Le programme est simple : suppression du droit du sol, rétablissement des frontières et du délit de clandestinité». ",
+            "created_time": 1791710364,
+            "taken_time": 1791676800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xblfv2e"
+          },
+          {
+            "id": "xblfpui",
+            "title": "Nicolas Dupont-Aignan : «Si on voulait rétablir l'ordre et éviter les blocus, on pourrait le faire»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, était l’invité du Grand Rendez-Vous le 11/10/2026, et est revenu sur les mouvements lycéens : «Si on voulait rétablir l'ordre et éviter les blocus, on pourrait le faire». ",
+            "created_time": 1791709750,
+            "taken_time": 1791676800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xblfpui"
+          },
+          {
+            "id": "xblfnl6",
+            "title": "Nicolas Dupont-Aignan : «Ce n'est plus un mouvement lycéen, c'est un début de guerre civile»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, était l’invité du Grand Rendez-Vous le 11/10/2026, et a évoqué les blocus des lycées : «Ce n'est plus un mouvement lycéen, c'est un début d'émeutes urbaines et de guerre civile». ",
+            "created_time": 1791709457,
+            "taken_time": 1791676800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xblfnl6"
+          },
+          {
+            "id": "xbivgjy",
+            "title": "Marie-Estelle Dupont : «La notion de bien commun n'est transmise ni dans la famille, ni à l'école»",
+            "description": "D'après Marie-Estelle Dupont, psychologue et auteure, les violences peuvent s'expliquer par le fait que l'histoire du pays n'est pas transmise aux enfants. ",
+            "created_time": 1791271971,
+            "taken_time": 1791244800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xbivgjy"
+          },
+          {
+            "id": "xbiupeu",
+            "title": "Marie-Estelle Dupont : «Le chaos est l'écran de fumée qui masque les problèmes de fond»",
+            "description": "Psychologue et auteure, Marie-Estelle Dupont a évoqué les violences commises lors des manifestations lycéennes : «Le chaos est l'écran de fumée qui masque les problèmes de fond». ",
+            "created_time": 1791269087,
+            "taken_time": 1791244800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xbiupeu"
+          },
+          {
+            "id": "xbiuola",
+            "title": "Marie-Estelle Dupont : «C'est une violence minutieusement préparée depuis 30 ans»",
+            "description": "D'après Marie-Estelle Dupont, psychologue et auteure, les violences chez les jeunes peuvent s'expliquer par des problèmes d'éducation et d'instruction.",
+            "created_time": 1791268993,
+            "taken_time": 1791244800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xbiuola"
+          },
+          {
+            "id": "xbcggva",
+            "title": "Marie-Estelle Dupont : «L'enfant n'a ni le pouvoir de séparer ni le pouvoir ne réparer»",
+            "description": "Marie-Estelle Dupont raconte, avec son expertise, comment se séparer sans s'abîmer : «L'enfant n'a ni le pouvoir de séparer ni le pouvoir ne réparer».",
+            "created_time": 1790246374,
+            "taken_time": 1790208000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xbcggva"
+          },
+          {
+            "id": "xbaz9ki",
+            "title": "Marie-Estelle Dupont : «Diviser permet de régner quand on n'a pas de proposition légitime»",
+            "description": "Après sa première convocation en Bleus, Estéban Lepaul a fait l'éloge de la France. Marie-Estelle Dupont, psychologue et auteure, a affirmé : «Fracturer et diviser permet de régner quand on n'a pas de proposition légitime»",
+            "created_time": 1789979484,
+            "taken_time": 1789948800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xbaz9ki"
+          },
+          {
+            "id": "xba7axa",
+            "title": "«Votez pour moi» : Nicolas Dupont-Aignan officialise sa candidature à l'élection présidentielle",
+            "description": "Ce samedi, Nicolas Dupont-Aignan a officialisé sa candidature à l'élection présidentielle de 2027. «Votez pour moi», a lâché le président de Debout la France.",
+            "created_time": 1789831406,
+            "taken_time": 1789776000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xba7axa"
+          },
+          {
+            "id": "xba740m",
+            "title": "Nicolas Dupont-Aignan : «J'irai voir Donald Trump et je suis sûr qu'on s'entendra»",
+            "description": "Lors de sa rentrée politique ce samedi, Nicolas Dupont-Aignan a évoqué la relation entre la France et les États-Unis. «J'irai voir Donald Trump et je suis sûr qu'on s'entendra», a affirmé le président de Debout la France.",
+            "created_time": 1789830766,
+            "taken_time": 1789776000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xba740m"
+          },
+          {
+            "id": "xba6wc6",
+            "title": "UE : «Je ne veux pas fermer la France, je veux la libérer», explique Nicolas Dupont-Aignan",
+            "description": "Ce samedi lors de sa rentrée politique, Nicolas Dupont-Aignan s'est exprimé sur l'Union européenne. «Je ne veux pas fermer la France, je veux la libérer», a assuré le président de Debout la France.",
+            "created_time": 1789830088,
+            "taken_time": 1789776000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xba6wc6"
+          },
+          {
+            "id": "xba6ihm",
+            "title": "Nicolas Dupont-Aignan : «Un pays qui ne maîtrise plus ses frontières ne peut plus gouverner»",
+            "description": "Ce samedi, Nicolas Dupont-Aignan a fait sa rentrée politique à Yerres. «Un pays qui ne maîtrise plus ses frontières, sa monnaie, son budget (...) ne peut plus gouverner et faire le bonheur de ses citoyens», a affirmé l'élu.",
+            "created_time": 1789828726,
+            "taken_time": 1789776000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xba6ihm"
+          },
+          {
+            "id": "xb8a5sm",
+            "title": "«10.000 euros d'assurance-retraite à chaque nouveau-né français», promet Nicolas Dupont-Aignan",
+            "description": "Présidentielle 2027 : «Je verserai 10.000 euros d'assurance-retraite à chaque nouveau-né français», promet Nicolas Dupont-Aignan",
+            "created_time": 1789544450,
+            "taken_time": 1789516800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xb8a5sm"
+          },
+          {
+            "id": "xb89aay",
+            "title": "La grande interview : Nicolas Dupont-Aignan",
+            "description": "Nicolas Dupont-Aignan, candidat à l'élection présidentielle et président de Debout la France, était l’invité de #LaGrandeInterview de Laurence Ferrari dans #LaMatinale sur CNEWS, en partenariat avec Europe 1.",
+            "created_time": 1789541484,
+            "taken_time": 1789516800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xb89aay"
+          },
+          {
+            "id": "xb88zpa",
+            "title": "Nicolas Dupont-Aignan : «Les Français sont appauvris parce qu'on donne de l'argent à l'Ukraine»",
+            "description": "«Les Français sont appauvris parce qu'on donne de l'argent à l'Ukraine», martèle Nicolas Dupont-Aignan, candidat à l'élection présidentielle et président de Debout la France.",
+            "created_time": 1789540385,
+            "taken_time": 1789516800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xb88zpa"
+          },
+          {
+            "id": "xb88xly",
+            "title": "Nicolas Dupont-Aignan : «Si on reste soumis à l'UE, on ne règlera pas les problèmes des Français»",
+            "description": "«Si on reste soumis à cette prison qu'est devenue l'Union européenne, on ne règlera pas les problèmes des Français», estime Nicolas Dupont-Aignan, candidat à l'élection présidentielle et président de Debout la France.",
+            "created_time": 1789540164,
+            "taken_time": 1789516800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xb88xly"
+          },
+          {
+            "id": "xb88tv2",
+            "title": "Nicolas Dupont-Aignan : «Si les Français ne se mobilisent pas, il ne se passera rien»",
+            "description": "Nicolas Dupont-Aignan redoute-t-il un mouvement similaire à celui des Gilets Jaunes ? Le candidat à l'élection présidentielle et président de Debout la France est clair : «Si les Français ne se mobilisent pas, il ne se passera rien».",
+            "created_time": 1789539775,
+            "taken_time": 1789516800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xb88tv2"
+          },
+          {
+            "id": "xb88sh6",
+            "title": "Nicolas Dupont-Aignan : «Le gouvernement étrangle les Français qui travaillent»",
+            "description": "«Le gouvernement étrangle les Français qui travaillent», dénonce Nicolas Dupont-Aignan, candidat à l'élection présidentielle et président de Debout la France, à propos de la hausse des prix des carburants.",
+            "created_time": 1789539628,
+            "taken_time": 1789516800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xb88sh6"
+          },
+          {
+            "id": "xazt1du",
+            "title": "Et si on en parlait (Émission du 22/08/2026)",
+            "description": "Tous les samedis, Romain Desarbres et la psychologue clinicienne Marie-Estelle Dupont décryptent les ressorts psychologiques de notre époque et ouvrent le débat sur les sujets qui préoccupent les Français.",
+            "created_time": 1787410067,
+            "taken_time": 1787356800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xazt1du"
+          },
+          {
+            "id": "xaxzprm",
+            "title": "Et si on en parlait (Émission du 15/08/2026)",
+            "description": "Tous les samedis, Romain Desarbres et la psychologue clinicienne Marie-Estelle Dupont décryptent les ressorts psychologiques de notre époque et ouvrent le débat sur les sujets qui préoccupent les Français.",
+            "created_time": 1786806074,
+            "taken_time": 1786752000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaxzprm"
+          },
+          {
+            "id": "xaw11yi",
+            "title": "La GPA : Et si on en parlait (Émission du 08/08/2026)",
+            "description": "Tous les samedis, Romain Desarbres et la psychologue clinicienne Marie-Estelle Dupont décryptent les ressorts psychologiques de notre époque et ouvrent le débat sur les sujets qui préoccupent les Français.",
+            "created_time": 1786210472,
+            "taken_time": 1786147200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaw11yi"
+          },
+          {
+            "id": "xatyooa",
+            "title": "Retraite : nouvelle vie ou nouvelle inquiétude ? Et si on en parlait (Émission du 01/08/2026)",
+            "description": "Tous les samedis, Romain Desarbres et la psychologue clinicienne Marie-Estelle Dupont décryptent les ressorts psychologiques de notre époque et ouvrent le débat sur les sujets qui préoccupent les Français.",
+            "created_time": 1785596689,
+            "taken_time": 1785542400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xatyooa"
+          },
+          {
+            "id": "xar8bj6",
+            "title": "Nicolas Dupont-Aignan : «J'espère qu'il y aura une punition exemplaire»",
+            "description": "Le maire de Yerres, Nicolas Dupont-Aignan, revient sur la crèche illégale découverte dans sa commune : «J'espère qu'il y aura une punition exemplaire».",
+            "created_time": 1784720680,
+            "taken_time": 1784678400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xar8bj6"
+          },
+          {
+            "id": "xaq7j32",
+            "title": "Et si on en parlait (Émission du 18/07/2026)",
+            "description": "Tous les samedis, Romain Desarbres et la psychologue clinicienne Marie-Estelle Dupont décryptent les ressorts psychologiques de notre époque et ouvrent le débat sur les sujets qui préoccupent les Français.",
+            "created_time": 1784384086,
+            "taken_time": 1784332800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaq7j32"
+          },
+          {
+            "id": "xaoex46",
+            "title": "Et si on en parlait (Émission du 11/07/2026)",
+            "description": "Tous les samedis, Romain Desarbres et la psychologue clinicienne Marie-Estelle Dupont décryptent les ressorts psychologiques de notre époque et ouvrent le débat sur les sujets qui préoccupent les Français.",
+            "created_time": 1783780235,
+            "taken_time": 1783728000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaoex46"
+          },
+          {
+            "id": "xany03y",
+            "title": "Marie-Estelle Dupont : «80% des mineurs ultra-violents ont assisté à de la violence»",
+            "description": "Pour Marie-Estelle Dupont, psychologue et auteure, «80% des mineurs ultra-violents ont assisté à de la violence entre leurs parents, entre 0 et 4 ans».",
+            "created_time": 1783667017,
+            "taken_time": 1783641600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xany03y"
+          },
+          {
+            "id": "xakt65m",
+            "title": "La grande interview : Nicolas Dupont-Aignan",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, était l’invité de #LaGrandeInterview de Thomas Bonnet dans #LaMatinale sur CNEWS, en partenariat avec Europe 1.",
+            "created_time": 1783061798,
+            "taken_time": 1783036800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xakt65m"
+          },
+          {
+            "id": "xakszne",
+            "title": "Nicolas Dupont-Aignan : «On n'a pas le droit de priver les Français de Marine Le Pen»",
+            "description": "<br /><br />Alors que le jour de verdict approche pour M. Le Pen, Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, affirme : «On n'a pas le droit de priver les Français de Marine Le Pen».",
+            "created_time": 1783061068,
+            "taken_time": 1783036800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xakszne"
+          },
+          {
+            "id": "xaksrv6",
+            "title": "Nicolas Dupont-Aignan : «L'État doit reprendre en main la protection de nos enfants»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, sur la protection de nos enfants : «L'État doit reprendre en main la protection de nos enfants». ",
+            "created_time": 1783060237,
+            "taken_time": 1783036800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaksrv6"
+          },
+          {
+            "id": "xaksoz2",
+            "title": "Nicolas Dupont-Aignan : «C'est une loi de mort»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, souhaite un référendum sur la loi créant un droit à l’aide à mourir : «C'est une loi de mort». ",
+            "created_time": 1783059934,
+            "taken_time": 1783036800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaksoz2"
+          },
+          {
+            "id": "xaksm06",
+            "title": "Nicolas Dupont-Aignan : «Il y a eu une incapacité à anticiper»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, dénonce une gestion défaillante de la canicule : «Il y a eu une incapacité à anticiper». ",
+            "created_time": 1783059634,
+            "taken_time": 1783036800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaksm06"
+          },
+          {
+            "id": "xaeajya",
+            "title": "La grande interview : Nicolas Dupont-Aignan",
+            "description": "Nicolas Dupont-Aignan, candidat à l'élection présidentielle et président de Debout la France, était l’invité de #LaGrandeInterview de Laurence Ferrari dans #LaMatinale sur CNEWS, en partenariat avec Europe 1.",
+            "created_time": 1781073893,
+            "taken_time": 1781049600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaeajya"
+          },
+          {
+            "id": "xaeajay",
+            "title": "Nicolas Dupont-Aignan : «Rester aujourd'hui dans l'UE, c'est la fin de la France»",
+            "description": "«Rester aujourd'hui dans l'UE, c'est la fin de la France», martèle Nicolas Dupont-Aignan. Il a appel à un choix de sortir ou rester dans l'UE. ",
+            "created_time": 1781073481,
+            "taken_time": 1781049600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaeajay"
+          },
+          {
+            "id": "xaeaisi",
+            "title": "Nicolas Dupont-Aignan : «Si l'Ukraine adhère, la France entre en guerre contre la Russie»",
+            "description": "Nicolas Dupont-Aignan, candidat à l'élection présidentielle et président de Debout la France, sur le conflit entre l'Ukraine et la Russie : «Si l'Ukraine adhère, la France entre en guerre contre la Russie». ",
+            "created_time": 1781073238,
+            "taken_time": 1781049600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaeaisi"
+          },
+          {
+            "id": "xaeahvq",
+            "title": "Nicolas Dupont-Aignan : «Les Français ne supportent plus cette caste qui reste au pouvoir»",
+            "description": "«Les Français ne supportent plus cette caste qui reste au pouvoir», constate Nicolas Dupont-Aignan. Pour lui, les Français ne supportent plus la politique. ",
+            "created_time": 1781072945,
+            "taken_time": 1781049600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaeahvq"
+          },
+          {
+            "id": "xaeahe6",
+            "title": "Nicolas Dupont-Aignan : «C'est une faillite liée au désintérêt permanent depuis vingt ans»",
+            "description": "Nicolas Dupont-Aignan, candidat à l'élection présidentielle et président de Debout la France, constate une faille de l'État et un manque de moyens judiciaires : «C'est une faillite liée au désintérêt permanent depuis vingt ans de certains dirigeants politiques». ",
+            "created_time": 1781072842,
+            "taken_time": 1781049600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaeahe6"
+          },
+          {
+            "id": "xaeage2",
+            "title": "Nicolas Dupont-Aignan : «Si on continue comme ça, les parents vont faire justice eux-mêmes»",
+            "description": "Nicolas Dupont-Aignan, candidat à l'élection présidentielle et président de Debout la France, pointe les défaillances de la justice : «Si on continue comme ça, les parents vont faire justice eux-mêmes». ",
+            "created_time": 1781072568,
+            "taken_time": 1781049600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaeage2"
+          },
+          {
+            "id": "xaeafyu",
+            "title": "Nicolas Dupont-Aignan : «Il faut un référendum sur le rétablissement de la peine de mort»",
+            "description": "Nicolas Dupont-Aignan exprime sur indignation suite au meurtre de Lyhanna : «Il faut un référendum sur le rétablissement de la peine de mort».",
+            "created_time": 1781072436,
+            "taken_time": 1781049600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xaeafyu"
+          },
+          {
+            "id": "xad5274",
+            "title": "Joachim Le Floch-Imad : «Le nom de Xavier Dupont de Ligonnès devient un motif de plaisanterie»",
+            "description": "L'essayiste Joachim Le Floch-Imad était l'invité de L'Heure des Pros, sur CNEWS, ce jeudi 4 juin. Il est revenu sur la diffusion d’un faux témoignage dans l'émission «Appel à témoins».  «Je suis assez gêné de voir que le nom de Xavier Dupont de Ligonnès est de plus en plus réduit à un motif de plaisanterie», a-t-il déploré.",
+            "created_time": 1780561878,
+            "taken_time": 1780531200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xad5274"
+          },
+          {
+            "id": "xacwnbi",
+            "title": "Monseigneur Bruno Valentin : «J'ai saisi le directeur général et le président de l'ARCOM»",
+            "description": "Invité de l'émission 100% Frontières, Monseigneur Bruno Valentin annonce avoir «saisi le directeur général et le président de l'ARCOM». Il déplore que son nom ait été associé à un faux témoignage dans l'affaire Xavier Dupont de Ligonnès.",
+            "created_time": 1780479990,
+            "taken_time": 1780444800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xacwnbi"
+          },
+          {
+            "id": "xacwmyu",
+            "title": "Monseigneur Bruno Valentin : «J'ai été abasourdi en tant que citoyen plutôt qu'évêque»",
+            "description": "Monseigneur Bruno Valentin, évêque de Carcassonne est revenu sur l'interview de M6 du faux prêtre qui aurait confessé Xavier Dupont de Ligonnès : «J'ai été abasourdi en tant que citoyen plutôt qu'évêque». dans #100Frontieres",
+            "created_time": 1780479703,
+            "taken_time": 1780444800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xacwmyu"
+          },
+          {
+            "id": "xacwluw",
+            "title": "Georges Fenech : «Cette piste religieuse me parait intéressante»",
+            "description": "Intervenant de l'émission 100% Frontières, l'ancien magistrat Georges Fenech estime que la «piste religieuse» est «intéressante» en ce qui concerne l'affaire Xavier Dupont de Ligonnès.",
+            "created_time": 1780479235,
+            "taken_time": 1780444800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xacwluw"
+          },
+          {
+            "id": "xacwk6w",
+            "title": "Jules Laurans résume le dernier rebondissement de l'affaire Xavier Dupont de Ligonnès",
+            "description": "Intervenant dans l'émission 100% Frontières, le journaliste Jules Laurans résume le dernier rebondissement de l'affaire Xavier Dupont de Ligonnès.<br />",
+            "created_time": 1780478498,
+            "taken_time": 1780444800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xacwk6w"
+          },
+          {
+            "id": "xacw55e",
+            "title": "Arnaud Wadjik fait le point sur l'affaire Xavier Dupont de Ligonnès",
+            "description": "Intervenant dans l'émission L'Heure des Pros, le journaliste Arnaud Wadjik fait le point sur l'affaire Xavier Dupont de Ligonnès.",
+            "created_time": 1780472223,
+            "taken_time": 1780444800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xacw55e"
+          },
+          {
+            "id": "xab93fe",
+            "title": "Marie-Estelle Dupont : «Un bébé n'est pas une marchandise, il n'y a pas de GPA éthique»",
+            "description": "Alors que le candidat à l’élection présidentielle Gabriel Attal ne veut «pas occulter» le débat sur la gestation pour autrui, la psychologue Marie-Estelle Dupont estime : «Un bébé n'est pas une marchandise, il n'y a pas de GPA éthique».",
+            "created_time": 1779788976,
+            "taken_time": 1779753600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xab93fe"
+          },
+          {
+            "id": "xab8nwq",
+            "title": "Marie-Estelle Dupont : «En matière d'éducation, notre société a démissionné»",
+            "description": "Vivons-nous dans une société incapable de protéger ses enfants ? Alors que le nombre de tentatives d’homicide a explosé de 178%, la psychologue Marie-Estelle Dupont revient sur ce phénomène : «En matière d'éducation, notre société a démissionné».",
+            "created_time": 1779778839,
+            "taken_time": 1779753600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xab8nwq"
+          },
+          {
+            "id": "xa7xgkw",
+            "title": "Le Grand Rendez-Vous (Émission du 03/05/2026)",
+            "description": "Pierre de Vilno reçoit Nicolas Dupont-Aignan, président de Debout la France et candidat à la présidentielle, dans #LeGrandRDV, en partenariat avec Europe 1 et Les Echos.",
+            "created_time": 1777799471,
+            "taken_time": 1777766400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa7xgkw"
+          },
+          {
+            "id": "xa7xgm0",
+            "title": "Nicolas Dupont-Aignan exprime sa vision sur l'immigration",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France : «Un pays qui ne maîtrise pas ses frontières, ne pourra pas résoudre le problème migratoire».",
+            "created_time": 1777799235,
+            "taken_time": 1777766400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa7xgm0"
+          },
+          {
+            "id": "xa7xeyg",
+            "title": "Nicolas Dupont-Aignan : «Le macronisme c'est l'arrogance et le mépris permanent»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France : «Le macronisme c'est l'arrogance et le mépris permanent»",
+            "created_time": 1777798125,
+            "taken_time": 1777766400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa7xeyg"
+          },
+          {
+            "id": "xa7xeaw",
+            "title": "Nicolas Dupont-Aignan : «Les Français travailleront, le jour où on fera le ménage»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France : «Les Français travailleront, le jour où on fera le ménage».",
+            "created_time": 1777797646,
+            "taken_time": 1777766400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa7xeaw"
+          },
+          {
+            "id": "xa7xdkm",
+            "title": "Nicolas Dupont-Aignan : «La France peut libérer les peuples et reconstruire une Europe légère»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France : «La France peut libérer les peuples et reconstruire une Europe légère où chaque nation est libre».",
+            "created_time": 1777797123,
+            "taken_time": 1777766400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa7xdkm"
+          },
+          {
+            "id": "xa7xcus",
+            "title": "Nicolas Dupont-Aignan : «Jean-Luc-Mélenchon se nourrit de l'impuissance publique»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France : «Jean-Luc-Mélenchon se nourrit de l'impuissance publique, de la disparition du politique et de l'espérance». ",
+            "created_time": 1777796687,
+            "taken_time": 1777766400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa7xcus"
+          },
+          {
+            "id": "xa7xc2q",
+            "title": "Nicolas Dupont-Aignan : «Depuis 30 ans, on gouverne contre le peuple, on soumet le pays»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France : «Depuis 30 ans, on gouverne contre le peuple, on soumet le pays». ",
+            "created_time": 1777796088,
+            "taken_time": 1777766400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa7xc2q"
+          },
+          {
+            "id": "xa7xbsu",
+            "title": "Nicolas Dupont-Aignan : «Nos dirigeants politiques ont abandonné»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France : «Nos dirigeants politiques, qu'ils soient de gauche ou de droite, ont abandonné dans leurs têtes».",
+            "created_time": 1777795881,
+            "taken_time": 1777766400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa7xbsu"
+          },
+          {
+            "id": "xa6bb88",
+            "title": "Nicolas Dupont-Aignan : «Je veux dire aux Français : réveillez-vous»",
+            "description": "Nicolas Dupont-Aignan : «Je veux dire aux Français : réveillez-vous», dans #HDPros<br /><br />",
+            "created_time": 1776845929,
+            "taken_time": 1776816000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa6bb88"
+          },
+          {
+            "id": "xa6bacu",
+            "title": "Nicolas Dupont-Aignan : «Il faut revenir à une Europe intergouvernementale»",
+            "description": "Nicolas Dupont-Aignan publie son nouveau livre «2027, la liberté ou la mort» : «Il faut revenir à une Europe intergouvernementale», dans #HDPros<br /><br />",
+            "created_time": 1776845543,
+            "taken_time": 1776816000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa6bacu"
+          },
+          {
+            "id": "xa6811q",
+            "title": "L'affaire Xavier Dupont de Ligonnès en 5 dates clés",
+            "description": "Le 21 avril 2011, il y a 15 ans, les corps de la femme et des enfants de Xavier Dupont de Ligonnès étaient retrouvés sous la terrasse de la maison familiale. Voici les 5 dates clés de cette affaire.",
+            "created_time": 1776786886,
+            "taken_time": 1776729600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa6811q"
+          },
+          {
+            "id": "xa628ek",
+            "title": "Bruno de Stabenrath : «J'ai la conviction que Xavier Dupont de Ligonnès est vivant»",
+            "description": "Bruno de Stabenrath, créateur de la série de conférences \"Crimes et Destins Brisés\" et ami de Xavier Dupont de Ligonnès : «J'ai la conviction que Xavier Dupont de Ligonnès est vivant».",
+            "created_time": 1776673869,
+            "taken_time": 1776643200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa628ek"
+          },
+          {
+            "id": "xa3fpd4",
+            "title": "Jacques Pradel : «Mon hypothèse est qu’il se soit suicidé, en se jetant dans un puits»",
+            "description": "Le journaliste d'investigation Jacques Pradel était l'invité de l'Heure des Pros, sur CNEWS, ce vendredi 26 mars. Il est revenu sur l'affaire Xavier Dupont de Ligonnès. «Mon hypothèse est qu’il se soit suicidé, en se jetant dans un puits», a-t-il avancé.",
+            "created_time": 1774604280,
+            "taken_time": 1774569600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa3fpd4"
+          },
+          {
+            "id": "xa3e3x4",
+            "title": "Amaury Bucco : «Il y aura des rebondissements éternels»",
+            "description": "Amaury Bucco alerte sur l’affaire «passionnante» de Xavier Dupont de Ligonnès : «Il y aura des rebondissements éternels tant qu’on n'aura pas la certitude qu’il est mort».",
+            "created_time": 1774558263,
+            "taken_time": 1774483200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa3e3x4"
+          },
+          {
+            "id": "xa38qlq",
+            "title": "La grande interview : Nicolas Dupont-Aignan",
+            "description": "Le président de Debout la France et candidat à la présidentielle Nicolas Dupont-Aignan était l’invité de #LaGrandeInterview de Laurence Ferrari dans #LaMatinale sur CNEWS, en partenariat avec Europe 1.",
+            "created_time": 1774424899,
+            "taken_time": 1774396800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa38qlq"
+          },
+          {
+            "id": "xa38pom",
+            "title": "Nicolas Dupont-Aignan : «Mon projet est clair : c’est la rupture avec l’Union européenne»",
+            "description": "Le président de Debout la France et candidat à la présidentielle Nicolas Dupont-Aignan était l’invité de La Grande interview sur CNEWS, ce mercredi 25 mars. Il est revenu sur les grandes lignes de son projet pour l'élection présidentielle à venir : «Mon projet est clair : c’est la rupture avec l’Union européenne».<br /><br />",
+            "created_time": 1774424132,
+            "taken_time": 1774396800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa38pom"
+          },
+          {
+            "id": "xa38pa8",
+            "title": "Nicolas Dupont-Aignan : «Le gouvernement rackette les Français sur la crise»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à la présidentielle, était invité de La Grande Interview sur CNEWS ce mercredi 25 mars. Il est revenu sur la hausse des prix du carburant liée à la crise au Moyen-Orient. «Le gouvernement rackette les Français sur la crise», a-t-il dénoncé.",
+            "created_time": 1774423896,
+            "taken_time": 1774396800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa38pa8"
+          },
+          {
+            "id": "xa38ouk",
+            "title": "Nicolas Dupont-Aignan : «La droite doit davantage défendre la France»",
+            "description": "Le président de Debout la France et candidat à la présidentielle Nicolas Dupont-Aignan était invité de La Grande Interview sur CNEWS ce mercredi 25 mars. Il est revenu sur les divisions politiques à droite. «La droite doit davantage défendre la France», a-t-il martelé.",
+            "created_time": 1774423623,
+            "taken_time": 1774396800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa38ouk"
+          },
+          {
+            "id": "xa38omk",
+            "title": "Nicolas Dupont-Aignan : «Gabriel Attal a fait alliance avec LFI aux législatives de 2024 »",
+            "description": "Le président de Debout la France et candidat à la présidentielle Nicolas Dupont-Aignan était l’invité de La Grande interview sur CNEWS, ce mercredi 25 mars. Il est revenu sur les alliances durant l'entre-deux-tour des élections législatives de 2024 : «Gabriel Attal a fait alliance avec LFI aux législatives de 2024. Si LFI est là, c'est parce que des LR et des macronistes leur ont servi la soupe».",
+            "created_time": 1774423503,
+            "taken_time": 1774396800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa38omk"
+          },
+          {
+            "id": "xa38ohc",
+            "title": "Nicolas Dupont-Aignan : «Si j’étais ministre, je mettrais des effectifs de police à Saint-Denis»",
+            "description": "Le président de Debout la France et candidat à la présidentielle Nicolas Dupont-Aignan était invité de La Grande Interview sur CNEWS ce mercredi 25 mars. Il est revenu sur le désarmement de la police à Saint-Denis. «Si j’étais ministre de l’Intérieur, je mettrais des effectifs de police nationale à Saint-Denis», a-t-il martelé.",
+            "created_time": 1774423429,
+            "taken_time": 1774396800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa38ohc"
+          },
+          {
+            "id": "xa38nxe",
+            "title": "Nicolas Dupont-Aignan : «C’est une minorité agissante qui terrorise ses adversaires»",
+            "description": "Le président de Debout la France et candidat à la présidentielle Nicolas Dupont-Aignan était invité de La Grande Interview sur CNEWS ce mercredi 25 mars. Il a réagi aux différents épisodes d’intimidations subies par des élus après les élections municipales. «C’est une minorité agissante qui terrorise ses adversaires», a-t-il dénoncé.",
+            "created_time": 1774423136,
+            "taken_time": 1774396800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa38nxe"
+          },
+          {
+            "id": "xa0ssao",
+            "title": "Gilles Galloux : «Des éléments laissent penser qu’il était vivant la semaine aprèssa disparition»",
+            "description": "Gilles Galloux, ancien enquêteur cybercrime de la police judiciaire, était invité de Punchline sur CNEWS ce jeudi 26 février. «Des éléments laissent penser que Xavier Dupont de Ligonnès était en vie la semaine suivant sa disparition», a-t-il détaillé. ",
+            "created_time": 1772128637,
+            "taken_time": 1772064000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa0ssao"
+          },
+          {
+            "id": "xa0p70c",
+            "title": "Gilles Galloux : «J'ai décidé de reprendre mon enquête sur le terrain»",
+            "description": "L'ancien enquêteur cybercrime de la police judiciaire, Gilles Galloux, revient sur son enquête plus de 15 ans après l'affaire Xavier Dupont de Ligonnès. Il détaille : «J'ai décidé de reprendre mon enquête sur le terrain», dans La Matinale sur CNEWS.",
+            "created_time": 1772010822,
+            "taken_time": 1771977600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa0p70c"
+          },
+          {
+            "id": "xa0khwg",
+            "title": "Gilles Galloux : «Avant de partir, Xavier Dupont de Ligonnès a la certitude que personne ne le retrouvera»",
+            "description": "L'ancien enquêteur cybercrime de la police judiciaire Gilles Galloux était l’invité de L'Heure des Pros ce lundi 23 février sur CNEWS. Il s’est exprimé au sujet de l'affaire Xavier Dupont de Ligonnès : «Avant de partir, Xavier Dupont de Ligonnès a la certitude que personne ne le retrouvera»",
+            "created_time": 1771840485,
+            "taken_time": 1771804800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/xa0khwg"
+          },
+          {
+            "id": "x9zzrp8",
+            "title": "Léon Papin-Dupont : Les Belles Figures de l'Histoire (Émission du 14/02/2026)",
+            "description": "Retour chronologique sur les grands personnages de l'histoire",
+            "created_time": 1771065907,
+            "taken_time": 1771027200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9zzrp8"
+          },
+          {
+            "id": "x9zhuuo",
+            "title": "Violence des mineurs : l'appel de Marie-Estelle Dupont à un sursaut radical",
+            "description": "Pour la psychologue Marie-Estelle Dupont, la multiplication des attaques au couteau dans les écoles, à l’image de l’enseignante poignardée par un de ses élèves à Sanary-sur-Mer, serait liée au délitement du cadre d’autorité et à l’explosion des violences intrafamiliales. ",
+            "created_time": 1770553347,
+            "taken_time": 1770508800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9zhuuo"
+          },
+          {
+            "id": "x9zafvk",
+            "title": "Marie-Estelle Dupont : «Il y a moins de points d’appui pour une éducation qui structure»",
+            "description": "Marie-Estelle Dupont : «Il y a de moins en moins de points d’appui pour une éducation qui structure de l’intérieur», à propos de la violence des mineurs, dans #LaMatinale",
+            "created_time": 1770277397,
+            "taken_time": 1770249600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9zafvk"
+          },
+          {
+            "id": "x9xt1x8",
+            "title": "Marie-Estelle Dupont : «Les jeunes sont bercés dans l’idée que tout est foutu»",
+            "description": "Marie-Estelle Dupont était l'invitée de L’Heure des Pros sur Cnews, ce jeudi 15 janvier. «Les jeunes sont bercés dans l’idée qu’il y a une crise écologique, économique, géopolitique, institutionnelle ; que tout est foutu», a lancé la psychologue pour expliquer la baisse de naissances enregistrées en 2025 ",
+            "created_time": 1768466998,
+            "taken_time": 1768435200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9xt1x8"
+          },
+          {
+            "id": "x9xsxty",
+            "title": "Nicolas Dupont-Aignan : «La vie politique, c’est de la bouillie pour chat»",
+            "description": "Nicolas Dupont-Aignan était l’invité de La Grande Interview sur Cnews et Europe 1, ce jeudi 15 janvier. «Les Français sont écœurés de la vie politique, c’est de la bouillie pour chat», a lancé le président Debout La France, revenant sur la crise politique et de confiance que traverse actuellement le pays. ",
+            "created_time": 1768462419,
+            "taken_time": 1768435200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9xsxty"
+          },
+          {
+            "id": "x9xsxfa",
+            "title": "Nicolas Dupont-Aignan : «Avant d'envoyer des troupes en Ukraine, il faut reconstruire notre justice»",
+            "description": "Nicolas Dupont-Aignan était l’invité de La Grande Interview sur Cnews et Europe 1, ce jeudi 15 janvier. «Avant d'envoyer des troupes en Ukraine, il faut reconstruire notre justice», a lancé le président Debout La France, revenant sur la situation dans laquelle se trouve la justice française : surchargée, dépassée. ",
+            "created_time": 1768461910,
+            "taken_time": 1768435200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9xsxfa"
+          },
+          {
+            "id": "x9xsx74",
+            "title": "Nicolas Dupont-Aignan : «L’Union européenne a suicidé l’Europe»",
+            "description": "Nicolas Dupont-Aignan était l’invité de La Grande Interview sur Cnews et Europe 1, ce jeudi 15 janvier. «L’Union européenne a suicidé l’Europe», a lancé le président de Debout La France, revenant sur la situation géopolitique mondiale et l’impasse dans laquelle se trouve l’UE face aux États-Unis, la Chine et la Russie",
+            "created_time": 1768461697,
+            "taken_time": 1768435200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9xsx74"
+          },
+          {
+            "id": "x9xsx0w",
+            "title": "Nicolas Dupont-Aignan sur l’envoie de troupes françaises au Groenland : «C’est du folklore»",
+            "description": "Nicolas Dupont-Aignan était l’invité de La Grande Interview sur Cnews et Europe 1, ce jeudi 15 janvier. «C’est du folklore», a lancé le président Debout La France, revenant sur l’envoi de troupes françaises au Groenland dans le cadre d’une opération militaire d’entrainement conjointe avec d’autres pays européens",
+            "created_time": 1768461503,
+            "taken_time": 1768435200,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9xsx0w"
+          },
+          {
+            "id": "x9xs4qq",
+            "title": "Marie-Estelle Dupont : «L'enfant est vu comme une contrainte»",
+            "description": "Psychologue et auteure, Marie-Estelle Dupont s'est exprimée sur la baisse de natalité en France : «L'enfant est vu comme une contrainte».",
+            "created_time": 1768425680,
+            "taken_time": 1768348800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9xs4qq"
+          },
+          {
+            "id": "x9xc0ji",
+            "title": "Nicolas Dupont-Aignan : «Nos dirigeants sont en train de suicider leur propre pays»",
+            "description": "«Nos dirigeants sont en train de suicider leur propre pays», s'est indigné Nicolas Dupont-Aignan au sujet de la colère des agriculteurs.",
+            "created_time": 1767867391,
+            "taken_time": 1767830400,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9xc0ji"
+          },
+          {
+            "id": "x9wx2bi",
+            "title": "Marie-Estelle Dupont : «Le cerveau, pour se protéger, a des réflexes d'anesthésie»",
+            "description": "Dans la Matinale, sur CNEWS, la psychologue Marie-Estelle Dupont explique que «le cerveau, pour se protéger, a des réflexes d'anesthésie», en revenant sur le choc psychologique subi par les victimes et les témoins de l'incendie de Crans-Montana.",
+            "created_time": 1767341039,
+            "taken_time": 1767312000,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9wx2bi"
+          },
+          {
+            "id": "x9w42j2",
+            "title": "La psychologue Marie-Estelle Dupont : «Vous êtes votre seul compagnon pour toute la vie»",
+            "description": "La psychologue Marie-Estelle Dupont : «Vous êtes votre seul compagnon pour toute la vie.»",
+            "created_time": 1766259813,
+            "taken_time": 1766188800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9w42j2"
+          },
+          {
+            "id": "x9w42da",
+            "title": "La psychologue Marie-Estelle Dupont : «L'homme moderne compte mais ne raconte plus»",
+            "description": "La psychologue Marie-Estelle Dupont : «L'homme moderne compte mais ne raconte plus.»",
+            "created_time": 1766259606,
+            "taken_time": 1766188800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9w42da"
+          },
+          {
+            "id": "x9uu9mc",
+            "title": "Nicolas Dupont-Aignan : «Il faut destituer Emmanuel Macron»",
+            "description": "Nicolas Dupont-Aignan : «Il faut destituer Emmanuel Macron», dans #LaGrandeInterview",
+            "created_time": 1764660546,
+            "taken_time": 1764633600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9uu9mc"
+          },
+          {
+            "id": "x9uu8zu",
+            "title": "Nicolas Dupont-Aignan : «Je dénonce cette censure implicite qui a été jusqu’à fermer une chaîne TV»",
+            "description": "Nicolas Dupont-Aignan : «Je dénonce cette censure implicite qui a été jusqu’à fermer une chaîne de télévision», dans #LaGrandeInterview",
+            "created_time": 1764660171,
+            "taken_time": 1764633600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9uu8zu"
+          },
+          {
+            "id": "x9uu8ha",
+            "title": "Nicolas Dupont-Aignan, président Debout la France : «Emmanuel Macron fait tout pour saboter la paix»",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France : «Emmanuel Macron fait tout pour saboter la paix», dans #LaGrandeInterview",
+            "created_time": 1764659856,
+            "taken_time": 1764633600,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9uu8ha"
+          },
+          {
+            "id": "x9u4q0g",
+            "title": "Clara Dupont-Monod : L'Heure des Livres (Émission du 20/11/2025)",
+            "description": "Anne Fulda reçoit Clara Dupont-Monod pour son livre «La Confrontation» dans #HDLivres",
+            "created_time": 1763646814,
+            "taken_time": 1763596800,
+            "owner.screenname": "CNEWS",
+            "url": "https://www.dailymotion.com/video/x9u4q0g"
+          }
+        ]
+      }
+    },
+    {
+      "account": "BFMTV",
+      "sourceUrl": "https://api.dailymotion.com/user/BFMTV/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+      "response": {
+        "page": 1,
+        "limit": 100,
+        "explicit": false,
+        "total": 85,
+        "has_more": false,
+        "list": [
+          {
+            "id": "xbox1k6",
+            "title": "Une enquête ouverte après un incendie dans un bâtiment de l'université de Rouen-Normandie",
+            "description": "Un incendie s'est déclaré dans la nuit dans un bâtiment du campus de Mont-Saint-Aignan. Il a été maîtrisé deux heures plus tard.",
+            "created_time": 1792215536,
+            "taken_time": 1792195200,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbox1k6"
+          },
+          {
+            "id": "xbnznaq",
+            "title": "Nicolas Dupont-Aignan invité de Sonia Mabrouk - 15/10",
+            "description": "Retrouvez le replay de 100% Mabrouk sur BFMTV.",
+            "created_time": 1792093644,
+            "taken_time": 1792022400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbnznaq"
+          },
+          {
+            "id": "xbnzhk2",
+            "title": "Nicolas Dupont-Aignan (Debout la France) qualifie l'Union européenne \"d'organisation malfaisante\"",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l’élection présidentielle, était l’invité de BFMTV ce jeudi 15 octobre.",
+            "created_time": 1792092858,
+            "taken_time": 1792022400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbnzhk2"
+          },
+          {
+            "id": "xbnz2lq",
+            "title": "Parcoursup: \"C'est l'abandon de la méritocratie\", estime Nicolas Dupont-Aignan, candidat Debout la France à l'élection présidentielle",
+            "description": "Nouvelle journée de mobilisation de la jeunesse ce jeudi 15 octobre, à deux jours de la grande manifestation nationale du 17 octobre et des vacances de la Toussaint. De nouveaux blocages de lycées et d'universités sont en cours depuis ce matin.",
+            "created_time": 1792091242,
+            "taken_time": 1792022400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbnz2lq"
+          },
+          {
+            "id": "xbnyzam",
+            "title": "Nicolas Dupont-Aignan, candidat Debout la France à l'élection présidentielle, estime que les policiers \"sont totalement abandonnés par leur hiérarchie\"",
+            "description": "Nicolas Dupont-Aignan, président  de Debout la France et candidat à l’élection présidentielle, était l’invité de BFMTV ce jeudi 15 octobre.",
+            "created_time": 1792090904,
+            "taken_time": 1792022400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbnyzam"
+          },
+          {
+            "id": "xbnyyb2",
+            "title": "Nicolas Dupont-Aignan, candidat Debout la France à la présidentielle, qualifie l'Union européenne \"d'organisation malfaisante\"",
+            "description": "Nicolas Dupont-Aignan, candidat Debout la France à l'élection présidentielle, était l'invité de Sonia Mabrouk.",
+            "created_time": 1792090801,
+            "taken_time": 1792022400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbnyyb2"
+          },
+          {
+            "id": "xbg51p2",
+            "title": "FORUM BFMTV -  Lycées bloqués: au baccalauréat, \"il y a aujourd'hui une injustice terrible entre les établissements\", dénonce Nicolas Dupont-Aignan, candidat \"Debout la France\" à l'élection présidentielle",
+            "description": "BFMTV propose un nouveau numéro du FORUM BFMTV: \"Taxes, lycées : le jeudi de la colère\" présenté par Maxime Switek. La chaîne consacre une soirée spéciale pour permettre à des citoyens, des personnalités politiques et des spécialistes d'échanger en direct sur l'inflation mais aussi sur le mouvement lycéen en cours depuis plusieurs jours.",
+            "created_time": 1790885447,
+            "taken_time": 1790812800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbg51p2"
+          },
+          {
+            "id": "xbb6x4a",
+            "title": "Menace russe: \"L'arme de dissuasion nucléaire ne doit pas être partagée\", estime Nicolas Dupont-Aignan, candidat Debout le France à l'élection présidentielle",
+            "description": "La Finlande, voisine de la Russie, a décidé de rejoindre la \"dissuasion nucléaire avancée\" proposée par la France, devenant le dixième partenaire européen à se joindre à l'initiative lancée en début d'année par Emmanuel Macron.",
+            "created_time": 1790014636,
+            "taken_time": 1789948800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbb6x4a"
+          },
+          {
+            "id": "xbb6jwy",
+            "title": "Menace russe: \"La France n'a pas les moyens de se lancer dans cette folie\", fustige Nicolas Dupont-Aignan, candidat à l'éle ction présidentielle",
+            "description": "Alors qu'une crise énergétique est en cours dans le monde notamment à cause de la guerre au Moyen-Orient, la grogne monte dans le pays. Des réunions autour des prix des carburants sont organisées à Matignon ce lundi 21 septembre par Sébastien Lecornu, tandis qu'Emmanuel Macron se rend à New York pour l'Assemblée générale des Nations unies.",
+            "created_time": 1790011971,
+            "taken_time": 1789948800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xbb6jwy"
+          },
+          {
+            "id": "xba2g2y",
+            "title": "\"Nous appelons les Français à se mobiliser\", lance Fabien Roussel, candidat PCF à la présidentielle",
+            "description": "Jordan Bardella se rend ce samedi 19 septembre dans l'Oise, à Breteuil-sur-Noye, pour participer à la \"rentrée picarde\" du Rassemblement national. Les Rencontres de la gauche s'ouvrent à Bram, dans l'Aude, avec notamment Raphaël Glucksmann et Jérôme Guedj. De son côté, Nicolas Dupont-Aignan fait sa rentrée politique avec sa \"Fête de la liberté\". Le communiste Fabien Roussel est attendu sur une manifestation contre la vie chère à Senlis.<br /><br />",
+            "created_time": 1789805310,
+            "taken_time": 1789776000,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xba2g2y"
+          },
+          {
+            "id": "xb5kkdm",
+            "title": "Nicolas Dupont-Aignan, candidat à présidentielle \"regrette qu'on n'importe plus de gaz russe\"",
+            "description": "Nicolas Dupont-Aignan, candidat \"Debout la France\" à l'élection présidentielle était l'invité de BFMTV ce mardi 8 septembre. ",
+            "created_time": 1788899328,
+            "taken_time": 1788825600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xb5kkdm"
+          },
+          {
+            "id": "xb5k306",
+            "title": "Économie: \"Il faut un libéralisme ordonné\", estime Nicolas Dupont-Aignan, candidat à l'élection présidentielle",
+            "description": "Mauvaise nouvelle, les prix des carburants à la pompe continuent d'augmenter en cette rentrée. La situation étant, en effet, toujours tendue au niveau du détroit d'Ormuz, ce qui paralyse les exportations de pétrole dans le monde. Ainsi, le SP95-E10 vient de franchir un nouveau seuil particulièrement symbolique. Son tarif moyen dépasse désormais les 2,11 euros par litre en France, contre 2,01 euros le litre lors de notre dernier relevé fin août.",
+            "created_time": 1788897013,
+            "taken_time": 1788825600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xb5k306"
+          },
+          {
+            "id": "xb5jwsq",
+            "title": "\"Je regrette qu'on n'importe plus de gaz russe\", affirme Nicolas Dupont-Aignan, candidat à la présidentielle",
+            "description": "Nicolas Dupont-Aignan, candidat \"Debout le France\" à l'élection présidentielle était l'invité de BFMTV ce mardi 8 septembre.",
+            "created_time": 1788896329,
+            "taken_time": 1788825600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xb5jwsq"
+          },
+          {
+            "id": "xb5jqs2",
+            "title": "Carburants: \"Il faut alléger les taxes\", exige Nicolas Dupont-Aignan, candidat à la présidentielle",
+            "description": "Nicolas Dupont-Aignan, candidat \"Debout le France\" à l'élection présidentielle était l'invité de BFMTV ce mardi 8 septembre.",
+            "created_time": 1788895797,
+            "taken_time": 1788825600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xb5jqs2"
+          },
+          {
+            "id": "xar7wqy",
+            "title": "\"Il y avait douze enfants enfermés dans cette voiture\": Nicolas Dupont-Aignan, maire de Yerres, revient sur l'inspection chaotique d'assistantes maternelles hors la loi",
+            "description": "C'est une inspection chaotique qui s'est déroulée dans une maison où oeuvraient deux assistantes maternelles à Yerres. Alors que les deux femmes ne pouvaient accueillir que quatre enfants chacune, elles ont placé douze enfants dans une voiture située dans le garage, afin de dissimuler leur activité supplémentaire illégale lors d'une inspection",
+            "created_time": 1784716826,
+            "taken_time": 1784678400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xar7wqy"
+          },
+          {
+            "id": "xacwlri",
+            "title": "Affaire Dupont de Ligonnès: l'évêque de Carcassonne indique qu'il a saisi l'Arcom après les propos d'un homme \"se présentant comme un prêtre\"",
+            "description": "Ce mercredi 3 juin, l'évêque de Carcassonne et Narbonne a démenti avoir été contacté par l'homme se présentant comme un prêtre, qui a affirmé avoir recueilli la confession de Xavier Dupont de Ligonnès sur M6 la veille. L'évêque a dénoncé une séquence \"trompeuse pour le public\".",
+            "created_time": 1780479179,
+            "taken_time": 1780444800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xacwlri"
+          },
+          {
+            "id": "xacwkno",
+            "title": "L'évêque de Carcassonne dément avoir été contacté par l'homme se présentant comme un prêtre ayant reçu les aveux de Xavier Dupont de Ligonnès",
+            "description": "Ce mercredi 3 juin, l'évêque de Carcassonne et Narbonne a démenti avoir été contacté par l'homme se présentant comme un prêtre, qui a affirmé avoir recueilli la confession de Xavier Dupont de Ligonnès sur M6 la veille. L'évêque a dénoncé une séquence \"trompeuse pour le public\" et va saisir l'Arcom.",
+            "created_time": 1780478784,
+            "taken_time": 1780444800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xacwkno"
+          },
+          {
+            "id": "xacw1q6",
+            "title": "\"Jamais personne ne m'a contacté\": l'évêque de Carcassonne dénonce une séquence \"trompeuse\" après les révélations \"d'un homme se présentant comme prêtre\" dans l'affaire Xavier Dupont de Ligonnès",
+            "description": "Ce mercredi 3 juin, l'évêque de Carcassonne et Narbonne a démenti avoir été contacté par l'homme se présentant comme un prêtre, qui a affirmé avoir recueilli la confession de Xavier Dupont de Ligonnès sur M6 la veille. L'évêque a dénoncé une séquence \"trompeuse pour le public\".",
+            "created_time": 1780470025,
+            "taken_time": 1780444800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xacw1q6"
+          },
+          {
+            "id": "xacvoia",
+            "title": "Xavier Dupont de Ligonnès est-il resté actif sur un forum jusqu'en 2017?",
+            "description": "Dans une enquête, le journal Ouest-France s'intéresse aux messages postés par un certain \"Epsilon\" sur un forum religieux sur lequel Xavier Dupont de Ligonnès avait l'habitude d'écrire, sous les pseudonymes Chevy et Ligo. D'après le quotidien, des détails suggèrent de très fortes similitudes entre les publications des anciens comptes et du plus récent, qui a posté pour la dernière fois en 2017, soit six ans après la disparition du suspect de la tuerie de Nantes. ",
+            "created_time": 1780461686,
+            "taken_time": 1780444800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xacvoia"
+          },
+          {
+            "id": "xacvncy",
+            "title": "Affaire Dupont de Ligonnès: un homme se présentant comme un prêtre affirme avoir recueilli les aveux du suspect en 2022",
+            "description": "Ce mercredi 3 juin, l'évêque de Carcassonne et Narbonne a démenti avoir été contacté par l'homme se présentant comme un prêtre, qui a affirmé avoir recueilli la confession de Xavier Dupont de Ligonnès sur M6 la veille. L'évêque a dénoncé une séquence \"trompeuse pour le public\".",
+            "created_time": 1780461129,
+            "taken_time": 1780444800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xacvncy"
+          },
+          {
+            "id": "xaa0toq",
+            "title": "Xavier Dupont de Ligonnès : en fuite aux États-Unis ? - 17/05",
+            "description": "Chaque week-end, l’émission pilotée par Pauline Revenaz avec à ses côtés Dominique Rizet, consultant police/justice BFMTV, traite d’un événement majeur de la semaine, ainsi que d’autres affaires qui sont revenues sur le devant de la scène. <br /> <br />",
+            "created_time": 1779019011,
+            "taken_time": 1778976000,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xaa0toq"
+          },
+          {
+            "id": "xaa0s4u",
+            "title": "Xavier Dupont de Ligonnès: 15 ans de traque",
+            "description": "Le 15 avril 2011, Xavier Dupont de Ligonnès disparaît mystérieusement après avoir quitté un hôtel du Var. Une semaine plus tard, sa famille est retrouvée morte à Nantes, victime d'un quintuple homicide. 15 ans plus tard,  Xavier Dupont de Ligonnès reste introuvable, mais des pistes restent ouvertes.  <br /><br />Retrouvez tous nos contenus exclusifs sur la chaîne BFMTV : abonnez-vous et pour ne rien manquer. <br /><br />Retrouvez-nous aussi sur : <br />► bfmtv.com : https://www.bfmtv.com/<br />► Facebook : https://www.facebook.com/BFMTV/<br />► Instagram : https://www.instagram.com/bfmtv/<br />► Twitter : https://x.com/BFMTV/",
+            "created_time": 1779017429,
+            "taken_time": 1778976000,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xaa0s4u"
+          },
+          {
+            "id": "xa5j4rk",
+            "title": "Carburants: \"Le gouvernement est toujours en retard d'un wagon\", estime Nicolas Dupont-Aignan",
+            "description": "Les prix des carburants n'ont baissé en moyenne que d'un centime d'euro depuis l'annonce d'un cessez-le-feu entre les États-Unis et l'Iran, quand l'exécutif dirigé par Sébastien Lecornu espérait une diminution de cinq à dix centimes.",
+            "created_time": 1776188558,
+            "taken_time": 1776124800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa5j4rk"
+          },
+          {
+            "id": "xa41tru",
+            "title": "\"Mauvaise Pioche\": Philippe Lacheau et Gérard Jugnot parlent de leur nouveau film",
+            "description": "Mauvaise Pioche a été réalisé par Gérard Jugnot. Le film s'inspire du cas de Guy Joao, confondu par erreur en 2019 avec Xavier Dupont de Ligonnès.",
+            "created_time": 1775062970,
+            "taken_time": 1775001600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa41tru"
+          },
+          {
+            "id": "xa3ed0g",
+            "title": "Dupont de Ligonnès recherché au Texas - 26/03",
+            "description": "Chaque soir, Julie Hammett vous accompagne de 22h à 00h dans BFM Grand Soir.",
+            "created_time": 1774567447,
+            "taken_time": 1774569600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa3ed0g"
+          },
+          {
+            "id": "xa3eadg",
+            "title": "Xavier Dupont de Ligonnès: un shérif lance un avis de recherche pour le retrouver au Texas",
+            "description": "Recherché pour le meurtre des cinq membres de sa famille, l'homme, qui aurait 65 ans aujourd'hui, est visé par un appel à témoins du bureau du shérif du comté de Brewster, au Texas.",
+            "created_time": 1774565145,
+            "taken_time": 1774483200,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa3eadg"
+          },
+          {
+            "id": "xa3dr6e",
+            "title": "Hausse des carburants: \"Il faut une mesure rapide (...) La situation est dramatique\", assure Nicolas Dupont-Aignan",
+            "description": "Si tous les carburants voient leur prix augmenter depuis le début des tensions au Moyen-Orient, une fracture inédite se creuse: le gazole s'envole deux fois plus vite que le sans-plomb. Face à cette flambée, les Français s'adaptent.",
+            "created_time": 1774547470,
+            "taken_time": 1774483200,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa3dr6e"
+          },
+          {
+            "id": "xa3de5s",
+            "title": "Un shérif du Texas lance un appel à témoins pour retrouver Xavier Dupont de Ligonnès",
+            "description": "Recherché pour le meurtre des cinq membres de sa famille, l'homme, qui aurait 65 ans aujourd'hui, est visé par un appel à témoins du bureau du shérif du comté de Brewster, au Texas.",
+            "created_time": 1774539871,
+            "taken_time": 1774483200,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa3de5s"
+          },
+          {
+            "id": "xa3ad8c",
+            "title": "Moyen-Orient: \"On voit bien que le conflit en Iran a des conséquences sur la vie quotidienne\", affirme Michel Barnier, député LR",
+            "description": "Le maire LR de Cannes, David Lisnard, a appelé ce mercredi 25 mars sur BFMT-RMC à \"une grande primaire ouverte\" à droite. \"Vient qui veut\", a-t-il déclaré, répondant \"pourquoi pas\" à une éventuelle participation d'Eric Zemmour ou de Nicolas Dupont-Aignan et estimant qu'il \"vaut mieux les affronter avant le premier tour\".",
+            "created_time": 1774462614,
+            "taken_time": 1774396800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa3ad8c"
+          },
+          {
+            "id": "xa3aa5k",
+            "title": "SIGNÉ CONSIGNY - Présidentielle: \"Ce qui ferait du bien aux LR, ce serait de faire la primaire la plus ouverte possible\", estime Charles Consigny",
+            "description": "Le maire LR de Cannes, David Lisnard, a appelé ce mercredi 25 mars sur BFMT-RMC à \"une grande primaire ouverte\" à droite. \"Vient qui veut\", a-t-il déclaré, répondant \"pourquoi pas\" à une éventuelle participation d'Eric Zemmour ou de Nicolas Dupont-Aignan et estimant qu'il \"vaut mieux les affronter avant le premier tour\".",
+            "created_time": 1774460290,
+            "taken_time": 1774396800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa3aa5k"
+          },
+          {
+            "id": "xa38rj6",
+            "title": "David Lisnard, maire de Cannes, est favorable à une primaire à droite, avec Nicolas Dupont-Aignan et Sarah Knafo",
+            "description": "David Lisnard, maire de Cannes et président de l'association des maires de France, était l'invité du Face-à-Face sur RMC et BFMTV ce mercredi 25 mars 2026.",
+            "created_time": 1774425234,
+            "taken_time": 1774396800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa38rj6"
+          },
+          {
+            "id": "xa0qhjm",
+            "title": "Procès du RN, présidentielle, mort de Quentin...L'interview en intégralité de Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772055681,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qhjm"
+          },
+          {
+            "id": "xa0qhay",
+            "title": "Marine Le Pen assure qu'elle \"continuera à défendre ses idées\" si elle ne peut pas se présenter à l'élection présidentielle",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772055071,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qhay"
+          },
+          {
+            "id": "xa0qhae",
+            "title": "Procès en appel du RN: \"J'irais le 7 juillet à la Cour d'appel pour entendre le délibéré\", affirme Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772055033,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qhae"
+          },
+          {
+            "id": "xa0qh9e",
+            "title": "Marine Le Pen assure qu'elle n'aura pas \"un rôle de tutelle\" en cas de candidature de Jordan Bardella à l'élection présidentielle",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772055009,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qh9e"
+          },
+          {
+            "id": "xa0qh8q",
+            "title": "Marine Le Pen: \"Marion Maréchal et moi avons des sensibilités qui ne sont pas les mêmes\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054974,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qh8q"
+          },
+          {
+            "id": "xa0qh6e",
+            "title": "Marine Le Pen assure que Jordan Bardella est prêt pour se présenter à l'élection présidentielle",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054905,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qh6e"
+          },
+          {
+            "id": "xa0qh42",
+            "title": "Marine Le Pen: \"Nous avons fait, Jordan et moi, un choix commun: nous considérons que la meilleure configuration c'est que je sois présidente et qu'il soit mon Premier ministre\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054790,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qh42"
+          },
+          {
+            "id": "xa0qh3c",
+            "title": "Faire campagne sous bracelet électronique: \"On ne peut pas faire campagne dans ces conditions\", estime Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054752,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qh3c"
+          },
+          {
+            "id": "xa0qh2i",
+            "title": "Candidature à présidentielle en 2027: une décision de la Cour de cassation en janvier \"sera trop tard\", estime Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054713,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qh2i"
+          },
+          {
+            "id": "xa0qgxy",
+            "title": "Procès en appel du RN: \"Confiance dans la justice de mon pays? Au fond, j'aimerais avoir confiance\", déclare Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054496,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qgxy"
+          },
+          {
+            "id": "xa0qgvm",
+            "title": "Alliance RN/LR: \"Nous analyserons au cas par cas\", affirme Marine Le Pen qui annonce \"exclure le retrait de listes\" RN qualifiées au second tour",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054387,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qgvm"
+          },
+          {
+            "id": "xa0qguu",
+            "title": "Procès en appel du RN: \"Je vis mal cette attente parce que potentiellement la campagne présidentielle pourrait démarrer le 1er mars\", affirme Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054364,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qguu"
+          },
+          {
+            "id": "xa0qgo8",
+            "title": "Jordan Bardella \"déterminera\" le rôle de Marine Le Pen s'il est candidat puis élu président de la République",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772054177,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qgo8"
+          },
+          {
+            "id": "xa0qgig",
+            "title": "\"Lorsqu'un candidat a un comportement qui est contraire aux idées du Rassemblement national, il est exclu\", assure Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053937,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qgig"
+          },
+          {
+            "id": "xa0qggc",
+            "title": "Second tour des municipales: \"Il n'est pas question de retirer des candidats\", affirme Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053886,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qggc"
+          },
+          {
+            "id": "xa0qgf8",
+            "title": "\"Nos objectifs sont de gagner dans un maximum de villes\", affirme Marine Le Pen à propos des élections municipales",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053795,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qgf8"
+          },
+          {
+            "id": "xa0qgeg",
+            "title": "Marine Le Pen affirme qu'elle ne sera pas candidate en 2027 si elle est placée sous bracelet électronique",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répond aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053772,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qgeg"
+          },
+          {
+            "id": "xa0qg9g",
+            "title": "Marine Le Pen: \"Il aurait dû y avoir des élections législatives, il aurait dû y avoir une dissolution\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053530,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qg9g"
+          },
+          {
+            "id": "xa0qg6y",
+            "title": "Marine Le Pen: \"Je n'ai pas peur des élections (...) la gestion RN ça marche, les Français doivent s'offrir cette chance-là\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053444,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qg6y"
+          },
+          {
+            "id": "xa0qg2e",
+            "title": "Nomination d'Amélie de Montchalin à la Cour des comptes: \"Le but est clair: empêcher l'alternance de s'exprimer\", estime Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053305,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qg2e"
+          },
+          {
+            "id": "xa0qg14",
+            "title": "Marine Le Pen ne croit pas que la loi d'urgence agricole sera étudiée avant l'été comme l'a annoncé Sébastien Lecornu",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053230,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qg14"
+          },
+          {
+            "id": "xa0qfxk",
+            "title": "Candidature en 2027: \"La décision ne dépend pas de moi\", affirme Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répond aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772053123,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qfxk"
+          },
+          {
+            "id": "xa0qfqe",
+            "title": "Marine Le Pen juge \"brutale\" la réponse du gouvernement aux propos de l'ambassadeur des États-Unis",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772052820,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qfqe"
+          },
+          {
+            "id": "xa0qfne",
+            "title": "Marine Le Pen explique pourquoi le Rassemblement National n'a pas voté la motion de censure déposée par LFI",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772052724,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qfne"
+          },
+          {
+            "id": "xa0qfk6",
+            "title": "\"Les groupuscules d'ultradroite sont les adversaires politiques du Rassemblement national\", assure Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772052586,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qfk6"
+          },
+          {
+            "id": "xa0qfjq",
+            "title": "Mort de Quentin Deranque: Marine Le Pen qualifie la réaction d'Emmanuel Macron de \"disproportionnée\" après les propos de la Première ministre italienne",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772052570,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qfjq"
+          },
+          {
+            "id": "xa0qfhq",
+            "title": "Marine Le Pen considère qu'il ne faut pas dissoudre de groupuscules qui \"n'appellent pas à la violence\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772052495,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qfhq"
+          },
+          {
+            "id": "xa0qfgy",
+            "title": "Marine Le Pen: \"Les quelques personnes qui appartiennent à ces groupuscules (d'ultra droite), je les ai virées\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772052452,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qfgy"
+          },
+          {
+            "id": "xa0qf68",
+            "title": "Saluts nazis dans la marche pour Quentin Deranque: \"Il y a des groupuscules d'extrême droite, d'ultra droite qui peuvent être violents\", déclare Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772051976,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qf68"
+          },
+          {
+            "id": "xa0qf42",
+            "title": "Marine Le Pen dénonce \"une forme d'intimidation\" de Mathilde Panot (LFI) qui assure que les Insoumis \"n'accepteront jamais\" que le RN \"prenne le pouvoir par les urnes\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772051880,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qf42"
+          },
+          {
+            "id": "xa0qf0k",
+            "title": "Présidentielle 2027: \"Si les Français veulent vraiment une alternance, un changement, ils l'obtiendront\", assure Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772051752,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qf0k"
+          },
+          {
+            "id": "xa0qexs",
+            "title": "Marine Le Pen assure qu'elle n'a \"jamais trié la presse\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772051624,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qexs"
+          },
+          {
+            "id": "xa0qesc",
+            "title": "Relations entre LFI et journalistes: \"Dans leur esprit, tout ce qui n'est pas LFI est fasciste et nazi\", assure Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772051472,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qesc"
+          },
+          {
+            "id": "xa0qeq0",
+            "title": "Marine Le Pen: \"Jean-Luc Mélenchon a choisi la stratégie du pire, de l'intimidation\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772051393,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qeq0"
+          },
+          {
+            "id": "xa0qeiy",
+            "title": "Mort de Quentin Deranque: Raphaël Arnault \"est le chef de la Jeune Garde\" et \"est le promoteur de ce type d'actions violentes\", estime Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772051003,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qeiy"
+          },
+          {
+            "id": "xa0qehe",
+            "title": "Marine Le Pen dénonce \"l'hypocrisie\" des membres du camp présidentiel qui appellent à \"un cordon sanitaire\" contre La France insoumise",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772050954,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qehe"
+          },
+          {
+            "id": "xa0qec4",
+            "title": "Jeune Garde: \"La classe politique a une responsabilité\", estime Marine Le Pen",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772050719,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qec4"
+          },
+          {
+            "id": "xa0qe5m",
+            "title": "Marine Le Pen: \"Dans les propos de Jean-Luc Mélenchon, il y a une forme de légitimation de la violence\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772050483,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qe5m"
+          },
+          {
+            "id": "xa0qe44",
+            "title": "Marine Le Pen affirme que la Jeune Garde n'est pas \"un groupe de marginaux\" mais \"une milice affiliée à un parti politique\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772050437,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qe44"
+          },
+          {
+            "id": "xa0qdw6",
+            "title": "Marine Le Pen: \"L'objectif de l'ultragauche est d'entraver le système démocratique\"",
+            "description": "Marine Le Pen, présidente du groupe Rassemblement national à l’Assemblée, donne sa toute première interview depuis le procès en appel du RN à BFMTV ce mercredi 25 février. Elle répondra aux questions de Marie Chantrait, cheffe du service politique et Sophie Dupont, journaliste politique BFMTV. L’occasion de revenir en longueur sur son état d’esprit et l’actualité politique, notamment sur les municipales et la présidentielle, de la mort de Quentin Deranque à Lyon et plus largement sur la violence en politique, ou encore sur sa relation avec Jordan Bardella.",
+            "created_time": 1772050190,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0qdw6"
+          },
+          {
+            "id": "xa0ph08",
+            "title": "Affaire Dupont de Ligonnès: est-il toujours vivant et habite-t-il aux États-Unis ?",
+            "description": "Gilles Galloux, ancien cyber-policier qui a participé à la traque de Xavier Dupont de Ligonnès, publie \"Xavier Dupont de Ligonnès, un flic au cœur de l'affaire\", une enquête personnelle dans laquelle il tisse l'hypothèse d'un départ aux États-Unis de l'homme soupçonné d'avoir tué sa famille en 2011.",
+            "created_time": 1772016919,
+            "taken_time": 1771977600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0ph08"
+          },
+          {
+            "id": "xa0mxfa",
+            "title": "\"C'était le rêve de sa vie de partir aux États-Unis\":  Gilles Galloux, auteur de \"Xavier Dupont de Ligonnès, un flic au cœur de l'affaire\", va tenter de retrouver sa trace en Amérique",
+            "description": "Gilles Galloux, ancien cyber-policier qui a participé à la traque de Xavier Dupont de Ligonnès, publie \"Xavier Dupont de Ligonnès, un flic au cœur de l'affaire\", une enquête personnelle dans laquelle il tisse l'hypothèse d'un départ aux États-Unis de l'homme soupçonné d'avoir tué sa famille en 2011.",
+            "created_time": 1771924340,
+            "taken_time": 1771891200,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0mxfa"
+          },
+          {
+            "id": "xa0lhqo",
+            "title": "Marine Le Pen sera l'invitée de BFMTV ce mercredi pour sa première interview après le procès en appel du RN",
+            "description": "Mercredi 25 février, à 21 heures, Marine Le Pen répondra aux questions de Marie Chantrait et Sophie Dupont sur BFMTV. La présidente du groupe RN à l'Assemblée nationale s'exprimera pour la première fois depuis le procès en appel du Rassemblement national.",
+            "created_time": 1771866703,
+            "taken_time": 1771804800,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/xa0lhqo"
+          },
+          {
+            "id": "x9yxf5c",
+            "title": "Manifestation des policiers: Sarah Knafo (\"Reconquête\"), Marion Maréchal (\"Identités-Libertés\"), Nicolas Dupont-Aignan (\"Debout la France\") et Thierry Mariani (RN) dans le cortège parisien",
+            "description": "Ce samedi 31 janvier, le premier syndicat de policiers Alliance appelle les agents à des manifestations dans tout le pays pour dénoncer des manques de moyens et de personnel ou encore alerter sur des locaux devenus insalubres.",
+            "created_time": 1769855324,
+            "taken_time": 1769817600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9yxf5c"
+          },
+          {
+            "id": "x9yc7zi",
+            "title": "Quand Jugnot retrouve (presque) Dupont de Ligonnès - 23/01",
+            "description": "Chaque matin à 6h10, retrouvez la chronique culture d'Alix Dauge.",
+            "created_time": 1769149407,
+            "taken_time": 1769126400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9yc7zi"
+          },
+          {
+            "id": "x9yc4zw",
+            "title": "LA CULTURE D'ALIX - \"Mauvaise pioche\", quand Gérard Jugnot réalise un film inspiré de l'affaire de Xavier Dupont de Ligonnès",
+            "description": "L'acteur français Gérard Jugnot a co-réalisé un film qui revient sur la terrible arrestation de Guy Joao en 2019, confondu avec Xavier Dupont de Ligonnès. Il sortira le 1er avril 2026, le tout accompagné d'un casting cinq étoiles avec son ami de toujours, Thierry Lhermitte, Michelle Laroque ou encore Philippe Lacheau. ",
+            "created_time": 1769145564,
+            "taken_time": 1769126400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9yc4zw"
+          },
+          {
+            "id": "x9vwmj6",
+            "title": "SIGNÉ CONSIGNY - Colère des agriculteurs: \"Certains mettent de l'huile sur le feu\", lance Charles Consigny à Nicolas Dupont-Aignan",
+            "description": "Près d'une semaine après les premières protestations autour d'une ferme ariégeoise, la mobilisation contre la gestion de l'épidémie de dermatose nodulaire contagieuse (DNC) se poursuit ce mercredi 17 décembre, avec plusieurs axes routiers et ferroviaires bloqués, malgré les promesses gouvernementales d'accélération de la vaccination.",
+            "created_time": 1765994554,
+            "taken_time": 1765929600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9vwmj6"
+          },
+          {
+            "id": "x9vlx88",
+            "title": "Présidentielle 2027: \"Le grand débat pour moi de la prochaine présidentielle c'est: est-ce qu'on reste dans l'Union européenne ou est-ce que l'on s'en va?\", déclare Nicolas Dupont-Aignan, président de \"Debout la France\"",
+            "description": "Selon les résultats du sondage Elabe BFMTV/La Tribune Dimanche, publié en novembre dernier, Jordan Bardella, le président du Rassemblement national, recevrait 35% des voix \"dans une configuration face à Bruno Retailleau, Éric Zemmour et Édouard Philippe\". Pour sa part, Jean-Luc Mélenchon progresse aussi par rapport au dernier sondage. Il se stabiliserait autour de 12% dans les différentes configurations étudiées, soit une hausse de trois points par rapport au précédent sondage.",
+            "created_time": 1765577458,
+            "taken_time": 1765497600,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9vlx88"
+          },
+          {
+            "id": "x9ukgx4",
+            "title": "LIGNE ROUGE - \"Il disparaît et aujourd'hui, on en est toujours là\": Dominique Rizet revient sur l'affaire e Xavier Dupont de Ligonnès",
+            "description": "BFMTV fête ses 20 ans ce jeudi 27 novembre. 20 ans qui ont changé l’info avec des événements inscrits à jamais dans la mémoire des Français. Ce jeudi 27 novembre, Alain Marshall et Olivier Truchot présentent une grande soirée spéciale “BFMTV, 20 ans d’info” pour revenir sur ces deux décennies d’actualité en compagnie de grands témoins de ces évènements historiques et de personnalités emblématiques de la chaîne. ",
+            "created_time": 1764285836,
+            "taken_time": 1764288000,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9ukgx4"
+          },
+          {
+            "id": "x9ud2as",
+            "title": "Dupont-Aignan : \"Le pays est à la dérive\" - 24/11",
+            "description": "Chaque soir, Julie Hammett vous accompagne de 22h à 00h dans BFM Grand Soir.  <br />",
+            "created_time": 1764024220,
+            "taken_time": 1763942400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9ud2as"
+          },
+          {
+            "id": "x9ud288",
+            "title": "Présidentielle 2027: \"Je serai le seul candidat [...] qui va dire quelque chose de totalement différent des autres\", déclare Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, est l'invité de BFMTV ce lundi 24 novembre",
+            "created_time": 1764023969,
+            "taken_time": 1763942400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9ud288"
+          },
+          {
+            "id": "x9ud1k0",
+            "title": "\"Le pays est à la dérive\", déclare Nicolas Dupont-Aignan, président de Debout la France",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, est l'invité de BFMTV ce lundi 24 novembre",
+            "created_time": 1764022860,
+            "taken_time": 1763942400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9ud1k0"
+          },
+          {
+            "id": "x9ud1hk",
+            "title": "Guerre en Ukraine: \"Les torts sont partagés, c'est un conflit épouvantable\", déclare Nicolas Dupont-Aignan, président de Debout la France",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, est l'invité de BFMTV ce lundi 24 novembre",
+            "created_time": 1764022676,
+            "taken_time": 1763942400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9ud1hk"
+          },
+          {
+            "id": "x9ud14e",
+            "title": "Menace de guerre en France ?: \"Le pays est dans un tel état, que ça mérite de se concentrer sur les défis des Français\", déclare Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle",
+            "description": "Nicolas Dupont-Aignan, président de Debout la France et candidat à l'élection présidentielle, est l'invité de BFMTV ce lundi 24 novembre",
+            "created_time": 1764022149,
+            "taken_time": 1763942400,
+            "owner.screenname": "BFM",
+            "url": "https://www.dailymotion.com/video/x9ud14e"
+          }
+        ]
+      }
+    },
+    {
+      "account": "franceinfo",
+      "sourceUrl": "https://api.dailymotion.com/user/franceinfo/videos?search=Dupont-Aignan&created_after=1760659200&limit=100&sort=recent&fields=id,title,description,created_time,taken_time,owner.screenname,url",
+      "response": {
+        "page": 1,
+        "limit": 100,
+        "explicit": false,
+        "total": 1,
+        "has_more": false,
+        "list": [
+          {
+            "id": "xa1mscw",
+            "title": "Gilles Galloux, l'ancien flic à la recherche de Xavier Dupont de Ligonnès : \"J'ai des pistes aux États-Unis, je vais aller vérifier s'il est là-bas\"",
+            "description": "Tous les jours, une personnalité s'invite dans le monde d'Élodie Suigo. Mardi 10 mars 2026, l'ancien policier Gilles Galloux. Il publie \"Xavier Dupont de Liggonès - Un flic au cœur de l'enquête\", aux éditions Max Millo.",
+            "created_time": 1773130834,
+            "taken_time": 1773100800,
+            "owner.screenname": "franceinfo",
+            "url": "https://www.dailymotion.com/video/xa1mscw"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -16,6 +16,9 @@
 .media-event-title strong{font-size:11px;color:#44516c}
 .media-events p{margin:5px 0;font-size:10px}
 .media-events a{font-size:10px;color:#5068de}
+.media-additional-source{margin-left:14px}
+.media-announcements a{color:#5068de}
+.media-announcements ul{padding-left:18px}
 .media-caveat,.media-empty{font-size:10px;margin:15px 0}
 .media-content details{border-top:1px solid #e7ebf3;padding-top:12px;margin-top:16px;font-size:10px}
 .media-content summary{cursor:pointer;color:#60769d}
