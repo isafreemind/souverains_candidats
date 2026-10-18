@@ -1,0 +1,37 @@
+{
+  "id": "2111860251486032168",
+  "handle": "f_philippot",
+  "text": "Merci pour votre amour de la France 🙏🇫🇷 🇸🇻 \n\nOui la France, quand elle sera libre et dirigée par des patriotes, renaîtra de ses cendres !",
+  "url": "https://x.com/f_philippot/status/2111860251486032168",
+  "publishedAt": "2026-10-18T16:41:35.000Z",
+  "observedAt": "2026-10-18T20:53:19.232Z",
+  "firstSeenAt": "2026-10-18T20:53:19.232Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 16988,
+    "likes": 1120,
+    "reposts": 228,
+    "replies": 22,
+    "quotes": 0,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-18T20:53:19.232Z",
+      "metrics": {
+        "views": 16988,
+        "likes": 1120,
+        "reposts": 228,
+        "replies": 22,
+        "quotes": 0,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-18T20:53:19.232Z",
+      "text": "Merci pour votre amour de la France 🙏🇫🇷 🇸🇻 \n\nOui la France, quand elle sera libre et dirigée par des patriotes, renaîtra de ses cendres !"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2111882585370702251",
+  "handle": "f_philippot",
+  "text": "Macron a parlé…pour ne rien dire !\n\nRien !",
+  "url": "https://x.com/f_philippot/status/2111882585370702251",
+  "publishedAt": "2026-10-18T18:10:19.000Z",
+  "observedAt": "2026-10-18T20:53:19.232Z",
+  "firstSeenAt": "2026-10-18T20:53:19.232Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 29662,
+    "likes": 3462,
+    "reposts": 367,
+    "replies": 202,
+    "quotes": 10,
+    "bookmarks": 12
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-18T20:53:19.232Z",
+      "metrics": {
+        "views": 29662,
+        "likes": 3462,
+        "reposts": 367,
+        "replies": 202,
+        "quotes": 10,
+        "bookmarks": 12
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-18T20:53:19.232Z",
+      "text": "Macron a parlé…pour ne rien dire !\n\nRien !"
+    }
+  ]
+}

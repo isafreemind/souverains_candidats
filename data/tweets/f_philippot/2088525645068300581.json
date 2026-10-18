@@ -4,13 +4,13 @@
   "text": "Excellent ! ⤵️\n\nElon Musk vient d’annoncer que « toutes les demandes de censure gouvernementale seront désormais publiquement visibles dans l'algorithme open source de X » !",
   "url": "https://x.com/f_philippot/status/2088525645068300581",
   "publishedAt": "2026-08-15T07:18:11.000Z",
-  "observedAt": "2026-10-18T11:19:41.736Z",
+  "observedAt": "2026-10-18T20:54:12.164Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 267874,
+    "views": 267876,
     "likes": 23834,
-    "reposts": 7156,
+    "reposts": 7155,
     "replies": 617,
     "quotes": 192,
     "bookmarks": 396
@@ -77,6 +77,17 @@
         "views": 267874,
         "likes": 23834,
         "reposts": 7156,
+        "replies": 617,
+        "quotes": 192,
+        "bookmarks": 396
+      }
+    },
+    {
+      "observedAt": "2026-10-18T20:54:12.164Z",
+      "metrics": {
+        "views": 267876,
+        "likes": 23834,
+        "reposts": 7155,
         "replies": 617,
         "quotes": 192,
         "bookmarks": 396

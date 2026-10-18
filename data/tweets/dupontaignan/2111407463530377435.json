@@ -4,13 +4,13 @@
   "text": "ZÉRO IMPUNITÉ !!!",
   "url": "https://x.com/dupontaignan/status/2111407463530377435",
   "publishedAt": "2026-10-17T10:42:22.000Z",
-  "observedAt": "2026-10-18T11:19:58.440Z",
+  "observedAt": "2026-10-18T20:54:42.801Z",
   "firstSeenAt": "2026-10-17T20:43:42.925Z",
   "isQuote": true,
   "metrics": {
-    "views": 9268,
-    "likes": 393,
-    "reposts": 126,
+    "views": 9489,
+    "likes": 400,
+    "reposts": 127,
     "replies": 37,
     "quotes": 1,
     "bookmarks": 0
@@ -33,6 +33,17 @@
         "views": 9268,
         "likes": 393,
         "reposts": 126,
+        "replies": 37,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-10-18T20:54:42.801Z",
+      "metrics": {
+        "views": 9489,
+        "likes": 400,
+        "reposts": 127,
         "replies": 37,
         "quotes": 1,
         "bookmarks": 0

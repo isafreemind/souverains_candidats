@@ -4,12 +4,12 @@
   "text": "Nouvelle affabulation du menteur en chef ! Vivement 2027 !",
   "url": "https://x.com/dupontaignan/status/2095634863294415191",
   "publishedAt": "2026-09-03T22:07:41.000Z",
-  "observedAt": "2026-10-18T11:20:17.756Z",
+  "observedAt": "2026-10-18T20:55:21.751Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 15265,
-    "likes": 485,
+    "views": 15266,
+    "likes": 484,
     "reposts": 144,
     "replies": 17,
     "quotes": 1,
@@ -76,6 +76,17 @@
       "metrics": {
         "views": 15265,
         "likes": 485,
+        "reposts": 144,
+        "replies": 17,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-18T20:55:21.751Z",
+      "metrics": {
+        "views": 15266,
+        "likes": 484,
         "reposts": 144,
         "replies": 17,
         "quotes": 1,

@@ -4,11 +4,11 @@
   "text": "Un parc sublime et une exposition « De Monet aux artistes contemporains » : venez profiter de notre petit coin de paradis à la Maison Caillebotte, à Yerres !",
   "url": "https://x.com/dupontaignan/status/2086029657317474539",
   "publishedAt": "2026-08-08T10:00:01.000Z",
-  "observedAt": "2026-10-18T11:20:22.135Z",
+  "observedAt": "2026-10-18T20:55:29.819Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 13863,
+    "views": 13864,
     "likes": 282,
     "reposts": 70,
     "replies": 13,
@@ -75,6 +75,17 @@
       "observedAt": "2026-10-18T11:20:22.135Z",
       "metrics": {
         "views": 13863,
+        "likes": 282,
+        "reposts": 70,
+        "replies": 13,
+        "quotes": 1,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-18T20:55:29.819Z",
+      "metrics": {
+        "views": 13864,
         "likes": 282,
         "reposts": 70,
         "replies": 13,

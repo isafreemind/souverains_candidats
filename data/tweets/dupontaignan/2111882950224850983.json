@@ -1,0 +1,37 @@
+{
+  "id": "2111882950224850983",
+  "handle": "dupontaignan",
+  "text": "RIEN COMPRIS, RIEN APPRIS !\n\n#Macron20h",
+  "url": "https://x.com/dupontaignan/status/2111882950224850983",
+  "publishedAt": "2026-10-18T18:11:46.000Z",
+  "observedAt": "2026-10-18T20:54:42.801Z",
+  "firstSeenAt": "2026-10-18T20:54:42.801Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 16510,
+    "likes": 1818,
+    "reposts": 289,
+    "replies": 155,
+    "quotes": 13,
+    "bookmarks": 9
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-18T20:54:42.801Z",
+      "metrics": {
+        "views": 16510,
+        "likes": 1818,
+        "reposts": 289,
+        "replies": 155,
+        "quotes": 13,
+        "bookmarks": 9
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-18T20:54:42.801Z",
+      "text": "RIEN COMPRIS, RIEN APPRIS !\n\n#Macron20h"
+    }
+  ]
+}

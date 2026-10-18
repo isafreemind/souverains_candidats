@@ -4,12 +4,12 @@
   "text": "Il faut absolument remettre ça ici maintenant ! ⤵️\n(Merci de diffuser)",
   "url": "https://x.com/f_philippot/status/2102412073263141093",
   "publishedAt": "2026-09-22T14:57:53.000Z",
-  "observedAt": "2026-10-18T11:19:23.558Z",
+  "observedAt": "2026-10-18T20:53:40.933Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 24617,
-    "likes": 2249,
+    "views": 24620,
+    "likes": 2250,
     "reposts": 865,
     "replies": 76,
     "quotes": 6,
@@ -76,6 +76,17 @@
       "metrics": {
         "views": 24617,
         "likes": 2249,
+        "reposts": 865,
+        "replies": 76,
+        "quotes": 6,
+        "bookmarks": 20
+      }
+    },
+    {
+      "observedAt": "2026-10-18T20:53:40.933Z",
+      "metrics": {
+        "views": 24620,
+        "likes": 2250,
         "reposts": 865,
         "replies": 76,
         "quotes": 6,
