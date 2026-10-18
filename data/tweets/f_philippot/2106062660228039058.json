@@ -4,11 +4,11 @@
   "text": "Le chaos…puis l’état d’urgence ?…",
   "url": "https://x.com/f_philippot/status/2106062660228039058",
   "publishedAt": "2026-10-02T16:44:01.000Z",
-  "observedAt": "2026-10-17T20:43:05.246Z",
+  "observedAt": "2026-10-18T11:19:19.542Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 34934,
+    "views": 34943,
     "likes": 1133,
     "reposts": 364,
     "replies": 84,
@@ -64,6 +64,17 @@
       "observedAt": "2026-10-17T20:43:05.246Z",
       "metrics": {
         "views": 34934,
+        "likes": 1133,
+        "reposts": 364,
+        "replies": 84,
+        "quotes": 7,
+        "bookmarks": 38
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:19:19.542Z",
+      "metrics": {
+        "views": 34943,
         "likes": 1133,
         "reposts": 364,
         "replies": 84,

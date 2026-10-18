@@ -4,16 +4,16 @@
   "text": "Le moteur de l’hélicoptère était-il déjà en train de tourner ?…\n« Qu’ils viennent me chercher »…",
   "url": "https://x.com/f_philippot/status/2111462055869808768",
   "publishedAt": "2026-10-17T14:19:17.000Z",
-  "observedAt": "2026-10-17T20:42:58.047Z",
+  "observedAt": "2026-10-18T11:19:10.838Z",
   "firstSeenAt": "2026-10-17T20:42:58.047Z",
   "isQuote": true,
   "metrics": {
-    "views": 31209,
-    "likes": 1425,
-    "reposts": 336,
-    "replies": 45,
+    "views": 35232,
+    "likes": 1671,
+    "reposts": 383,
+    "replies": 49,
     "quotes": 3,
-    "bookmarks": 25
+    "bookmarks": 27
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 45,
         "quotes": 3,
         "bookmarks": 25
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:19:10.838Z",
+      "metrics": {
+        "views": 35232,
+        "likes": 1671,
+        "reposts": 383,
+        "replies": 49,
+        "quotes": 3,
+        "bookmarks": 27
       }
     }
   ],

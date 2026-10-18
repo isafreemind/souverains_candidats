@@ -4,12 +4,12 @@
   "text": "Une facture supplémentaire pour les Français ! Avec le nouveau décret, le plafond des franchises médicales passerait de 100 à 140 € par an, et pourrait augmenter chaque année avec l’inflation.\nQuand il s’agit de faire payer les Français, le gouvernement trouve toujours une solution. Après avoir matraqué les classes moyennes d’impôts et de taxes, voilà qu’on s’attaque désormais à la santé, seconde préoccupation des Français.",
   "url": "https://x.com/dupontaignan/status/2092197352190697612",
   "publishedAt": "2026-08-25T10:28:14.000Z",
-  "observedAt": "2026-10-17T20:44:02.321Z",
+  "observedAt": "2026-10-18T11:20:19.765Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 16311,
-    "likes": 899,
+    "likes": 900,
     "reposts": 362,
     "replies": 30,
     "quotes": 4,
@@ -65,6 +65,17 @@
       "metrics": {
         "views": 16311,
         "likes": 899,
+        "reposts": 362,
+        "replies": 30,
+        "quotes": 4,
+        "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:20:19.765Z",
+      "metrics": {
+        "views": 16311,
+        "likes": 900,
         "reposts": 362,
         "replies": 30,
         "quotes": 4,

@@ -4,7 +4,7 @@
   "text": "Oui et si on commençait par supprimer le sénat ?",
   "url": "https://x.com/f_philippot/status/2085014436113252407",
   "publishedAt": "2026-08-05T14:45:53.000Z",
-  "observedAt": "2026-10-17T20:43:31.754Z",
+  "observedAt": "2026-10-18T11:19:46.602Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": false,
   "metrics": {
@@ -51,6 +51,17 @@
     },
     {
       "observedAt": "2026-10-17T20:43:31.754Z",
+      "metrics": {
+        "views": 62624,
+        "likes": 6185,
+        "reposts": 1824,
+        "replies": 786,
+        "quotes": 97,
+        "bookmarks": 46
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:19:46.602Z",
       "metrics": {
         "views": 62624,
         "likes": 6185,

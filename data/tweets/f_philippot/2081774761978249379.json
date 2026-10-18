@@ -4,7 +4,7 @@
   "text": "C’est une première, normalement ils sont utilisés pour défoncer du paysan",
   "url": "https://x.com/f_philippot/status/2081774761978249379",
   "publishedAt": "2026-07-27T16:12:35.000Z",
-  "observedAt": "2026-10-17T20:43:35.906Z",
+  "observedAt": "2026-10-18T11:19:51.689Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
@@ -51,6 +51,17 @@
     },
     {
       "observedAt": "2026-10-17T20:43:35.906Z",
+      "metrics": {
+        "views": 33516,
+        "likes": 1465,
+        "reposts": 335,
+        "replies": 106,
+        "quotes": 4,
+        "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:19:51.689Z",
       "metrics": {
         "views": 33516,
         "likes": 1465,

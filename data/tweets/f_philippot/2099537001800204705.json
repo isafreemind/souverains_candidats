@@ -4,11 +4,11 @@
   "text": "« Un accident de la circulation »…\nMais bien sûr !…",
   "url": "https://x.com/f_philippot/status/2099537001800204705",
   "publishedAt": "2026-09-14T16:33:23.000Z",
-  "observedAt": "2026-10-17T20:43:14.379Z",
+  "observedAt": "2026-10-18T11:19:28.087Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 116153,
+    "views": 116157,
     "likes": 1165,
     "reposts": 313,
     "replies": 135,
@@ -64,6 +64,17 @@
       "observedAt": "2026-10-17T20:43:14.379Z",
       "metrics": {
         "views": 116153,
+        "likes": 1165,
+        "reposts": 313,
+        "replies": 135,
+        "quotes": 2,
+        "bookmarks": 25
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:19:28.087Z",
+      "metrics": {
+        "views": 116157,
         "likes": 1165,
         "reposts": 313,
         "replies": 135,

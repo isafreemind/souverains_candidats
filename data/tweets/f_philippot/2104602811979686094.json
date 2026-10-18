@@ -4,11 +4,11 @@
   "text": "Je suis français, l’UE 🇪🇺 est mon ennemi.\n\nFREXIT",
   "url": "https://x.com/f_philippot/status/2104602811979686094",
   "publishedAt": "2026-09-28T16:03:06.000Z",
-  "observedAt": "2026-10-17T20:43:07.309Z",
+  "observedAt": "2026-10-18T11:19:20.552Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 52295,
+    "views": 52296,
     "likes": 5083,
     "reposts": 1143,
     "replies": 109,
@@ -64,6 +64,17 @@
       "observedAt": "2026-10-17T20:43:07.309Z",
       "metrics": {
         "views": 52295,
+        "likes": 5083,
+        "reposts": 1143,
+        "replies": 109,
+        "quotes": 44,
+        "bookmarks": 36
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:19:20.552Z",
+      "metrics": {
+        "views": 52296,
         "likes": 5083,
         "reposts": 1143,
         "replies": 109,

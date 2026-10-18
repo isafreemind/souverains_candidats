@@ -4,7 +4,7 @@
   "text": "Ils préfèrent surveiller les réseaux sociaux plutôt que leurs frontières...",
   "url": "https://x.com/dupontaignan/status/2086020942052859997",
   "publishedAt": "2026-08-08T09:25:23.000Z",
-  "observedAt": "2026-10-17T20:44:04.328Z",
+  "observedAt": "2026-10-18T11:20:22.135Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -62,6 +62,17 @@
     },
     {
       "observedAt": "2026-10-17T20:44:04.328Z",
+      "metrics": {
+        "views": 36031,
+        "likes": 3960,
+        "reposts": 1058,
+        "replies": 51,
+        "quotes": 10,
+        "bookmarks": 45
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:20:22.135Z",
       "metrics": {
         "views": 36031,
         "likes": 3960,

@@ -4,7 +4,7 @@
   "text": "Bravo vive la Liberté !",
   "url": "https://x.com/f_philippot/status/2087090282328113339",
   "publishedAt": "2026-08-11T08:14:34.000Z",
-  "observedAt": "2026-10-17T20:43:29.782Z",
+  "observedAt": "2026-10-18T11:19:44.607Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
@@ -51,6 +51,17 @@
     },
     {
       "observedAt": "2026-10-17T20:43:29.782Z",
+      "metrics": {
+        "views": 20184,
+        "likes": 1206,
+        "reposts": 366,
+        "replies": 37,
+        "quotes": 9,
+        "bookmarks": 18
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:19:44.607Z",
       "metrics": {
         "views": 20184,
         "likes": 1206,

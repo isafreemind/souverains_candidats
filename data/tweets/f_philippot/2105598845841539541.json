@@ -4,11 +4,11 @@
   "text": "La France doit faire un grand ménage, en haut et en bas",
   "url": "https://x.com/f_philippot/status/2105598845841539541",
   "publishedAt": "2026-10-01T10:00:59.000Z",
-  "observedAt": "2026-10-17T20:43:06.255Z",
+  "observedAt": "2026-10-18T11:19:19.542Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 23766,
+    "views": 23771,
     "likes": 1704,
     "reposts": 500,
     "replies": 72,
@@ -64,6 +64,17 @@
       "observedAt": "2026-10-17T20:43:06.255Z",
       "metrics": {
         "views": 23766,
+        "likes": 1704,
+        "reposts": 500,
+        "replies": 72,
+        "quotes": 12,
+        "bookmarks": 23
+      }
+    },
+    {
+      "observedAt": "2026-10-18T11:19:19.542Z",
+      "metrics": {
+        "views": 23771,
         "likes": 1704,
         "reposts": 500,
         "replies": 72,
