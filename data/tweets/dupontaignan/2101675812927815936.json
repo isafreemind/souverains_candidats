@@ -4,11 +4,11 @@
   "text": "Journées du patrimoine à Yerres. Venez visiter la maison Caillebotte !",
   "url": "https://x.com/dupontaignan/status/2101675812927815936",
   "publishedAt": "2026-09-20T14:12:15.000Z",
-  "observedAt": "2026-10-19T13:34:15.731Z",
+  "observedAt": "2026-10-19T22:28:29.758Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 7123,
+    "views": 7124,
     "likes": 117,
     "reposts": 32,
     "replies": 14,
@@ -97,6 +97,17 @@
       "observedAt": "2026-10-19T13:34:15.731Z",
       "metrics": {
         "views": 7123,
+        "likes": 117,
+        "reposts": 32,
+        "replies": 14,
+        "quotes": 0,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-19T22:28:29.758Z",
+      "metrics": {
+        "views": 7124,
         "likes": 117,
         "reposts": 32,
         "replies": 14,

@@ -4,16 +4,16 @@
   "text": "HALLUCINANT !\n\nAprès un tel désastre, la démission de M. Nuñez était une évidence.\n\nEn la refusant, Emmanuel Macron devient complice du chaos. Sa démission est le seul moyen de ramener le calme !",
   "url": "https://x.com/dupontaignan/status/2112090734337667571",
   "publishedAt": "2026-10-19T07:57:26.000Z",
-  "observedAt": "2026-10-19T13:33:54.417Z",
+  "observedAt": "2026-10-19T22:28:19.710Z",
   "firstSeenAt": "2026-10-19T13:33:54.417Z",
   "isQuote": true,
   "metrics": {
-    "views": 6306,
-    "likes": 786,
-    "reposts": 245,
-    "replies": 43,
-    "quotes": 6,
-    "bookmarks": 5
+    "views": 10688,
+    "likes": 1226,
+    "reposts": 376,
+    "replies": 54,
+    "quotes": 8,
+    "bookmarks": 8
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 43,
         "quotes": 6,
         "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-19T22:28:19.710Z",
+      "metrics": {
+        "views": 10688,
+        "likes": 1226,
+        "reposts": 376,
+        "replies": 54,
+        "quotes": 8,
+        "bookmarks": 8
       }
     }
   ],

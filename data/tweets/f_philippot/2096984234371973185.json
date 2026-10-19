@@ -4,7 +4,7 @@
   "text": "Très intéressant : et c’est un exemple parmi tant !\n⤵️",
   "url": "https://x.com/f_philippot/status/2096984234371973185",
   "publishedAt": "2026-09-07T15:29:36.000Z",
-  "observedAt": "2026-10-19T13:33:07.651Z",
+  "observedAt": "2026-10-19T22:27:54.999Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -95,6 +95,17 @@
     },
     {
       "observedAt": "2026-10-19T13:33:07.651Z",
+      "metrics": {
+        "views": 21197,
+        "likes": 592,
+        "reposts": 146,
+        "replies": 18,
+        "quotes": 2,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-19T22:27:54.999Z",
       "metrics": {
         "views": 21197,
         "likes": 592,

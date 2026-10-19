@@ -4,12 +4,12 @@
   "text": "INDÉCENT.",
   "url": "https://x.com/dupontaignan/status/2082405895804158337",
   "publishedAt": "2026-07-29T10:00:29.000Z",
-  "observedAt": "2026-10-19T13:34:50.099Z",
+  "observedAt": "2026-10-19T22:28:44.364Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 22559,
-    "likes": 722,
+    "views": 22560,
+    "likes": 721,
     "reposts": 191,
     "replies": 18,
     "quotes": 3,
@@ -98,6 +98,17 @@
       "metrics": {
         "views": 22559,
         "likes": 722,
+        "reposts": 191,
+        "replies": 18,
+        "quotes": 3,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-19T22:28:44.364Z",
+      "metrics": {
+        "views": 22560,
+        "likes": 721,
         "reposts": 191,
         "replies": 18,
         "quotes": 3,

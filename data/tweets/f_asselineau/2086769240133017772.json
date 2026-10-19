@@ -4,12 +4,12 @@
   "text": "⚠️ L'émission sur TOCSIN prévue mardi 11 août est reportée au jeudi 13 août, probablement le matin.\nEn attente de confirmation.",
   "url": "https://x.com/f_asselineau/status/2086769240133017772",
   "publishedAt": "2026-08-10T10:58:51.000Z",
-  "observedAt": "2026-10-19T13:32:20.642Z",
+  "observedAt": "2026-10-19T22:27:27.612Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 17853,
-    "likes": 626,
+    "likes": 628,
     "reposts": 203,
     "replies": 11,
     "quotes": 2,
@@ -98,6 +98,17 @@
       "metrics": {
         "views": 17853,
         "likes": 626,
+        "reposts": 203,
+        "replies": 11,
+        "quotes": 2,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-19T22:27:27.612Z",
+      "metrics": {
+        "views": 17853,
+        "likes": 628,
         "reposts": 203,
         "replies": 11,
         "quotes": 2,

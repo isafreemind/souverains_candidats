@@ -4,11 +4,11 @@
   "text": "Avec Glucksmann et l’UE ? 😂",
   "url": "https://x.com/f_philippot/status/2110998261523693752",
   "publishedAt": "2026-10-16T07:36:20.000Z",
-  "observedAt": "2026-10-19T13:32:36.154Z",
+  "observedAt": "2026-10-19T22:27:36.750Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 16214,
+    "views": 16248,
     "likes": 953,
     "reposts": 213,
     "replies": 65,
@@ -97,6 +97,17 @@
       "observedAt": "2026-10-19T13:32:36.154Z",
       "metrics": {
         "views": 16214,
+        "likes": 953,
+        "reposts": 213,
+        "replies": 65,
+        "quotes": 5,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-19T22:27:36.750Z",
+      "metrics": {
+        "views": 16248,
         "likes": 953,
         "reposts": 213,
         "replies": 65,
