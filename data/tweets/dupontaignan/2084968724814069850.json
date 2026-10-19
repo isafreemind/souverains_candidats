@@ -4,12 +4,12 @@
   "text": "La priorité pour le Gouvernement, ce n'est pas la mortalité infantile, mais la censure des réseaux sociaux...",
   "url": "https://x.com/dupontaignan/status/2084968724814069850",
   "publishedAt": "2026-08-05T11:44:15.000Z",
-  "observedAt": "2026-10-18T20:55:31.558Z",
+  "observedAt": "2026-10-19T13:34:41.650Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 20583,
-    "likes": 1539,
+    "likes": 1538,
     "reposts": 576,
     "replies": 25,
     "quotes": 7,
@@ -87,6 +87,17 @@
       "metrics": {
         "views": 20583,
         "likes": 1539,
+        "reposts": 576,
+        "replies": 25,
+        "quotes": 7,
+        "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-10-19T13:34:41.650Z",
+      "metrics": {
+        "views": 20583,
+        "likes": 1538,
         "reposts": 576,
         "replies": 25,
         "quotes": 7,

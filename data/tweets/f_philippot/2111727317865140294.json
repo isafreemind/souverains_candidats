@@ -4,16 +4,16 @@
   "text": "La France sous « démolition contrôlée …Bien vu !\n\nVirons les démolisseurs !",
   "url": "https://x.com/f_philippot/status/2111727317865140294",
   "publishedAt": "2026-10-18T07:53:21.000Z",
-  "observedAt": "2026-10-18T20:53:19.232Z",
+  "observedAt": "2026-10-19T13:32:33.373Z",
   "firstSeenAt": "2026-10-18T11:19:10.838Z",
   "isQuote": true,
   "metrics": {
-    "views": 16880,
-    "likes": 1370,
-    "reposts": 303,
+    "views": 18372,
+    "likes": 1563,
+    "reposts": 350,
     "replies": 32,
     "quotes": 3,
-    "bookmarks": 9
+    "bookmarks": 10
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 32,
         "quotes": 3,
         "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-19T13:32:33.373Z",
+      "metrics": {
+        "views": 18372,
+        "likes": 1563,
+        "reposts": 350,
+        "replies": 32,
+        "quotes": 3,
+        "bookmarks": 10
       }
     }
   ],

@@ -4,12 +4,12 @@
   "text": "Ok dictateur.e",
   "url": "https://x.com/f_philippot/status/2086503072541335968",
   "publishedAt": "2026-08-09T17:21:12.000Z",
-  "observedAt": "2026-10-18T20:54:21.254Z",
+  "observedAt": "2026-10-19T13:33:33.178Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
     "views": 33664,
-    "likes": 1250,
+    "likes": 1249,
     "reposts": 238,
     "replies": 48,
     "quotes": 6,
@@ -76,6 +76,17 @@
       "metrics": {
         "views": 33664,
         "likes": 1250,
+        "reposts": 238,
+        "replies": 48,
+        "quotes": 6,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-19T13:33:33.178Z",
+      "metrics": {
+        "views": 33664,
+        "likes": 1249,
         "reposts": 238,
         "replies": 48,
         "quotes": 6,

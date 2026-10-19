@@ -4,15 +4,15 @@
   "text": "Avec vos copains, avec tous les fossoyeurs de la France, vous êtes le responsable de ce chaos.\n\nPartez. \nTous.",
   "url": "https://x.com/f_philippot/status/2111524541369401357",
   "publishedAt": "2026-10-17T18:27:35.000Z",
-  "observedAt": "2026-10-18T20:53:19.232Z",
+  "observedAt": "2026-10-19T13:32:34.767Z",
   "firstSeenAt": "2026-10-17T20:42:58.047Z",
   "isQuote": true,
   "metrics": {
-    "views": 21963,
-    "likes": 1733,
-    "reposts": 321,
+    "views": 22435,
+    "likes": 1753,
+    "reposts": 325,
     "replies": 46,
-    "quotes": 3,
+    "quotes": 4,
     "bookmarks": 14
   },
   "observations": [
@@ -46,6 +46,17 @@
         "reposts": 321,
         "replies": 46,
         "quotes": 3,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-19T13:32:34.767Z",
+      "metrics": {
+        "views": 22435,
+        "likes": 1753,
+        "reposts": 325,
+        "replies": 46,
+        "quotes": 4,
         "bookmarks": 14
       }
     }

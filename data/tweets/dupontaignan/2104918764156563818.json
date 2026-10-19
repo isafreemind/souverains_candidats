@@ -4,11 +4,11 @@
   "text": "⁨⁨En soutien des pompiers de l’Essone qui manifestent… car ils manquent de tout pour protéger nos concitoyens !⁩",
   "url": "https://x.com/dupontaignan/status/2104918764156563818",
   "publishedAt": "2026-09-29T12:58:35.000Z",
-  "observedAt": "2026-10-18T20:55:01.440Z",
+  "observedAt": "2026-10-19T13:34:12.381Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 11007,
+    "views": 11008,
     "likes": 465,
     "reposts": 105,
     "replies": 14,
@@ -86,6 +86,17 @@
       "observedAt": "2026-10-18T20:55:01.440Z",
       "metrics": {
         "views": 11007,
+        "likes": 465,
+        "reposts": 105,
+        "replies": 14,
+        "quotes": 1,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-19T13:34:12.381Z",
+      "metrics": {
+        "views": 11008,
         "likes": 465,
         "reposts": 105,
         "replies": 14,

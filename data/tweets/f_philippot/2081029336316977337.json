@@ -4,16 +4,16 @@
   "text": "Cette baignade médiatisée nous a coûté 20 Canadairs !",
   "url": "https://x.com/f_philippot/status/2081029336316977337",
   "publishedAt": "2026-07-25T14:50:32.000Z",
-  "observedAt": "2026-10-18T20:54:34.758Z",
+  "observedAt": "2026-10-19T13:33:47.965Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": false,
   "metrics": {
-    "views": 459288,
-    "likes": 22050,
+    "views": 459291,
+    "likes": 22048,
     "reposts": 6247,
     "replies": 590,
     "quotes": 169,
-    "bookmarks": 209
+    "bookmarks": 208
   },
   "observations": [
     {
@@ -80,6 +80,17 @@
         "replies": 590,
         "quotes": 169,
         "bookmarks": 209
+      }
+    },
+    {
+      "observedAt": "2026-10-19T13:33:47.965Z",
+      "metrics": {
+        "views": 459291,
+        "likes": 22048,
+        "reposts": 6247,
+        "replies": 590,
+        "quotes": 169,
+        "bookmarks": 208
       }
     }
   ],
