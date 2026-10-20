@@ -4,12 +4,12 @@
   "text": "Le roi est nu ! Terrible fin de règne : il aura laissé la France en feu, ruinée et en désordre préférant toujours distribuer l’argent du peuple à ses maîtres étrangers et donner des leçons à la terre entière. DEHORS …",
   "url": "https://x.com/dupontaignan/status/2081405957427356138",
   "publishedAt": "2026-07-26T15:47:05.000Z",
-  "observedAt": "2026-10-20T11:49:58.384Z",
+  "observedAt": "2026-10-20T21:46:18.428Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 153199,
-    "likes": 3763,
+    "likes": 3762,
     "reposts": 974,
     "replies": 383,
     "quotes": 31,
@@ -120,6 +120,17 @@
       "metrics": {
         "views": 153199,
         "likes": 3763,
+        "reposts": 974,
+        "replies": 383,
+        "quotes": 31,
+        "bookmarks": 35
+      }
+    },
+    {
+      "observedAt": "2026-10-20T21:46:18.428Z",
+      "metrics": {
+        "views": 153199,
+        "likes": 3762,
         "reposts": 974,
         "replies": 383,
         "quotes": 31,

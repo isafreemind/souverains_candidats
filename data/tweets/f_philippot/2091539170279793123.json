@@ -4,16 +4,16 @@
   "text": "Grand merci à Philippe de Villiers pour son accueil au Puy-du-Fou : la France éternelle n’a pas fini d’unir et d’émerveiller les Français ! 🇫🇷",
   "url": "https://x.com/f_philippot/status/2091539170279793123",
   "publishedAt": "2026-08-23T14:52:51.000Z",
-  "observedAt": "2026-10-20T11:49:13.623Z",
+  "observedAt": "2026-10-20T21:44:41.424Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 67068,
-    "likes": 5175,
+    "views": 67069,
+    "likes": 5174,
     "reposts": 939,
     "replies": 197,
     "quotes": 24,
-    "bookmarks": 43
+    "bookmarks": 42
   },
   "observations": [
     {
@@ -124,6 +124,17 @@
         "replies": 197,
         "quotes": 24,
         "bookmarks": 43
+      }
+    },
+    {
+      "observedAt": "2026-10-20T21:44:41.424Z",
+      "metrics": {
+        "views": 67069,
+        "likes": 5174,
+        "reposts": 939,
+        "replies": 197,
+        "quotes": 24,
+        "bookmarks": 42
       }
     }
   ],

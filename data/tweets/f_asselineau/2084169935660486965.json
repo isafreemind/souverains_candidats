@@ -4,16 +4,16 @@
   "text": "Je suis actuellement interrogé par Nicolas Stoquer dans la matinale de GPTV. Nous aborderons l’actualité, notamment l'affaire Xenia Fedorova et l'invasion de l'enclave espagnole de Ceuta au Maroc. \n\nhttps://www.youtube.com/live/Us1KqxOI1A4",
   "url": "https://x.com/f_asselineau/status/2084169935660486965",
   "publishedAt": "2026-08-03T06:50:09.000Z",
-  "observedAt": "2026-10-20T11:48:40.015Z",
+  "observedAt": "2026-10-20T21:43:32.569Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 23775,
-    "likes": 651,
+    "likes": 650,
     "reposts": 231,
     "replies": 14,
     "quotes": 3,
-    "bookmarks": 11
+    "bookmarks": 10
   },
   "observations": [
     {
@@ -124,6 +124,17 @@
         "replies": 14,
         "quotes": 3,
         "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-20T21:43:32.569Z",
+      "metrics": {
+        "views": 23775,
+        "likes": 650,
+        "reposts": 231,
+        "replies": 14,
+        "quotes": 3,
+        "bookmarks": 10
       }
     }
   ],

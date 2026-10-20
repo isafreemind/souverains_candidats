@@ -4,16 +4,16 @@
   "text": "6 fourgons de police pour la boutique Trogneux à Amiens samedi ! (cf vidéo ⤵️)\n\nPendant ce temps la France brûlait et Macron laissait faire…",
   "url": "https://x.com/f_philippot/status/2112124550024712669",
   "publishedAt": "2026-10-19T10:11:48.000Z",
-  "observedAt": "2026-10-20T11:48:46.157Z",
+  "observedAt": "2026-10-20T21:43:41.339Z",
   "firstSeenAt": "2026-10-19T13:32:33.373Z",
   "isQuote": false,
   "metrics": {
-    "views": 42109,
-    "likes": 3264,
-    "reposts": 1608,
-    "replies": 129,
-    "quotes": 53,
-    "bookmarks": 106
+    "views": 44008,
+    "likes": 3405,
+    "reposts": 1666,
+    "replies": 134,
+    "quotes": 55,
+    "bookmarks": 105
   },
   "observations": [
     {
@@ -47,6 +47,17 @@
         "replies": 129,
         "quotes": 53,
         "bookmarks": 106
+      }
+    },
+    {
+      "observedAt": "2026-10-20T21:43:41.339Z",
+      "metrics": {
+        "views": 44008,
+        "likes": 3405,
+        "reposts": 1666,
+        "replies": 134,
+        "quotes": 55,
+        "bookmarks": 105
       }
     }
   ],

@@ -4,7 +4,7 @@
   "text": "Je ne comprends pas ce tweet qui est un énorme csc : les Canadairs sont l’un des énormes problèmes dans ces incendies, les pompiers le disent eux-mêmes.\n\nCe tweet, c’est juste l’aveu que les médias traditionnels ne font pas le boulot (par courtisanerie ?) quand nous, nous le faisons !\n\nNous sommes les médias !",
   "url": "https://x.com/f_philippot/status/2082114789782798693",
   "publishedAt": "2026-07-28T14:43:44.000Z",
-  "observedAt": "2026-10-20T11:49:25.884Z",
+  "observedAt": "2026-10-20T21:45:02.400Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": false,
   "metrics": {
@@ -106,6 +106,17 @@
     },
     {
       "observedAt": "2026-10-20T11:49:25.884Z",
+      "metrics": {
+        "views": 35043,
+        "likes": 1461,
+        "reposts": 366,
+        "replies": 100,
+        "quotes": 7,
+        "bookmarks": 20
+      }
+    },
+    {
+      "observedAt": "2026-10-20T21:45:02.400Z",
       "metrics": {
         "views": 35043,
         "likes": 1461,
