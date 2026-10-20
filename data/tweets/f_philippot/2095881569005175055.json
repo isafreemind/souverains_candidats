@@ -4,11 +4,11 @@
   "text": "Ce vendredi à 17h35 en direct sur BFM TV",
   "url": "https://x.com/f_philippot/status/2095881569005175055",
   "publishedAt": "2026-09-04T14:28:00.000Z",
-  "observedAt": "2026-10-19T22:27:56.991Z",
+  "observedAt": "2026-10-20T11:49:08.526Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 15218,
+    "views": 15221,
     "likes": 268,
     "reposts": 68,
     "replies": 59,
@@ -108,6 +108,17 @@
       "observedAt": "2026-10-19T22:27:56.991Z",
       "metrics": {
         "views": 15218,
+        "likes": 268,
+        "reposts": 68,
+        "replies": 59,
+        "quotes": 4,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:49:08.526Z",
+      "metrics": {
+        "views": 15221,
         "likes": 268,
         "reposts": 68,
         "replies": 59,

@@ -4,12 +4,12 @@
   "text": "Macron a parlé…pour ne rien dire !\n\nRien !",
   "url": "https://x.com/f_philippot/status/2111882585370702251",
   "publishedAt": "2026-10-18T18:10:19.000Z",
-  "observedAt": "2026-10-19T22:27:34.782Z",
+  "observedAt": "2026-10-20T11:48:46.157Z",
   "firstSeenAt": "2026-10-18T20:53:19.232Z",
   "isQuote": false,
   "metrics": {
-    "views": 38224,
-    "likes": 4456,
+    "views": 38601,
+    "likes": 4465,
     "reposts": 483,
     "replies": 234,
     "quotes": 13,
@@ -43,6 +43,17 @@
       "metrics": {
         "views": 38224,
         "likes": 4456,
+        "reposts": 483,
+        "replies": 234,
+        "quotes": 13,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:48:46.157Z",
+      "metrics": {
+        "views": 38601,
+        "likes": 4465,
         "reposts": 483,
         "replies": 234,
         "quotes": 13,

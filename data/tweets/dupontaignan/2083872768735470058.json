@@ -4,7 +4,7 @@
   "text": "Merci Philippe !!!",
   "url": "https://x.com/dupontaignan/status/2083872768735470058",
   "publishedAt": "2026-08-02T11:09:19.000Z",
-  "observedAt": "2026-10-19T22:28:43.388Z",
+  "observedAt": "2026-10-20T11:49:56.431Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -106,6 +106,17 @@
     },
     {
       "observedAt": "2026-10-19T22:28:43.388Z",
+      "metrics": {
+        "views": 25509,
+        "likes": 3457,
+        "reposts": 1156,
+        "replies": 106,
+        "quotes": 11,
+        "bookmarks": 30
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:49:56.431Z",
       "metrics": {
         "views": 25509,
         "likes": 3457,

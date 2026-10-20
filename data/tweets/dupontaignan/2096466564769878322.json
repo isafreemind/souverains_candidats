@@ -4,7 +4,7 @@
   "text": "Inauguration d’un nouveau commerce à Yerres. Bienvenue aux nouveaux patrons du Patio Yerrois !",
   "url": "https://x.com/dupontaignan/status/2096466564769878322",
   "publishedAt": "2026-09-06T05:12:34.000Z",
-  "observedAt": "2026-10-19T22:28:36.980Z",
+  "observedAt": "2026-10-20T11:49:50.426Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -106,6 +106,17 @@
     },
     {
       "observedAt": "2026-10-19T22:28:36.980Z",
+      "metrics": {
+        "views": 13899,
+        "likes": 249,
+        "reposts": 45,
+        "replies": 20,
+        "quotes": 0,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:49:50.426Z",
       "metrics": {
         "views": 13899,
         "likes": 249,

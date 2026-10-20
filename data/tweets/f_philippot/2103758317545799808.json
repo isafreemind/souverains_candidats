@@ -4,16 +4,16 @@
   "text": "Macron est comme révélé à lui-même 😉\n\nLes jeux de lumière dans les vitraux sont sans pitié pour lui…",
   "url": "https://x.com/f_philippot/status/2103758317545799808",
   "publishedAt": "2026-09-26T08:07:23.000Z",
-  "observedAt": "2026-10-19T22:27:45.897Z",
+  "observedAt": "2026-10-20T11:48:58.188Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 207285,
-    "likes": 10026,
-    "reposts": 2283,
+    "views": 207291,
+    "likes": 10025,
+    "reposts": 2282,
     "replies": 475,
     "quotes": 114,
-    "bookmarks": 418
+    "bookmarks": 417
   },
   "observations": [
     {
@@ -113,6 +113,17 @@
         "replies": 475,
         "quotes": 114,
         "bookmarks": 418
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:48:58.188Z",
+      "metrics": {
+        "views": 207291,
+        "likes": 10025,
+        "reposts": 2282,
+        "replies": 475,
+        "quotes": 114,
+        "bookmarks": 417
       }
     }
   ],

@@ -4,12 +4,12 @@
   "text": "Décidément, ces gens ont peur de la liberté d'expression, si une source d'information échappe à leur bien-pensance alors ils veulent la censurer.",
   "url": "https://x.com/dupontaignan/status/2085302801295417490",
   "publishedAt": "2026-08-06T09:51:45.000Z",
-  "observedAt": "2026-10-19T22:28:42.344Z",
+  "observedAt": "2026-10-20T11:49:55.436Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 19629,
-    "likes": 1584,
+    "likes": 1585,
     "reposts": 411,
     "replies": 89,
     "quotes": 6,
@@ -109,6 +109,17 @@
       "metrics": {
         "views": 19629,
         "likes": 1584,
+        "reposts": 411,
+        "replies": 89,
+        "quotes": 6,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:49:55.436Z",
+      "metrics": {
+        "views": 19629,
+        "likes": 1585,
         "reposts": 411,
         "replies": 89,
         "quotes": 6,

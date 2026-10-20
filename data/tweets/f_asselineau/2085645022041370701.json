@@ -4,11 +4,11 @@
   "text": "🧐 𝗠𝗔𝗜𝗦 𝗢𝗨 𝗧𝗥𝗢𝗨𝗩𝗘-𝗧-𝗢𝗡 𝗖𝗘𝗦 «𝗜𝗡𝗚𝗘𝗥𝗘𝗡𝗖𝗘𝗦 𝗥𝗨𝗦𝗦𝗘𝗦» ?\nJe relaie l'excellent tweet de @PChaibriant, qui a demandé à l'IA de lui retrouver ces fameuses «ingérences russes» qui n'existeraient que sur X.\nMême Grok ne les retrouve pas !\nhttps://x.com/i/status/2085394351136419963",
   "url": "https://x.com/f_asselineau/status/2085645022041370701",
   "publishedAt": "2026-08-07T08:31:37.000Z",
-  "observedAt": "2026-10-19T22:27:28.756Z",
+  "observedAt": "2026-10-20T11:48:40.015Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 38612,
+    "views": 38613,
     "likes": 2615,
     "reposts": 1292,
     "replies": 91,
@@ -108,6 +108,17 @@
       "observedAt": "2026-10-19T22:27:28.756Z",
       "metrics": {
         "views": 38612,
+        "likes": 2615,
+        "reposts": 1292,
+        "replies": 91,
+        "quotes": 36,
+        "bookmarks": 86
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:48:40.015Z",
+      "metrics": {
+        "views": 38613,
         "likes": 2615,
         "reposts": 1292,
         "replies": 91,

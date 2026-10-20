@@ -4,11 +4,11 @@
   "text": "Pour tout comprendre à cette nouvelle manipulation par la PEUR : https://youtu.be/xVuzdh_cg6c?is=uFxoR7ZvriLno3RG",
   "url": "https://x.com/f_philippot/status/2107875828214239375",
   "publishedAt": "2026-10-07T16:48:54.000Z",
-  "observedAt": "2026-10-19T22:27:40.877Z",
+  "observedAt": "2026-10-20T11:48:52.117Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 18030,
+    "views": 18031,
     "likes": 235,
     "reposts": 82,
     "replies": 32,
@@ -108,6 +108,17 @@
       "observedAt": "2026-10-19T22:27:40.877Z",
       "metrics": {
         "views": 18030,
+        "likes": 235,
+        "reposts": 82,
+        "replies": 32,
+        "quotes": 1,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:48:52.117Z",
+      "metrics": {
+        "views": 18031,
         "likes": 235,
         "reposts": 82,
         "replies": 32,

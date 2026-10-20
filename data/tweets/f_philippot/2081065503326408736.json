@@ -4,12 +4,12 @@
   "text": "À diffuser partout !\n\nBravo pour sa franchise ! ⤵️",
   "url": "https://x.com/f_philippot/status/2081065503326408736",
   "publishedAt": "2026-07-25T17:14:14.000Z",
-  "observedAt": "2026-10-19T22:28:14.659Z",
+  "observedAt": "2026-10-20T11:49:28.607Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
     "views": 148285,
-    "likes": 3191,
+    "likes": 3192,
     "reposts": 1246,
     "replies": 122,
     "quotes": 15,
@@ -98,6 +98,17 @@
       "metrics": {
         "views": 148285,
         "likes": 3191,
+        "reposts": 1246,
+        "replies": 122,
+        "quotes": 15,
+        "bookmarks": 80
+      }
+    },
+    {
+      "observedAt": "2026-10-20T11:49:28.607Z",
+      "metrics": {
+        "views": 148285,
+        "likes": 3192,
         "reposts": 1246,
         "replies": 122,
         "quotes": 15,
