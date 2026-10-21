@@ -4,16 +4,16 @@
   "text": "Allocution de Macron : il joue le pourrissement !\n\nQU’IL PARTE !\nvidéo ⤵️",
   "url": "https://x.com/f_philippot/status/2111892456832692541",
   "publishedAt": "2026-10-18T18:49:33.000Z",
-  "observedAt": "2026-10-20T21:43:42.440Z",
+  "observedAt": "2026-10-21T12:00:21.170Z",
   "firstSeenAt": "2026-10-18T20:53:19.232Z",
   "isQuote": false,
   "metrics": {
-    "views": 23047,
-    "likes": 1436,
+    "views": 23184,
+    "likes": 1438,
     "reposts": 476,
     "replies": 76,
     "quotes": 10,
-    "bookmarks": 33
+    "bookmarks": 34
   },
   "observations": [
     {
@@ -69,6 +69,17 @@
         "replies": 76,
         "quotes": 10,
         "bookmarks": 33
+      }
+    },
+    {
+      "observedAt": "2026-10-21T12:00:21.170Z",
+      "metrics": {
+        "views": 23184,
+        "likes": 1438,
+        "reposts": 476,
+        "replies": 76,
+        "quotes": 10,
+        "bookmarks": 34
       }
     }
   ],

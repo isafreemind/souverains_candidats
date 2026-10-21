@@ -4,11 +4,11 @@
   "text": "En direct maintenant : je suis reçu par Nicolas Stoquer dans La Matinale de GPTV.\n\nhttps://www.youtube.com/live/rvL4cYlwS6Q",
   "url": "https://x.com/f_asselineau/status/2105546795291939095",
   "publishedAt": "2026-10-01T06:34:09.000Z",
-  "observedAt": "2026-10-20T21:43:03.427Z",
+  "observedAt": "2026-10-21T12:00:00.697Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 18924,
+    "views": 18928,
     "likes": 438,
     "reposts": 164,
     "replies": 13,
@@ -130,6 +130,17 @@
       "observedAt": "2026-10-20T21:43:03.427Z",
       "metrics": {
         "views": 18924,
+        "likes": 438,
+        "reposts": 164,
+        "replies": 13,
+        "quotes": 0,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-21T12:00:00.697Z",
+      "metrics": {
+        "views": 18928,
         "likes": 438,
         "reposts": 164,
         "replies": 13,

@@ -4,11 +4,11 @@
   "text": "Barrot a dû en faire une crise de nerfs ! 😂",
   "url": "https://x.com/f_philippot/status/2104259083268456655",
   "publishedAt": "2026-09-27T17:17:15.000Z",
-  "observedAt": "2026-10-20T21:44:06.743Z",
+  "observedAt": "2026-10-21T12:00:32.497Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 20513,
+    "views": 20514,
     "likes": 749,
     "reposts": 216,
     "replies": 28,
@@ -130,6 +130,17 @@
       "observedAt": "2026-10-20T21:44:06.743Z",
       "metrics": {
         "views": 20513,
+        "likes": 749,
+        "reposts": 216,
+        "replies": 28,
+        "quotes": 0,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-21T12:00:32.497Z",
+      "metrics": {
+        "views": 20514,
         "likes": 749,
         "reposts": 216,
         "replies": 28,

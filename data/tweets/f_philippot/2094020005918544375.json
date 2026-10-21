@@ -4,11 +4,11 @@
   "text": "Et piratage dès le…1er septembre !\n\nBOYCOTT\nANNULATION",
   "url": "https://x.com/f_philippot/status/2094020005918544375",
   "publishedAt": "2026-08-30T11:10:49.000Z",
-  "observedAt": "2026-10-20T21:44:37.748Z",
+  "observedAt": "2026-10-21T12:00:48.431Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 26181,
+    "views": 26182,
     "likes": 737,
     "reposts": 227,
     "replies": 35,
@@ -130,6 +130,17 @@
       "observedAt": "2026-10-20T21:44:37.748Z",
       "metrics": {
         "views": 26181,
+        "likes": 737,
+        "reposts": 227,
+        "replies": 35,
+        "quotes": 1,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-21T12:00:48.431Z",
+      "metrics": {
+        "views": 26182,
         "likes": 737,
         "reposts": 227,
         "replies": 35,

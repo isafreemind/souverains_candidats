@@ -4,16 +4,16 @@
   "text": "Le piège macroniste se referme : après avoir laissé faire les pilleurs semer le chaos, il s’attaque à la liberté d’expression.",
   "url": "https://x.com/dupontaignan/status/2112542763845910592",
   "publishedAt": "2026-10-20T13:53:38.000Z",
-  "observedAt": "2026-10-20T21:45:14.389Z",
+  "observedAt": "2026-10-21T12:01:10.588Z",
   "firstSeenAt": "2026-10-20T21:45:14.389Z",
   "isQuote": true,
   "metrics": {
-    "views": 7712,
-    "likes": 788,
-    "reposts": 261,
-    "replies": 19,
-    "quotes": 1,
-    "bookmarks": 6
+    "views": 11241,
+    "likes": 1302,
+    "reposts": 423,
+    "replies": 25,
+    "quotes": 2,
+    "bookmarks": 8
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 19,
         "quotes": 1,
         "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-21T12:01:10.588Z",
+      "metrics": {
+        "views": 11241,
+        "likes": 1302,
+        "reposts": 423,
+        "replies": 25,
+        "quotes": 2,
+        "bookmarks": 8
       }
     }
   ],
