@@ -4,11 +4,11 @@
   "text": "Nous sommes à 1 mois de la première édition de la fête de la Liberté ! Inscrivez vous sur le site de Debout la France et venez nombreux !",
   "url": "https://x.com/dupontaignan/status/2090101050925543529",
   "publishedAt": "2026-08-19T15:38:17.000Z",
-  "observedAt": "2026-10-21T12:01:32.357Z",
+  "observedAt": "2026-10-21T21:52:57.826Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 9901,
+    "views": 9902,
     "likes": 218,
     "reposts": 71,
     "replies": 17,
@@ -141,6 +141,17 @@
       "observedAt": "2026-10-21T12:01:32.357Z",
       "metrics": {
         "views": 9901,
+        "likes": 218,
+        "reposts": 71,
+        "replies": 17,
+        "quotes": 2,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:52:57.826Z",
+      "metrics": {
+        "views": 9902,
         "likes": 218,
         "reposts": 71,
         "replies": 17,

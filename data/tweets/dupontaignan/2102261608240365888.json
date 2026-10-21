@@ -4,12 +4,12 @@
   "text": "Racket fiscal sur les carburants, et maintenant pénurie. URGENCE D’AGIR !",
   "url": "https://x.com/dupontaignan/status/2102261608240365888",
   "publishedAt": "2026-09-22T05:00:00.000Z",
-  "observedAt": "2026-10-21T12:01:21.066Z",
+  "observedAt": "2026-10-21T21:52:14.860Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 13708,
-    "likes": 952,
+    "views": 13709,
+    "likes": 953,
     "reposts": 342,
     "replies": 51,
     "quotes": 8,
@@ -142,6 +142,17 @@
       "metrics": {
         "views": 13708,
         "likes": 952,
+        "reposts": 342,
+        "replies": 51,
+        "quotes": 8,
+        "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:52:14.860Z",
+      "metrics": {
+        "views": 13709,
+        "likes": 953,
         "reposts": 342,
         "replies": 51,
         "quotes": 8,

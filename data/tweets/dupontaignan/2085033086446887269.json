@@ -4,11 +4,11 @@
   "text": "À lire cet été ! Un livre éblouissant sur ceux qui ont refusé les diktats du gouvernement lors de la crise Covid.",
   "url": "https://x.com/dupontaignan/status/2085033086446887269",
   "publishedAt": "2026-08-05T16:00:00.000Z",
-  "observedAt": "2026-10-21T12:01:34.478Z",
+  "observedAt": "2026-10-21T21:53:03.172Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 18296,
+    "views": 18297,
     "likes": 529,
     "reposts": 194,
     "replies": 43,
@@ -141,6 +141,17 @@
       "observedAt": "2026-10-21T12:01:34.478Z",
       "metrics": {
         "views": 18296,
+        "likes": 529,
+        "reposts": 194,
+        "replies": 43,
+        "quotes": 4,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:53:03.172Z",
+      "metrics": {
+        "views": 18297,
         "likes": 529,
         "reposts": 194,
         "replies": 43,

@@ -4,11 +4,11 @@
   "text": "MERCI !",
   "url": "https://x.com/dupontaignan/status/2080933181218230751",
   "publishedAt": "2026-07-25T08:28:26.000Z",
-  "observedAt": "2026-10-21T12:01:37.462Z",
+  "observedAt": "2026-10-21T21:53:21.515Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 25943,
+    "views": 25944,
     "likes": 3724,
     "reposts": 467,
     "replies": 35,
@@ -141,6 +141,17 @@
       "observedAt": "2026-10-21T12:01:37.462Z",
       "metrics": {
         "views": 25943,
+        "likes": 3724,
+        "reposts": 467,
+        "replies": 35,
+        "quotes": 5,
+        "bookmarks": 29
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:53:21.515Z",
+      "metrics": {
+        "views": 25944,
         "likes": 3724,
         "reposts": 467,
         "replies": 35,

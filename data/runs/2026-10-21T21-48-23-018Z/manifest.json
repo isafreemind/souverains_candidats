@@ -1,0 +1,96 @@
+{
+  "observedAt": "2026-10-21T21:48:23.018Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 90,
+  "maxPages": 100,
+  "pageSize": 20,
+  "recoveries": [
+    {
+      "handle": "f_asselineau",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=5."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=2."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=1."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    }
+  ],
+  "followers": [
+    {
+      "handle": "f_asselineau",
+      "followers": 384977,
+      "observedAt": "2026-10-21T21:48:26.168Z"
+    },
+    {
+      "handle": "f_philippot",
+      "followers": 522200,
+      "observedAt": "2026-10-21T21:49:29.023Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 470018,
+      "observedAt": "2026-10-21T21:51:34.748Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-10-21T21:48:23.018Z",
+      "lookbackDays": 90,
+      "pages": 21,
+      "accepted": 328,
+      "excluded": 31,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-10-21T21:48:23.018Z",
+      "lookbackDays": 90,
+      "pages": 41,
+      "accepted": 784,
+      "excluded": 40,
+      "invalid": 0,
+      "reachedCutoff": false,
+      "exhausted": false,
+      "error": "Publications : Error: FxTwitter HTTP 404"
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-10-21T21:48:23.018Z",
+      "lookbackDays": 90,
+      "pages": 28,
+      "accepted": 437,
+      "excluded": 78,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    }
+  ]
+}

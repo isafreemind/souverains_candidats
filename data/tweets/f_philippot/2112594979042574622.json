@@ -4,16 +4,16 @@
   "text": "Et c’est justement le maire d’Orléans qui  demande à Macron d’activer l’article 16, les pleins pouvoirs…\n\nQue mijotent-ils ?",
   "url": "https://x.com/f_philippot/status/2112594979042574622",
   "publishedAt": "2026-10-20T17:21:07.000Z",
-  "observedAt": "2026-10-21T12:00:20.247Z",
+  "observedAt": "2026-10-21T21:49:37.124Z",
   "firstSeenAt": "2026-10-20T21:43:41.339Z",
   "isQuote": true,
   "metrics": {
-    "views": 25174,
-    "likes": 542,
-    "reposts": 204,
-    "replies": 39,
-    "quotes": 2,
-    "bookmarks": 22
+    "views": 27959,
+    "likes": 617,
+    "reposts": 229,
+    "replies": 41,
+    "quotes": 3,
+    "bookmarks": 23
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 39,
         "quotes": 2,
         "bookmarks": 22
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:49:37.124Z",
+      "metrics": {
+        "views": 27959,
+        "likes": 617,
+        "reposts": 229,
+        "replies": 41,
+        "quotes": 3,
+        "bookmarks": 23
       }
     }
   ],

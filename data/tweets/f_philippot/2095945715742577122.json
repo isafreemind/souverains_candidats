@@ -4,12 +4,12 @@
   "text": "Ça sent clairement le roussi là !",
   "url": "https://x.com/f_philippot/status/2095945715742577122",
   "publishedAt": "2026-09-04T18:42:54.000Z",
-  "observedAt": "2026-10-21T12:00:45.400Z",
+  "observedAt": "2026-10-21T21:50:37.086Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 80078,
-    "likes": 1370,
+    "views": 80077,
+    "likes": 1371,
     "reposts": 331,
     "replies": 234,
     "quotes": 15,
@@ -142,6 +142,17 @@
       "metrics": {
         "views": 80078,
         "likes": 1370,
+        "reposts": 331,
+        "replies": 234,
+        "quotes": 15,
+        "bookmarks": 37
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:50:37.086Z",
+      "metrics": {
+        "views": 80077,
+        "likes": 1371,
         "reposts": 331,
         "replies": 234,
         "quotes": 15,

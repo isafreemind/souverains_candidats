@@ -4,11 +4,11 @@
   "text": "Les travaux d’été avancent bien ! Malgré les contraintes passagères, n’oubliez pas nos commerçants locaux !",
   "url": "https://x.com/dupontaignan/status/2082859200070263240",
   "publishedAt": "2026-07-30T16:01:45.000Z",
-  "observedAt": "2026-10-21T12:01:35.497Z",
+  "observedAt": "2026-10-21T21:53:11.357Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 15158,
+    "views": 15159,
     "likes": 166,
     "reposts": 39,
     "replies": 10,
@@ -141,6 +141,17 @@
       "observedAt": "2026-10-21T12:01:35.497Z",
       "metrics": {
         "views": 15158,
+        "likes": 166,
+        "reposts": 39,
+        "replies": 10,
+        "quotes": 0,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:53:11.357Z",
+      "metrics": {
+        "views": 15159,
         "likes": 166,
         "reposts": 39,
         "replies": 10,

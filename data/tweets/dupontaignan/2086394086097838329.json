@@ -4,11 +4,11 @@
   "text": "MERCI aux 793 000 abonnés qui me suivent quotidiennement sur Facebook !",
   "url": "https://x.com/dupontaignan/status/2086394086097838329",
   "publishedAt": "2026-08-09T10:08:08.000Z",
-  "observedAt": "2026-10-21T12:01:33.322Z",
+  "observedAt": "2026-10-21T21:53:01.268Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 14708,
+    "views": 14709,
     "likes": 649,
     "reposts": 112,
     "replies": 92,
@@ -141,6 +141,17 @@
       "observedAt": "2026-10-21T12:01:33.322Z",
       "metrics": {
         "views": 14708,
+        "likes": 649,
+        "reposts": 112,
+        "replies": 92,
+        "quotes": 4,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:53:01.268Z",
+      "metrics": {
+        "views": 14709,
         "likes": 649,
         "reposts": 112,
         "replies": 92,

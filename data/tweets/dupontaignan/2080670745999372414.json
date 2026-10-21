@@ -4,11 +4,11 @@
   "text": "Le contrôle généralisé s'installe, retrouvez ma dernière vidéo : \n\nhttps://youtu.be/avhqPt2GMQo",
   "url": "https://x.com/dupontaignan/status/2080670745999372414",
   "publishedAt": "2026-07-24T15:05:37.000Z",
-  "observedAt": "2026-10-21T12:01:37.462Z",
+  "observedAt": "2026-10-21T21:53:21.515Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 9592,
+    "views": 9593,
     "likes": 122,
     "reposts": 57,
     "replies": 4,
@@ -141,6 +141,17 @@
       "observedAt": "2026-10-21T12:01:37.462Z",
       "metrics": {
         "views": 9592,
+        "likes": 122,
+        "reposts": 57,
+        "replies": 4,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-21T21:53:21.515Z",
+      "metrics": {
+        "views": 9593,
         "likes": 122,
         "reposts": 57,
         "replies": 4,
