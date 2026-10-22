@@ -4,12 +4,12 @@
   "text": "Non c’est la dépêche AFP qui crée une rumeur dont absolument personne n’avait entendu parler \n\nGrosse manip’ !",
   "url": "https://x.com/f_philippot/status/2080697761599463539",
   "publishedAt": "2026-07-24T16:52:58.000Z",
-  "observedAt": "2026-10-21T12:01:07.686Z",
+  "observedAt": "2026-10-22T12:05:45.385Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
     "views": 29536,
-    "likes": 2021,
+    "likes": 2022,
     "reposts": 525,
     "replies": 144,
     "quotes": 21,
@@ -131,6 +131,17 @@
       "metrics": {
         "views": 29536,
         "likes": 2021,
+        "reposts": 525,
+        "replies": 144,
+        "quotes": 21,
+        "bookmarks": 22
+      }
+    },
+    {
+      "observedAt": "2026-10-22T12:05:45.385Z",
+      "metrics": {
+        "views": 29536,
+        "likes": 2022,
         "reposts": 525,
         "replies": 144,
         "quotes": 21,

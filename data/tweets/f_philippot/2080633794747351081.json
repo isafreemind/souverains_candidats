@@ -4,7 +4,7 @@
   "text": "J’ai beaucoup mieux :",
   "url": "https://x.com/f_philippot/status/2080633794747351081",
   "publishedAt": "2026-07-24T12:38:47.000Z",
-  "observedAt": "2026-10-21T12:01:07.686Z",
+  "observedAt": "2026-10-22T12:05:45.385Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
@@ -128,6 +128,17 @@
     },
     {
       "observedAt": "2026-10-21T12:01:07.686Z",
+      "metrics": {
+        "views": 25338,
+        "likes": 1288,
+        "reposts": 285,
+        "replies": 46,
+        "quotes": 10,
+        "bookmarks": 15
+      }
+    },
+    {
+      "observedAt": "2026-10-22T12:05:45.385Z",
       "metrics": {
         "views": 25338,
         "likes": 1288,

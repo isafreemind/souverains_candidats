@@ -4,11 +4,11 @@
   "text": "C’est vraiment la guerre là",
   "url": "https://x.com/f_philippot/status/2098109479086678337",
   "publishedAt": "2026-09-10T18:00:55.000Z",
-  "observedAt": "2026-10-21T21:50:31.449Z",
+  "observedAt": "2026-10-22T12:04:43.856Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 30146,
+    "views": 30147,
     "likes": 507,
     "reposts": 136,
     "replies": 62,
@@ -152,6 +152,17 @@
       "observedAt": "2026-10-21T21:50:31.449Z",
       "metrics": {
         "views": 30146,
+        "likes": 507,
+        "reposts": 136,
+        "replies": 62,
+        "quotes": 7,
+        "bookmarks": 20
+      }
+    },
+    {
+      "observedAt": "2026-10-22T12:04:43.856Z",
+      "metrics": {
+        "views": 30147,
         "likes": 507,
         "reposts": 136,
         "replies": 62,
