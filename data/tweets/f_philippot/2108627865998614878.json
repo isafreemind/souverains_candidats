@@ -4,7 +4,7 @@
   "text": "En direct ce soir 23h25 sur BFMTV",
   "url": "https://x.com/f_philippot/status/2108627865998614878",
   "publishedAt": "2026-10-09T18:37:14.000Z",
-  "observedAt": "2026-10-22T12:03:59.213Z",
+  "observedAt": "2026-10-22T21:44:03.785Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -161,6 +161,17 @@
     },
     {
       "observedAt": "2026-10-22T12:03:59.213Z",
+      "metrics": {
+        "views": 11589,
+        "likes": 236,
+        "reposts": 75,
+        "replies": 42,
+        "quotes": 0,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-22T21:44:03.785Z",
       "metrics": {
         "views": 11589,
         "likes": 236,

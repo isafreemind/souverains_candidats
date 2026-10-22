@@ -4,16 +4,16 @@
   "text": "Les fanatiques du « complot russe » partout sont de sortie !\n\nIls sont vraiment gratinés ! 🫪",
   "url": "https://x.com/f_philippot/status/2112936560790253902",
   "publishedAt": "2026-10-21T15:58:27.000Z",
-  "observedAt": "2026-10-22T12:03:49.844Z",
+  "observedAt": "2026-10-22T21:43:55.851Z",
   "firstSeenAt": "2026-10-21T21:49:37.124Z",
   "isQuote": true,
   "metrics": {
-    "views": 10397,
-    "likes": 532,
-    "reposts": 127,
-    "replies": 41,
+    "views": 11526,
+    "likes": 583,
+    "reposts": 138,
+    "replies": 44,
     "quotes": 2,
-    "bookmarks": 4
+    "bookmarks": 5
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 41,
         "quotes": 2,
         "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-22T21:43:55.851Z",
+      "metrics": {
+        "views": 11526,
+        "likes": 583,
+        "reposts": 138,
+        "replies": 44,
+        "quotes": 2,
+        "bookmarks": 5
       }
     }
   ],

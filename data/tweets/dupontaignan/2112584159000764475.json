@@ -4,16 +4,16 @@
   "text": "On aura tout vu : les députés demandent la fermeture de l’Assemblée samedi par peur des débordements. Les représentants du peuple devraient être dans l’hémicycle, face aux pillages et à la violence, pour voter des mesures fortes : une loi anti-casseurs et l’interdiction des milices qui brûlent nos monuments.",
   "url": "https://x.com/dupontaignan/status/2112584159000764475",
   "publishedAt": "2026-10-20T16:38:08.000Z",
-  "observedAt": "2026-10-22T12:05:56.556Z",
+  "observedAt": "2026-10-22T21:44:53.339Z",
   "firstSeenAt": "2026-10-20T21:45:14.389Z",
   "isQuote": false,
   "metrics": {
-    "views": 11475,
-    "likes": 857,
-    "reposts": 338,
-    "replies": 79,
+    "views": 11630,
+    "likes": 866,
+    "reposts": 341,
+    "replies": 80,
     "quotes": 20,
-    "bookmarks": 16
+    "bookmarks": 17
   },
   "observations": [
     {
@@ -58,6 +58,17 @@
         "replies": 79,
         "quotes": 20,
         "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-10-22T21:44:53.339Z",
+      "metrics": {
+        "views": 11630,
+        "likes": 866,
+        "reposts": 341,
+        "replies": 80,
+        "quotes": 20,
+        "bookmarks": 17
       }
     }
   ],

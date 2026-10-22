@@ -4,11 +4,11 @@
   "text": "Le plus grand danger de l'Union européenne, c'est d'y rester !",
   "url": "https://x.com/dupontaignan/status/2084670949346222561",
   "publishedAt": "2026-08-04T16:01:00.000Z",
-  "observedAt": "2026-10-22T12:07:10.623Z",
+  "observedAt": "2026-10-22T21:45:23.058Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 21960,
+    "views": 21961,
     "likes": 1510,
     "reposts": 446,
     "replies": 135,
@@ -163,6 +163,17 @@
       "observedAt": "2026-10-22T12:07:10.623Z",
       "metrics": {
         "views": 21960,
+        "likes": 1510,
+        "reposts": 446,
+        "replies": 135,
+        "quotes": 21,
+        "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-10-22T21:45:23.058Z",
+      "metrics": {
+        "views": 21961,
         "likes": 1510,
         "reposts": 446,
         "replies": 135,

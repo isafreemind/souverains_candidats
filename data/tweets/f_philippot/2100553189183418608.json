@@ -4,12 +4,12 @@
   "text": "Ça y est il lance son opération « Annulation de l’élection présidentielle » !",
   "url": "https://x.com/f_philippot/status/2100553189183418608",
   "publishedAt": "2026-09-17T11:51:21.000Z",
-  "observedAt": "2026-10-22T12:04:29.217Z",
+  "observedAt": "2026-10-22T21:44:17.738Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 113712,
-    "likes": 3609,
+    "likes": 3610,
     "reposts": 1493,
     "replies": 366,
     "quotes": 73,
@@ -164,6 +164,17 @@
       "metrics": {
         "views": 113712,
         "likes": 3609,
+        "reposts": 1493,
+        "replies": 366,
+        "quotes": 73,
+        "bookmarks": 96
+      }
+    },
+    {
+      "observedAt": "2026-10-22T21:44:17.738Z",
+      "metrics": {
+        "views": 113712,
+        "likes": 3610,
         "reposts": 1493,
         "replies": 366,
         "quotes": 73,

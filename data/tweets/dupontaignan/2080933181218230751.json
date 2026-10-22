@@ -4,7 +4,7 @@
   "text": "MERCI !",
   "url": "https://x.com/dupontaignan/status/2080933181218230751",
   "publishedAt": "2026-07-25T08:28:26.000Z",
-  "observedAt": "2026-10-22T12:07:13.263Z",
+  "observedAt": "2026-10-22T21:45:26.724Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -161,6 +161,17 @@
     },
     {
       "observedAt": "2026-10-22T12:07:13.263Z",
+      "metrics": {
+        "views": 25944,
+        "likes": 3724,
+        "reposts": 467,
+        "replies": 35,
+        "quotes": 5,
+        "bookmarks": 29
+      }
+    },
+    {
+      "observedAt": "2026-10-22T21:45:26.724Z",
       "metrics": {
         "views": 25944,
         "likes": 3724,
