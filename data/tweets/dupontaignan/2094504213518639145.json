@@ -4,7 +4,7 @@
   "text": "Allez tous voir ces deux magnifiques films.  La France n’est grande, forte et juste que LIBRE !",
   "url": "https://x.com/dupontaignan/status/2094504213518639145",
   "publishedAt": "2026-08-31T19:14:53.000Z",
-  "observedAt": "2026-10-23T11:51:28.124Z",
+  "observedAt": "2026-10-23T21:33:45.961Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -183,6 +183,17 @@
     },
     {
       "observedAt": "2026-10-23T11:51:28.124Z",
+      "metrics": {
+        "views": 16401,
+        "likes": 832,
+        "reposts": 228,
+        "replies": 21,
+        "quotes": 2,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:33:45.961Z",
       "metrics": {
         "views": 16401,
         "likes": 832,

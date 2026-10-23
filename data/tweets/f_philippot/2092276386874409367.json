@@ -4,7 +4,7 @@
   "text": "Lisez ça c’est assez fou \n\nQue se passe-t-il vraiment ?! ⤵️",
   "url": "https://x.com/f_philippot/status/2092276386874409367",
   "publishedAt": "2026-08-25T15:42:17.000Z",
-  "observedAt": "2026-10-23T11:49:47.588Z",
+  "observedAt": "2026-10-23T21:32:21.124Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -183,6 +183,17 @@
     },
     {
       "observedAt": "2026-10-23T11:49:47.588Z",
+      "metrics": {
+        "views": 65796,
+        "likes": 424,
+        "reposts": 118,
+        "replies": 34,
+        "quotes": 2,
+        "bookmarks": 29
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:32:21.124Z",
       "metrics": {
         "views": 65796,
         "likes": 424,

@@ -4,7 +4,7 @@
   "text": "C’est exactement ça ! 😂",
   "url": "https://x.com/f_philippot/status/2086752158830022661",
   "publishedAt": "2026-08-10T09:50:59.000Z",
-  "observedAt": "2026-10-23T11:50:04.400Z",
+  "observedAt": "2026-10-23T21:32:40.388Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": false,
   "metrics": {
@@ -172,6 +172,17 @@
     },
     {
       "observedAt": "2026-10-23T11:50:04.400Z",
+      "metrics": {
+        "views": 15954,
+        "likes": 743,
+        "reposts": 231,
+        "replies": 29,
+        "quotes": 2,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:32:40.388Z",
       "metrics": {
         "views": 15954,
         "likes": 743,

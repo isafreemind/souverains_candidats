@@ -4,12 +4,12 @@
   "text": "C’est une plaisanterie ?! 🤦🏻‍♂️",
   "url": "https://x.com/f_philippot/status/2097315666650931642",
   "publishedAt": "2026-09-08T13:26:35.000Z",
-  "observedAt": "2026-10-23T11:49:32.876Z",
+  "observedAt": "2026-10-23T21:32:03.338Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 56891,
-    "likes": 1644,
+    "likes": 1643,
     "reposts": 253,
     "replies": 139,
     "quotes": 13,
@@ -186,6 +186,17 @@
       "metrics": {
         "views": 56891,
         "likes": 1644,
+        "reposts": 253,
+        "replies": 139,
+        "quotes": 13,
+        "bookmarks": 39
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:32:03.338Z",
+      "metrics": {
+        "views": 56891,
+        "likes": 1643,
         "reposts": 253,
         "replies": 139,
         "quotes": 13,

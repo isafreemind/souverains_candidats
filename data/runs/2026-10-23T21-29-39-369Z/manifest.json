@@ -1,0 +1,96 @@
+{
+  "observedAt": "2026-10-23T21:29:39.369Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 90,
+  "maxPages": 100,
+  "pageSize": 20,
+  "recoveries": [
+    {
+      "handle": "f_asselineau",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_asselineau",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    },
+    {
+      "handle": "f_asselineau",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=5."
+    },
+    {
+      "handle": "f_asselineau",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=2."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    }
+  ],
+  "followers": [
+    {
+      "handle": "f_asselineau",
+      "followers": 385056,
+      "observedAt": "2026-10-23T21:29:41.814Z"
+    },
+    {
+      "handle": "f_philippot",
+      "followers": 522298,
+      "observedAt": "2026-10-23T21:31:01.356Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 470123,
+      "observedAt": "2026-10-23T21:32:53.301Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-10-23T21:29:39.369Z",
+      "lookbackDays": 90,
+      "pages": 24,
+      "accepted": 331,
+      "excluded": 141,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-10-23T21:29:39.369Z",
+      "lookbackDays": 90,
+      "pages": 43,
+      "accepted": 805,
+      "excluded": 39,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-10-23T21:29:39.369Z",
+      "lookbackDays": 90,
+      "pages": 29,
+      "accepted": 441,
+      "excluded": 102,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    }
+  ]
+}

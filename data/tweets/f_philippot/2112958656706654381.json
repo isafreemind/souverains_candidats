@@ -4,15 +4,15 @@
   "text": "Imparable ! ⤵️",
   "url": "https://x.com/f_philippot/status/2112958656706654381",
   "publishedAt": "2026-10-21T17:26:15.000Z",
-  "observedAt": "2026-10-23T11:48:44.412Z",
+  "observedAt": "2026-10-23T21:31:04.878Z",
   "firstSeenAt": "2026-10-21T21:49:37.124Z",
   "isQuote": true,
   "metrics": {
-    "views": 52385,
-    "likes": 2452,
-    "reposts": 783,
+    "views": 52880,
+    "likes": 2464,
+    "reposts": 786,
     "replies": 52,
-    "quotes": 11,
+    "quotes": 12,
     "bookmarks": 88
   },
   "observations": [
@@ -57,6 +57,17 @@
         "reposts": 783,
         "replies": 52,
         "quotes": 11,
+        "bookmarks": 88
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:31:04.878Z",
+      "metrics": {
+        "views": 52880,
+        "likes": 2464,
+        "reposts": 786,
+        "replies": 52,
+        "quotes": 12,
         "bookmarks": 88
       }
     }

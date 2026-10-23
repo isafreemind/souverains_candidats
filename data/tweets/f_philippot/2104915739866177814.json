@@ -4,12 +4,12 @@
   "text": "Courage aux pompiers !",
   "url": "https://x.com/f_philippot/status/2104915739866177814",
   "publishedAt": "2026-09-29T12:46:34.000Z",
-  "observedAt": "2026-10-23T11:49:17.105Z",
+  "observedAt": "2026-10-23T21:31:32.902Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 17784,
-    "likes": 1118,
+    "views": 17787,
+    "likes": 1120,
     "reposts": 297,
     "replies": 20,
     "quotes": 2,
@@ -186,6 +186,17 @@
       "metrics": {
         "views": 17784,
         "likes": 1118,
+        "reposts": 297,
+        "replies": 20,
+        "quotes": 2,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:31:32.902Z",
+      "metrics": {
+        "views": 17787,
+        "likes": 1120,
         "reposts": 297,
         "replies": 20,
         "quotes": 2,

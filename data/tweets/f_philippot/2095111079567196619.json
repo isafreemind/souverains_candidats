@@ -4,11 +4,11 @@
   "text": "La sorcière est de sortie et elle veut son armée.\n\nDehors !\nFrexit !",
   "url": "https://x.com/f_philippot/status/2095111079567196619",
   "publishedAt": "2026-09-02T11:26:21.000Z",
-  "observedAt": "2026-10-23T11:49:35.835Z",
+  "observedAt": "2026-10-23T21:32:16.604Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 31579,
+    "views": 31582,
     "likes": 2431,
     "reposts": 740,
     "replies": 150,
@@ -185,6 +185,17 @@
       "observedAt": "2026-10-23T11:49:35.835Z",
       "metrics": {
         "views": 31579,
+        "likes": 2431,
+        "reposts": 740,
+        "replies": 150,
+        "quotes": 17,
+        "bookmarks": 30
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:32:16.604Z",
+      "metrics": {
+        "views": 31582,
         "likes": 2431,
         "reposts": 740,
         "replies": 150,

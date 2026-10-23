@@ -4,16 +4,16 @@
   "text": "📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼 𝘀𝘂𝗿 𝗧𝗢𝗖𝗦𝗜𝗡\nJe suis l'invité de Nicolas Vidal dans la Matinale de Tocsin, ce vendredi 23 octobre 2026, de 9h00 à 9h30.\nhttps://www.tocsin-media.fr/",
   "url": "https://x.com/f_asselineau/status/2113388623299014899",
   "publishedAt": "2026-10-22T21:54:47.000Z",
-  "observedAt": "2026-10-23T11:48:02.230Z",
+  "observedAt": "2026-10-23T21:29:45.296Z",
   "firstSeenAt": "2026-10-23T11:48:02.230Z",
   "isQuote": false,
   "metrics": {
-    "views": 9631,
-    "likes": 429,
-    "reposts": 152,
-    "replies": 12,
+    "views": 12086,
+    "likes": 552,
+    "reposts": 194,
+    "replies": 15,
     "quotes": 1,
-    "bookmarks": 7
+    "bookmarks": 10
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 12,
         "quotes": 1,
         "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:29:45.296Z",
+      "metrics": {
+        "views": 12086,
+        "likes": 552,
+        "reposts": 194,
+        "replies": 15,
+        "quotes": 1,
+        "bookmarks": 10
       }
     }
   ],

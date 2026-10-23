@@ -4,11 +4,11 @@
   "text": "⚠️ 𝗣𝗘𝗧𝗜𝗧𝗘 𝗖𝗔𝗣𝗦𝗨𝗟𝗘 𝗩𝗜𝗗𝗘𝗢 𝗦𝗨𝗥 \n𝗟𝗜𝗚𝗡𝗘 𝗗𝗥𝗢𝗜𝗧𝗘 - 𝗥𝗔𝗗𝗜𝗢 𝗖𝗢𝗨𝗥𝗧𝗢𝗜𝗦𝗜𝗘",
   "url": "https://x.com/f_asselineau/status/2105033322611065030",
   "publishedAt": "2026-09-29T20:33:48.000Z",
-  "observedAt": "2026-10-23T11:48:08.236Z",
+  "observedAt": "2026-10-23T21:30:10.447Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 19955,
+    "views": 19957,
     "likes": 829,
     "reposts": 284,
     "replies": 13,
@@ -185,6 +185,17 @@
       "observedAt": "2026-10-23T11:48:08.236Z",
       "metrics": {
         "views": 19955,
+        "likes": 829,
+        "reposts": 284,
+        "replies": 13,
+        "quotes": 2,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:30:10.447Z",
+      "metrics": {
+        "views": 19957,
         "likes": 829,
         "reposts": 284,
         "replies": 13,

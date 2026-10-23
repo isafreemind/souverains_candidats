@@ -4,11 +4,11 @@
   "text": "En cette fête des grands-pères, j’ai le souvenir ému du mien, André Aignan, qui, lorsque j’étais enfant, nous racontait ses premiers combats aériens de la guerre de 14. En 1917, son avion s’écrase, il survit miraculeusement et nous a toujours appris à ne jamais renoncer.Bonne fête à tous les grands-pères de France !",
   "url": "https://x.com/dupontaignan/status/2106625362620997683",
   "publishedAt": "2026-10-04T06:00:00.000Z",
-  "observedAt": "2026-10-23T11:50:48.027Z",
+  "observedAt": "2026-10-23T21:33:12.860Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 13779,
+    "views": 13780,
     "likes": 1091,
     "reposts": 168,
     "replies": 18,
@@ -185,6 +185,17 @@
       "observedAt": "2026-10-23T11:50:48.027Z",
       "metrics": {
         "views": 13779,
+        "likes": 1091,
+        "reposts": 168,
+        "replies": 18,
+        "quotes": 0,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-23T21:33:12.860Z",
+      "metrics": {
+        "views": 13780,
         "likes": 1091,
         "reposts": 168,
         "replies": 18,
