@@ -4,11 +4,11 @@
   "text": "La nouvelle 2CV électrique de Citroën est prometteuse. Maintenant, battons-nous pour qu’elle soit produite en France, avec des emplois et du savoir-faire français !",
   "url": "https://x.com/dupontaignan/status/2110346802423546246",
   "publishedAt": "2026-10-14T12:27:40.000Z",
-  "observedAt": "2026-10-22T21:44:58.054Z",
+  "observedAt": "2026-10-23T11:50:39.754Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 23085,
+    "views": 23091,
     "likes": 267,
     "reposts": 54,
     "replies": 286,
@@ -174,6 +174,17 @@
       "observedAt": "2026-10-22T21:44:58.054Z",
       "metrics": {
         "views": 23085,
+        "likes": 267,
+        "reposts": 54,
+        "replies": 286,
+        "quotes": 20,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-23T11:50:39.754Z",
+      "metrics": {
+        "views": 23091,
         "likes": 267,
         "reposts": 54,
         "replies": 286,

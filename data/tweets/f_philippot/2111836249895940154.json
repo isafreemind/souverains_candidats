@@ -4,11 +4,11 @@
   "text": "Bah voyons !\n\nDécidément on avait vu juste sur tout !",
   "url": "https://x.com/f_philippot/status/2111836249895940154",
   "publishedAt": "2026-10-18T15:06:12.000Z",
-  "observedAt": "2026-10-22T21:43:58.484Z",
+  "observedAt": "2026-10-23T11:48:51.393Z",
   "firstSeenAt": "2026-10-18T20:53:19.232Z",
   "isQuote": true,
   "metrics": {
-    "views": 17778,
+    "views": 17791,
     "likes": 917,
     "reposts": 299,
     "replies": 24,
@@ -108,6 +108,17 @@
       "observedAt": "2026-10-22T21:43:58.484Z",
       "metrics": {
         "views": 17778,
+        "likes": 917,
+        "reposts": 299,
+        "replies": 24,
+        "quotes": 1,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-23T11:48:51.393Z",
+      "metrics": {
+        "views": 17791,
         "likes": 917,
         "reposts": 299,
         "replies": 24,

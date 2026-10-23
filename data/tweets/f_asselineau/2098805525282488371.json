@@ -4,12 +4,12 @@
   "text": "PHILIPPE N'A PLUS LA FRITE\nJe réagis dans cette vidéo aux propos ahurissants de « l'homme politique préféré des Français », qui souhaiterait, sitôt élu, partir en vacances pendant 15 jours et lever le pied pendant 4 mois.",
   "url": "https://x.com/f_asselineau/status/2098805525282488371",
   "publishedAt": "2026-09-12T16:06:45.000Z",
-  "observedAt": "2026-10-22T21:43:39.685Z",
+  "observedAt": "2026-10-23T11:48:22.090Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 70282,
-    "likes": 2973,
+    "views": 70284,
+    "likes": 2974,
     "reposts": 1097,
     "replies": 176,
     "quotes": 42,
@@ -175,6 +175,17 @@
       "metrics": {
         "views": 70282,
         "likes": 2973,
+        "reposts": 1097,
+        "replies": 176,
+        "quotes": 42,
+        "bookmarks": 96
+      }
+    },
+    {
+      "observedAt": "2026-10-23T11:48:22.090Z",
+      "metrics": {
+        "views": 70284,
+        "likes": 2974,
         "reposts": 1097,
         "replies": 176,
         "quotes": 42,

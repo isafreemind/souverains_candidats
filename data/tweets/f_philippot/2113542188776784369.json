@@ -1,0 +1,37 @@
+{
+  "id": "2113542188776784369",
+  "handle": "f_philippot",
+  "text": "Grâce au vent, un torchon bleu à étoiles en moins ! ⤵️\n\nVive la France libre ! \nFREXIT 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2113542188776784369",
+  "publishedAt": "2026-10-23T08:05:00.000Z",
+  "observedAt": "2026-10-23T11:48:44.412Z",
+  "firstSeenAt": "2026-10-23T11:48:44.412Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 5121,
+    "likes": 175,
+    "reposts": 44,
+    "replies": 18,
+    "quotes": 2,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-23T11:48:44.412Z",
+      "metrics": {
+        "views": 5121,
+        "likes": 175,
+        "reposts": 44,
+        "replies": 18,
+        "quotes": 2,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-23T11:48:44.412Z",
+      "text": "Grâce au vent, un torchon bleu à étoiles en moins ! ⤵️\n\nVive la France libre ! \nFREXIT 🇫🇷"
+    }
+  ]
+}

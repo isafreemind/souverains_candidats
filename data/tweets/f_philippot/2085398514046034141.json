@@ -4,12 +4,12 @@
   "text": "Elon Musk répond à Marine Tondelier qui veut fermer X en France !\n\n⤵️",
   "url": "https://x.com/f_philippot/status/2085398514046034141",
   "publishedAt": "2026-08-06T16:12:05.000Z",
-  "observedAt": "2026-10-22T21:44:40.810Z",
+  "observedAt": "2026-10-23T11:50:08.394Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
-    "views": 57044,
-    "likes": 3003,
+    "views": 57043,
+    "likes": 3004,
     "reposts": 715,
     "replies": 90,
     "quotes": 9,
@@ -164,6 +164,17 @@
       "metrics": {
         "views": 57044,
         "likes": 3003,
+        "reposts": 715,
+        "replies": 90,
+        "quotes": 9,
+        "bookmarks": 27
+      }
+    },
+    {
+      "observedAt": "2026-10-23T11:50:08.394Z",
+      "metrics": {
+        "views": 57043,
+        "likes": 3004,
         "reposts": 715,
         "replies": 90,
         "quotes": 9,

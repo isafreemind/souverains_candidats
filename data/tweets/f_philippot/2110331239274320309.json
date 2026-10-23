@@ -4,11 +4,11 @@
   "text": "Lola, 4 ans déjà.\n\nOn n’oublie rien.",
   "url": "https://x.com/f_philippot/status/2110331239274320309",
   "publishedAt": "2026-10-14T11:25:50.000Z",
-  "observedAt": "2026-10-22T21:44:00.925Z",
+  "observedAt": "2026-10-23T11:48:58.480Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 19190,
+    "views": 19194,
     "likes": 2980,
     "reposts": 598,
     "replies": 65,
@@ -174,6 +174,17 @@
       "observedAt": "2026-10-22T21:44:00.925Z",
       "metrics": {
         "views": 19190,
+        "likes": 2980,
+        "reposts": 598,
+        "replies": 65,
+        "quotes": 11,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-10-23T11:48:58.480Z",
+      "metrics": {
+        "views": 19194,
         "likes": 2980,
         "reposts": 598,
         "replies": 65,
