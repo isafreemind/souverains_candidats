@@ -4,12 +4,12 @@
   "text": "À relayer partout ! ⤵️",
   "url": "https://x.com/f_philippot/status/2104229763883602197",
   "publishedAt": "2026-09-27T15:20:45.000Z",
-  "observedAt": "2026-10-24T11:13:51.718Z",
+  "observedAt": "2026-10-24T20:58:35.633Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 30286,
-    "likes": 1277,
+    "views": 30287,
+    "likes": 1278,
     "reposts": 638,
     "replies": 40,
     "quotes": 6,
@@ -208,6 +208,17 @@
       "metrics": {
         "views": 30286,
         "likes": 1277,
+        "reposts": 638,
+        "replies": 40,
+        "quotes": 6,
+        "bookmarks": 48
+      }
+    },
+    {
+      "observedAt": "2026-10-24T20:58:35.633Z",
+      "metrics": {
+        "views": 30287,
+        "likes": 1278,
         "reposts": 638,
         "replies": 40,
         "quotes": 6,

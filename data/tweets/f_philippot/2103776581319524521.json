@@ -4,12 +4,12 @@
   "text": "Bravo !",
   "url": "https://x.com/f_philippot/status/2103776581319524521",
   "publishedAt": "2026-09-26T09:19:57.000Z",
-  "observedAt": "2026-10-24T11:13:52.662Z",
+  "observedAt": "2026-10-24T20:58:37.636Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 94534,
-    "likes": 3037,
+    "likes": 3038,
     "reposts": 978,
     "replies": 58,
     "quotes": 8,
@@ -208,6 +208,17 @@
       "metrics": {
         "views": 94534,
         "likes": 3037,
+        "reposts": 978,
+        "replies": 58,
+        "quotes": 8,
+        "bookmarks": 104
+      }
+    },
+    {
+      "observedAt": "2026-10-24T20:58:37.636Z",
+      "metrics": {
+        "views": 94534,
+        "likes": 3038,
         "reposts": 978,
         "replies": 58,
         "quotes": 8,
