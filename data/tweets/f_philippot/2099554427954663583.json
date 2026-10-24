@@ -4,15 +4,15 @@
   "text": "Le clip des Assises !\nQuelle force ! \nLe patriotisme c’est l’avenir ! 🇫🇷",
   "url": "https://x.com/f_philippot/status/2099554427954663583",
   "publishedAt": "2026-09-14T17:42:38.000Z",
-  "observedAt": "2026-10-23T21:31:49.998Z",
+  "observedAt": "2026-10-24T11:13:58.965Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 17987,
-    "likes": 654,
+    "views": 18336,
+    "likes": 655,
     "reposts": 202,
     "replies": 46,
-    "quotes": 11,
+    "quotes": 12,
     "bookmarks": 13
   },
   "observations": [
@@ -200,6 +200,17 @@
         "reposts": 202,
         "replies": 46,
         "quotes": 11,
+        "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:13:58.965Z",
+      "metrics": {
+        "views": 18336,
+        "likes": 655,
+        "reposts": 202,
+        "replies": 46,
+        "quotes": 12,
         "bookmarks": 13
       }
     }

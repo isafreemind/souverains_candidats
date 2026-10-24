@@ -4,16 +4,16 @@
   "text": "C’est maintenant, je suis actuellement l'invité de Nicolas Vidal dans la Matinale de Tocsin. \n\nhttps://www.youtube.com/live/J2RDxAAOicw",
   "url": "https://x.com/f_asselineau/status/2113526368843563512",
   "publishedAt": "2026-10-23T07:02:08.000Z",
-  "observedAt": "2026-10-23T21:29:45.296Z",
+  "observedAt": "2026-10-24T11:12:57.501Z",
   "firstSeenAt": "2026-10-23T11:48:02.230Z",
   "isQuote": false,
   "metrics": {
-    "views": 12037,
-    "likes": 433,
-    "reposts": 155,
+    "views": 13894,
+    "likes": 504,
+    "reposts": 170,
     "replies": 7,
-    "quotes": 2,
-    "bookmarks": 5
+    "quotes": 3,
+    "bookmarks": 6
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 7,
         "quotes": 2,
         "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:12:57.501Z",
+      "metrics": {
+        "views": 13894,
+        "likes": 504,
+        "reposts": 170,
+        "replies": 7,
+        "quotes": 3,
+        "bookmarks": 6
       }
     }
   ],

@@ -4,12 +4,12 @@
   "text": "Extra !\n\nMa vidéo sur ce moment de bascule : https://youtu.be/-exirmB_liI?is=rIj5z_ZBVklus4qx",
   "url": "https://x.com/f_philippot/status/2082846700608147930",
   "publishedAt": "2026-07-30T15:12:05.000Z",
-  "observedAt": "2026-10-23T21:32:48.324Z",
+  "observedAt": "2026-10-24T11:14:24.823Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
     "views": 21519,
-    "likes": 244,
+    "likes": 243,
     "reposts": 79,
     "replies": 15,
     "quotes": 2,
@@ -186,6 +186,17 @@
       "metrics": {
         "views": 21519,
         "likes": 244,
+        "reposts": 79,
+        "replies": 15,
+        "quotes": 2,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:14:24.823Z",
+      "metrics": {
+        "views": 21519,
+        "likes": 243,
         "reposts": 79,
         "replies": 15,
         "quotes": 2,

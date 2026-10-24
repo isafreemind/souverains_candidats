@@ -4,7 +4,7 @@
   "text": "Excellent !",
   "url": "https://x.com/f_philippot/status/2108959989708566999",
   "publishedAt": "2026-10-10T16:36:58.000Z",
-  "observedAt": "2026-10-23T21:31:14.353Z",
+  "observedAt": "2026-10-24T11:13:44.613Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -194,6 +194,17 @@
     },
     {
       "observedAt": "2026-10-23T21:31:14.353Z",
+      "metrics": {
+        "views": 25594,
+        "likes": 390,
+        "reposts": 87,
+        "replies": 19,
+        "quotes": 1,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:13:44.613Z",
       "metrics": {
         "views": 25594,
         "likes": 390,

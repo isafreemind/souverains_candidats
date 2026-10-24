@@ -4,13 +4,13 @@
   "text": "Et hop la France vient de faire un nouveau chèque de 600 millions pour l’Ukraine ! 🤡",
   "url": "https://x.com/f_philippot/status/2109667424848978112",
   "publishedAt": "2026-10-12T15:28:04.000Z",
-  "observedAt": "2026-10-23T21:31:14.353Z",
+  "observedAt": "2026-10-24T11:13:43.203Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 37971,
-    "likes": 2756,
-    "reposts": 1182,
+    "views": 37976,
+    "likes": 2755,
+    "reposts": 1181,
     "replies": 118,
     "quotes": 31,
     "bookmarks": 29
@@ -198,6 +198,17 @@
         "views": 37971,
         "likes": 2756,
         "reposts": 1182,
+        "replies": 118,
+        "quotes": 31,
+        "bookmarks": 29
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:13:43.203Z",
+      "metrics": {
+        "views": 37976,
+        "likes": 2755,
+        "reposts": 1181,
         "replies": 118,
         "quotes": 31,
         "bookmarks": 29

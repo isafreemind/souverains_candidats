@@ -4,16 +4,16 @@
   "text": "Il jouit de mettre IMMÉDIATEMENT de l’huile sur le feu : il veut le chaos maximal c’est tellement évident ! \n\nDESTITUEZ-LE !",
   "url": "https://x.com/f_philippot/status/2113681440672203105",
   "publishedAt": "2026-10-23T17:18:20.000Z",
-  "observedAt": "2026-10-23T21:31:02.948Z",
+  "observedAt": "2026-10-24T11:13:36.252Z",
   "firstSeenAt": "2026-10-23T21:31:02.948Z",
   "isQuote": true,
   "metrics": {
-    "views": 39384,
-    "likes": 3139,
-    "reposts": 781,
-    "replies": 135,
-    "quotes": 16,
-    "bookmarks": 47
+    "views": 55804,
+    "likes": 4904,
+    "reposts": 1233,
+    "replies": 170,
+    "quotes": 20,
+    "bookmarks": 68
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 135,
         "quotes": 16,
         "bookmarks": 47
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:13:36.252Z",
+      "metrics": {
+        "views": 55804,
+        "likes": 4904,
+        "reposts": 1233,
+        "replies": 170,
+        "quotes": 20,
+        "bookmarks": 68
       }
     }
   ],

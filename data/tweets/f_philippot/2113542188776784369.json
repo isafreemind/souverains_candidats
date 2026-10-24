@@ -4,15 +4,15 @@
   "text": "Grâce au vent, un torchon bleu à étoiles en moins ! ⤵️\n\nVive la France libre ! \nFREXIT 🇫🇷",
   "url": "https://x.com/f_philippot/status/2113542188776784369",
   "publishedAt": "2026-10-23T08:05:00.000Z",
-  "observedAt": "2026-10-23T21:31:02.948Z",
+  "observedAt": "2026-10-24T11:13:36.252Z",
   "firstSeenAt": "2026-10-23T11:48:44.412Z",
   "isQuote": true,
   "metrics": {
-    "views": 11250,
-    "likes": 310,
-    "reposts": 75,
-    "replies": 19,
-    "quotes": 2,
+    "views": 13291,
+    "likes": 358,
+    "reposts": 83,
+    "replies": 20,
+    "quotes": 3,
     "bookmarks": 3
   },
   "observations": [
@@ -35,6 +35,17 @@
         "reposts": 75,
         "replies": 19,
         "quotes": 2,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:13:36.252Z",
+      "metrics": {
+        "views": 13291,
+        "likes": 358,
+        "reposts": 83,
+        "replies": 20,
+        "quotes": 3,
         "bookmarks": 3
       }
     }

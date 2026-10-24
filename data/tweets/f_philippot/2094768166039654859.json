@@ -4,7 +4,7 @@
   "text": "Habemus Nullum",
   "url": "https://x.com/f_philippot/status/2094768166039654859",
   "publishedAt": "2026-09-01T12:43:44.000Z",
-  "observedAt": "2026-10-23T21:32:16.604Z",
+  "observedAt": "2026-10-24T11:14:05.545Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -194,6 +194,17 @@
     },
     {
       "observedAt": "2026-10-23T21:32:16.604Z",
+      "metrics": {
+        "views": 17654,
+        "likes": 545,
+        "reposts": 104,
+        "replies": 35,
+        "quotes": 3,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:14:05.545Z",
       "metrics": {
         "views": 17654,
         "likes": 545,

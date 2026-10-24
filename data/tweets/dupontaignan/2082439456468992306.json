@@ -4,13 +4,13 @@
   "text": "SCANDALE !!! Le Gouvernement ordonne l’expulsion de Xenia Fedorova. \nEn 2026, en France, une chroniqueuse peut être expulsée car ses opinions ne vont pas dans le sens de celles du pouvoir. Une véritable censure, digne d’une dictature ! \nEt pendant ce temps les OQTF, tueurs et violeurs, circulent tranquillement.",
   "url": "https://x.com/dupontaignan/status/2082439456468992306",
   "publishedAt": "2026-07-29T12:13:50.000Z",
-  "observedAt": "2026-10-23T21:33:59.705Z",
+  "observedAt": "2026-10-24T11:15:05.573Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 163033,
-    "likes": 11266,
-    "reposts": 4633,
+    "likes": 11263,
+    "reposts": 4632,
     "replies": 1261,
     "quotes": 205,
     "bookmarks": 161
@@ -198,6 +198,17 @@
         "views": 163033,
         "likes": 11266,
         "reposts": 4633,
+        "replies": 1261,
+        "quotes": 205,
+        "bookmarks": 161
+      }
+    },
+    {
+      "observedAt": "2026-10-24T11:15:05.573Z",
+      "metrics": {
+        "views": 163033,
+        "likes": 11263,
+        "reposts": 4632,
         "replies": 1261,
         "quotes": 205,
         "bookmarks": 161
