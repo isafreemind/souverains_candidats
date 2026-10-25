@@ -4,11 +4,11 @@
   "text": "Bienvenue Saint-Père !",
   "url": "https://x.com/dupontaignan/status/2103494096790966712",
   "publishedAt": "2026-09-25T14:37:28.000Z",
-  "observedAt": "2026-10-24T21:00:41.878Z",
+  "observedAt": "2026-10-25T11:45:49.575Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 7022,
+    "views": 7023,
     "likes": 620,
     "reposts": 98,
     "replies": 19,
@@ -218,6 +218,17 @@
       "observedAt": "2026-10-24T21:00:41.878Z",
       "metrics": {
         "views": 7022,
+        "likes": 620,
+        "reposts": 98,
+        "replies": 19,
+        "quotes": 1,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-25T11:45:49.575Z",
+      "metrics": {
+        "views": 7023,
         "likes": 620,
         "reposts": 98,
         "replies": 19,

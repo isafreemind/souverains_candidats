@@ -4,11 +4,11 @@
   "text": "La Fille aînée de l’Église est là, rayonnante de vie ! \n🇫🇷🇫🇷🇫🇷",
   "url": "https://x.com/f_philippot/status/2103845799503511557",
   "publishedAt": "2026-09-26T13:55:00.000Z",
-  "observedAt": "2026-10-24T20:58:37.636Z",
+  "observedAt": "2026-10-25T11:44:44.600Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 39512,
+    "views": 39513,
     "likes": 4920,
     "reposts": 870,
     "replies": 121,
@@ -218,6 +218,17 @@
       "observedAt": "2026-10-24T20:58:37.636Z",
       "metrics": {
         "views": 39512,
+        "likes": 4920,
+        "reposts": 870,
+        "replies": 121,
+        "quotes": 15,
+        "bookmarks": 60
+      }
+    },
+    {
+      "observedAt": "2026-10-25T11:44:44.600Z",
+      "metrics": {
+        "views": 39513,
         "likes": 4920,
         "reposts": 870,
         "replies": 121,

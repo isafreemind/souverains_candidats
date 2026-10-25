@@ -4,7 +4,7 @@
   "text": "QUEL RIDICULE ! Les ingérences dont parle Attal représentent quelques tweets n'ayant été vus par personne ! Déjà des excuses pour leur future défaite ?",
   "url": "https://x.com/dupontaignan/status/2087162051210744017",
   "publishedAt": "2026-08-11T12:59:45.000Z",
-  "observedAt": "2026-10-24T21:01:14.664Z",
+  "observedAt": "2026-10-25T11:46:16.123Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -216,6 +216,17 @@
     },
     {
       "observedAt": "2026-10-24T21:01:14.664Z",
+      "metrics": {
+        "views": 22943,
+        "likes": 1493,
+        "reposts": 414,
+        "replies": 130,
+        "quotes": 19,
+        "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-25T11:46:16.123Z",
       "metrics": {
         "views": 22943,
         "likes": 1493,

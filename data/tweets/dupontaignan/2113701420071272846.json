@@ -4,14 +4,14 @@
   "text": "En direct de Brie-sous-Matha, avec des maires et des viticulteurs de la région de Cognac.",
   "url": "https://x.com/dupontaignan/status/2113701420071272846",
   "publishedAt": "2026-10-23T18:37:43.000Z",
-  "observedAt": "2026-10-24T20:59:57.922Z",
+  "observedAt": "2026-10-25T11:45:23.845Z",
   "firstSeenAt": "2026-10-23T21:32:54.673Z",
   "isQuote": false,
   "metrics": {
-    "views": 4928,
-    "likes": 62,
-    "reposts": 21,
-    "replies": 4,
+    "views": 5068,
+    "likes": 69,
+    "reposts": 25,
+    "replies": 5,
     "quotes": 0,
     "bookmarks": 0
   },
@@ -45,6 +45,17 @@
         "likes": 62,
         "reposts": 21,
         "replies": 4,
+        "quotes": 0,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-10-25T11:45:23.845Z",
+      "metrics": {
+        "views": 5068,
+        "likes": 69,
+        "reposts": 25,
+        "replies": 5,
         "quotes": 0,
         "bookmarks": 0
       }
