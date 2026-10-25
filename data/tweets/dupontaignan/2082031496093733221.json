@@ -4,11 +4,11 @@
   "text": "Rasons cette verrue et rendons à Paris sa beauté !",
   "url": "https://x.com/dupontaignan/status/2082031496093733221",
   "publishedAt": "2026-07-28T09:12:45.000Z",
-  "observedAt": "2026-10-25T11:46:20.063Z",
+  "observedAt": "2026-10-25T21:01:51.175Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 23745,
+    "views": 23746,
     "likes": 395,
     "reposts": 109,
     "replies": 27,
@@ -229,6 +229,17 @@
       "observedAt": "2026-10-25T11:46:20.063Z",
       "metrics": {
         "views": 23745,
+        "likes": 395,
+        "reposts": 109,
+        "replies": 27,
+        "quotes": 7,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-25T21:01:51.175Z",
+      "metrics": {
+        "views": 23746,
         "likes": 395,
         "reposts": 109,
         "replies": 27,

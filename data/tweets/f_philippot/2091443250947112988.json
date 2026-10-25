@@ -4,12 +4,12 @@
   "text": "Vive(ment) le Québec libre ! \n\nVoyez ça ⤵️",
   "url": "https://x.com/f_philippot/status/2091443250947112988",
   "publishedAt": "2026-08-23T08:31:42.000Z",
-  "observedAt": "2026-10-24T20:59:24.150Z",
+  "observedAt": "2026-10-25T21:00:01.233Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 24834,
-    "likes": 364,
+    "likes": 363,
     "reposts": 107,
     "replies": 38,
     "quotes": 4,
@@ -219,6 +219,17 @@
       "metrics": {
         "views": 24834,
         "likes": 364,
+        "reposts": 107,
+        "replies": 38,
+        "quotes": 4,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-10-25T21:00:01.233Z",
+      "metrics": {
+        "views": 24834,
+        "likes": 363,
         "reposts": 107,
         "replies": 38,
         "quotes": 4,

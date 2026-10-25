@@ -4,11 +4,11 @@
   "text": "Tiers-mondisation de la France ⤵️",
   "url": "https://x.com/f_philippot/status/2087576785516949651",
   "publishedAt": "2026-08-12T16:27:45.000Z",
-  "observedAt": "2026-10-24T20:59:31.397Z",
+  "observedAt": "2026-10-25T21:00:17.268Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 22001,
+    "views": 22002,
     "likes": 602,
     "reposts": 178,
     "replies": 79,
@@ -218,6 +218,17 @@
       "observedAt": "2026-10-24T20:59:31.397Z",
       "metrics": {
         "views": 22001,
+        "likes": 602,
+        "reposts": 178,
+        "replies": 79,
+        "quotes": 5,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-25T21:00:17.268Z",
+      "metrics": {
+        "views": 22002,
         "likes": 602,
         "reposts": 178,
         "replies": 79,

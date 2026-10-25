@@ -4,15 +4,15 @@
   "text": "En ce moment - mobilisation du 17 octobre \n\nLa France face au chaos euroligarchique",
   "url": "https://x.com/f_philippot/status/2111398943716454601",
   "publishedAt": "2026-10-17T10:08:30.000Z",
-  "observedAt": "2026-10-25T11:44:07.981Z",
+  "observedAt": "2026-10-25T20:58:54.419Z",
   "firstSeenAt": "2026-10-17T20:42:58.047Z",
   "isQuote": false,
   "metrics": {
-    "views": 13190,
+    "views": 13194,
     "likes": 391,
     "reposts": 115,
     "replies": 26,
-    "quotes": 4,
+    "quotes": 3,
     "bookmarks": 5
   },
   "observations": [
@@ -189,6 +189,17 @@
         "reposts": 115,
         "replies": 26,
         "quotes": 4,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-25T20:58:54.419Z",
+      "metrics": {
+        "views": 13194,
+        "likes": 391,
+        "reposts": 115,
+        "replies": 26,
+        "quotes": 3,
         "bookmarks": 5
       }
     }

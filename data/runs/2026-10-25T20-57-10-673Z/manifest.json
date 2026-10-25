@@ -1,0 +1,83 @@
+{
+  "observedAt": "2026-10-25T20:57:10.673Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 90,
+  "maxPages": 100,
+  "pageSize": 20,
+  "recoveries": [
+    {
+      "handle": "f_asselineau",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_asselineau",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=5."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=2."
+    }
+  ],
+  "followers": [
+    {
+      "handle": "f_philippot",
+      "followers": 522394,
+      "observedAt": "2026-10-25T20:58:29.864Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 470178,
+      "observedAt": "2026-10-25T21:00:46.169Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-10-25T20:57:10.673Z",
+      "lookbackDays": 90,
+      "pages": 23,
+      "accepted": 330,
+      "excluded": 107,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": "Profil : Error: FxTwitter HTTP 404"
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-10-25T20:57:10.673Z",
+      "lookbackDays": 90,
+      "pages": 44,
+      "accepted": 803,
+      "excluded": 43,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-10-25T20:57:10.673Z",
+      "lookbackDays": 90,
+      "pages": 29,
+      "accepted": 442,
+      "excluded": 95,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    }
+  ]
+}

@@ -4,11 +4,11 @@
   "text": "Discours de rentrée de Nicolas Dupont-Aignan https://x.com/i/broadcasts/1RJjpbLLWgpKw",
   "url": "https://x.com/dupontaignan/status/2101312059153711382",
   "publishedAt": "2026-09-19T14:06:50.000Z",
-  "observedAt": "2026-10-25T11:45:57.320Z",
+  "observedAt": "2026-10-25T21:01:21.905Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 7543,
+    "views": 7544,
     "likes": 108,
     "reposts": 33,
     "replies": 12,
@@ -229,6 +229,17 @@
       "observedAt": "2026-10-25T11:45:57.320Z",
       "metrics": {
         "views": 7543,
+        "likes": 108,
+        "reposts": 33,
+        "replies": 12,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-25T21:01:21.905Z",
+      "metrics": {
+        "views": 7544,
         "likes": 108,
         "reposts": 33,
         "replies": 12,

@@ -4,11 +4,11 @@
   "text": "Déclaration folle de Macron, voulant faire diversion de graves problèmes des Français en nous entraînant vers la guerre.",
   "url": "https://x.com/dupontaignan/status/2101008527162495046",
   "publishedAt": "2026-09-18T18:00:42.000Z",
-  "observedAt": "2026-10-25T11:45:57.320Z",
+  "observedAt": "2026-10-25T21:01:25.317Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 26744,
+    "views": 26745,
     "likes": 2070,
     "reposts": 698,
     "replies": 187,
@@ -229,6 +229,17 @@
       "observedAt": "2026-10-25T11:45:57.320Z",
       "metrics": {
         "views": 26744,
+        "likes": 2070,
+        "reposts": 698,
+        "replies": 187,
+        "quotes": 29,
+        "bookmarks": 51
+      }
+    },
+    {
+      "observedAt": "2026-10-25T21:01:25.317Z",
+      "metrics": {
+        "views": 26745,
         "likes": 2070,
         "reposts": 698,
         "replies": 187,
