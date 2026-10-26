@@ -1,0 +1,37 @@
+{
+  "id": "2114739997802893608",
+  "handle": "f_philippot",
+  "text": "Alors il faut sortir de l’UE ! \nSinon c’est du blabla !\n\nAprès la débardellisation, la refrexitisation !\nSinon la trahison !",
+  "url": "https://x.com/f_philippot/status/2114739997802893608",
+  "publishedAt": "2026-10-26T15:24:40.000Z",
+  "observedAt": "2026-10-26T22:45:37.133Z",
+  "firstSeenAt": "2026-10-26T22:45:37.133Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 9321,
+    "likes": 475,
+    "reposts": 142,
+    "replies": 26,
+    "quotes": 4,
+    "bookmarks": 8
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-26T22:45:37.133Z",
+      "metrics": {
+        "views": 9321,
+        "likes": 475,
+        "reposts": 142,
+        "replies": 26,
+        "quotes": 4,
+        "bookmarks": 8
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-26T22:45:37.133Z",
+      "text": "Alors il faut sortir de l’UE ! \nSinon c’est du blabla !\n\nAprès la débardellisation, la refrexitisation !\nSinon la trahison !"
+    }
+  ]
+}

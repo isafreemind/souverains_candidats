@@ -4,11 +4,11 @@
   "text": "📺 Retrouvez-moi demain, vendredi 23 octobre à 08h30, dans l'émission #faceaface sur @BFMTV, au micro de @mchantrait🎙️",
   "url": "https://x.com/dupontaignan/status/2113344637100589535",
   "publishedAt": "2026-10-22T19:00:00.000Z",
-  "observedAt": "2026-10-26T13:16:16.235Z",
+  "observedAt": "2026-10-26T22:46:23.360Z",
   "firstSeenAt": "2026-10-22T21:44:52.249Z",
   "isQuote": false,
   "metrics": {
-    "views": 3071,
+    "views": 3080,
     "likes": 37,
     "reposts": 17,
     "replies": 7,
@@ -97,6 +97,17 @@
       "observedAt": "2026-10-26T13:16:16.235Z",
       "metrics": {
         "views": 3071,
+        "likes": 37,
+        "reposts": 17,
+        "replies": 7,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-26T22:46:23.360Z",
+      "metrics": {
+        "views": 3080,
         "likes": 37,
         "reposts": 17,
         "replies": 7,

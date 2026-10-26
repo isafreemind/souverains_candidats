@@ -4,7 +4,7 @@
   "text": "Excellent ! À diffuser massivement ⤵️",
   "url": "https://x.com/f_philippot/status/2085689496025039070",
   "publishedAt": "2026-08-07T11:28:20.000Z",
-  "observedAt": "2026-10-26T13:16:07.734Z",
+  "observedAt": "2026-10-26T22:46:15.225Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
@@ -227,6 +227,17 @@
     },
     {
       "observedAt": "2026-10-26T13:16:07.734Z",
+      "metrics": {
+        "views": 85385,
+        "likes": 5193,
+        "reposts": 2687,
+        "replies": 117,
+        "quotes": 47,
+        "bookmarks": 195
+      }
+    },
+    {
+      "observedAt": "2026-10-26T22:46:15.225Z",
       "metrics": {
         "views": 85385,
         "likes": 5193,
