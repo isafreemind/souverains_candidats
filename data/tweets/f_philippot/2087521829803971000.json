@@ -4,12 +4,12 @@
   "text": "Exactement ça ! \n\nLe sens des priorités…",
   "url": "https://x.com/f_philippot/status/2087521829803971000",
   "publishedAt": "2026-08-12T12:49:23.000Z",
-  "observedAt": "2026-10-25T21:00:17.268Z",
+  "observedAt": "2026-10-26T13:16:04.656Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 18717,
-    "likes": 507,
+    "likes": 506,
     "reposts": 142,
     "replies": 39,
     "quotes": 4,
@@ -230,6 +230,17 @@
       "metrics": {
         "views": 18717,
         "likes": 507,
+        "reposts": 142,
+        "replies": 39,
+        "quotes": 4,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-26T13:16:04.656Z",
+      "metrics": {
+        "views": 18717,
+        "likes": 506,
         "reposts": 142,
         "replies": 39,
         "quotes": 4,

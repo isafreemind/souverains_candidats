@@ -4,11 +4,11 @@
   "text": "À ce niveau, le mieux c’est de partir doucement sur la pointe des pieds et de se faire oublier…",
   "url": "https://x.com/f_philippot/status/2097404673825124505",
   "publishedAt": "2026-09-08T19:20:16.000Z",
-  "observedAt": "2026-10-25T20:59:36.899Z",
+  "observedAt": "2026-10-26T13:15:53.254Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 21877,
+    "views": 21878,
     "likes": 994,
     "reposts": 217,
     "replies": 57,
@@ -240,6 +240,17 @@
       "observedAt": "2026-10-25T20:59:36.899Z",
       "metrics": {
         "views": 21877,
+        "likes": 994,
+        "reposts": 217,
+        "replies": 57,
+        "quotes": 2,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-26T13:15:53.254Z",
+      "metrics": {
+        "views": 21878,
         "likes": 994,
         "reposts": 217,
         "replies": 57,

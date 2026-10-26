@@ -4,11 +4,11 @@
   "text": "Et tout était bidon !…\n\nVIDÉO ⤵️",
   "url": "https://x.com/f_philippot/status/2098009355878592951",
   "publishedAt": "2026-09-10T11:23:04.000Z",
-  "observedAt": "2026-10-25T20:59:35.396Z",
+  "observedAt": "2026-10-26T13:15:52.231Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 18811,
+    "views": 18812,
     "likes": 746,
     "reposts": 305,
     "replies": 56,
@@ -240,6 +240,17 @@
       "observedAt": "2026-10-25T20:59:35.396Z",
       "metrics": {
         "views": 18811,
+        "likes": 746,
+        "reposts": 305,
+        "replies": 56,
+        "quotes": 15,
+        "bookmarks": 31
+      }
+    },
+    {
+      "observedAt": "2026-10-26T13:15:52.231Z",
+      "metrics": {
+        "views": 18812,
         "likes": 746,
         "reposts": 305,
         "replies": 56,

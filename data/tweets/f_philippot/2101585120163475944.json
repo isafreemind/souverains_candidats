@@ -4,14 +4,14 @@
   "text": "Allez on va remettre ça ici ; c’est plus nécessaire que jamais pour éviter le piège de la manipulation par la peur !\n\nDiffusons.",
   "url": "https://x.com/f_philippot/status/2101585120163475944",
   "publishedAt": "2026-09-20T08:11:52.000Z",
-  "observedAt": "2026-10-25T20:59:23.542Z",
+  "observedAt": "2026-10-26T13:15:47.852Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 32586,
     "likes": 1963,
     "reposts": 577,
-    "replies": 126,
+    "replies": 125,
     "quotes": 13,
     "bookmarks": 21
   },
@@ -243,6 +243,17 @@
         "likes": 1963,
         "reposts": 577,
         "replies": 126,
+        "quotes": 13,
+        "bookmarks": 21
+      }
+    },
+    {
+      "observedAt": "2026-10-26T13:15:47.852Z",
+      "metrics": {
+        "views": 32586,
+        "likes": 1963,
+        "reposts": 577,
+        "replies": 125,
         "quotes": 13,
         "bookmarks": 21
       }

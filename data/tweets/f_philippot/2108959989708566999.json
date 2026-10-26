@@ -4,11 +4,11 @@
   "text": "Excellent !",
   "url": "https://x.com/f_philippot/status/2108959989708566999",
   "publishedAt": "2026-10-10T16:36:58.000Z",
-  "observedAt": "2026-10-25T20:59:00.758Z",
+  "observedAt": "2026-10-26T13:15:36.383Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 25599,
+    "views": 25601,
     "likes": 390,
     "reposts": 87,
     "replies": 19,
@@ -240,6 +240,17 @@
       "observedAt": "2026-10-25T20:59:00.758Z",
       "metrics": {
         "views": 25599,
+        "likes": 390,
+        "reposts": 87,
+        "replies": 19,
+        "quotes": 1,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-10-26T13:15:36.383Z",
+      "metrics": {
+        "views": 25601,
         "likes": 390,
         "reposts": 87,
         "replies": 19,
