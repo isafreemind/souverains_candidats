@@ -4,16 +4,16 @@
   "text": "🇺🇦 𝗙𝗨𝗜𝗧𝗘 𝗗𝗘 𝗗𝗜𝗭𝗔𝗜𝗡𝗘𝗦 𝗗𝗘 𝗠𝗜𝗟𝗟𝗜𝗘𝗥𝗦 𝗗'𝗨𝗞𝗥𝗔𝗜𝗡𝗜𝗘𝗡𝗦 𝗩𝗘𝗥𝗦 𝗟𝗔 𝗣𝗢𝗟𝗢𝗚𝗡𝗘\nDes milliers de voitures en file indienne et +de 40 heures d'attente pour franchir la frontière vers la Pologne.\nQui croit encore dans la victoire promise par Zelensky ?",
   "url": "https://x.com/f_asselineau/status/2111531185780216291",
   "publishedAt": "2026-10-17T18:53:59.000Z",
-  "observedAt": "2026-10-26T22:45:15.280Z",
+  "observedAt": "2026-10-27T12:23:14.574Z",
   "firstSeenAt": "2026-10-17T20:42:35.780Z",
   "isQuote": true,
   "metrics": {
-    "views": 131796,
-    "likes": 6035,
-    "reposts": 3085,
+    "views": 131826,
+    "likes": 6036,
+    "reposts": 3086,
     "replies": 212,
-    "quotes": 65,
-    "bookmarks": 353
+    "quotes": 66,
+    "bookmarks": 352
   },
   "observations": [
     {
@@ -223,6 +223,17 @@
         "replies": 212,
         "quotes": 65,
         "bookmarks": 353
+      }
+    },
+    {
+      "observedAt": "2026-10-27T12:23:14.574Z",
+      "metrics": {
+        "views": 131826,
+        "likes": 6036,
+        "reposts": 3086,
+        "replies": 212,
+        "quotes": 66,
+        "bookmarks": 352
       }
     }
   ],

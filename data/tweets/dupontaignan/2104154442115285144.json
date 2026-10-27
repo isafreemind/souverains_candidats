@@ -4,13 +4,13 @@
   "text": "Quelle leçon !",
   "url": "https://x.com/dupontaignan/status/2104154442115285144",
   "publishedAt": "2026-09-27T10:21:26.000Z",
-  "observedAt": "2026-10-26T22:46:33.395Z",
+  "observedAt": "2026-10-27T12:24:39.509Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 20323,
-    "likes": 2484,
-    "reposts": 754,
+    "likes": 2483,
+    "reposts": 753,
     "replies": 59,
     "quotes": 20,
     "bookmarks": 43
@@ -264,6 +264,17 @@
         "views": 20323,
         "likes": 2484,
         "reposts": 754,
+        "replies": 59,
+        "quotes": 20,
+        "bookmarks": 43
+      }
+    },
+    {
+      "observedAt": "2026-10-27T12:24:39.509Z",
+      "metrics": {
+        "views": 20323,
+        "likes": 2483,
+        "reposts": 753,
         "replies": 59,
         "quotes": 20,
         "bookmarks": 43

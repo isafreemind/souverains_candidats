@@ -4,7 +4,7 @@
   "text": "",
   "url": "https://x.com/dupontaignan/status/2097378358623404314",
   "publishedAt": "2026-09-08T17:35:42.000Z",
-  "observedAt": "2026-10-26T22:46:41.499Z",
+  "observedAt": "2026-10-27T12:24:49.128Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -260,6 +260,17 @@
     },
     {
       "observedAt": "2026-10-26T22:46:41.499Z",
+      "metrics": {
+        "views": 5922,
+        "likes": 176,
+        "reposts": 56,
+        "replies": 9,
+        "quotes": 1,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-27T12:24:49.128Z",
       "metrics": {
         "views": 5922,
         "likes": 176,

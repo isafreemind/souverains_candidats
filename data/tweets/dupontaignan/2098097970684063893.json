@@ -4,12 +4,12 @@
   "text": "⁨Et pourquoi pas des RTT après chaque Conseil des ministres !⁩",
   "url": "https://x.com/dupontaignan/status/2098097970684063893",
   "publishedAt": "2026-09-10T17:15:11.000Z",
-  "observedAt": "2026-10-26T22:46:41.499Z",
+  "observedAt": "2026-10-27T12:24:49.128Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 18654,
-    "likes": 1438,
+    "likes": 1437,
     "reposts": 321,
     "replies": 77,
     "quotes": 6,
@@ -263,6 +263,17 @@
       "metrics": {
         "views": 18654,
         "likes": 1438,
+        "reposts": 321,
+        "replies": 77,
+        "quotes": 6,
+        "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-27T12:24:49.128Z",
+      "metrics": {
+        "views": 18654,
+        "likes": 1437,
         "reposts": 321,
         "replies": 77,
         "quotes": 6,

@@ -4,13 +4,13 @@
   "text": "L'Union européenne veut accueillir quatre nouveaux pays ! L'adhésion de l'Ukraine signerait la mort de notre agriculture et nous mènerait à la guerre.",
   "url": "https://x.com/dupontaignan/status/2083221146657607709",
   "publishedAt": "2026-07-31T16:00:00.000Z",
-  "observedAt": "2026-10-26T22:46:49.672Z",
+  "observedAt": "2026-10-27T12:24:57.567Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 19585,
+    "views": 19586,
     "likes": 1578,
-    "reposts": 618,
+    "reposts": 617,
     "replies": 105,
     "quotes": 13,
     "bookmarks": 17
@@ -264,6 +264,17 @@
         "views": 19585,
         "likes": 1578,
         "reposts": 618,
+        "replies": 105,
+        "quotes": 13,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-10-27T12:24:57.567Z",
+      "metrics": {
+        "views": 19586,
+        "likes": 1578,
+        "reposts": 617,
         "replies": 105,
         "quotes": 13,
         "bookmarks": 17
