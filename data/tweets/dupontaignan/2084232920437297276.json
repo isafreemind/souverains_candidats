@@ -4,13 +4,13 @@
   "text": "Elle est belle, la séparation des pouvoirs et l'impartialité de la justice...",
   "url": "https://x.com/dupontaignan/status/2084232920437297276",
   "publishedAt": "2026-08-03T11:00:26.000Z",
-  "observedAt": "2026-10-27T12:24:56.554Z",
+  "observedAt": "2026-10-27T22:24:19.551Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 49199,
     "likes": 3407,
-    "reposts": 1148,
+    "reposts": 1147,
     "replies": 80,
     "quotes": 8,
     "bookmarks": 33
@@ -275,6 +275,17 @@
         "views": 49199,
         "likes": 3407,
         "reposts": 1148,
+        "replies": 80,
+        "quotes": 8,
+        "bookmarks": 33
+      }
+    },
+    {
+      "observedAt": "2026-10-27T22:24:19.551Z",
+      "metrics": {
+        "views": 49199,
+        "likes": 3407,
+        "reposts": 1147,
         "replies": 80,
         "quotes": 8,
         "bookmarks": 33

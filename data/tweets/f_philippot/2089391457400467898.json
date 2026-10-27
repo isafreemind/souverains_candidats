@@ -4,7 +4,7 @@
   "text": "Mais il s’est caché quand même…",
   "url": "https://x.com/f_philippot/status/2089391457400467898",
   "publishedAt": "2026-08-17T16:38:37.000Z",
-  "observedAt": "2026-10-27T12:24:14.532Z",
+  "observedAt": "2026-10-27T22:23:41.015Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -260,6 +260,17 @@
     },
     {
       "observedAt": "2026-10-27T12:24:14.532Z",
+      "metrics": {
+        "views": 25963,
+        "likes": 1470,
+        "reposts": 351,
+        "replies": 50,
+        "quotes": 3,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-10-27T22:23:41.015Z",
       "metrics": {
         "views": 25963,
         "likes": 1470,
