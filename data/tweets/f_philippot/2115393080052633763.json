@@ -1,0 +1,37 @@
+{
+  "id": "2115393080052633763",
+  "handle": "f_philippot",
+  "text": "C’est terrible.\nUne pensée émue pour les victimes et le peuple espagnol.",
+  "url": "https://x.com/f_philippot/status/2115393080052633763",
+  "publishedAt": "2026-10-28T10:39:47.000Z",
+  "observedAt": "2026-10-28T13:09:16.741Z",
+  "firstSeenAt": "2026-10-28T13:09:16.741Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 10382,
+    "likes": 284,
+    "reposts": 76,
+    "replies": 17,
+    "quotes": 1,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-28T13:09:16.741Z",
+      "metrics": {
+        "views": 10382,
+        "likes": 284,
+        "reposts": 76,
+        "replies": 17,
+        "quotes": 1,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-28T13:09:16.741Z",
+      "text": "C’est terrible.\nUne pensée émue pour les victimes et le peuple espagnol."
+    }
+  ]
+}

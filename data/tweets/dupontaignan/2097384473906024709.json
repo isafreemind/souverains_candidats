@@ -4,11 +4,11 @@
   "text": "📺 Retrouvez-moi à 21h00, dans l'émission @BFMGrandSoir sur @BFMTV, au micro de @MaximeSwitek🎙️",
   "url": "https://x.com/dupontaignan/status/2097384473906024709",
   "publishedAt": "2026-09-08T18:00:00.000Z",
-  "observedAt": "2026-10-27T22:24:12.463Z",
+  "observedAt": "2026-10-28T13:13:00.004Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 5564,
+    "views": 5565,
     "likes": 73,
     "reposts": 21,
     "replies": 7,
@@ -284,6 +284,17 @@
       "observedAt": "2026-10-27T22:24:12.463Z",
       "metrics": {
         "views": 5564,
+        "likes": 73,
+        "reposts": 21,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-28T13:13:00.004Z",
+      "metrics": {
+        "views": 5565,
         "likes": 73,
         "reposts": 21,
         "replies": 7,

@@ -4,12 +4,12 @@
   "text": "RIEN COMPRIS, RIEN APPRIS !\n\n#Macron20h",
   "url": "https://x.com/dupontaignan/status/2111882950224850983",
   "publishedAt": "2026-10-18T18:11:46.000Z",
-  "observedAt": "2026-10-27T22:23:56.532Z",
+  "observedAt": "2026-10-28T13:11:59.598Z",
   "firstSeenAt": "2026-10-18T20:54:42.801Z",
   "isQuote": false,
   "metrics": {
-    "views": 21743,
-    "likes": 2537,
+    "views": 21745,
+    "likes": 2536,
     "reposts": 403,
     "replies": 189,
     "quotes": 18,
@@ -219,6 +219,17 @@
       "metrics": {
         "views": 21743,
         "likes": 2537,
+        "reposts": 403,
+        "replies": 189,
+        "quotes": 18,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-28T13:11:59.598Z",
+      "metrics": {
+        "views": 21745,
+        "likes": 2536,
         "reposts": 403,
         "replies": 189,
         "quotes": 18,
