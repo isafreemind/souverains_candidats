@@ -4,13 +4,13 @@
   "text": "Haha quelle surprise !…🤦🏻‍♂️",
   "url": "https://x.com/f_philippot/status/2102747827206029501",
   "publishedAt": "2026-09-23T13:12:03.000Z",
-  "observedAt": "2026-10-28T13:10:16.225Z",
+  "observedAt": "2026-10-28T22:45:02.335Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 31744,
     "likes": 1813,
-    "reposts": 657,
+    "reposts": 656,
     "replies": 85,
     "quotes": 10,
     "bookmarks": 18
@@ -297,6 +297,17 @@
         "views": 31744,
         "likes": 1813,
         "reposts": 657,
+        "replies": 85,
+        "quotes": 10,
+        "bookmarks": 18
+      }
+    },
+    {
+      "observedAt": "2026-10-28T22:45:02.335Z",
+      "metrics": {
+        "views": 31744,
+        "likes": 1813,
+        "reposts": 656,
         "replies": 85,
         "quotes": 10,
         "bookmarks": 18

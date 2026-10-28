@@ -4,12 +4,12 @@
   "text": "Et n’oubliez pas qu’il faudra mettre votre carte d’identité pour accéder à vos réseaux sociaux …\n🤡",
   "url": "https://x.com/f_philippot/status/2087978222440857980",
   "publishedAt": "2026-08-13T19:02:55.000Z",
-  "observedAt": "2026-10-28T13:11:16.616Z",
+  "observedAt": "2026-10-28T22:46:31.922Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 32778,
-    "likes": 2023,
+    "views": 32779,
+    "likes": 2022,
     "reposts": 590,
     "replies": 54,
     "quotes": 2,
@@ -285,6 +285,17 @@
       "metrics": {
         "views": 32778,
         "likes": 2023,
+        "reposts": 590,
+        "replies": 54,
+        "quotes": 2,
+        "bookmarks": 24
+      }
+    },
+    {
+      "observedAt": "2026-10-28T22:46:31.922Z",
+      "metrics": {
+        "views": 32779,
+        "likes": 2022,
         "reposts": 590,
         "replies": 54,
         "quotes": 2,

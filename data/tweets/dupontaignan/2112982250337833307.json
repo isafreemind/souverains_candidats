@@ -4,11 +4,11 @@
   "text": "📺 Retrouvez-moi demain, jeudi 22 octobre à 08:25, dans \"L'interview\" sur @LCI, au micro de @SehlaBougriou 🎙️",
   "url": "https://x.com/dupontaignan/status/2112982250337833307",
   "publishedAt": "2026-10-21T19:00:00.000Z",
-  "observedAt": "2026-10-28T13:11:53.806Z",
+  "observedAt": "2026-10-28T22:47:18.981Z",
   "firstSeenAt": "2026-10-21T21:51:42.124Z",
   "isQuote": false,
   "metrics": {
-    "views": 3324,
+    "views": 3327,
     "likes": 64,
     "reposts": 20,
     "replies": 11,
@@ -163,6 +163,17 @@
       "observedAt": "2026-10-28T13:11:53.806Z",
       "metrics": {
         "views": 3324,
+        "likes": 64,
+        "reposts": 20,
+        "replies": 11,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-28T22:47:18.981Z",
+      "metrics": {
+        "views": 3327,
         "likes": 64,
         "reposts": 20,
         "replies": 11,

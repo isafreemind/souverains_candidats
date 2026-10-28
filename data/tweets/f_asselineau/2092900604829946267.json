@@ -4,16 +4,16 @@
   "text": "📖 Un grand merci à @JeanneLiberanos (que je ne connais pas) pour cette analyse, longue et précise, de la situation tragique dans laquelle s'est enfoncée la France.\n2027 est une année décisive pour la survie de notre patrie.",
   "url": "https://x.com/f_asselineau/status/2092900604829946267",
   "publishedAt": "2026-08-27T09:02:43.000Z",
-  "observedAt": "2026-10-28T13:08:51.021Z",
+  "observedAt": "2026-10-28T22:43:20.608Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 59395,
+    "views": 59397,
     "likes": 2005,
-    "reposts": 898,
+    "reposts": 899,
     "replies": 39,
     "quotes": 23,
-    "bookmarks": 148
+    "bookmarks": 147
   },
   "observations": [
     {
@@ -300,6 +300,17 @@
         "replies": 39,
         "quotes": 23,
         "bookmarks": 148
+      }
+    },
+    {
+      "observedAt": "2026-10-28T22:43:20.608Z",
+      "metrics": {
+        "views": 59397,
+        "likes": 2005,
+        "reposts": 899,
+        "replies": 39,
+        "quotes": 23,
+        "bookmarks": 147
       }
     }
   ],

@@ -4,11 +4,11 @@
   "text": "Archive vidéo plus d’actualité que jamais ! ⤵️\n\nNe jamais lâcher ses convictions pour sauver la France 🇫🇷",
   "url": "https://x.com/f_philippot/status/2086460993190731890",
   "publishedAt": "2026-08-09T14:34:00.000Z",
-  "observedAt": "2026-10-28T13:11:26.109Z",
+  "observedAt": "2026-10-28T22:46:41.340Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
-    "views": 28752,
+    "views": 28754,
     "likes": 804,
     "reposts": 210,
     "replies": 23,
@@ -273,6 +273,17 @@
       "observedAt": "2026-10-28T13:11:26.109Z",
       "metrics": {
         "views": 28752,
+        "likes": 804,
+        "reposts": 210,
+        "replies": 23,
+        "quotes": 6,
+        "bookmarks": 28
+      }
+    },
+    {
+      "observedAt": "2026-10-28T22:46:41.340Z",
+      "metrics": {
+        "views": 28754,
         "likes": 804,
         "reposts": 210,
         "replies": 23,

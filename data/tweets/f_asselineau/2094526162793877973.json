@@ -4,11 +4,11 @@
   "text": "📊 SONDAGE EN LIGNE\nPRIMAIRE DU PS\nActuellement, 5 personnes ont fait acte de candidature pour la primaire du PS.\nPar ordre alphabétique : Brun, Faure, Glucksmann, Guedj et Royal.\nLequel, à votre avis, va remporter cette primaire ?\n(Twitter proposant 4 choix, j'écarte Brun)",
   "url": "https://x.com/f_asselineau/status/2094526162793877973",
   "publishedAt": "2026-08-31T20:42:06.000Z",
-  "observedAt": "2026-10-28T13:08:43.440Z",
+  "observedAt": "2026-10-28T22:43:18.479Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 29456,
+    "views": 29457,
     "likes": 310,
     "reposts": 89,
     "replies": 167,
@@ -295,6 +295,17 @@
       "observedAt": "2026-10-28T13:08:43.440Z",
       "metrics": {
         "views": 29456,
+        "likes": 310,
+        "reposts": 89,
+        "replies": 167,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-10-28T22:43:18.479Z",
+      "metrics": {
+        "views": 29457,
         "likes": 310,
         "reposts": 89,
         "replies": 167,
