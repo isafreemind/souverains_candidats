@@ -4,13 +4,13 @@
   "text": "Il a raison pour le coup : passez à autre chose, on s’en contrefout de vos histoires, de vos mythes.\nVive la France !",
   "url": "https://x.com/f_philippot/status/2112297124046192738",
   "publishedAt": "2026-10-19T21:37:33.000Z",
-  "observedAt": "2026-10-29T13:15:29.055Z",
+  "observedAt": "2026-10-29T22:50:51.526Z",
   "firstSeenAt": "2026-10-19T22:27:34.782Z",
   "isQuote": true,
   "metrics": {
-    "views": 130885,
-    "likes": 3354,
-    "reposts": 490,
+    "views": 130901,
+    "likes": 3352,
+    "reposts": 491,
     "replies": 740,
     "quotes": 94,
     "bookmarks": 118
@@ -231,6 +231,17 @@
         "views": 130885,
         "likes": 3354,
         "reposts": 490,
+        "replies": 740,
+        "quotes": 94,
+        "bookmarks": 118
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:50:51.526Z",
+      "metrics": {
+        "views": 130901,
+        "likes": 3352,
+        "reposts": 491,
         "replies": 740,
         "quotes": 94,
         "bookmarks": 118

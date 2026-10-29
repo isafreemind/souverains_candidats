@@ -4,16 +4,16 @@
   "text": "Il boude car le Pape l’a envoyé balader…",
   "url": "https://x.com/f_philippot/status/2102362456890724418",
   "publishedAt": "2026-09-22T11:40:44.000Z",
-  "observedAt": "2026-10-29T13:15:47.335Z",
+  "observedAt": "2026-10-29T22:51:06.385Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 29122,
     "likes": 1958,
-    "reposts": 296,
+    "reposts": 295,
     "replies": 81,
     "quotes": 4,
-    "bookmarks": 12
+    "bookmarks": 11
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 81,
         "quotes": 4,
         "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:06.385Z",
+      "metrics": {
+        "views": 29122,
+        "likes": 1958,
+        "reposts": 295,
+        "replies": 81,
+        "quotes": 4,
+        "bookmarks": 11
       }
     }
   ],

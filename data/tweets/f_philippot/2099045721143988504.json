@@ -4,16 +4,16 @@
   "text": "💙🤍 ❤️ Oui on aime la France !\nArras, des Assises, un Banquet, la France !",
   "url": "https://x.com/f_philippot/status/2099045721143988504",
   "publishedAt": "2026-09-13T08:01:12.000Z",
-  "observedAt": "2026-10-29T13:15:56.068Z",
+  "observedAt": "2026-10-29T22:51:11.555Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 22191,
+    "views": 22192,
     "likes": 1278,
-    "reposts": 319,
+    "reposts": 318,
     "replies": 37,
     "quotes": 3,
-    "bookmarks": 13
+    "bookmarks": 12
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 37,
         "quotes": 3,
         "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:11.555Z",
+      "metrics": {
+        "views": 22192,
+        "likes": 1278,
+        "reposts": 318,
+        "replies": 37,
+        "quotes": 3,
+        "bookmarks": 12
       }
     }
   ],

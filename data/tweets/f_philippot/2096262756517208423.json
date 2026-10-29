@@ -4,16 +4,16 @@
   "text": "Elle passe sa vie à vouloir « interdire » et « fermer » (le réseau social X)\n\nQuel projet ! 🤦🏻‍♂️",
   "url": "https://x.com/f_philippot/status/2096262756517208423",
   "publishedAt": "2026-09-05T15:42:42.000Z",
-  "observedAt": "2026-10-29T13:16:00.186Z",
+  "observedAt": "2026-10-29T22:51:14.584Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 18963,
     "likes": 750,
-    "reposts": 165,
+    "reposts": 164,
     "replies": 59,
     "quotes": 3,
-    "bookmarks": 8
+    "bookmarks": 7
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 59,
         "quotes": 3,
         "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:14.584Z",
+      "metrics": {
+        "views": 18963,
+        "likes": 750,
+        "reposts": 164,
+        "replies": 59,
+        "quotes": 3,
+        "bookmarks": 7
       }
     }
   ],

@@ -4,11 +4,11 @@
   "text": "🔴Je serai présent demain au @SalonSME.\n\nJ’y rencontrerai les entrepreneurs et exposants présents pour échanger sur les difficultés rencontrées par les petites entreprises et les travailleurs indépendants.",
   "url": "https://x.com/dupontaignan/status/2109723705253523932",
   "publishedAt": "2026-10-12T19:11:42.000Z",
-  "observedAt": "2026-10-29T13:17:15.232Z",
+  "observedAt": "2026-10-29T22:51:40.751Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 3389,
+    "views": 3390,
     "likes": 51,
     "reposts": 15,
     "replies": 4,
@@ -317,6 +317,17 @@
       "observedAt": "2026-10-29T13:17:15.232Z",
       "metrics": {
         "views": 3389,
+        "likes": 51,
+        "reposts": 15,
+        "replies": 4,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:40.751Z",
+      "metrics": {
+        "views": 3390,
         "likes": 51,
         "reposts": 15,
         "replies": 4,

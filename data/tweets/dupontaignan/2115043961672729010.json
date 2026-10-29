@@ -4,16 +4,16 @@
   "text": "Les réseaux sociaux, la presse libre… le pouvoir panique devant la colère des Français et la liberté d’expression.\n\nJusqu’où iront-ils avant la présidentielle ?",
   "url": "https://x.com/dupontaignan/status/2115043961672729010",
   "publishedAt": "2026-10-27T11:32:30.000Z",
-  "observedAt": "2026-10-29T13:16:48.335Z",
+  "observedAt": "2026-10-29T22:51:34.645Z",
   "firstSeenAt": "2026-10-27T12:24:26.737Z",
   "isQuote": true,
   "metrics": {
-    "views": 14221,
-    "likes": 1175,
-    "reposts": 431,
+    "views": 14285,
+    "likes": 1174,
+    "reposts": 430,
     "replies": 19,
     "quotes": 3,
-    "bookmarks": 11
+    "bookmarks": 10
   },
   "observations": [
     {
@@ -69,6 +69,17 @@
         "replies": 19,
         "quotes": 3,
         "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:34.645Z",
+      "metrics": {
+        "views": 14285,
+        "likes": 1174,
+        "reposts": 430,
+        "replies": 19,
+        "quotes": 3,
+        "bookmarks": 10
       }
     }
   ],

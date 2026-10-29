@@ -4,16 +4,16 @@
   "text": ".@anatolium et @dupontaignan à Arras !\nRavi de vous accueillir aux Assises dans l’excellente émission de \n@EricMorillot",
   "url": "https://x.com/f_philippot/status/2098763080893137099",
   "publishedAt": "2026-09-12T13:18:06.000Z",
-  "observedAt": "2026-10-29T13:15:56.068Z",
+  "observedAt": "2026-10-29T22:51:11.555Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 19214,
-    "likes": 1112,
-    "reposts": 257,
+    "likes": 1111,
+    "reposts": 256,
     "replies": 39,
     "quotes": 4,
-    "bookmarks": 13
+    "bookmarks": 12
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 39,
         "quotes": 4,
         "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:11.555Z",
+      "metrics": {
+        "views": 19214,
+        "likes": 1111,
+        "reposts": 256,
+        "replies": 39,
+        "quotes": 4,
+        "bookmarks": 12
       }
     }
   ],

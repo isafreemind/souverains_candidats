@@ -4,16 +4,16 @@
   "text": "Tout mon soutien à Marie Caroline qui mène cette belle liste d’union des Amoureux de la France !",
   "url": "https://x.com/dupontaignan/status/2095627896446431532",
   "publishedAt": "2026-09-03T21:40:00.000Z",
-  "observedAt": "2026-10-29T13:18:09.987Z",
+  "observedAt": "2026-10-29T22:51:56.168Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 26431,
     "likes": 390,
-    "reposts": 101,
+    "reposts": 100,
     "replies": 19,
     "quotes": 6,
-    "bookmarks": 6
+    "bookmarks": 5
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 19,
         "quotes": 6,
         "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:56.168Z",
+      "metrics": {
+        "views": 26431,
+        "likes": 390,
+        "reposts": 100,
+        "replies": 19,
+        "quotes": 6,
+        "bookmarks": 5
       }
     }
   ],

@@ -4,16 +4,16 @@
   "text": "Ça dégénère dans la folie et le chaos, et ça fait les affaires de ce fou-ci ⤵️\n\nStratégie du CHAOS",
   "url": "https://x.com/f_philippot/status/2107080748398182875",
   "publishedAt": "2026-10-05T12:09:32.000Z",
-  "observedAt": "2026-10-29T13:15:38.975Z",
+  "observedAt": "2026-10-29T22:51:00.108Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 19360,
-    "likes": 684,
-    "reposts": 229,
+    "views": 19361,
+    "likes": 683,
+    "reposts": 228,
     "replies": 39,
     "quotes": 1,
-    "bookmarks": 10
+    "bookmarks": 9
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 39,
         "quotes": 1,
         "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:00.108Z",
+      "metrics": {
+        "views": 19361,
+        "likes": 683,
+        "reposts": 228,
+        "replies": 39,
+        "quotes": 1,
+        "bookmarks": 9
       }
     }
   ],

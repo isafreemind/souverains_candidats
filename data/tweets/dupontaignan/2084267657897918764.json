@@ -4,16 +4,16 @@
   "text": "La France brûle et la priorité de la macronie c’est de détruire notre patrimoine en dilapidant de l’argent public !",
   "url": "https://x.com/dupontaignan/status/2084267657897918764",
   "publishedAt": "2026-08-03T13:18:28.000Z",
-  "observedAt": "2026-10-29T13:18:27.595Z",
+  "observedAt": "2026-10-29T22:52:01.319Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 113580,
-    "likes": 4449,
-    "reposts": 1706,
+    "views": 113581,
+    "likes": 4448,
+    "reposts": 1705,
     "replies": 116,
     "quotes": 20,
-    "bookmarks": 83
+    "bookmarks": 82
   },
   "observations": [
     {
@@ -311,6 +311,17 @@
         "replies": 116,
         "quotes": 20,
         "bookmarks": 83
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:52:01.319Z",
+      "metrics": {
+        "views": 113581,
+        "likes": 4448,
+        "reposts": 1705,
+        "replies": 116,
+        "quotes": 20,
+        "bookmarks": 82
       }
     }
   ],

@@ -4,16 +4,16 @@
   "text": "♦️Sur le 17 octobre, Macron plus indigne que jamais !\nIl doit partir !\n\nVIDÉO ⤵️",
   "url": "https://x.com/f_philippot/status/2112904891383644608",
   "publishedAt": "2026-10-21T13:52:36.000Z",
-  "observedAt": "2026-10-29T13:15:26.229Z",
+  "observedAt": "2026-10-29T22:50:50.443Z",
   "firstSeenAt": "2026-10-21T21:49:37.124Z",
   "isQuote": false,
   "metrics": {
-    "views": 19895,
-    "likes": 1562,
-    "reposts": 538,
+    "views": 19905,
+    "likes": 1563,
+    "reposts": 537,
     "replies": 83,
     "quotes": 9,
-    "bookmarks": 36
+    "bookmarks": 37
   },
   "observations": [
     {
@@ -190,6 +190,17 @@
         "replies": 83,
         "quotes": 9,
         "bookmarks": 36
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:50:50.443Z",
+      "metrics": {
+        "views": 19905,
+        "likes": 1563,
+        "reposts": 537,
+        "replies": 83,
+        "quotes": 9,
+        "bookmarks": 37
       }
     }
   ],

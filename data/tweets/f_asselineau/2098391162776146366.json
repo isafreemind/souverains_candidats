@@ -4,16 +4,16 @@
   "text": "🤔 𝗚𝗥𝗔𝗩𝗘 𝗤𝗨𝗘𝗦𝗧𝗜𝗢𝗡 𝗣𝗢𝗨𝗥 𝟮𝟬𝟮𝟳\n--------------------------------------\n𝗔𝗜𝗠𝗘𝗭-𝗩𝗢𝗨𝗦 𝗤𝗨𝗢𝗡 𝗩𝗢𝗨𝗦 𝗣𝗥𝗘𝗡𝗡𝗘 𝗣𝗢𝗨𝗥 𝗨𝗡(𝗘) 𝗜𝗠𝗕𝗘𝗖𝗜𝗟𝗘 ?",
   "url": "https://x.com/f_asselineau/status/2098391162776146366",
   "publishedAt": "2026-09-11T12:40:14.000Z",
-  "observedAt": "2026-10-29T13:15:08.332Z",
+  "observedAt": "2026-10-29T22:50:35.323Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 31260,
     "likes": 2650,
-    "reposts": 974,
+    "reposts": 973,
     "replies": 138,
     "quotes": 25,
-    "bookmarks": 34
+    "bookmarks": 33
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 138,
         "quotes": 25,
         "bookmarks": 34
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:50:35.323Z",
+      "metrics": {
+        "views": 31260,
+        "likes": 2650,
+        "reposts": 973,
+        "replies": 138,
+        "quotes": 25,
+        "bookmarks": 33
       }
     }
   ],

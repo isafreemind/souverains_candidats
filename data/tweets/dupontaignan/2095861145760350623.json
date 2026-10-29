@@ -4,16 +4,16 @@
   "text": "Gérald Darmanin dénonce un « stock fantôme » de milliers de dossiers de violences sexuelles sur mineurs… Laurent Nuñez nie son existence. Deux ministères stratégiques qui ne s’entendent même plus alors que des enfants sont en danger. La Macronie n’arrive plus à gouverner, elle se chamaile. Les Français méritent un État qui protège vraiment.",
   "url": "https://x.com/dupontaignan/status/2095861145760350623",
   "publishedAt": "2026-09-04T13:06:51.000Z",
-  "observedAt": "2026-10-29T13:18:09.987Z",
+  "observedAt": "2026-10-29T22:51:56.168Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 15377,
     "likes": 569,
-    "reposts": 199,
+    "reposts": 198,
     "replies": 11,
     "quotes": 2,
-    "bookmarks": 10
+    "bookmarks": 9
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 11,
         "quotes": 2,
         "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:56.168Z",
+      "metrics": {
+        "views": 15377,
+        "likes": 569,
+        "reposts": 198,
+        "replies": 11,
+        "quotes": 2,
+        "bookmarks": 9
       }
     }
   ],

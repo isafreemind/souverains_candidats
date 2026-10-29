@@ -4,16 +4,16 @@
   "text": "Macron trouve normal que les gens soient en colère quand ils n’arrivent plus à boucler leurs fins de mois…\nmais qui est président depuis presque 10 ans ?",
   "url": "https://x.com/dupontaignan/status/2103194056134103150",
   "publishedAt": "2026-09-24T18:45:13.000Z",
-  "observedAt": "2026-10-29T13:17:42.723Z",
+  "observedAt": "2026-10-29T22:51:46.783Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 13179,
+    "views": 13180,
     "likes": 965,
     "reposts": 243,
     "replies": 51,
     "quotes": 4,
-    "bookmarks": 6
+    "bookmarks": 5
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 51,
         "quotes": 4,
         "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:46.783Z",
+      "metrics": {
+        "views": 13180,
+        "likes": 965,
+        "reposts": 243,
+        "replies": 51,
+        "quotes": 4,
+        "bookmarks": 5
       }
     }
   ],

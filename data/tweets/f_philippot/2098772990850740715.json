@@ -4,16 +4,16 @@
   "text": "C’est plein à craquer à Arras !",
   "url": "https://x.com/f_philippot/status/2098772990850740715",
   "publishedAt": "2026-09-12T13:57:28.000Z",
-  "observedAt": "2026-10-29T13:15:56.068Z",
+  "observedAt": "2026-10-29T22:51:11.555Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 18672,
-    "likes": 1078,
-    "reposts": 287,
+    "views": 18673,
+    "likes": 1077,
+    "reposts": 286,
     "replies": 37,
     "quotes": 1,
-    "bookmarks": 12
+    "bookmarks": 11
   },
   "observations": [
     {
@@ -322,6 +322,17 @@
         "replies": 37,
         "quotes": 1,
         "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-10-29T22:51:11.555Z",
+      "metrics": {
+        "views": 18673,
+        "likes": 1077,
+        "reposts": 286,
+        "replies": 37,
+        "quotes": 1,
+        "bookmarks": 11
       }
     }
   ],
