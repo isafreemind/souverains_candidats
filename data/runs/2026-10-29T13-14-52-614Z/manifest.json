@@ -1,0 +1,88 @@
+{
+  "observedAt": "2026-10-29T13:14:52.614Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 90,
+  "maxPages": 100,
+  "pageSize": 20,
+  "recoveries": [
+    {
+      "handle": "f_philippot",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=5."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=2."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=1."
+    }
+  ],
+  "followers": [
+    {
+      "handle": "f_asselineau",
+      "followers": 385322,
+      "observedAt": "2026-10-29T13:14:52.989Z"
+    },
+    {
+      "handle": "f_philippot",
+      "followers": 522405,
+      "observedAt": "2026-10-29T13:15:21.024Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 470126,
+      "observedAt": "2026-10-29T13:16:47.014Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-10-29T13:14:52.614Z",
+      "lookbackDays": 90,
+      "pages": 21,
+      "accepted": 332,
+      "excluded": 24,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-10-29T13:14:52.614Z",
+      "lookbackDays": 90,
+      "pages": 43,
+      "accepted": 797,
+      "excluded": 36,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-10-29T13:14:52.614Z",
+      "lookbackDays": 90,
+      "pages": 30,
+      "accepted": 447,
+      "excluded": 104,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    }
+  ]
+}
