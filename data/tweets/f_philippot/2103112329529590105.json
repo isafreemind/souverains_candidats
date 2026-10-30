@@ -4,12 +4,12 @@
   "text": "L’opération Peur bat son plein !\n⤵️\nIls seront de plus en plus dingues et totalitaires, préparez-vous.",
   "url": "https://x.com/f_philippot/status/2103112329529590105",
   "publishedAt": "2026-09-24T13:20:27.000Z",
-  "observedAt": "2026-10-29T22:51:05.326Z",
+  "observedAt": "2026-10-30T13:08:13.090Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 35170,
-    "likes": 1138,
+    "likes": 1137,
     "reposts": 393,
     "replies": 53,
     "quotes": 6,
@@ -329,6 +329,17 @@
       "metrics": {
         "views": 35170,
         "likes": 1138,
+        "reposts": 393,
+        "replies": 53,
+        "quotes": 6,
+        "bookmarks": 15
+      }
+    },
+    {
+      "observedAt": "2026-10-30T13:08:13.090Z",
+      "metrics": {
+        "views": 35170,
+        "likes": 1137,
         "reposts": 393,
         "replies": 53,
         "quotes": 6,

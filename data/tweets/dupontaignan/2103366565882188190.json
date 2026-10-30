@@ -4,11 +4,11 @@
   "text": "Le président de la République a perdu pied !\nIl entraîne toute la classe politique dans sa folie.\nPas moi !",
   "url": "https://x.com/dupontaignan/status/2103366565882188190",
   "publishedAt": "2026-09-25T06:10:42.000Z",
-  "observedAt": "2026-10-29T22:51:46.783Z",
+  "observedAt": "2026-10-30T13:08:59.198Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 10583,
+    "views": 10585,
     "likes": 883,
     "reposts": 248,
     "replies": 55,
@@ -328,6 +328,17 @@
       "observedAt": "2026-10-29T22:51:46.783Z",
       "metrics": {
         "views": 10583,
+        "likes": 883,
+        "reposts": 248,
+        "replies": 55,
+        "quotes": 2,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-30T13:08:59.198Z",
+      "metrics": {
+        "views": 10585,
         "likes": 883,
         "reposts": 248,
         "replies": 55,

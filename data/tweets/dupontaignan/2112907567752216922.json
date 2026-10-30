@@ -4,16 +4,16 @@
   "text": "LA DESTITUTION POUR MOTIF MÉDICAL S’IMPOSE !",
   "url": "https://x.com/dupontaignan/status/2112907567752216922",
   "publishedAt": "2026-10-21T14:03:14.000Z",
-  "observedAt": "2026-10-29T22:51:37.724Z",
+  "observedAt": "2026-10-30T13:08:49.220Z",
   "firstSeenAt": "2026-10-21T21:51:42.124Z",
   "isQuote": false,
   "metrics": {
-    "views": 180102,
-    "likes": 12977,
+    "views": 180160,
+    "likes": 12976,
     "reposts": 4068,
     "replies": 666,
     "quotes": 138,
-    "bookmarks": 407
+    "bookmarks": 406
   },
   "observations": [
     {
@@ -201,6 +201,17 @@
         "replies": 666,
         "quotes": 138,
         "bookmarks": 407
+      }
+    },
+    {
+      "observedAt": "2026-10-30T13:08:49.220Z",
+      "metrics": {
+        "views": 180160,
+        "likes": 12976,
+        "reposts": 4068,
+        "replies": 666,
+        "quotes": 138,
+        "bookmarks": 406
       }
     }
   ],
