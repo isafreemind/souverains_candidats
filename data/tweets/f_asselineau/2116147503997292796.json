@@ -4,16 +4,16 @@
   "text": "📺🎙MERCI à André Bercoff\npour m'avoir permis de porter à l'antenne la parole de tous les Français qui veulent le Frexit pour sortir du désastre de l'Union européenne ! [2/7]\n-----",
   "url": "https://x.com/f_asselineau/status/2116147503997292796",
   "publishedAt": "2026-10-30T12:37:35.000Z",
-  "observedAt": "2026-10-30T13:07:26.214Z",
+  "observedAt": "2026-10-30T22:27:30.877Z",
   "firstSeenAt": "2026-10-30T13:07:26.214Z",
   "isQuote": true,
   "metrics": {
-    "views": 2254,
-    "likes": 66,
-    "reposts": 19,
-    "replies": 0,
-    "quotes": 0,
-    "bookmarks": 0
+    "views": 10978,
+    "likes": 648,
+    "reposts": 181,
+    "replies": 10,
+    "quotes": 1,
+    "bookmarks": 8
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 0,
         "quotes": 0,
         "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-10-30T22:27:30.877Z",
+      "metrics": {
+        "views": 10978,
+        "likes": 648,
+        "reposts": 181,
+        "replies": 10,
+        "quotes": 1,
+        "bookmarks": 8
       }
     }
   ],

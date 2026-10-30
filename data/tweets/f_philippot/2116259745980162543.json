@@ -1,0 +1,37 @@
+{
+  "id": "2116259745980162543",
+  "handle": "f_philippot",
+  "text": "Les européistes de Tusk tentent un coup d’État contre le président polonais patriote",
+  "url": "https://x.com/f_philippot/status/2116259745980162543",
+  "publishedAt": "2026-10-30T20:03:36.000Z",
+  "observedAt": "2026-10-30T22:28:48.078Z",
+  "firstSeenAt": "2026-10-30T22:28:48.078Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 13502,
+    "likes": 1180,
+    "reposts": 461,
+    "replies": 39,
+    "quotes": 3,
+    "bookmarks": 20
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-30T22:28:48.078Z",
+      "metrics": {
+        "views": 13502,
+        "likes": 1180,
+        "reposts": 461,
+        "replies": 39,
+        "quotes": 3,
+        "bookmarks": 20
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-30T22:28:48.078Z",
+      "text": "Les européistes de Tusk tentent un coup d’État contre le président polonais patriote"
+    }
+  ]
+}

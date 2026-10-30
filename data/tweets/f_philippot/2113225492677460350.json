@@ -4,11 +4,11 @@
   "text": "Qui décide qui est « légitime » ou pas ?\n\nIls ne règlent pas le problème : ils installent la tyrannie.",
   "url": "https://x.com/f_philippot/status/2113225492677460350",
   "publishedAt": "2026-10-22T11:06:33.000Z",
-  "observedAt": "2026-10-30T13:07:55.934Z",
+  "observedAt": "2026-10-30T22:28:55.097Z",
   "firstSeenAt": "2026-10-22T12:03:49.844Z",
   "isQuote": false,
   "metrics": {
-    "views": 12882,
+    "views": 12887,
     "likes": 568,
     "reposts": 196,
     "replies": 51,
@@ -196,6 +196,17 @@
       "observedAt": "2026-10-30T13:07:55.934Z",
       "metrics": {
         "views": 12882,
+        "likes": 568,
+        "reposts": 196,
+        "replies": 51,
+        "quotes": 4,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-10-30T22:28:55.097Z",
+      "metrics": {
+        "views": 12887,
         "likes": 568,
         "reposts": 196,
         "replies": 51,

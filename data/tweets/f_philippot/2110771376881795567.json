@@ -4,15 +4,15 @@
   "text": "Rediffusons partout cette parole si juste du regretté Marleix ! (cf vidéo ⤵️)",
   "url": "https://x.com/f_philippot/status/2110771376881795567",
   "publishedAt": "2026-10-15T16:34:47.000Z",
-  "observedAt": "2026-10-30T13:08:01.464Z",
+  "observedAt": "2026-10-30T22:29:00.574Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 32859,
+    "views": 32891,
     "likes": 3301,
     "reposts": 1521,
     "replies": 27,
-    "quotes": 13,
+    "quotes": 14,
     "bookmarks": 101
   },
   "observations": [
@@ -343,6 +343,17 @@
         "reposts": 1521,
         "replies": 27,
         "quotes": 13,
+        "bookmarks": 101
+      }
+    },
+    {
+      "observedAt": "2026-10-30T22:29:00.574Z",
+      "metrics": {
+        "views": 32891,
+        "likes": 3301,
+        "reposts": 1521,
+        "replies": 27,
+        "quotes": 14,
         "bookmarks": 101
       }
     }
