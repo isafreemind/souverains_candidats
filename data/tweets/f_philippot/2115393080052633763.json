@@ -4,11 +4,11 @@
   "text": "C’est terrible.\nUne pensée émue pour les victimes et le peuple espagnol.",
   "url": "https://x.com/f_philippot/status/2115393080052633763",
   "publishedAt": "2026-10-28T10:39:47.000Z",
-  "observedAt": "2026-10-31T12:45:18.342Z",
+  "observedAt": "2026-10-31T21:43:17.204Z",
   "firstSeenAt": "2026-10-28T13:09:16.741Z",
   "isQuote": true,
   "metrics": {
-    "views": 20695,
+    "views": 20780,
     "likes": 620,
     "reposts": 162,
     "replies": 30,
@@ -86,6 +86,17 @@
       "observedAt": "2026-10-31T12:45:18.342Z",
       "metrics": {
         "views": 20695,
+        "likes": 620,
+        "reposts": 162,
+        "replies": 30,
+        "quotes": 1,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-10-31T21:43:17.204Z",
+      "metrics": {
+        "views": 20780,
         "likes": 620,
         "reposts": 162,
         "replies": 30,
