@@ -1,0 +1,37 @@
+{
+  "id": "2116301192901083249",
+  "handle": "f_philippot",
+  "text": "TUSK IN JAIL !",
+  "url": "https://x.com/f_philippot/status/2116301192901083249",
+  "publishedAt": "2026-10-30T22:48:18.000Z",
+  "observedAt": "2026-10-31T12:45:15.142Z",
+  "firstSeenAt": "2026-10-31T12:45:15.142Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 28403,
+    "likes": 2786,
+    "reposts": 279,
+    "replies": 50,
+    "quotes": 6,
+    "bookmarks": 15
+  },
+  "observations": [
+    {
+      "observedAt": "2026-10-31T12:45:15.142Z",
+      "metrics": {
+        "views": 28403,
+        "likes": 2786,
+        "reposts": 279,
+        "replies": 50,
+        "quotes": 6,
+        "bookmarks": 15
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-10-31T12:45:15.142Z",
+      "text": "TUSK IN JAIL !"
+    }
+  ]
+}

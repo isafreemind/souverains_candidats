@@ -4,12 +4,12 @@
   "text": "Très belle fête de l’Assomption !",
   "url": "https://x.com/f_philippot/status/2088543811878146167",
   "publishedAt": "2026-08-15T08:30:22.000Z",
-  "observedAt": "2026-10-30T22:30:17.004Z",
+  "observedAt": "2026-10-31T12:46:34.727Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 18390,
-    "likes": 1515,
+    "likes": 1514,
     "reposts": 236,
     "replies": 65,
     "quotes": 9,
@@ -340,6 +340,17 @@
       "metrics": {
         "views": 18390,
         "likes": 1515,
+        "reposts": 236,
+        "replies": 65,
+        "quotes": 9,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-31T12:46:34.727Z",
+      "metrics": {
+        "views": 18390,
+        "likes": 1514,
         "reposts": 236,
         "replies": 65,
         "quotes": 9,

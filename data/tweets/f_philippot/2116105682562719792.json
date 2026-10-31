@@ -4,16 +4,16 @@
   "text": "Tous ces petits tyrans fascisants ne tolèrent qu’une seule chose : qu’on soit d’accord avec eux et qu’on dise strictement comme eux.\nSinon au cachot !\n\nDégageons-les !\nVive la liberté !",
   "url": "https://x.com/f_philippot/status/2116105682562719792",
   "publishedAt": "2026-10-30T09:51:24.000Z",
-  "observedAt": "2026-10-30T22:28:48.078Z",
+  "observedAt": "2026-10-31T12:45:15.142Z",
   "firstSeenAt": "2026-10-30T13:07:52.226Z",
   "isQuote": true,
   "metrics": {
-    "views": 11522,
-    "likes": 788,
-    "reposts": 191,
-    "replies": 39,
-    "quotes": 0,
-    "bookmarks": 10
+    "views": 13849,
+    "likes": 933,
+    "reposts": 224,
+    "replies": 45,
+    "quotes": 1,
+    "bookmarks": 13
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 39,
         "quotes": 0,
         "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-10-31T12:45:15.142Z",
+      "metrics": {
+        "views": 13849,
+        "likes": 933,
+        "reposts": 224,
+        "replies": 45,
+        "quotes": 1,
+        "bookmarks": 13
       }
     }
   ],

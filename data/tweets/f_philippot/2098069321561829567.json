@@ -4,7 +4,7 @@
   "text": "Eh bien que CNews ne cède surtout pas ! Il faut démasquer la dictature jusqu’au bout !",
   "url": "https://x.com/f_philippot/status/2098069321561829567",
   "publishedAt": "2026-09-10T15:21:21.000Z",
-  "observedAt": "2026-10-30T22:29:50.810Z",
+  "observedAt": "2026-10-31T12:46:07.762Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -348,6 +348,17 @@
     },
     {
       "observedAt": "2026-10-30T22:29:50.810Z",
+      "metrics": {
+        "views": 24739,
+        "likes": 2071,
+        "reposts": 620,
+        "replies": 110,
+        "quotes": 12,
+        "bookmarks": 24
+      }
+    },
+    {
+      "observedAt": "2026-10-31T12:46:07.762Z",
       "metrics": {
         "views": 24739,
         "likes": 2071,

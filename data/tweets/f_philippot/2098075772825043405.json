@@ -4,12 +4,12 @@
   "text": "Pauvre chou, il demande 4 mois de vacances après sa campagne.\n\nOffrons-lui des vacances définitives !",
   "url": "https://x.com/f_philippot/status/2098075772825043405",
   "publishedAt": "2026-09-10T15:46:59.000Z",
-  "observedAt": "2026-10-30T22:29:50.810Z",
+  "observedAt": "2026-10-31T12:46:07.762Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 50907,
-    "likes": 4130,
+    "likes": 4129,
     "reposts": 1088,
     "replies": 202,
     "quotes": 26,
@@ -351,6 +351,17 @@
       "metrics": {
         "views": 50907,
         "likes": 4130,
+        "reposts": 1088,
+        "replies": 202,
+        "quotes": 26,
+        "bookmarks": 33
+      }
+    },
+    {
+      "observedAt": "2026-10-31T12:46:07.762Z",
+      "metrics": {
+        "views": 50907,
+        "likes": 4129,
         "reposts": 1088,
         "replies": 202,
         "quotes": 26,

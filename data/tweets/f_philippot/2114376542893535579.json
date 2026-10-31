@@ -4,11 +4,11 @@
   "text": "Exceptionnellement notre direct d’actualité a lieu sur ma chaîne YouTube ce dimanche (25/10) à 19h ! 🇫🇷",
   "url": "https://x.com/f_philippot/status/2114376542893535579",
   "publishedAt": "2026-10-25T15:20:25.000Z",
-  "observedAt": "2026-10-30T22:28:50.777Z",
+  "observedAt": "2026-10-31T12:45:19.690Z",
   "firstSeenAt": "2026-10-25T20:58:32.072Z",
   "isQuote": false,
   "metrics": {
-    "views": 10724,
+    "views": 10739,
     "likes": 185,
     "reposts": 62,
     "replies": 13,
@@ -130,6 +130,17 @@
       "observedAt": "2026-10-30T22:28:50.777Z",
       "metrics": {
         "views": 10724,
+        "likes": 185,
+        "reposts": 62,
+        "replies": 13,
+        "quotes": 3,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-10-31T12:45:19.690Z",
+      "metrics": {
+        "views": 10739,
         "likes": 185,
         "reposts": 62,
         "replies": 13,

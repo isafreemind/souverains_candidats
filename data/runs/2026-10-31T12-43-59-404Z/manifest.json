@@ -1,0 +1,76 @@
+{
+  "observedAt": "2026-10-31T12:43:59.404Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 90,
+  "maxPages": 100,
+  "pageSize": 20,
+  "recoveries": [
+    {
+      "handle": "f_asselineau",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_asselineau",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    },
+    {
+      "handle": "f_asselineau",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=5."
+    }
+  ],
+  "followers": [
+    {
+      "handle": "f_asselineau",
+      "followers": 385426,
+      "observedAt": "2026-10-31T12:43:59.721Z"
+    },
+    {
+      "handle": "f_philippot",
+      "followers": 522569,
+      "observedAt": "2026-10-31T12:45:13.024Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 470189,
+      "observedAt": "2026-10-31T12:46:44.990Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-10-31T12:43:59.404Z",
+      "lookbackDays": 90,
+      "pages": 24,
+      "accepted": 342,
+      "excluded": 121,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-10-31T12:43:59.404Z",
+      "lookbackDays": 90,
+      "pages": 43,
+      "accepted": 803,
+      "excluded": 36,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-10-31T12:43:59.404Z",
+      "lookbackDays": 90,
+      "pages": 30,
+      "accepted": 443,
+      "excluded": 104,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    }
+  ]
+}
