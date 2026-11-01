@@ -4,16 +4,16 @@
   "text": "En ce jour de la Toussaint, pensons à ceux qui nous ont quittés et dont le souvenir illumine notre vie. \nUn moment émouvant de recueillement et d’espérance.",
   "url": "https://x.com/dupontaignan/status/2116772223985897791",
   "publishedAt": "2026-11-01T06:00:00.000Z",
-  "observedAt": "2026-11-01T13:36:13.444Z",
+  "observedAt": "2026-11-01T22:13:41.609Z",
   "firstSeenAt": "2026-11-01T13:36:13.444Z",
   "isQuote": false,
   "metrics": {
-    "views": 4270,
-    "likes": 317,
-    "reposts": 81,
-    "replies": 7,
+    "views": 5235,
+    "likes": 382,
+    "reposts": 95,
+    "replies": 10,
     "quotes": 4,
-    "bookmarks": 2
+    "bookmarks": 5
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 7,
         "quotes": 4,
         "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-01T22:13:41.609Z",
+      "metrics": {
+        "views": 5235,
+        "likes": 382,
+        "reposts": 95,
+        "replies": 10,
+        "quotes": 4,
+        "bookmarks": 5
       }
     }
   ],

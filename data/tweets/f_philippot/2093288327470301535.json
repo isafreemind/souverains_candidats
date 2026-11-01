@@ -4,11 +4,11 @@
   "text": "Lisez ça ! ⤵️\n\nLes eurofaucons veulent leur guerre !\n\nIl faut les arrêter au plus vite !\nSTOP UE/OTAN",
   "url": "https://x.com/f_philippot/status/2093288327470301535",
   "publishedAt": "2026-08-28T10:43:23.000Z",
-  "observedAt": "2026-11-01T13:35:58.315Z",
+  "observedAt": "2026-11-01T22:12:51.785Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 24002,
+    "views": 24003,
     "likes": 337,
     "reposts": 114,
     "replies": 33,
@@ -372,6 +372,17 @@
       "observedAt": "2026-11-01T13:35:58.315Z",
       "metrics": {
         "views": 24002,
+        "likes": 337,
+        "reposts": 114,
+        "replies": 33,
+        "quotes": 2,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-11-01T22:12:51.785Z",
+      "metrics": {
+        "views": 24003,
         "likes": 337,
         "reposts": 114,
         "replies": 33,

@@ -4,7 +4,7 @@
   "text": "Le Macronistan cherche évidemment le CHAOS !",
   "url": "https://x.com/f_philippot/status/2106327492860735610",
   "publishedAt": "2026-10-03T10:16:22.000Z",
-  "observedAt": "2026-11-01T13:35:38.740Z",
+  "observedAt": "2026-11-01T22:11:32.692Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -381,6 +381,17 @@
     },
     {
       "observedAt": "2026-11-01T13:35:38.740Z",
+      "metrics": {
+        "views": 22843,
+        "likes": 1546,
+        "reposts": 520,
+        "replies": 45,
+        "quotes": 3,
+        "bookmarks": 27
+      }
+    },
+    {
+      "observedAt": "2026-11-01T22:11:32.692Z",
       "metrics": {
         "views": 22843,
         "likes": 1546,
