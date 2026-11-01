@@ -4,15 +4,15 @@
   "text": "Eh bien sortez de l’UE !\nLaissez la porte ouverte on arrive !",
   "url": "https://x.com/f_philippot/status/2116274978610126874",
   "publishedAt": "2026-10-30T21:04:08.000Z",
-  "observedAt": "2026-10-31T21:43:16.070Z",
+  "observedAt": "2026-11-01T13:35:21.431Z",
   "firstSeenAt": "2026-10-30T22:28:48.078Z",
   "isQuote": true,
   "metrics": {
-    "views": 17464,
-    "likes": 1093,
-    "reposts": 213,
+    "views": 18205,
+    "likes": 1147,
+    "reposts": 226,
     "replies": 20,
-    "quotes": 0,
+    "quotes": 1,
     "bookmarks": 12
   },
   "observations": [
@@ -46,6 +46,17 @@
         "reposts": 213,
         "replies": 20,
         "quotes": 0,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-11-01T13:35:21.431Z",
+      "metrics": {
+        "views": 18205,
+        "likes": 1147,
+        "reposts": 226,
+        "replies": 20,
+        "quotes": 1,
         "bookmarks": 12
       }
     }
