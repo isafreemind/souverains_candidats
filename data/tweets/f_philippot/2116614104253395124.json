@@ -4,14 +4,14 @@
   "text": "Tusk en prison !\n\nPOLEXIT\nFREXIT",
   "url": "https://x.com/f_philippot/status/2116614104253395124",
   "publishedAt": "2026-10-31T19:31:41.000Z",
-  "observedAt": "2026-11-01T22:10:59.540Z",
+  "observedAt": "2026-11-02T16:12:57.659Z",
   "firstSeenAt": "2026-10-31T21:43:16.070Z",
   "isQuote": true,
   "metrics": {
-    "views": 27627,
-    "likes": 2612,
-    "reposts": 520,
-    "replies": 62,
+    "views": 29741,
+    "likes": 2715,
+    "reposts": 550,
+    "replies": 66,
     "quotes": 7,
     "bookmarks": 19
   },
@@ -45,6 +45,17 @@
         "likes": 2612,
         "reposts": 520,
         "replies": 62,
+        "quotes": 7,
+        "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-11-02T16:12:57.659Z",
+      "metrics": {
+        "views": 29741,
+        "likes": 2715,
+        "reposts": 550,
+        "replies": 66,
         "quotes": 7,
         "bookmarks": 19
       }

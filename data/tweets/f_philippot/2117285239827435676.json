@@ -1,0 +1,37 @@
+{
+  "id": "2117285239827435676",
+  "handle": "f_philippot",
+  "text": "STOP 🛑 \n\nLIBERTÉ !",
+  "url": "https://x.com/f_philippot/status/2117285239827435676",
+  "publishedAt": "2026-11-02T15:58:33.000Z",
+  "observedAt": "2026-11-02T16:12:57.659Z",
+  "firstSeenAt": "2026-11-02T16:12:57.659Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 2127,
+    "likes": 66,
+    "reposts": 32,
+    "replies": 6,
+    "quotes": 1,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-02T16:12:57.659Z",
+      "metrics": {
+        "views": 2127,
+        "likes": 66,
+        "reposts": 32,
+        "replies": 6,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-02T16:12:57.659Z",
+      "text": "STOP 🛑 \n\nLIBERTÉ !"
+    }
+  ]
+}

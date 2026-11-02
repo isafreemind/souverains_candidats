@@ -1,0 +1,37 @@
+{
+  "id": "2117039409090691274",
+  "handle": "dupontaignan",
+  "text": "C’est pourquoi je suis candidat à l’election présidentielle de 2027.  La liberté ou la mort !",
+  "url": "https://x.com/dupontaignan/status/2117039409090691274",
+  "publishedAt": "2026-11-01T23:41:42.000Z",
+  "observedAt": "2026-11-02T16:14:39.211Z",
+  "firstSeenAt": "2026-11-02T16:14:39.211Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 6848,
+    "likes": 99,
+    "reposts": 18,
+    "replies": 21,
+    "quotes": 1,
+    "bookmarks": 1
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-02T16:14:39.211Z",
+      "metrics": {
+        "views": 6848,
+        "likes": 99,
+        "reposts": 18,
+        "replies": 21,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-02T16:14:39.211Z",
+      "text": "C’est pourquoi je suis candidat à l’election présidentielle de 2027.  La liberté ou la mort !"
+    }
+  ]
+}
