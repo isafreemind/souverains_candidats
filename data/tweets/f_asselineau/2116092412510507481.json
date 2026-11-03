@@ -4,11 +4,11 @@
   "text": "⚠️ Je suis invité par André Bercoff\nce Vendredi 30 octobre 2026\n de 12h00 à 13h00 sur SUD-RADIO.",
   "url": "https://x.com/f_asselineau/status/2116092412510507481",
   "publishedAt": "2026-10-30T08:58:40.000Z",
-  "observedAt": "2026-11-02T16:11:46.633Z",
+  "observedAt": "2026-11-03T01:03:25.270Z",
   "firstSeenAt": "2026-10-30T13:07:26.214Z",
   "isQuote": true,
   "metrics": {
-    "views": 11795,
+    "views": 11872,
     "likes": 673,
     "reposts": 209,
     "replies": 34,
@@ -86,6 +86,17 @@
       "observedAt": "2026-11-02T16:11:46.633Z",
       "metrics": {
         "views": 11795,
+        "likes": 673,
+        "reposts": 209,
+        "replies": 34,
+        "quotes": 7,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-11-03T01:03:25.270Z",
+      "metrics": {
+        "views": 11872,
         "likes": 673,
         "reposts": 209,
         "replies": 34,

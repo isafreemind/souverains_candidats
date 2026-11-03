@@ -4,13 +4,13 @@
   "text": "Puisqu’on en est à parler des ingérences étrangères, on peut parler des Young Global Leaders, ou ça c’est une bonne ingérence autorisée ? 😉",
   "url": "https://x.com/f_philippot/status/2086414860414304429",
   "publishedAt": "2026-08-09T11:30:41.000Z",
-  "observedAt": "2026-11-02T16:14:27.799Z",
+  "observedAt": "2026-11-03T01:06:43.375Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": false,
   "metrics": {
-    "views": 51247,
-    "likes": 5594,
-    "reposts": 2351,
+    "views": 51249,
+    "likes": 5593,
+    "reposts": 2350,
     "replies": 132,
     "quotes": 31,
     "bookmarks": 73
@@ -385,6 +385,17 @@
         "views": 51247,
         "likes": 5594,
         "reposts": 2351,
+        "replies": 132,
+        "quotes": 31,
+        "bookmarks": 73
+      }
+    },
+    {
+      "observedAt": "2026-11-03T01:06:43.375Z",
+      "metrics": {
+        "views": 51249,
+        "likes": 5593,
+        "reposts": 2350,
         "replies": 132,
         "quotes": 31,
         "bookmarks": 73
