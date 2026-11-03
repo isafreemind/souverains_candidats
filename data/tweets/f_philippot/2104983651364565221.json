@@ -4,11 +4,11 @@
   "text": "Les pompiers en lutte chantent la Marseillaise : ils ne lâcheront rien ! 🇫🇷\n\nVIDÉO ⤵️",
   "url": "https://x.com/f_philippot/status/2104983651364565221",
   "publishedAt": "2026-09-29T17:16:25.000Z",
-  "observedAt": "2026-11-03T14:29:14.468Z",
+  "observedAt": "2026-11-03T23:30:14.930Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 22429,
+    "views": 22430,
     "likes": 2432,
     "reposts": 684,
     "replies": 42,
@@ -427,6 +427,17 @@
       "observedAt": "2026-11-03T14:29:14.468Z",
       "metrics": {
         "views": 22429,
+        "likes": 2432,
+        "reposts": 684,
+        "replies": 42,
+        "quotes": 12,
+        "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-11-03T23:30:14.930Z",
+      "metrics": {
+        "views": 22430,
         "likes": 2432,
         "reposts": 684,
         "replies": 42,

@@ -4,11 +4,11 @@
   "text": "Merci à Léon XIV de nous épargner Macron. Nous pourrons enfin prier en paix à Notre-Dame de Paris !",
   "url": "https://x.com/dupontaignan/status/2102354370079977577",
   "publishedAt": "2026-09-22T11:08:36.000Z",
-  "observedAt": "2026-11-03T14:30:55.839Z",
+  "observedAt": "2026-11-03T23:31:01.445Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 27440,
+    "views": 27441,
     "likes": 2693,
     "reposts": 640,
     "replies": 175,
@@ -427,6 +427,17 @@
       "observedAt": "2026-11-03T14:30:55.839Z",
       "metrics": {
         "views": 27440,
+        "likes": 2693,
+        "reposts": 640,
+        "replies": 175,
+        "quotes": 19,
+        "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-11-03T23:31:01.445Z",
+      "metrics": {
+        "views": 27441,
         "likes": 2693,
         "reposts": 640,
         "replies": 175,

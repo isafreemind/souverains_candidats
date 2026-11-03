@@ -4,7 +4,7 @@
   "text": "À 10h20 ce jeudi en direct sur LCI",
   "url": "https://x.com/f_philippot/status/2100490281141305462",
   "publishedAt": "2026-09-17T07:41:22.000Z",
-  "observedAt": "2026-11-03T14:29:27.493Z",
+  "observedAt": "2026-11-03T23:30:21.654Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -425,6 +425,17 @@
     },
     {
       "observedAt": "2026-11-03T14:29:27.493Z",
+      "metrics": {
+        "views": 14447,
+        "likes": 269,
+        "reposts": 68,
+        "replies": 68,
+        "quotes": 3,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-11-03T23:30:21.654Z",
       "metrics": {
         "views": 14447,
         "likes": 269,

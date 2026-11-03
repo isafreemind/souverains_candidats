@@ -1,0 +1,37 @@
+{
+  "id": "2117674804828664138",
+  "handle": "f_philippot",
+  "text": "Ça + les 2800 soldats français et britanniques qui débarquent lundi en Pologne : ils la veulent leur guerre !",
+  "url": "https://x.com/f_philippot/status/2117674804828664138",
+  "publishedAt": "2026-11-03T17:46:32.000Z",
+  "observedAt": "2026-11-03T23:29:55.097Z",
+  "firstSeenAt": "2026-11-03T23:29:55.097Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 11906,
+    "likes": 640,
+    "reposts": 282,
+    "replies": 35,
+    "quotes": 9,
+    "bookmarks": 24
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-03T23:29:55.097Z",
+      "metrics": {
+        "views": 11906,
+        "likes": 640,
+        "reposts": 282,
+        "replies": 35,
+        "quotes": 9,
+        "bookmarks": 24
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-03T23:29:55.097Z",
+      "text": "Ça + les 2800 soldats français et britanniques qui débarquent lundi en Pologne : ils la veulent leur guerre !"
+    }
+  ]
+}

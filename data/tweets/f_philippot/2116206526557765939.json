@@ -4,15 +4,15 @@
   "text": "À 19h ce vendredi 30/10 grand direct d’actualité sur ma chaîne YouTube ! 🇫🇷",
   "url": "https://x.com/f_philippot/status/2116206526557765939",
   "publishedAt": "2026-10-30T16:32:07.000Z",
-  "observedAt": "2026-11-03T14:28:31.915Z",
+  "observedAt": "2026-11-03T23:29:57.101Z",
   "firstSeenAt": "2026-10-30T22:28:48.078Z",
   "isQuote": false,
   "metrics": {
-    "views": 8715,
+    "views": 8742,
     "likes": 154,
     "reposts": 46,
     "replies": 12,
-    "quotes": 4,
+    "quotes": 3,
     "bookmarks": 2
   },
   "observations": [
@@ -101,6 +101,17 @@
         "reposts": 46,
         "replies": 12,
         "quotes": 4,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-03T23:29:57.101Z",
+      "metrics": {
+        "views": 8742,
+        "likes": 154,
+        "reposts": 46,
+        "replies": 12,
+        "quotes": 3,
         "bookmarks": 2
       }
     }

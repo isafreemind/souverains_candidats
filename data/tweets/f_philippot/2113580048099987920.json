@@ -4,11 +4,11 @@
   "text": "On a supprimé les frontières nationales pour « faire l’Europe »,\n\nRésultat on a ça partout maintenant ⤵️\n\nOn continue ?…",
   "url": "https://x.com/f_philippot/status/2113580048099987920",
   "publishedAt": "2026-10-23T10:35:26.000Z",
-  "observedAt": "2026-11-03T14:28:41.967Z",
+  "observedAt": "2026-11-03T23:30:00.363Z",
   "firstSeenAt": "2026-10-23T11:48:44.412Z",
   "isQuote": false,
   "metrics": {
-    "views": 16144,
+    "views": 16145,
     "likes": 974,
     "reposts": 312,
     "replies": 24,
@@ -262,6 +262,17 @@
       "observedAt": "2026-11-03T14:28:41.967Z",
       "metrics": {
         "views": 16144,
+        "likes": 974,
+        "reposts": 312,
+        "replies": 24,
+        "quotes": 3,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-11-03T23:30:00.363Z",
+      "metrics": {
+        "views": 16145,
         "likes": 974,
         "reposts": 312,
         "replies": 24,

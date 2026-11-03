@@ -4,12 +4,12 @@
   "text": "Ah apparemment Attal a été victime d’une 2è ingérence asymptomatique, 24 heures après la première ! 😂\n\nIls en font trop : leur cirque se voit !\n\nDEHORS, tous !",
   "url": "https://x.com/f_philippot/status/2086146601530142721",
   "publishedAt": "2026-08-08T17:44:43.000Z",
-  "observedAt": "2026-11-03T01:06:43.375Z",
+  "observedAt": "2026-11-03T23:30:40.314Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
     "views": 71611,
-    "likes": 4661,
+    "likes": 4659,
     "reposts": 1164,
     "replies": 346,
     "quotes": 40,
@@ -395,6 +395,17 @@
       "metrics": {
         "views": 71611,
         "likes": 4661,
+        "reposts": 1164,
+        "replies": 346,
+        "quotes": 40,
+        "bookmarks": 52
+      }
+    },
+    {
+      "observedAt": "2026-11-03T23:30:40.314Z",
+      "metrics": {
+        "views": 71611,
+        "likes": 4659,
         "reposts": 1164,
         "replies": 346,
         "quotes": 40,
