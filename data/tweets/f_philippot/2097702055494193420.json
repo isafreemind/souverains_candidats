@@ -4,7 +4,7 @@
   "text": "C’est un phénomène extraordinaire : +50% de fréquentation en 14è semaine ! ⤵️\n\nLes films De Gaulle réveillent la France !",
   "url": "https://x.com/f_philippot/status/2097702055494193420",
   "publishedAt": "2026-09-09T15:01:58.000Z",
-  "observedAt": "2026-11-03T01:05:58.450Z",
+  "observedAt": "2026-11-03T14:29:58.976Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -414,6 +414,17 @@
     },
     {
       "observedAt": "2026-11-03T01:05:58.450Z",
+      "metrics": {
+        "views": 19631,
+        "likes": 1038,
+        "reposts": 313,
+        "replies": 50,
+        "quotes": 5,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-11-03T14:29:58.976Z",
       "metrics": {
         "views": 19631,
         "likes": 1038,

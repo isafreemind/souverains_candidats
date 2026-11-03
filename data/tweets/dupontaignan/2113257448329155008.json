@@ -4,11 +4,11 @@
   "text": "Le piège de Macron se referme : incapable de garantir l’ordre public, il veut maintenant empêcher les Français de s’exprimer.",
   "url": "https://x.com/dupontaignan/status/2113257448329155008",
   "publishedAt": "2026-10-22T13:13:32.000Z",
-  "observedAt": "2026-11-03T01:07:10.371Z",
+  "observedAt": "2026-11-03T14:30:27.964Z",
   "firstSeenAt": "2026-10-22T21:44:52.249Z",
   "isQuote": false,
   "metrics": {
-    "views": 23054,
+    "views": 23058,
     "likes": 1531,
     "reposts": 543,
     "replies": 102,
@@ -262,6 +262,17 @@
       "observedAt": "2026-11-03T01:07:10.371Z",
       "metrics": {
         "views": 23054,
+        "likes": 1531,
+        "reposts": 543,
+        "replies": 102,
+        "quotes": 16,
+        "bookmarks": 27
+      }
+    },
+    {
+      "observedAt": "2026-11-03T14:30:27.964Z",
+      "metrics": {
+        "views": 23058,
         "likes": 1531,
         "reposts": 543,
         "replies": 102,

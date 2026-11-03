@@ -4,16 +4,16 @@
   "text": "Jusqu’où iront-ils ?\n\n6 fourgons de police étaient présents samedi pour protéger la boutique Trogneux, de la famille de Brigitte Macron…\n\nTous les autres commerçants de France ont, eux, été abandonnés face aux pilleurs.\n\nCe mépris et ces privilèges d’un autre temps sont INSUPPORTABLES !",
   "url": "https://x.com/dupontaignan/status/2112164282305491327",
   "publishedAt": "2026-10-19T12:49:41.000Z",
-  "observedAt": "2026-11-03T01:07:16.563Z",
+  "observedAt": "2026-11-03T14:30:32.428Z",
   "firstSeenAt": "2026-10-19T13:33:54.417Z",
   "isQuote": false,
   "metrics": {
-    "views": 223606,
+    "views": 223622,
     "likes": 14207,
-    "reposts": 6899,
+    "reposts": 6898,
     "replies": 472,
     "quotes": 313,
-    "bookmarks": 699
+    "bookmarks": 700
   },
   "observations": [
     {
@@ -344,6 +344,17 @@
         "replies": 472,
         "quotes": 313,
         "bookmarks": 699
+      }
+    },
+    {
+      "observedAt": "2026-11-03T14:30:32.428Z",
+      "metrics": {
+        "views": 223622,
+        "likes": 14207,
+        "reposts": 6898,
+        "replies": 472,
+        "quotes": 313,
+        "bookmarks": 700
       }
     }
   ],

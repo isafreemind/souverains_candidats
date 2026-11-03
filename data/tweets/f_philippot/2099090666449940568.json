@@ -4,11 +4,11 @@
   "text": "Bientôt sur tous les murs de France !\n\nNouvelle affiche\nNouveau tract \n🇫🇷",
   "url": "https://x.com/f_philippot/status/2099090666449940568",
   "publishedAt": "2026-09-13T10:59:48.000Z",
-  "observedAt": "2026-11-03T01:05:55.210Z",
+  "observedAt": "2026-11-03T14:29:48.330Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 25202,
+    "views": 25203,
     "likes": 2391,
     "reposts": 805,
     "replies": 108,
@@ -416,6 +416,17 @@
       "observedAt": "2026-11-03T01:05:55.210Z",
       "metrics": {
         "views": 25202,
+        "likes": 2391,
+        "reposts": 805,
+        "replies": 108,
+        "quotes": 20,
+        "bookmarks": 30
+      }
+    },
+    {
+      "observedAt": "2026-11-03T14:29:48.330Z",
+      "metrics": {
+        "views": 25203,
         "likes": 2391,
         "reposts": 805,
         "replies": 108,

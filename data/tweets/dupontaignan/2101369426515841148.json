@@ -4,11 +4,11 @@
   "text": "Nous allons LIBÉRER la France ! 🇫🇷",
   "url": "https://x.com/dupontaignan/status/2101369426515841148",
   "publishedAt": "2026-09-19T17:54:47.000Z",
-  "observedAt": "2026-11-03T01:07:49.602Z",
+  "observedAt": "2026-11-03T14:30:58.837Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 15953,
+    "views": 15954,
     "likes": 407,
     "reposts": 97,
     "replies": 54,
@@ -416,6 +416,17 @@
       "observedAt": "2026-11-03T01:07:49.602Z",
       "metrics": {
         "views": 15953,
+        "likes": 407,
+        "reposts": 97,
+        "replies": 54,
+        "quotes": 4,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-11-03T14:30:58.837Z",
+      "metrics": {
+        "views": 15954,
         "likes": 407,
         "reposts": 97,
         "replies": 54,
