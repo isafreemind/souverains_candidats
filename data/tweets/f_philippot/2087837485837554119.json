@@ -4,13 +4,13 @@
   "text": "Mais quel enfer, dehors vite ! 🤦🏻‍♂️\n⤵️",
   "url": "https://x.com/f_philippot/status/2087837485837554119",
   "publishedAt": "2026-08-13T09:43:41.000Z",
-  "observedAt": "2026-11-04T14:44:50.242Z",
+  "observedAt": "2026-11-04T23:48:00.205Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 45673,
-    "likes": 2168,
-    "reposts": 562,
+    "views": 45674,
+    "likes": 2167,
+    "reposts": 561,
     "replies": 133,
     "quotes": 18,
     "bookmarks": 26
@@ -429,6 +429,17 @@
         "views": 45673,
         "likes": 2168,
         "reposts": 562,
+        "replies": 133,
+        "quotes": 18,
+        "bookmarks": 26
+      }
+    },
+    {
+      "observedAt": "2026-11-04T23:48:00.205Z",
+      "metrics": {
+        "views": 45674,
+        "likes": 2167,
+        "reposts": 561,
         "replies": 133,
         "quotes": 18,
         "bookmarks": 26

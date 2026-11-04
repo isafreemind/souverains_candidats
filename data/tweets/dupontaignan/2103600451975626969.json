@@ -4,11 +4,11 @@
   "text": "MERCI Saint-Père !",
   "url": "https://x.com/dupontaignan/status/2103600451975626969",
   "publishedAt": "2026-09-25T21:40:05.000Z",
-  "observedAt": "2026-11-04T14:45:36.158Z",
+  "observedAt": "2026-11-04T23:48:51.659Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 16262,
+    "views": 16263,
     "likes": 2227,
     "reposts": 567,
     "replies": 52,
@@ -449,6 +449,17 @@
       "observedAt": "2026-11-04T14:45:36.158Z",
       "metrics": {
         "views": 16262,
+        "likes": 2227,
+        "reposts": 567,
+        "replies": 52,
+        "quotes": 11,
+        "bookmarks": 30
+      }
+    },
+    {
+      "observedAt": "2026-11-04T23:48:51.659Z",
+      "metrics": {
+        "views": 16263,
         "likes": 2227,
         "reposts": 567,
         "replies": 52,

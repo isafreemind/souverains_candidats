@@ -4,11 +4,11 @@
   "text": "Chouette Jean-Noel Barrot vient donc de nous annoncer qu’on allait sortir de l’UE, la plus grosse machine à ingérences du monde ! \n\n😁",
   "url": "https://x.com/f_philippot/status/2085710820546072993",
   "publishedAt": "2026-08-07T12:53:04.000Z",
-  "observedAt": "2026-11-04T14:45:00.320Z",
+  "observedAt": "2026-11-04T23:48:03.453Z",
   "firstSeenAt": "2026-10-17T08:03:49.749Z",
   "isQuote": true,
   "metrics": {
-    "views": 36823,
+    "views": 36824,
     "likes": 1082,
     "reposts": 284,
     "replies": 43,
@@ -405,6 +405,17 @@
       "observedAt": "2026-11-04T14:45:00.320Z",
       "metrics": {
         "views": 36823,
+        "likes": 1082,
+        "reposts": 284,
+        "replies": 43,
+        "quotes": 6,
+        "bookmarks": 20
+      }
+    },
+    {
+      "observedAt": "2026-11-04T23:48:03.453Z",
+      "metrics": {
+        "views": 36824,
         "likes": 1082,
         "reposts": 284,
         "replies": 43,

@@ -4,11 +4,11 @@
   "text": "Pourquoi l’avoir fait nommer alors ?…",
   "url": "https://x.com/f_philippot/status/2110445179606040703",
   "publishedAt": "2026-10-14T18:58:35.000Z",
-  "observedAt": "2026-11-04T14:43:31.774Z",
+  "observedAt": "2026-11-04T23:47:08.900Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 28324,
+    "views": 28327,
     "likes": 2564,
     "reposts": 640,
     "replies": 160,
@@ -449,6 +449,17 @@
       "observedAt": "2026-11-04T14:43:31.774Z",
       "metrics": {
         "views": 28324,
+        "likes": 2564,
+        "reposts": 640,
+        "replies": 160,
+        "quotes": 17,
+        "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-11-04T23:47:08.900Z",
+      "metrics": {
+        "views": 28327,
         "likes": 2564,
         "reposts": 640,
         "replies": 160,

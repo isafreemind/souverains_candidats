@@ -4,11 +4,11 @@
   "text": "LA FICELLE EST UN PEU GROSSE !\nAprès avoir laissé le chaos s’installer dans nos villes, il vient maintenant accuser les réseaux sociaux de tous les maux.\nDepuis toujours, Emmanuel Macron veut les interdire pour cacher la réalité catastrophique de son bilan. Jamais la liberté d’expression n’a été autant en danger dans notre pays. NE NOUS LAISSONS PAS FAIRE !",
   "url": "https://x.com/dupontaignan/status/2114706845960966624",
   "publishedAt": "2026-10-26T13:12:56.000Z",
-  "observedAt": "2026-11-04T14:45:10.395Z",
+  "observedAt": "2026-11-04T23:48:14.357Z",
   "firstSeenAt": "2026-10-26T13:16:15.345Z",
   "isQuote": false,
   "metrics": {
-    "views": 31166,
+    "views": 31177,
     "likes": 3800,
     "reposts": 1534,
     "replies": 193,
@@ -218,6 +218,17 @@
       "observedAt": "2026-11-04T14:45:10.395Z",
       "metrics": {
         "views": 31166,
+        "likes": 3800,
+        "reposts": 1534,
+        "replies": 193,
+        "quotes": 38,
+        "bookmarks": 48
+      }
+    },
+    {
+      "observedAt": "2026-11-04T23:48:14.357Z",
+      "metrics": {
+        "views": 31177,
         "likes": 3800,
         "reposts": 1534,
         "replies": 193,
