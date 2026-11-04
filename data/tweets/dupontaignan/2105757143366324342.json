@@ -4,11 +4,11 @@
   "text": "Je me rendrai demain, vendredi 2 octobre, à partir de 11h30, au Salon de la Gastronomie de l’Outre-Mer, au Pavillon de Gravelle.",
   "url": "https://x.com/dupontaignan/status/2105757143366324342",
   "publishedAt": "2026-10-01T20:30:00.000Z",
-  "observedAt": "2026-11-03T23:30:57.359Z",
+  "observedAt": "2026-11-04T14:45:28.900Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 6206,
+    "views": 6207,
     "likes": 78,
     "reposts": 22,
     "replies": 3,
@@ -438,6 +438,17 @@
       "observedAt": "2026-11-03T23:30:57.359Z",
       "metrics": {
         "views": 6206,
+        "likes": 78,
+        "reposts": 22,
+        "replies": 3,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-04T14:45:28.900Z",
+      "metrics": {
+        "views": 6207,
         "likes": 78,
         "reposts": 22,
         "replies": 3,

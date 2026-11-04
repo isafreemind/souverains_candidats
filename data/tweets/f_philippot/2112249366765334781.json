@@ -4,11 +4,11 @@
   "text": "On ne demande qu’une seule chose à la Commission européenne : TAISEZ-VOUS !",
   "url": "https://x.com/f_philippot/status/2112249366765334781",
   "publishedAt": "2026-10-19T18:27:47.000Z",
-  "observedAt": "2026-11-03T23:30:02.829Z",
+  "observedAt": "2026-11-04T14:43:25.132Z",
   "firstSeenAt": "2026-10-19T22:27:34.782Z",
   "isQuote": true,
   "metrics": {
-    "views": 15933,
+    "views": 15935,
     "likes": 846,
     "reposts": 226,
     "replies": 26,
@@ -350,6 +350,17 @@
       "observedAt": "2026-11-03T23:30:02.829Z",
       "metrics": {
         "views": 15933,
+        "likes": 846,
+        "reposts": 226,
+        "replies": 26,
+        "quotes": 4,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-11-04T14:43:25.132Z",
+      "metrics": {
+        "views": 15935,
         "likes": 846,
         "reposts": 226,
         "replies": 26,

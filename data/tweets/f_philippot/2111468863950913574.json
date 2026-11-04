@@ -4,14 +4,14 @@
   "text": "Macron se planque.\n\nIl doit présenter immédiatement sa DÉMISSION pour apaiser la situation !",
   "url": "https://x.com/f_philippot/status/2111468863950913574",
   "publishedAt": "2026-10-17T14:46:21.000Z",
-  "observedAt": "2026-11-03T23:30:04.177Z",
+  "observedAt": "2026-11-04T14:43:29.843Z",
   "firstSeenAt": "2026-10-17T20:42:58.047Z",
   "isQuote": true,
   "metrics": {
-    "views": 102377,
-    "likes": 9264,
-    "reposts": 2780,
-    "replies": 440,
+    "views": 102383,
+    "likes": 9263,
+    "reposts": 2779,
+    "replies": 438,
     "quotes": 56,
     "bookmarks": 90
   },
@@ -397,6 +397,17 @@
         "likes": 9264,
         "reposts": 2780,
         "replies": 440,
+        "quotes": 56,
+        "bookmarks": 90
+      }
+    },
+    {
+      "observedAt": "2026-11-04T14:43:29.843Z",
+      "metrics": {
+        "views": 102383,
+        "likes": 9263,
+        "reposts": 2779,
+        "replies": 438,
         "quotes": 56,
         "bookmarks": 90
       }
