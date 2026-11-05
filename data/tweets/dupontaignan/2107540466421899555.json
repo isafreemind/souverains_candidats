@@ -4,11 +4,11 @@
   "text": "Demain, je serai au Sommet de l’Élevage à Cournon-d’Auvergne pour rencontrer et soutenir nos éleveurs ! 🐄",
   "url": "https://x.com/dupontaignan/status/2107540466421899555",
   "publishedAt": "2026-10-06T18:36:18.000Z",
-  "observedAt": "2026-11-04T23:48:40.415Z",
+  "observedAt": "2026-11-05T14:47:58.795Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 5070,
+    "views": 5071,
     "likes": 58,
     "reposts": 20,
     "replies": 7,
@@ -460,6 +460,17 @@
       "observedAt": "2026-11-04T23:48:40.415Z",
       "metrics": {
         "views": 5070,
+        "likes": 58,
+        "reposts": 20,
+        "replies": 7,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-05T14:47:58.795Z",
+      "metrics": {
+        "views": 5071,
         "likes": 58,
         "reposts": 20,
         "replies": 7,
