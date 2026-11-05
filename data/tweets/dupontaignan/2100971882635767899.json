@@ -4,16 +4,16 @@
   "text": "Il veut la guerre.\nLes Français veulent la paix.\nMacron parle de « réponses » aux attaques russes imaginaires… \nPendant que les Français demandent juste de ne pas être entraînés dans une fausse escalade ASSEZ ! ASSEZ ! ASSEZ !",
   "url": "https://x.com/dupontaignan/status/2100971882635767899",
   "publishedAt": "2026-09-18T15:35:05.000Z",
-  "observedAt": "2026-11-05T14:48:07.271Z",
+  "observedAt": "2026-11-05T23:44:08.150Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 204431,
-    "likes": 8087,
-    "reposts": 2453,
-    "replies": 872,
+    "views": 204434,
+    "likes": 8090,
+    "reposts": 2452,
+    "replies": 871,
     "quotes": 125,
-    "bookmarks": 113
+    "bookmarks": 112
   },
   "observations": [
     {
@@ -476,6 +476,17 @@
         "replies": 872,
         "quotes": 125,
         "bookmarks": 113
+      }
+    },
+    {
+      "observedAt": "2026-11-05T23:44:08.150Z",
+      "metrics": {
+        "views": 204434,
+        "likes": 8090,
+        "reposts": 2452,
+        "replies": 871,
+        "quotes": 125,
+        "bookmarks": 112
       }
     }
   ],

@@ -4,16 +4,16 @@
   "text": "Zelensky crée un immense chaos.\nIl balance dans son tweet les pays européens qui lui ont fourni les armes utilisées.\nIl vient d’essayer de déclencher la guerre totale.\nMondiale.\n\nRéveillons-nous très vite.\nSortons de l’UE, choisissons tant qu’il en est encore temps la PAIX.",
   "url": "https://x.com/f_philippot/status/2101661574419083517",
   "publishedAt": "2026-09-20T13:15:40.000Z",
-  "observedAt": "2026-11-05T14:47:19.107Z",
+  "observedAt": "2026-11-05T23:43:19.729Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 454062,
+    "views": 454066,
     "likes": 7653,
     "reposts": 2454,
     "replies": 448,
     "quotes": 54,
-    "bookmarks": 343
+    "bookmarks": 342
   },
   "observations": [
     {
@@ -476,6 +476,17 @@
         "replies": 448,
         "quotes": 54,
         "bookmarks": 343
+      }
+    },
+    {
+      "observedAt": "2026-11-05T23:43:19.729Z",
+      "metrics": {
+        "views": 454066,
+        "likes": 7653,
+        "reposts": 2454,
+        "replies": 448,
+        "quotes": 54,
+        "bookmarks": 342
       }
     }
   ],

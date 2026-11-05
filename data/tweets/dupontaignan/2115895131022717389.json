@@ -4,11 +4,11 @@
   "text": "Vous êtes 17% (sondage IFOP) à souhaiter ma candidature présidentielle. \nLes petits ruisseaux font les grandes rivières !\nParticipez à la cagnotte présidentielle : https://dons.dupontaignan.fr",
   "url": "https://x.com/dupontaignan/status/2115895131022717389",
   "publishedAt": "2026-10-29T19:54:45.000Z",
-  "observedAt": "2026-11-05T14:47:47.277Z",
+  "observedAt": "2026-11-05T23:43:49.572Z",
   "firstSeenAt": "2026-10-29T22:51:33.700Z",
   "isQuote": false,
   "metrics": {
-    "views": 5004,
+    "views": 5010,
     "likes": 105,
     "reposts": 39,
     "replies": 39,
@@ -163,6 +163,17 @@
       "observedAt": "2026-11-05T14:47:47.277Z",
       "metrics": {
         "views": 5004,
+        "likes": 105,
+        "reposts": 39,
+        "replies": 39,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-11-05T23:43:49.572Z",
+      "metrics": {
+        "views": 5010,
         "likes": 105,
         "reposts": 39,
         "replies": 39,

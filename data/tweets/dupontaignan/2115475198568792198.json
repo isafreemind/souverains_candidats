@@ -4,11 +4,11 @@
   "text": "Dans mon projet présidentiel 2027, trois mesures fortes pour redonner confiance à la jeunesse !",
   "url": "https://x.com/dupontaignan/status/2115475198568792198",
   "publishedAt": "2026-10-28T16:06:05.000Z",
-  "observedAt": "2026-11-05T14:47:47.277Z",
+  "observedAt": "2026-11-05T23:43:49.572Z",
   "firstSeenAt": "2026-10-28T22:47:13.708Z",
   "isQuote": false,
   "metrics": {
-    "views": 4524,
+    "views": 4525,
     "likes": 86,
     "reposts": 36,
     "replies": 7,
@@ -185,6 +185,17 @@
       "observedAt": "2026-11-05T14:47:47.277Z",
       "metrics": {
         "views": 4524,
+        "likes": 86,
+        "reposts": 36,
+        "replies": 7,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-05T23:43:49.572Z",
+      "metrics": {
+        "views": 4525,
         "likes": 86,
         "reposts": 36,
         "replies": 7,
