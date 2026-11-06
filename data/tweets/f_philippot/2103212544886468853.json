@@ -4,11 +4,11 @@
   "text": "Pfizerman démissionne : excellent !",
   "url": "https://x.com/f_philippot/status/2103212544886468853",
   "publishedAt": "2026-09-24T19:58:41.000Z",
-  "observedAt": "2026-11-05T23:43:16.444Z",
+  "observedAt": "2026-11-06T14:24:45.640Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 24948,
+    "views": 24949,
     "likes": 1384,
     "reposts": 527,
     "replies": 52,
@@ -482,6 +482,17 @@
       "observedAt": "2026-11-05T23:43:16.444Z",
       "metrics": {
         "views": 24948,
+        "likes": 1384,
+        "reposts": 527,
+        "replies": 52,
+        "quotes": 5,
+        "bookmarks": 28
+      }
+    },
+    {
+      "observedAt": "2026-11-06T14:24:45.640Z",
+      "metrics": {
+        "views": 24949,
         "likes": 1384,
         "reposts": 527,
         "replies": 52,
