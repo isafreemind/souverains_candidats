@@ -1,0 +1,80 @@
+{
+  "observedAt": "2026-11-06T23:15:05.971Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 90,
+  "maxPages": 100,
+  "pageSize": 20,
+  "recoveries": [
+    {
+      "handle": "f_asselineau",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Timeline standard vide avant la limite temporelle ; reprise alternative au dernier curseur."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "dupontaignan",
+      "reason": "Erreur 404 : nouvel essai au même curseur avec count=10."
+    }
+  ],
+  "followers": [
+    {
+      "handle": "f_asselineau",
+      "followers": 385784,
+      "observedAt": "2026-11-06T23:15:06.238Z"
+    },
+    {
+      "handle": "f_philippot",
+      "followers": 523441,
+      "observedAt": "2026-11-06T23:16:01.946Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 470370,
+      "observedAt": "2026-11-06T23:17:41.631Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-11-06T23:15:05.971Z",
+      "lookbackDays": 90,
+      "pages": 24,
+      "accepted": 348,
+      "excluded": 128,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-11-06T23:15:05.971Z",
+      "lookbackDays": 90,
+      "pages": 45,
+      "accepted": 805,
+      "excluded": 37,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-11-06T23:15:05.971Z",
+      "lookbackDays": 90,
+      "pages": 31,
+      "accepted": 454,
+      "excluded": 119,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    }
+  ]
+}

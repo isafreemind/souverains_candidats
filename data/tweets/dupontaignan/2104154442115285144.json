@@ -4,16 +4,16 @@
   "text": "Quelle leçon !",
   "url": "https://x.com/dupontaignan/status/2104154442115285144",
   "publishedAt": "2026-09-27T10:21:26.000Z",
-  "observedAt": "2026-11-06T14:25:28.894Z",
+  "observedAt": "2026-11-06T23:18:18.484Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 20340,
+    "views": 20341,
     "likes": 2480,
     "reposts": 752,
     "replies": 59,
     "quotes": 20,
-    "bookmarks": 41
+    "bookmarks": 40
   },
   "observations": [
     {
@@ -498,6 +498,17 @@
         "replies": 59,
         "quotes": 20,
         "bookmarks": 41
+      }
+    },
+    {
+      "observedAt": "2026-11-06T23:18:18.484Z",
+      "metrics": {
+        "views": 20341,
+        "likes": 2480,
+        "reposts": 752,
+        "replies": 59,
+        "quotes": 20,
+        "bookmarks": 40
       }
     }
   ],

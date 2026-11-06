@@ -4,16 +4,16 @@
   "text": "Je propose aux Français une démocratie directe à la Suisse.\nIls doivent pouvoir choisir leur destin par référendum.",
   "url": "https://x.com/dupontaignan/status/2118663078917050467",
   "publishedAt": "2026-11-06T11:13:35.000Z",
-  "observedAt": "2026-11-06T14:25:12.650Z",
+  "observedAt": "2026-11-06T23:17:42.946Z",
   "firstSeenAt": "2026-11-06T14:25:12.650Z",
   "isQuote": false,
   "metrics": {
-    "views": 2804,
-    "likes": 159,
-    "reposts": 62,
-    "replies": 22,
-    "quotes": 6,
-    "bookmarks": 0
+    "views": 5510,
+    "likes": 358,
+    "reposts": 112,
+    "replies": 34,
+    "quotes": 8,
+    "bookmarks": 2
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 22,
         "quotes": 6,
         "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-11-06T23:17:42.946Z",
+      "metrics": {
+        "views": 5510,
+        "likes": 358,
+        "reposts": 112,
+        "replies": 34,
+        "quotes": 8,
+        "bookmarks": 2
       }
     }
   ],

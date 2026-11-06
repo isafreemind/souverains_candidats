@@ -4,12 +4,12 @@
   "text": "Allez, hop 1,2 milliard supplémentaires payés par la France ! 🤦🏻‍♂️\n\nSTOP 🛑",
   "url": "https://x.com/f_philippot/status/2098365490477277691",
   "publishedAt": "2026-09-11T10:58:13.000Z",
-  "observedAt": "2026-11-06T14:24:51.738Z",
+  "observedAt": "2026-11-06T23:17:08.464Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 21063,
-    "likes": 1024,
+    "likes": 1023,
     "reposts": 439,
     "replies": 88,
     "quotes": 8,
@@ -494,6 +494,17 @@
       "metrics": {
         "views": 21063,
         "likes": 1024,
+        "reposts": 439,
+        "replies": 88,
+        "quotes": 8,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-11-06T23:17:08.464Z",
+      "metrics": {
+        "views": 21063,
+        "likes": 1023,
         "reposts": 439,
         "replies": 88,
         "quotes": 8,

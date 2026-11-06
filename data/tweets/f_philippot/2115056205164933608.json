@@ -4,16 +4,16 @@
   "text": "Vulgarité et agressivité à un niveau incroyable là ! ⤵️",
   "url": "https://x.com/f_philippot/status/2115056205164933608",
   "publishedAt": "2026-10-27T12:21:09.000Z",
-  "observedAt": "2026-11-06T14:24:28.074Z",
+  "observedAt": "2026-11-06T23:16:17.521Z",
   "firstSeenAt": "2026-10-27T12:23:37.372Z",
   "isQuote": true,
   "metrics": {
-    "views": 26653,
+    "views": 26657,
     "likes": 2325,
     "reposts": 702,
     "replies": 74,
     "quotes": 3,
-    "bookmarks": 38
+    "bookmarks": 39
   },
   "observations": [
     {
@@ -245,6 +245,17 @@
         "replies": 74,
         "quotes": 3,
         "bookmarks": 38
+      }
+    },
+    {
+      "observedAt": "2026-11-06T23:16:17.521Z",
+      "metrics": {
+        "views": 26657,
+        "likes": 2325,
+        "reposts": 702,
+        "replies": 74,
+        "quotes": 3,
+        "bookmarks": 39
       }
     }
   ],

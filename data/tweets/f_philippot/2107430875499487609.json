@@ -4,12 +4,12 @@
   "text": "Le but du pouvoir pervers étant la recherche du CHAOS maximal, tout cela est logique…",
   "url": "https://x.com/f_philippot/status/2107430875499487609",
   "publishedAt": "2026-10-06T11:20:49.000Z",
-  "observedAt": "2026-11-06T14:24:39.126Z",
+  "observedAt": "2026-11-06T23:16:39.985Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 14656,
-    "likes": 704,
+    "likes": 705,
     "reposts": 207,
     "replies": 43,
     "quotes": 2,
@@ -494,6 +494,17 @@
       "metrics": {
         "views": 14656,
         "likes": 704,
+        "reposts": 207,
+        "replies": 43,
+        "quotes": 2,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-11-06T23:16:39.985Z",
+      "metrics": {
+        "views": 14656,
+        "likes": 705,
         "reposts": 207,
         "replies": 43,
         "quotes": 2,
