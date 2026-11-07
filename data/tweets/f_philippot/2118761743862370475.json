@@ -4,16 +4,16 @@
   "text": "Bravo ils ne lâchent pas l’affaire ! \n\nTusk dictateur\nUE dictature !\n\nPOLEXIT\nFREXIT",
   "url": "https://x.com/f_philippot/status/2118761743862370475",
   "publishedAt": "2026-11-06T17:45:39.000Z",
-  "observedAt": "2026-11-06T23:16:03.393Z",
+  "observedAt": "2026-11-07T13:15:36.352Z",
   "firstSeenAt": "2026-11-06T23:16:03.393Z",
   "isQuote": true,
   "metrics": {
-    "views": 9555,
-    "likes": 1444,
-    "reposts": 478,
-    "replies": 29,
-    "quotes": 1,
-    "bookmarks": 16
+    "views": 15221,
+    "likes": 2734,
+    "reposts": 904,
+    "replies": 47,
+    "quotes": 2,
+    "bookmarks": 28
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 29,
         "quotes": 1,
         "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-11-07T13:15:36.352Z",
+      "metrics": {
+        "views": 15221,
+        "likes": 2734,
+        "reposts": 904,
+        "replies": 47,
+        "quotes": 2,
+        "bookmarks": 28
       }
     }
   ],

@@ -4,11 +4,11 @@
   "text": "Et la mairie de Limoges, c’était de l’IA peut-être ?\n\n#Macron\n#17octobre",
   "url": "https://x.com/dupontaignan/status/2113287970996297744",
   "publishedAt": "2026-10-22T15:14:49.000Z",
-  "observedAt": "2026-11-06T23:17:52.737Z",
+  "observedAt": "2026-11-07T13:17:35.192Z",
   "firstSeenAt": "2026-10-22T21:44:52.249Z",
   "isQuote": false,
   "metrics": {
-    "views": 7870,
+    "views": 7871,
     "likes": 828,
     "reposts": 247,
     "replies": 23,
@@ -350,6 +350,17 @@
       "observedAt": "2026-11-06T23:17:52.737Z",
       "metrics": {
         "views": 7870,
+        "likes": 828,
+        "reposts": 247,
+        "replies": 23,
+        "quotes": 1,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-11-07T13:17:35.192Z",
+      "metrics": {
+        "views": 7871,
         "likes": 828,
         "reposts": 247,
         "replies": 23,

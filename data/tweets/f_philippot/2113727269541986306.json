@@ -4,11 +4,11 @@
   "text": "Il en fait des tonnes pour que ça dégénère !\n\nDESTITUEZ-LE !",
   "url": "https://x.com/f_philippot/status/2113727269541986306",
   "publishedAt": "2026-10-23T20:20:26.000Z",
-  "observedAt": "2026-11-06T23:16:23.157Z",
+  "observedAt": "2026-11-07T13:15:56.308Z",
   "firstSeenAt": "2026-10-23T21:31:02.948Z",
   "isQuote": true,
   "metrics": {
-    "views": 27282,
+    "views": 27283,
     "likes": 2977,
     "reposts": 757,
     "replies": 92,
@@ -328,6 +328,17 @@
       "observedAt": "2026-11-06T23:16:23.157Z",
       "metrics": {
         "views": 27282,
+        "likes": 2977,
+        "reposts": 757,
+        "replies": 92,
+        "quotes": 7,
+        "bookmarks": 26
+      }
+    },
+    {
+      "observedAt": "2026-11-07T13:15:56.308Z",
+      "metrics": {
+        "views": 27283,
         "likes": 2977,
         "reposts": 757,
         "replies": 92,
