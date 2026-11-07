@@ -4,7 +4,7 @@
   "text": "🫪\n\nIl a l’air bien peu à l’aise et bien peu enthousiaste…",
   "url": "https://x.com/f_philippot/status/2091209664843165726",
   "publishedAt": "2026-08-22T17:03:31.000Z",
-  "observedAt": "2026-11-07T13:17:10.126Z",
+  "observedAt": "2026-11-07T22:00:29.165Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
@@ -491,6 +491,17 @@
     },
     {
       "observedAt": "2026-11-07T13:17:10.126Z",
+      "metrics": {
+        "views": 39985,
+        "likes": 515,
+        "reposts": 118,
+        "replies": 101,
+        "quotes": 10,
+        "bookmarks": 15
+      }
+    },
+    {
+      "observedAt": "2026-11-07T22:00:29.165Z",
       "metrics": {
         "views": 39985,
         "likes": 515,
