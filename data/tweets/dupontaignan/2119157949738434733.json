@@ -4,15 +4,15 @@
   "text": "📺 Retrouvez-moi demain, dimanche 8 novembre à 18h00, dans \"18H Darius Rochebin\" sur @LCI, au micro de @DariusRochebin 🎙️",
   "url": "https://x.com/dupontaignan/status/2119157949738434733",
   "publishedAt": "2026-11-07T20:00:01.000Z",
-  "observedAt": "2026-11-07T22:00:52.704Z",
+  "observedAt": "2026-11-08T13:39:38.361Z",
   "firstSeenAt": "2026-11-07T22:00:52.704Z",
   "isQuote": false,
   "metrics": {
-    "views": 1596,
-    "likes": 19,
-    "reposts": 8,
-    "replies": 7,
-    "quotes": 0,
+    "views": 2819,
+    "likes": 39,
+    "reposts": 15,
+    "replies": 22,
+    "quotes": 1,
     "bookmarks": 0
   },
   "observations": [
@@ -24,6 +24,17 @@
         "reposts": 8,
         "replies": 7,
         "quotes": 0,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-11-08T13:39:38.361Z",
+      "metrics": {
+        "views": 2819,
+        "likes": 39,
+        "reposts": 15,
+        "replies": 22,
+        "quotes": 1,
         "bookmarks": 0
       }
     }

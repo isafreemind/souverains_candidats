@@ -4,14 +4,14 @@
   "text": "STOP 🛑 \n\nLIBERTÉ !",
   "url": "https://x.com/f_philippot/status/2117285239827435676",
   "publishedAt": "2026-11-02T15:58:33.000Z",
-  "observedAt": "2026-11-07T21:59:17.396Z",
+  "observedAt": "2026-11-08T13:37:54.158Z",
   "firstSeenAt": "2026-11-02T16:12:57.659Z",
   "isQuote": false,
   "metrics": {
-    "views": 16991,
+    "views": 17016,
     "likes": 784,
     "reposts": 358,
-    "replies": 60,
+    "replies": 59,
     "quotes": 11,
     "bookmarks": 17
   },
@@ -144,6 +144,17 @@
         "likes": 784,
         "reposts": 358,
         "replies": 60,
+        "quotes": 11,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-11-08T13:37:54.158Z",
+      "metrics": {
+        "views": 17016,
+        "likes": 784,
+        "reposts": 358,
+        "replies": 59,
         "quotes": 11,
         "bookmarks": 17
       }

@@ -4,12 +4,12 @@
   "text": "Ah ils vont bientôt nous dire « c’est les Russes ! »\nC’est ça le projet ?…",
   "url": "https://x.com/f_philippot/status/2105671146163105968",
   "publishedAt": "2026-10-01T14:48:17.000Z",
-  "observedAt": "2026-11-07T21:59:44.026Z",
+  "observedAt": "2026-11-08T13:38:33.992Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 23246,
-    "likes": 1646,
+    "likes": 1645,
     "reposts": 411,
     "replies": 47,
     "quotes": 6,
@@ -527,6 +527,17 @@
       "metrics": {
         "views": 23246,
         "likes": 1646,
+        "reposts": 411,
+        "replies": 47,
+        "quotes": 6,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-11-08T13:38:33.992Z",
+      "metrics": {
+        "views": 23246,
+        "likes": 1645,
         "reposts": 411,
         "replies": 47,
         "quotes": 6,

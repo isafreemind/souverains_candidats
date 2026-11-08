@@ -4,16 +4,16 @@
   "text": "On n’est pas capable de rétablir l’ordre à Marseille, Strasbourg, Nantes… Et on déverse en Ukraine des dizaines de milliards d’euros qui manquent aux Français.",
   "url": "https://x.com/dupontaignan/status/2118653679075041553",
   "publishedAt": "2026-11-06T10:36:14.000Z",
-  "observedAt": "2026-11-07T22:00:52.704Z",
+  "observedAt": "2026-11-08T13:39:39.708Z",
   "firstSeenAt": "2026-11-06T14:25:12.650Z",
   "isQuote": false,
   "metrics": {
-    "views": 15567,
-    "likes": 2247,
-    "reposts": 836,
-    "replies": 34,
+    "views": 17153,
+    "likes": 2620,
+    "reposts": 988,
+    "replies": 37,
     "quotes": 12,
-    "bookmarks": 16
+    "bookmarks": 20
   },
   "observations": [
     {
@@ -58,6 +58,17 @@
         "replies": 34,
         "quotes": 12,
         "bookmarks": 16
+      }
+    },
+    {
+      "observedAt": "2026-11-08T13:39:39.708Z",
+      "metrics": {
+        "views": 17153,
+        "likes": 2620,
+        "reposts": 988,
+        "replies": 37,
+        "quotes": 12,
+        "bookmarks": 20
       }
     }
   ],

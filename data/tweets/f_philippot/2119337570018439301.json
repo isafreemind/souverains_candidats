@@ -1,0 +1,37 @@
+{
+  "id": "2119337570018439301",
+  "handle": "f_philippot",
+  "text": "Ah oui l’opération Lagarde est lancée et ils sont déjà prêts à tout !…",
+  "url": "https://x.com/f_philippot/status/2119337570018439301",
+  "publishedAt": "2026-11-08T07:53:46.000Z",
+  "observedAt": "2026-11-08T13:37:51.278Z",
+  "firstSeenAt": "2026-11-08T13:37:51.278Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 14982,
+    "likes": 1083,
+    "reposts": 259,
+    "replies": 125,
+    "quotes": 10,
+    "bookmarks": 16
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-08T13:37:51.278Z",
+      "metrics": {
+        "views": 14982,
+        "likes": 1083,
+        "reposts": 259,
+        "replies": 125,
+        "quotes": 10,
+        "bookmarks": 16
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-08T13:37:51.278Z",
+      "text": "Ah oui l’opération Lagarde est lancée et ils sont déjà prêts à tout !…"
+    }
+  ]
+}
