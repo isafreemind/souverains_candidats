@@ -4,12 +4,12 @@
   "text": "Là-dessus Ségolène Royal a 100% raison !\nL’OTAN a sabordé la paix qui était possible.",
   "url": "https://x.com/f_philippot/status/2103066408212947126",
   "publishedAt": "2026-09-24T10:17:59.000Z",
-  "observedAt": "2026-11-08T13:38:43.923Z",
+  "observedAt": "2026-11-08T22:15:33.964Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 38810,
-    "likes": 2444,
+    "likes": 2445,
     "reposts": 713,
     "replies": 57,
     "quotes": 5,
@@ -538,6 +538,17 @@
       "metrics": {
         "views": 38810,
         "likes": 2444,
+        "reposts": 713,
+        "replies": 57,
+        "quotes": 5,
+        "bookmarks": 54
+      }
+    },
+    {
+      "observedAt": "2026-11-08T22:15:33.964Z",
+      "metrics": {
+        "views": 38810,
+        "likes": 2445,
         "reposts": 713,
         "replies": 57,
         "quotes": 5,

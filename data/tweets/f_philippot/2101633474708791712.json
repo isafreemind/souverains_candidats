@@ -4,12 +4,12 @@
   "text": "Ne rien lâcher ! 🇫🇷🇫🇷🇫🇷",
   "url": "https://x.com/f_philippot/status/2101633474708791712",
   "publishedAt": "2026-09-20T11:24:01.000Z",
-  "observedAt": "2026-11-08T13:38:49.013Z",
+  "observedAt": "2026-11-08T22:15:36.549Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 15573,
-    "likes": 569,
+    "likes": 568,
     "reposts": 197,
     "replies": 33,
     "quotes": 5,
@@ -538,6 +538,17 @@
       "metrics": {
         "views": 15573,
         "likes": 569,
+        "reposts": 197,
+        "replies": 33,
+        "quotes": 5,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-11-08T22:15:36.549Z",
+      "metrics": {
+        "views": 15573,
+        "likes": 568,
         "reposts": 197,
         "replies": 33,
         "quotes": 5,

@@ -1,0 +1,37 @@
+{
+  "id": "2119532916908724428",
+  "handle": "f_philippot",
+  "text": "Dramatique de refuser d’augmenter les salaires !\n\nC’est vraiment se coucher devant l’UE et l’euro !",
+  "url": "https://x.com/f_philippot/status/2119532916908724428",
+  "publishedAt": "2026-11-08T20:50:01.000Z",
+  "observedAt": "2026-11-08T22:15:08.789Z",
+  "firstSeenAt": "2026-11-08T22:15:08.789Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 4877,
+    "likes": 122,
+    "reposts": 36,
+    "replies": 17,
+    "quotes": 0,
+    "bookmarks": 2
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-08T22:15:08.789Z",
+      "metrics": {
+        "views": 4877,
+        "likes": 122,
+        "reposts": 36,
+        "replies": 17,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-08T22:15:08.789Z",
+      "text": "Dramatique de refuser d’augmenter les salaires !\n\nC’est vraiment se coucher devant l’UE et l’euro !"
+    }
+  ]
+}
