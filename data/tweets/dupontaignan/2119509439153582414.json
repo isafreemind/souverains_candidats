@@ -4,16 +4,16 @@
   "text": "Libérons les Français des sondages et laissons-les voter en leur âme et conscience !",
   "url": "https://x.com/dupontaignan/status/2119509439153582414",
   "publishedAt": "2026-11-08T19:16:43.000Z",
-  "observedAt": "2026-11-08T22:16:00.826Z",
+  "observedAt": "2026-11-09T16:38:17.891Z",
   "firstSeenAt": "2026-11-08T22:16:00.826Z",
   "isQuote": false,
   "metrics": {
-    "views": 2199,
-    "likes": 39,
-    "reposts": 14,
-    "replies": 1,
-    "quotes": 1,
-    "bookmarks": 0
+    "views": 4818,
+    "likes": 139,
+    "reposts": 40,
+    "replies": 6,
+    "quotes": 2,
+    "bookmarks": 2
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 1,
         "quotes": 1,
         "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-11-09T16:38:17.891Z",
+      "metrics": {
+        "views": 4818,
+        "likes": 139,
+        "reposts": 40,
+        "replies": 6,
+        "quotes": 2,
+        "bookmarks": 2
       }
     }
   ],

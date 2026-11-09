@@ -4,11 +4,11 @@
   "text": "Tiens tiens : Macron a envie que ça dégénère manifestement…\n\nVoyez ça ⤵️",
   "url": "https://x.com/f_philippot/status/2114021187848139060",
   "publishedAt": "2026-10-24T15:48:22.000Z",
-  "observedAt": "2026-11-08T22:15:16.864Z",
+  "observedAt": "2026-11-09T16:36:24.780Z",
   "firstSeenAt": "2026-10-24T20:57:55.340Z",
   "isQuote": false,
   "metrics": {
-    "views": 19127,
+    "views": 19128,
     "likes": 536,
     "reposts": 182,
     "replies": 26,
@@ -350,6 +350,17 @@
       "observedAt": "2026-11-08T22:15:16.864Z",
       "metrics": {
         "views": 19127,
+        "likes": 536,
+        "reposts": 182,
+        "replies": 26,
+        "quotes": 0,
+        "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-11-09T16:36:24.780Z",
+      "metrics": {
+        "views": 19128,
         "likes": 536,
         "reposts": 182,
         "replies": 26,

@@ -4,14 +4,14 @@
   "text": "Bravo à l’AFD qui ne laisse rien passer !",
   "url": "https://x.com/f_philippot/status/2098444540520673740",
   "publishedAt": "2026-09-11T16:12:20.000Z",
-  "observedAt": "2026-11-08T22:15:40.773Z",
+  "observedAt": "2026-11-09T16:37:46.289Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 41218,
-    "likes": 3278,
+    "views": 41219,
+    "likes": 3279,
     "reposts": 748,
-    "replies": 43,
+    "replies": 42,
     "quotes": 1,
     "bookmarks": 37
   },
@@ -551,6 +551,17 @@
         "likes": 3278,
         "reposts": 748,
         "replies": 43,
+        "quotes": 1,
+        "bookmarks": 37
+      }
+    },
+    {
+      "observedAt": "2026-11-09T16:37:46.289Z",
+      "metrics": {
+        "views": 41219,
+        "likes": 3279,
+        "reposts": 748,
+        "replies": 42,
         "quotes": 1,
         "bookmarks": 37
       }

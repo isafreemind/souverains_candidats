@@ -4,16 +4,16 @@
   "text": "Horreur à Cracovie. Plusieurs morts et de nombreux blessés après une attaque en plein cœur de la ville.\nPensées aux victimes, à leurs familles et tout mon soutien au peuple polonais.",
   "url": "https://x.com/dupontaignan/status/2119100530920182118",
   "publishedAt": "2026-11-07T16:11:52.000Z",
-  "observedAt": "2026-11-08T22:16:00.826Z",
+  "observedAt": "2026-11-09T16:38:21.410Z",
   "firstSeenAt": "2026-11-07T22:00:52.704Z",
   "isQuote": true,
   "metrics": {
-    "views": 7881,
-    "likes": 197,
-    "reposts": 51,
+    "views": 8022,
+    "likes": 204,
+    "reposts": 52,
     "replies": 9,
     "quotes": 2,
-    "bookmarks": 1
+    "bookmarks": 2
   },
   "observations": [
     {
@@ -47,6 +47,17 @@
         "replies": 9,
         "quotes": 2,
         "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-09T16:38:21.410Z",
+      "metrics": {
+        "views": 8022,
+        "likes": 204,
+        "reposts": 52,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 2
       }
     }
   ],
