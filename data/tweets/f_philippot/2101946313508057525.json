@@ -4,11 +4,11 @@
   "text": "Le risque de pénurie est donc plus élevé que jamais…\n\nUn macroniste qui dément, c’est un macroniste qui ment !",
   "url": "https://x.com/f_philippot/status/2101946313508057525",
   "publishedAt": "2026-09-21T08:07:08.000Z",
-  "observedAt": "2026-11-09T16:37:27.634Z",
+  "observedAt": "2026-11-10T01:38:25.422Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 40811,
+    "views": 40812,
     "likes": 1609,
     "reposts": 414,
     "replies": 69,
@@ -559,6 +559,17 @@
       "observedAt": "2026-11-09T16:37:27.634Z",
       "metrics": {
         "views": 40811,
+        "likes": 1609,
+        "reposts": 414,
+        "replies": 69,
+        "quotes": 3,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-11-10T01:38:25.422Z",
+      "metrics": {
+        "views": 40812,
         "likes": 1609,
         "reposts": 414,
         "replies": 69,

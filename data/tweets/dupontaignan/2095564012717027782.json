@@ -4,11 +4,11 @@
   "text": "Je propose à Bruno Retailleau d’adhérer à Debout la France !",
   "url": "https://x.com/dupontaignan/status/2095564012717027782",
   "publishedAt": "2026-09-03T17:26:08.000Z",
-  "observedAt": "2026-11-09T16:39:49.592Z",
+  "observedAt": "2026-11-10T01:39:16.756Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 14409,
+    "views": 14410,
     "likes": 184,
     "reposts": 48,
     "replies": 77,
@@ -559,6 +559,17 @@
       "observedAt": "2026-11-09T16:39:49.592Z",
       "metrics": {
         "views": 14409,
+        "likes": 184,
+        "reposts": 48,
+        "replies": 77,
+        "quotes": 11,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-11-10T01:39:16.756Z",
+      "metrics": {
+        "views": 14410,
         "likes": 184,
         "reposts": 48,
         "replies": 77,

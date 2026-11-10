@@ -4,15 +4,15 @@
   "text": "Je veux que les Français paient leur diesel 20% de moins. Je veux que les Français paient leur gaz 50% de moins.\nLa seule solution c'est de faire la paix en Ukraine !",
   "url": "https://x.com/dupontaignan/status/2119508889401999741",
   "publishedAt": "2026-11-08T19:14:32.000Z",
-  "observedAt": "2026-11-09T16:38:17.891Z",
+  "observedAt": "2026-11-10T01:38:49.079Z",
   "firstSeenAt": "2026-11-08T22:16:00.826Z",
   "isQuote": false,
   "metrics": {
-    "views": 13698,
-    "likes": 807,
-    "reposts": 254,
-    "replies": 55,
-    "quotes": 7,
+    "views": 17096,
+    "likes": 913,
+    "reposts": 287,
+    "replies": 63,
+    "quotes": 10,
     "bookmarks": 8
   },
   "observations": [
@@ -35,6 +35,17 @@
         "reposts": 254,
         "replies": 55,
         "quotes": 7,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-11-10T01:38:49.079Z",
+      "metrics": {
+        "views": 17096,
+        "likes": 913,
+        "reposts": 287,
+        "replies": 63,
+        "quotes": 10,
         "bookmarks": 8
       }
     }

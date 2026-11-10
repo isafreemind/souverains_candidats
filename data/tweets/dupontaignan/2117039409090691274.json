@@ -4,7 +4,7 @@
   "text": "C’est pourquoi je suis candidat à l’election présidentielle de 2027.  La liberté ou la mort !",
   "url": "https://x.com/dupontaignan/status/2117039409090691274",
   "publishedAt": "2026-11-01T23:41:42.000Z",
-  "observedAt": "2026-11-09T16:38:28.575Z",
+  "observedAt": "2026-11-10T01:38:52.835Z",
   "firstSeenAt": "2026-11-02T16:14:39.211Z",
   "isQuote": true,
   "metrics": {
@@ -172,6 +172,17 @@
     },
     {
       "observedAt": "2026-11-09T16:38:28.575Z",
+      "metrics": {
+        "views": 8376,
+        "likes": 116,
+        "reposts": 22,
+        "replies": 26,
+        "quotes": 1,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-10T01:38:52.835Z",
       "metrics": {
         "views": 8376,
         "likes": 116,

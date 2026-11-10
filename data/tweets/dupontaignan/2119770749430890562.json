@@ -4,16 +4,16 @@
   "text": "Le souvenir du général de Gaulle nous oblige, tant il avait compris que l’indépendance nationale et la souveraineté populaire sont indissociables. Pour sauver notre pays, nous devons convaincre les Français de reconquérir leur liberté.",
   "url": "https://x.com/dupontaignan/status/2119770749430890562",
   "publishedAt": "2026-11-09T12:35:04.000Z",
-  "observedAt": "2026-11-09T16:38:17.891Z",
+  "observedAt": "2026-11-10T01:38:49.079Z",
   "firstSeenAt": "2026-11-09T16:38:17.891Z",
   "isQuote": false,
   "metrics": {
-    "views": 4067,
-    "likes": 180,
-    "reposts": 48,
-    "replies": 11,
-    "quotes": 3,
-    "bookmarks": 3
+    "views": 7525,
+    "likes": 314,
+    "reposts": 93,
+    "replies": 19,
+    "quotes": 4,
+    "bookmarks": 6
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 11,
         "quotes": 3,
         "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-11-10T01:38:49.079Z",
+      "metrics": {
+        "views": 7525,
+        "likes": 314,
+        "reposts": 93,
+        "replies": 19,
+        "quotes": 4,
+        "bookmarks": 6
       }
     }
   ],

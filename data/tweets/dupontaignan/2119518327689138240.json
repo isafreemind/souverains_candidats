@@ -4,16 +4,16 @@
   "text": "Je propose un protectionnisme intelligent pour pouvoir de nouveau produire en France.",
   "url": "https://x.com/dupontaignan/status/2119518327689138240",
   "publishedAt": "2026-11-08T19:52:02.000Z",
-  "observedAt": "2026-11-09T16:38:17.891Z",
+  "observedAt": "2026-11-10T01:38:49.079Z",
   "firstSeenAt": "2026-11-08T22:16:00.826Z",
   "isQuote": false,
   "metrics": {
-    "views": 3482,
-    "likes": 99,
-    "reposts": 35,
-    "replies": 8,
+    "views": 3791,
+    "likes": 108,
+    "reposts": 36,
+    "replies": 11,
     "quotes": 2,
-    "bookmarks": 3
+    "bookmarks": 4
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 8,
         "quotes": 2,
         "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-11-10T01:38:49.079Z",
+      "metrics": {
+        "views": 3791,
+        "likes": 108,
+        "reposts": 36,
+        "replies": 11,
+        "quotes": 2,
+        "bookmarks": 4
       }
     }
   ],

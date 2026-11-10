@@ -4,16 +4,16 @@
   "text": "Le programme de Jean-Luc Mélenchon est un catalogue de promesses du Père noël.",
   "url": "https://x.com/dupontaignan/status/2119509095753359518",
   "publishedAt": "2026-11-08T19:15:21.000Z",
-  "observedAt": "2026-11-09T16:38:17.891Z",
+  "observedAt": "2026-11-10T01:38:49.079Z",
   "firstSeenAt": "2026-11-08T22:16:00.826Z",
   "isQuote": false,
   "metrics": {
-    "views": 4967,
-    "likes": 185,
+    "views": 5337,
+    "likes": 201,
     "reposts": 49,
-    "replies": 16,
+    "replies": 17,
     "quotes": 1,
-    "bookmarks": 1
+    "bookmarks": 2
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 16,
         "quotes": 1,
         "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-10T01:38:49.079Z",
+      "metrics": {
+        "views": 5337,
+        "likes": 201,
+        "reposts": 49,
+        "replies": 17,
+        "quotes": 1,
+        "bookmarks": 2
       }
     }
   ],

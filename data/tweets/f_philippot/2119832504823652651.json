@@ -1,0 +1,37 @@
+{
+  "id": "2119832504823652651",
+  "handle": "f_philippot",
+  "text": "Tous les autres médias devraient instantanément partir suite à un comportement pareil.\n\nDans un monde normal et civilisé ça se passe ainsi.",
+  "url": "https://x.com/f_philippot/status/2119832504823652651",
+  "publishedAt": "2026-11-09T16:40:28.000Z",
+  "observedAt": "2026-11-10T01:37:59.678Z",
+  "firstSeenAt": "2026-11-10T01:37:59.678Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 15257,
+    "likes": 1443,
+    "reposts": 341,
+    "replies": 64,
+    "quotes": 8,
+    "bookmarks": 22
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-10T01:37:59.678Z",
+      "metrics": {
+        "views": 15257,
+        "likes": 1443,
+        "reposts": 341,
+        "replies": 64,
+        "quotes": 8,
+        "bookmarks": 22
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-10T01:37:59.678Z",
+      "text": "Tous les autres médias devraient instantanément partir suite à un comportement pareil.\n\nDans un monde normal et civilisé ça se passe ainsi."
+    }
+  ]
+}
