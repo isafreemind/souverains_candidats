@@ -1,0 +1,72 @@
+{
+  "observedAt": "2026-11-10T23:29:08.841Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 90,
+  "maxPages": 100,
+  "pageSize": 20,
+  "recoveries": [
+    {
+      "handle": "f_asselineau",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    },
+    {
+      "handle": "f_philippot",
+      "reason": "Timeline standard interrompue : Error: FxTwitter HTTP 404. Reprise alternative au même curseur."
+    }
+  ],
+  "followers": [
+    {
+      "handle": "f_asselineau",
+      "followers": 385890,
+      "observedAt": "2026-11-10T23:29:09.437Z"
+    },
+    {
+      "handle": "f_philippot",
+      "followers": 523598,
+      "observedAt": "2026-11-10T23:30:25.197Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 470453,
+      "observedAt": "2026-11-10T23:31:45.537Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-11-10T23:29:08.841Z",
+      "lookbackDays": 90,
+      "pages": 24,
+      "accepted": 354,
+      "excluded": 119,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-11-10T23:29:08.841Z",
+      "lookbackDays": 90,
+      "pages": 44,
+      "accepted": 809,
+      "excluded": 47,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-11-10T23:29:08.841Z",
+      "lookbackDays": 90,
+      "pages": 32,
+      "accepted": 477,
+      "excluded": 117,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    }
+  ]
+}

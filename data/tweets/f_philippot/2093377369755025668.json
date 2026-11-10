@@ -4,11 +4,11 @@
   "text": "Et ça continue ! 🤦🏻‍♂️\n\nEt ici c’est du lourd !…⤵️",
   "url": "https://x.com/f_philippot/status/2093377369755025668",
   "publishedAt": "2026-08-28T16:37:12.000Z",
-  "observedAt": "2026-11-10T15:04:16.291Z",
+  "observedAt": "2026-11-10T23:31:33.050Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 35307,
+    "views": 35308,
     "likes": 944,
     "reposts": 451,
     "replies": 46,
@@ -559,6 +559,17 @@
       "observedAt": "2026-11-10T15:04:16.291Z",
       "metrics": {
         "views": 35307,
+        "likes": 944,
+        "reposts": 451,
+        "replies": 46,
+        "quotes": 2,
+        "bookmarks": 28
+      }
+    },
+    {
+      "observedAt": "2026-11-10T23:31:33.050Z",
+      "metrics": {
+        "views": 35308,
         "likes": 944,
         "reposts": 451,
         "replies": 46,

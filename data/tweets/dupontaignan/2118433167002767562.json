@@ -4,11 +4,11 @@
   "text": "📺 Retrouvez-moi demain, vendredi 6 novembre à 08h10, dans l'émission #Les4V sur France 2, au micro de @cyriladriaens🎙️",
   "url": "https://x.com/dupontaignan/status/2118433167002767562",
   "publishedAt": "2026-11-05T20:00:00.000Z",
-  "observedAt": "2026-11-10T15:06:20.443Z",
+  "observedAt": "2026-11-10T23:31:48.776Z",
   "firstSeenAt": "2026-11-05T23:43:47.304Z",
   "isQuote": false,
   "metrics": {
-    "views": 3564,
+    "views": 3575,
     "likes": 59,
     "reposts": 20,
     "replies": 4,
@@ -119,6 +119,17 @@
       "observedAt": "2026-11-10T15:06:20.443Z",
       "metrics": {
         "views": 3564,
+        "likes": 59,
+        "reposts": 20,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-10T23:31:48.776Z",
+      "metrics": {
+        "views": 3575,
         "likes": 59,
         "reposts": 20,
         "replies": 4,

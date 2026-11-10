@@ -4,11 +4,11 @@
   "text": "Qui peut vivre avec un smic de 1477€ ou une retraite de moins de 1000€ ?  Je propose de remonter le smic net à 1600€ en baissant les cotisations salariales.",
   "url": "https://x.com/dupontaignan/status/2118624159177548025",
   "publishedAt": "2026-11-06T08:38:56.000Z",
-  "observedAt": "2026-11-10T15:06:20.443Z",
+  "observedAt": "2026-11-10T23:31:48.776Z",
   "firstSeenAt": "2026-11-06T14:25:12.650Z",
   "isQuote": false,
   "metrics": {
-    "views": 8353,
+    "views": 8361,
     "likes": 209,
     "reposts": 68,
     "replies": 36,
@@ -108,6 +108,17 @@
       "observedAt": "2026-11-10T15:06:20.443Z",
       "metrics": {
         "views": 8353,
+        "likes": 209,
+        "reposts": 68,
+        "replies": 36,
+        "quotes": 3,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-10T23:31:48.776Z",
+      "metrics": {
+        "views": 8361,
         "likes": 209,
         "reposts": 68,
         "replies": 36,
