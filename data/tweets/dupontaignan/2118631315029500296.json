@@ -4,11 +4,11 @@
   "text": "Des millions de Français doivent choisir entre se chauffer et manger.\nEt pourtant, on gaspille des milliards d’euros à l’étranger.",
   "url": "https://x.com/dupontaignan/status/2118631315029500296",
   "publishedAt": "2026-11-06T09:07:22.000Z",
-  "observedAt": "2026-11-10T01:38:51.300Z",
+  "observedAt": "2026-11-10T15:06:20.443Z",
   "firstSeenAt": "2026-11-06T14:25:12.650Z",
   "isQuote": false,
   "metrics": {
-    "views": 12928,
+    "views": 12946,
     "likes": 375,
     "reposts": 124,
     "replies": 9,
@@ -97,6 +97,17 @@
       "observedAt": "2026-11-10T01:38:51.300Z",
       "metrics": {
         "views": 12928,
+        "likes": 375,
+        "reposts": 124,
+        "replies": 9,
+        "quotes": 2,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-11-10T15:06:20.443Z",
+      "metrics": {
+        "views": 12946,
         "likes": 375,
         "reposts": 124,
         "replies": 9,

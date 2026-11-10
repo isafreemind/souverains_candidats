@@ -4,12 +4,12 @@
   "text": "La réciproque n’est pas vraie 🙂‍↔️",
   "url": "https://x.com/f_philippot/status/2089413319337595244",
   "publishedAt": "2026-08-17T18:05:29.000Z",
-  "observedAt": "2026-11-10T01:38:42.070Z",
+  "observedAt": "2026-11-10T15:05:29.832Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 28219,
-    "likes": 1341,
+    "likes": 1340,
     "reposts": 239,
     "replies": 91,
     "quotes": 7,
@@ -549,6 +549,17 @@
       "metrics": {
         "views": 28219,
         "likes": 1341,
+        "reposts": 239,
+        "replies": 91,
+        "quotes": 7,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-11-10T15:05:29.832Z",
+      "metrics": {
+        "views": 28219,
+        "likes": 1340,
         "reposts": 239,
         "replies": 91,
         "quotes": 7,

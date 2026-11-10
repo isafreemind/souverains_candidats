@@ -4,16 +4,16 @@
   "text": "Notre grand danger aujourd'hui c'est de finir comme la Grèce, un pays ruiné !\n\nJe présenterai à la presse, ce jeudi 12 novembre, un projet économique pour créer et relocaliser deux millions d’emplois en France.",
   "url": "https://x.com/dupontaignan/status/2119508661101883704",
   "publishedAt": "2026-11-08T19:13:38.000Z",
-  "observedAt": "2026-11-10T01:38:49.079Z",
+  "observedAt": "2026-11-10T15:06:16.343Z",
   "firstSeenAt": "2026-11-08T22:16:00.826Z",
   "isQuote": false,
   "metrics": {
-    "views": 5839,
-    "likes": 338,
-    "reposts": 131,
+    "views": 5929,
+    "likes": 347,
+    "reposts": 135,
     "replies": 17,
     "quotes": 1,
-    "bookmarks": 4
+    "bookmarks": 5
   },
   "observations": [
     {
@@ -47,6 +47,17 @@
         "replies": 17,
         "quotes": 1,
         "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-11-10T15:06:16.343Z",
+      "metrics": {
+        "views": 5929,
+        "likes": 347,
+        "reposts": 135,
+        "replies": 17,
+        "quotes": 1,
+        "bookmarks": 5
       }
     }
   ],
