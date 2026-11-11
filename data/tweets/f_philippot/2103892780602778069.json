@@ -4,11 +4,11 @@
   "text": "La corruption se porte bien, avec notre argent, en Ukraine !…🤦🏻‍♂️",
   "url": "https://x.com/f_philippot/status/2103892780602778069",
   "publishedAt": "2026-09-26T17:01:41.000Z",
-  "observedAt": "2026-11-10T23:31:16.033Z",
+  "observedAt": "2026-11-11T14:32:55.090Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 40651,
+    "views": 40652,
     "likes": 2756,
     "reposts": 929,
     "replies": 77,
@@ -592,6 +592,17 @@
       "observedAt": "2026-11-10T23:31:16.033Z",
       "metrics": {
         "views": 40651,
+        "likes": 2756,
+        "reposts": 929,
+        "replies": 77,
+        "quotes": 11,
+        "bookmarks": 41
+      }
+    },
+    {
+      "observedAt": "2026-11-11T14:32:55.090Z",
+      "metrics": {
+        "views": 40652,
         "likes": 2756,
         "reposts": 929,
         "replies": 77,

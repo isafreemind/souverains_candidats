@@ -4,13 +4,13 @@
   "text": "Tous les autres médias devraient instantanément partir suite à un comportement pareil.\n\nDans un monde normal et civilisé ça se passe ainsi.",
   "url": "https://x.com/f_philippot/status/2119832504823652651",
   "publishedAt": "2026-11-09T16:40:28.000Z",
-  "observedAt": "2026-11-10T23:30:28.824Z",
+  "observedAt": "2026-11-11T14:32:29.864Z",
   "firstSeenAt": "2026-11-10T01:37:59.678Z",
   "isQuote": true,
   "metrics": {
-    "views": 25813,
-    "likes": 2757,
-    "reposts": 729,
+    "views": 26642,
+    "likes": 2836,
+    "reposts": 752,
     "replies": 124,
     "quotes": 16,
     "bookmarks": 37
@@ -44,6 +44,17 @@
         "views": 25813,
         "likes": 2757,
         "reposts": 729,
+        "replies": 124,
+        "quotes": 16,
+        "bookmarks": 37
+      }
+    },
+    {
+      "observedAt": "2026-11-11T14:32:29.864Z",
+      "metrics": {
+        "views": 26642,
+        "likes": 2836,
+        "reposts": 752,
         "replies": 124,
         "quotes": 16,
         "bookmarks": 37

@@ -1,0 +1,37 @@
+{
+  "id": "2120420878596923620",
+  "handle": "f_philippot",
+  "text": "11 novembre : hommage à nos Poilus, à nos héros, à nos soldats, à la France éternelle qui jamais ne renonce à sa liberté et à sa grandeur !\n\nVive la France ! 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2120420878596923620",
+  "publishedAt": "2026-11-11T07:38:27.000Z",
+  "observedAt": "2026-11-11T14:32:29.864Z",
+  "firstSeenAt": "2026-11-11T14:32:29.864Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 8433,
+    "likes": 675,
+    "reposts": 173,
+    "replies": 42,
+    "quotes": 8,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-11T14:32:29.864Z",
+      "metrics": {
+        "views": 8433,
+        "likes": 675,
+        "reposts": 173,
+        "replies": 42,
+        "quotes": 8,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-11T14:32:29.864Z",
+      "text": "11 novembre : hommage à nos Poilus, à nos héros, à nos soldats, à la France éternelle qui jamais ne renonce à sa liberté et à sa grandeur !\n\nVive la France ! 🇫🇷"
+    }
+  ]
+}

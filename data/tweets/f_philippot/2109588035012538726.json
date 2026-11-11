@@ -4,11 +4,11 @@
   "text": "Allez il est temps de remettre ça pour lui répondre !…\nStop à la manipulation par la peur !",
   "url": "https://x.com/f_philippot/status/2109588035012538726",
   "publishedAt": "2026-10-12T10:12:36.000Z",
-  "observedAt": "2026-11-10T23:31:07.510Z",
+  "observedAt": "2026-11-11T14:32:47.422Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 13689,
+    "views": 13690,
     "likes": 935,
     "reposts": 286,
     "replies": 89,
@@ -592,6 +592,17 @@
       "observedAt": "2026-11-10T23:31:07.510Z",
       "metrics": {
         "views": 13689,
+        "likes": 935,
+        "reposts": 286,
+        "replies": 89,
+        "quotes": 8,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-11-11T14:32:47.422Z",
+      "metrics": {
+        "views": 13690,
         "likes": 935,
         "reposts": 286,
         "replies": 89,

@@ -4,11 +4,11 @@
   "text": "C’est horrible !\n\nLe feu n’en finit plus de consumer la France.\nLe cauchemar doit cesser. Les Français doivent reprendre leur pays.",
   "url": "https://x.com/f_philippot/status/2111534224633102813",
   "publishedAt": "2026-10-17T19:06:04.000Z",
-  "observedAt": "2026-11-10T23:31:03.725Z",
+  "observedAt": "2026-11-11T14:32:44.021Z",
   "firstSeenAt": "2026-10-17T20:42:58.047Z",
   "isQuote": true,
   "metrics": {
-    "views": 33580,
+    "views": 33581,
     "likes": 2099,
     "reposts": 642,
     "replies": 130,
@@ -548,6 +548,17 @@
       "observedAt": "2026-11-10T23:31:03.725Z",
       "metrics": {
         "views": 33580,
+        "likes": 2099,
+        "reposts": 642,
+        "replies": 130,
+        "quotes": 12,
+        "bookmarks": 41
+      }
+    },
+    {
+      "observedAt": "2026-11-11T14:32:44.021Z",
+      "metrics": {
+        "views": 33581,
         "likes": 2099,
         "reposts": 642,
         "replies": 130,

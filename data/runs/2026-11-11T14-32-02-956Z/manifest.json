@@ -1,0 +1,68 @@
+{
+  "observedAt": "2026-11-11T14:32:02.956Z",
+  "source": "https://api.fxtwitter.com",
+  "lookbackDays": 90,
+  "maxPages": 100,
+  "pageSize": 20,
+  "recoveries": [
+    {
+      "handle": "f_philippot",
+      "reason": "Timeline standard vide avant la limite temporelle ; reprise alternative au dernier curseur."
+    }
+  ],
+  "followers": [
+    {
+      "handle": "f_asselineau",
+      "followers": 385895,
+      "observedAt": "2026-11-11T14:32:03.268Z"
+    },
+    {
+      "handle": "f_philippot",
+      "followers": 523619,
+      "observedAt": "2026-11-11T14:32:28.126Z"
+    },
+    {
+      "handle": "dupontaignan",
+      "followers": 470464,
+      "observedAt": "2026-11-11T14:33:20.521Z"
+    }
+  ],
+  "coverage": [
+    {
+      "handle": "f_asselineau",
+      "observedAt": "2026-11-11T14:32:02.956Z",
+      "lookbackDays": 90,
+      "pages": 22,
+      "accepted": 354,
+      "excluded": 22,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "f_philippot",
+      "observedAt": "2026-11-11T14:32:02.956Z",
+      "lookbackDays": 90,
+      "pages": 45,
+      "accepted": 809,
+      "excluded": 40,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    },
+    {
+      "handle": "dupontaignan",
+      "observedAt": "2026-11-11T14:32:02.956Z",
+      "lookbackDays": 90,
+      "pages": 33,
+      "accepted": 480,
+      "excluded": 117,
+      "invalid": 0,
+      "reachedCutoff": true,
+      "exhausted": false,
+      "error": null
+    }
+  ]
+}

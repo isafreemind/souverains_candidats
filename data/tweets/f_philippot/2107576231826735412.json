@@ -4,11 +4,11 @@
   "text": "Je n’en crois pas un mot",
   "url": "https://x.com/f_philippot/status/2107576231826735412",
   "publishedAt": "2026-10-06T20:58:25.000Z",
-  "observedAt": "2026-11-10T23:31:10.008Z",
+  "observedAt": "2026-11-11T14:32:50.794Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 21936,
+    "views": 21937,
     "likes": 1282,
     "reposts": 250,
     "replies": 99,
@@ -592,6 +592,17 @@
       "observedAt": "2026-11-10T23:31:10.008Z",
       "metrics": {
         "views": 21936,
+        "likes": 1282,
+        "reposts": 250,
+        "replies": 99,
+        "quotes": 7,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-11-11T14:32:50.794Z",
+      "metrics": {
+        "views": 21937,
         "likes": 1282,
         "reposts": 250,
         "replies": 99,

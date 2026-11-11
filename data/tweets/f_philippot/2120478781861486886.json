@@ -1,0 +1,37 @@
+{
+  "id": "2120478781861486886",
+  "handle": "f_philippot",
+  "text": "C’est désespérément vide !…",
+  "url": "https://x.com/f_philippot/status/2120478781861486886",
+  "publishedAt": "2026-11-11T11:28:32.000Z",
+  "observedAt": "2026-11-11T14:32:29.864Z",
+  "firstSeenAt": "2026-11-11T14:32:29.864Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7575,
+    "likes": 377,
+    "reposts": 94,
+    "replies": 32,
+    "quotes": 4,
+    "bookmarks": 7
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-11T14:32:29.864Z",
+      "metrics": {
+        "views": 7575,
+        "likes": 377,
+        "reposts": 94,
+        "replies": 32,
+        "quotes": 4,
+        "bookmarks": 7
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-11T14:32:29.864Z",
+      "text": "C’est désespérément vide !…"
+    }
+  ]
+}
