@@ -4,16 +4,16 @@
   "text": "C’est désespérément vide !…",
   "url": "https://x.com/f_philippot/status/2120478781861486886",
   "publishedAt": "2026-11-11T11:28:32.000Z",
-  "observedAt": "2026-11-11T14:32:29.864Z",
+  "observedAt": "2026-11-12T00:50:57.141Z",
   "firstSeenAt": "2026-11-11T14:32:29.864Z",
   "isQuote": true,
   "metrics": {
-    "views": 7575,
-    "likes": 377,
-    "reposts": 94,
-    "replies": 32,
-    "quotes": 4,
-    "bookmarks": 7
+    "views": 12461,
+    "likes": 737,
+    "reposts": 173,
+    "replies": 56,
+    "quotes": 6,
+    "bookmarks": 9
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 32,
         "quotes": 4,
         "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-11-12T00:50:57.141Z",
+      "metrics": {
+        "views": 12461,
+        "likes": 737,
+        "reposts": 173,
+        "replies": 56,
+        "quotes": 6,
+        "bookmarks": 9
       }
     }
   ],

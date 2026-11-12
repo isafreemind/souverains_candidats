@@ -4,11 +4,11 @@
   "text": "La France donne les milliards à l’Ukraine.\n\nL’Ukraine achète allemand.\n\nOn continue ?…\nSTOP 🛑",
   "url": "https://x.com/f_philippot/status/2106810869212500087",
   "publishedAt": "2026-10-04T18:17:08.000Z",
-  "observedAt": "2026-11-11T14:32:51.938Z",
+  "observedAt": "2026-11-12T00:52:17.935Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 21903,
+    "views": 21904,
     "likes": 2099,
     "reposts": 932,
     "replies": 101,
@@ -603,6 +603,17 @@
       "observedAt": "2026-11-11T14:32:51.938Z",
       "metrics": {
         "views": 21903,
+        "likes": 2099,
+        "reposts": 932,
+        "replies": 101,
+        "quotes": 23,
+        "bookmarks": 28
+      }
+    },
+    {
+      "observedAt": "2026-11-12T00:52:17.935Z",
+      "metrics": {
+        "views": 21904,
         "likes": 2099,
         "reposts": 932,
         "replies": 101,

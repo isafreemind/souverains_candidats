@@ -4,11 +4,11 @@
   "text": "📺 𝗡𝗼𝘂𝘃𝗲𝗹𝗹𝗲 𝘃𝗶𝗱𝗲𝗼 𝘀𝘂𝗿 𝗚𝗣𝗧𝗩\nJ'étais ce matin l'invité de Nicolas Stoquer dans sa matinale.",
   "url": "https://x.com/f_asselineau/status/2115433787261649277",
   "publishedAt": "2026-10-28T13:21:32.000Z",
-  "observedAt": "2026-11-11T14:32:07.861Z",
+  "observedAt": "2026-11-12T00:49:49.414Z",
   "firstSeenAt": "2026-10-28T22:41:01.281Z",
   "isQuote": true,
   "metrics": {
-    "views": 15456,
+    "views": 15458,
     "likes": 814,
     "reposts": 280,
     "replies": 11,
@@ -317,6 +317,17 @@
       "observedAt": "2026-11-11T14:32:07.861Z",
       "metrics": {
         "views": 15456,
+        "likes": 814,
+        "reposts": 280,
+        "replies": 11,
+        "quotes": 2,
+        "bookmarks": 14
+      }
+    },
+    {
+      "observedAt": "2026-11-12T00:49:49.414Z",
+      "metrics": {
+        "views": 15458,
         "likes": 814,
         "reposts": 280,
         "replies": 11,
