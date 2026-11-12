@@ -4,11 +4,11 @@
   "text": "Découvrez, données chiffrées en main, le scandale de la censure médiatique de l'UPR.",
   "url": "https://x.com/f_asselineau/status/2115614657704796322",
   "publishedAt": "2026-10-29T01:20:15.000Z",
-  "observedAt": "2026-11-12T15:24:22.603Z",
+  "observedAt": "2026-11-12T23:42:06.005Z",
   "firstSeenAt": "2026-10-29T13:14:54.296Z",
   "isQuote": false,
   "metrics": {
-    "views": 32731,
+    "views": 32735,
     "likes": 1766,
     "reposts": 809,
     "replies": 49,
@@ -328,6 +328,17 @@
       "observedAt": "2026-11-12T15:24:22.603Z",
       "metrics": {
         "views": 32731,
+        "likes": 1766,
+        "reposts": 809,
+        "replies": 49,
+        "quotes": 30,
+        "bookmarks": 73
+      }
+    },
+    {
+      "observedAt": "2026-11-12T23:42:06.005Z",
+      "metrics": {
+        "views": 32735,
         "likes": 1766,
         "reposts": 809,
         "replies": 49,

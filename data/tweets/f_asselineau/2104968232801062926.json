@@ -4,11 +4,11 @@
   "text": "𝗟'𝗨𝗘 𝗧𝗨𝗘 𝗟'𝗜𝗡𝗗𝗨𝗦𝗧𝗥𝗜𝗘 𝗘𝗡 𝗘𝗨𝗥𝗢𝗣𝗘\n2 minutes 17 secondes pour le comprendre,\nà partir de l'exemple des automobiles roumaines DACIA.",
   "url": "https://x.com/f_asselineau/status/2104968232801062926",
   "publishedAt": "2026-09-29T16:15:09.000Z",
-  "observedAt": "2026-11-12T15:24:44.756Z",
+  "observedAt": "2026-11-12T23:42:14.179Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 97570,
+    "views": 97572,
     "likes": 3773,
     "reposts": 1408,
     "replies": 82,
@@ -625,6 +625,17 @@
       "observedAt": "2026-11-12T15:24:44.756Z",
       "metrics": {
         "views": 97570,
+        "likes": 3773,
+        "reposts": 1408,
+        "replies": 82,
+        "quotes": 42,
+        "bookmarks": 467
+      }
+    },
+    {
+      "observedAt": "2026-11-12T23:42:14.179Z",
+      "metrics": {
+        "views": 97572,
         "likes": 3773,
         "reposts": 1408,
         "replies": 82,

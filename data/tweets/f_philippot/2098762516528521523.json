@@ -4,11 +4,11 @@
   "text": "Avec la très brillante Marion Saint-Michel à Arras !",
   "url": "https://x.com/f_philippot/status/2098762516528521523",
   "publishedAt": "2026-09-12T13:15:51.000Z",
-  "observedAt": "2026-11-12T15:26:50.063Z",
+  "observedAt": "2026-11-12T23:43:05.898Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 17817,
+    "views": 17818,
     "likes": 1019,
     "reposts": 190,
     "replies": 17,
@@ -625,6 +625,17 @@
       "observedAt": "2026-11-12T15:26:50.063Z",
       "metrics": {
         "views": 17817,
+        "likes": 1019,
+        "reposts": 190,
+        "replies": 17,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-12T23:43:05.898Z",
+      "metrics": {
+        "views": 17818,
         "likes": 1019,
         "reposts": 190,
         "replies": 17,

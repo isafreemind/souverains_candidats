@@ -4,11 +4,11 @@
   "text": "LA HONTE !",
   "url": "https://x.com/dupontaignan/status/2117952240967401781",
   "publishedAt": "2026-11-04T12:08:58.000Z",
-  "observedAt": "2026-11-12T15:27:35.336Z",
+  "observedAt": "2026-11-12T23:43:33.397Z",
   "firstSeenAt": "2026-11-04T14:45:07.900Z",
   "isQuote": true,
   "metrics": {
-    "views": 10377,
+    "views": 10378,
     "likes": 204,
     "reposts": 43,
     "replies": 9,
@@ -196,6 +196,17 @@
       "observedAt": "2026-11-12T15:27:35.336Z",
       "metrics": {
         "views": 10377,
+        "likes": 204,
+        "reposts": 43,
+        "replies": 9,
+        "quotes": 0,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-12T23:43:33.397Z",
+      "metrics": {
+        "views": 10378,
         "likes": 204,
         "reposts": 43,
         "replies": 9,

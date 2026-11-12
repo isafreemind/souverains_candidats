@@ -4,13 +4,13 @@
   "text": "𝗔𝗨𝗧𝗢𝗖𝗢𝗟𝗟𝗔𝗡𝗧 𝗩𝗨 𝗦𝗨𝗥 𝗨𝗡 𝗠𝗨𝗥 𝗣𝗔𝗥𝗜𝗦𝗜𝗘𝗡\nSans commentaire.",
   "url": "https://x.com/f_asselineau/status/2119461264086770111",
   "publishedAt": "2026-11-08T16:05:17.000Z",
-  "observedAt": "2026-11-12T15:24:17.173Z",
+  "observedAt": "2026-11-12T23:42:03.803Z",
   "firstSeenAt": "2026-11-08T22:14:42.181Z",
   "isQuote": false,
   "metrics": {
-    "views": 27101,
-    "likes": 2677,
-    "reposts": 787,
+    "views": 27208,
+    "likes": 2684,
+    "reposts": 789,
     "replies": 39,
     "quotes": 13,
     "bookmarks": 37
@@ -99,6 +99,17 @@
         "views": 27101,
         "likes": 2677,
         "reposts": 787,
+        "replies": 39,
+        "quotes": 13,
+        "bookmarks": 37
+      }
+    },
+    {
+      "observedAt": "2026-11-12T23:42:03.803Z",
+      "metrics": {
+        "views": 27208,
+        "likes": 2684,
+        "reposts": 789,
         "replies": 39,
         "quotes": 13,
         "bookmarks": 37

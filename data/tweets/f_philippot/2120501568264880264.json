@@ -4,16 +4,16 @@
   "text": "Bien vu ! \n\nEt ça doit changer \n#FrexitVite",
   "url": "https://x.com/f_philippot/status/2120501568264880264",
   "publishedAt": "2026-11-11T12:59:05.000Z",
-  "observedAt": "2026-11-12T15:25:18.843Z",
+  "observedAt": "2026-11-12T23:42:28.895Z",
   "firstSeenAt": "2026-11-11T14:32:29.864Z",
   "isQuote": true,
   "metrics": {
-    "views": 12826,
-    "likes": 610,
-    "reposts": 181,
+    "views": 13192,
+    "likes": 617,
+    "reposts": 183,
     "replies": 9,
     "quotes": 4,
-    "bookmarks": 10
+    "bookmarks": 11
   },
   "observations": [
     {
@@ -47,6 +47,17 @@
         "replies": 9,
         "quotes": 4,
         "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-11-12T23:42:28.895Z",
+      "metrics": {
+        "views": 13192,
+        "likes": 617,
+        "reposts": 183,
+        "replies": 9,
+        "quotes": 4,
+        "bookmarks": 11
       }
     }
   ],

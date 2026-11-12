@@ -4,11 +4,11 @@
   "text": "Faillite de l’État en direct ! 🤦🏻‍♂️",
   "url": "https://x.com/f_philippot/status/2113199693362802994",
   "publishedAt": "2026-10-22T09:24:02.000Z",
-  "observedAt": "2026-11-12T15:26:00.668Z",
+  "observedAt": "2026-11-12T23:42:42.412Z",
   "firstSeenAt": "2026-10-22T12:03:49.844Z",
   "isQuote": true,
   "metrics": {
-    "views": 17061,
+    "views": 17063,
     "likes": 1673,
     "reposts": 570,
     "replies": 95,
@@ -482,6 +482,17 @@
       "observedAt": "2026-11-12T15:26:00.668Z",
       "metrics": {
         "views": 17061,
+        "likes": 1673,
+        "reposts": 570,
+        "replies": 95,
+        "quotes": 9,
+        "bookmarks": 26
+      }
+    },
+    {
+      "observedAt": "2026-11-12T23:42:42.412Z",
+      "metrics": {
+        "views": 17063,
         "likes": 1673,
         "reposts": 570,
         "replies": 95,
