@@ -4,15 +4,15 @@
   "text": "Il faut bien sûr destituer Macron !\nSans hésitation !",
   "url": "https://x.com/f_philippot/status/2120084030460699036",
   "publishedAt": "2026-11-10T09:19:56.000Z",
-  "observedAt": "2026-11-12T00:50:57.141Z",
+  "observedAt": "2026-11-12T15:25:24.315Z",
   "firstSeenAt": "2026-11-10T15:02:08.821Z",
   "isQuote": true,
   "metrics": {
-    "views": 18611,
-    "likes": 1429,
-    "reposts": 455,
-    "replies": 71,
-    "quotes": 8,
+    "views": 18920,
+    "likes": 1452,
+    "reposts": 466,
+    "replies": 70,
+    "quotes": 9,
     "bookmarks": 21
   },
   "observations": [
@@ -57,6 +57,17 @@
         "reposts": 455,
         "replies": 71,
         "quotes": 8,
+        "bookmarks": 21
+      }
+    },
+    {
+      "observedAt": "2026-11-12T15:25:24.315Z",
+      "metrics": {
+        "views": 18920,
+        "likes": 1452,
+        "reposts": 466,
+        "replies": 70,
+        "quotes": 9,
         "bookmarks": 21
       }
     }

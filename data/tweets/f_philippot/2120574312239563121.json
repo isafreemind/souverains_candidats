@@ -4,16 +4,16 @@
   "text": "Lagarde, testée pour la première fois dans un sondage pour la présidentielle, est mise ce soir devant Philippe et Attal : l’opération Christine Lagarde est lancée !\n\n14% contre 13,5% et 11%.\n\nQui sera dupe ?!",
   "url": "https://x.com/f_philippot/status/2120574312239563121",
   "publishedAt": "2026-11-11T17:48:09.000Z",
-  "observedAt": "2026-11-12T00:50:57.141Z",
+  "observedAt": "2026-11-12T15:25:18.843Z",
   "firstSeenAt": "2026-11-12T00:50:57.141Z",
   "isQuote": false,
   "metrics": {
-    "views": 22554,
-    "likes": 708,
-    "reposts": 221,
-    "replies": 93,
-    "quotes": 13,
-    "bookmarks": 11
+    "views": 29825,
+    "likes": 940,
+    "reposts": 319,
+    "replies": 120,
+    "quotes": 17,
+    "bookmarks": 16
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 93,
         "quotes": 13,
         "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-11-12T15:25:18.843Z",
+      "metrics": {
+        "views": 29825,
+        "likes": 940,
+        "reposts": 319,
+        "replies": 120,
+        "quotes": 17,
+        "bookmarks": 16
       }
     }
   ],
