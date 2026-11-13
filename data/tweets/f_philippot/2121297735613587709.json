@@ -1,0 +1,37 @@
+{
+  "id": "2121297735613587709",
+  "handle": "f_philippot",
+  "text": "C’est juste strictement interdit par l’UE...\n\nAlors sans Frexit cette promesse ne vaut…rien.",
+  "url": "https://x.com/f_philippot/status/2121297735613587709",
+  "publishedAt": "2026-11-13T17:42:46.000Z",
+  "observedAt": "2026-11-13T23:40:10.047Z",
+  "firstSeenAt": "2026-11-13T23:40:10.047Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 7777,
+    "likes": 361,
+    "reposts": 104,
+    "replies": 20,
+    "quotes": 2,
+    "bookmarks": 4
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-13T23:40:10.047Z",
+      "metrics": {
+        "views": 7777,
+        "likes": 361,
+        "reposts": 104,
+        "replies": 20,
+        "quotes": 2,
+        "bookmarks": 4
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-13T23:40:10.047Z",
+      "text": "C’est juste strictement interdit par l’UE...\n\nAlors sans Frexit cette promesse ne vaut…rien."
+    }
+  ]
+}

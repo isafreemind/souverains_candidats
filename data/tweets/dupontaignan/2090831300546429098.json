@@ -4,12 +4,12 @@
   "text": "La facturation électronique menace nos entreprises et nos libertés ! La surveillance généralisée est en marche.",
   "url": "https://x.com/dupontaignan/status/2090831300546429098",
   "publishedAt": "2026-08-21T16:00:02.000Z",
-  "observedAt": "2026-11-13T14:46:27.660Z",
+  "observedAt": "2026-11-13T23:41:48.341Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 18237,
-    "likes": 1355,
+    "views": 18238,
+    "likes": 1354,
     "reposts": 537,
     "replies": 56,
     "quotes": 9,
@@ -648,6 +648,17 @@
       "metrics": {
         "views": 18237,
         "likes": 1355,
+        "reposts": 537,
+        "replies": 56,
+        "quotes": 9,
+        "bookmarks": 21
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:41:48.341Z",
+      "metrics": {
+        "views": 18238,
+        "likes": 1354,
         "reposts": 537,
         "replies": 56,
         "quotes": 9,

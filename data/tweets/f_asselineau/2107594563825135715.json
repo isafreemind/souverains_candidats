@@ -4,11 +4,11 @@
   "text": "La Bourse, le Pont du Garigliano, Issy-les-Moulineaux, les abords de la Bibliothèque François Mitterrand...",
   "url": "https://x.com/f_asselineau/status/2107594563825135715",
   "publishedAt": "2026-10-06T22:11:15.000Z",
-  "observedAt": "2026-11-13T14:42:01.427Z",
+  "observedAt": "2026-11-13T23:39:50.567Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 19399,
+    "views": 19400,
     "likes": 972,
     "reposts": 193,
     "replies": 21,
@@ -647,6 +647,17 @@
       "observedAt": "2026-11-13T14:42:01.427Z",
       "metrics": {
         "views": 19399,
+        "likes": 972,
+        "reposts": 193,
+        "replies": 21,
+        "quotes": 1,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:39:50.567Z",
+      "metrics": {
+        "views": 19400,
         "likes": 972,
         "reposts": 193,
         "replies": 21,

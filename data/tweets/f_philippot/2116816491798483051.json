@@ -4,7 +4,7 @@
   "text": "Bonne fête de la Toussaint à tous !",
   "url": "https://x.com/f_philippot/status/2116816491798483051",
   "publishedAt": "2026-11-01T08:55:54.000Z",
-  "observedAt": "2026-11-13T14:43:13.278Z",
+  "observedAt": "2026-11-13T23:40:17.488Z",
   "firstSeenAt": "2026-11-01T13:35:21.431Z",
   "isQuote": false,
   "metrics": {
@@ -282,6 +282,17 @@
     },
     {
       "observedAt": "2026-11-13T14:43:13.278Z",
+      "metrics": {
+        "views": 15599,
+        "likes": 1494,
+        "reposts": 237,
+        "replies": 44,
+        "quotes": 4,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:40:17.488Z",
       "metrics": {
         "views": 15599,
         "likes": 1494,

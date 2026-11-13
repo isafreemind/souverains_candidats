@@ -4,13 +4,13 @@
   "text": "On va continuer combien de temps à donner des milliards et des milliards à tout ça ?!\n\nSTOP 🛑",
   "url": "https://x.com/f_philippot/status/2091079118284591551",
   "publishedAt": "2026-08-22T08:24:46.000Z",
-  "observedAt": "2026-11-12T23:43:16.963Z",
+  "observedAt": "2026-11-13T23:41:02.560Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 27322,
-    "likes": 3411,
-    "reposts": 1018,
+    "likes": 3410,
+    "reposts": 1017,
     "replies": 229,
     "quotes": 18,
     "bookmarks": 31
@@ -616,6 +616,17 @@
         "views": 27322,
         "likes": 3411,
         "reposts": 1018,
+        "replies": 229,
+        "quotes": 18,
+        "bookmarks": 31
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:41:02.560Z",
+      "metrics": {
+        "views": 27322,
+        "likes": 3410,
+        "reposts": 1017,
         "replies": 229,
         "quotes": 18,
         "bookmarks": 31

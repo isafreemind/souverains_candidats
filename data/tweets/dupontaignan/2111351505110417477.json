@@ -4,11 +4,11 @@
   "text": "Quel plaisir de retrouver Valence, la ville des amoureux de Peynet, et de rencontrer les Drômois !\n\nMerci à toutes et à tous pour votre accueil chaleureux ! 🇫🇷",
   "url": "https://x.com/dupontaignan/status/2111351505110417477",
   "publishedAt": "2026-10-17T07:00:00.000Z",
-  "observedAt": "2026-11-13T14:45:13.667Z",
+  "observedAt": "2026-11-13T23:41:24.354Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 8020,
+    "views": 8021,
     "likes": 74,
     "reposts": 19,
     "replies": 8,
@@ -647,6 +647,17 @@
       "observedAt": "2026-11-13T14:45:13.667Z",
       "metrics": {
         "views": 8020,
+        "likes": 74,
+        "reposts": 19,
+        "replies": 8,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:41:24.354Z",
+      "metrics": {
+        "views": 8021,
         "likes": 74,
         "reposts": 19,
         "replies": 8,

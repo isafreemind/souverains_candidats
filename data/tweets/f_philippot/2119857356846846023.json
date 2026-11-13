@@ -4,12 +4,12 @@
   "text": "Je serai en direct à 9h30 sur CNews ce mardi 10/11",
   "url": "https://x.com/f_philippot/status/2119857356846846023",
   "publishedAt": "2026-11-09T18:19:13.000Z",
-  "observedAt": "2026-11-13T14:42:55.505Z",
+  "observedAt": "2026-11-13T23:40:12.436Z",
   "firstSeenAt": "2026-11-10T01:37:59.678Z",
   "isQuote": false,
   "metrics": {
-    "views": 9210,
-    "likes": 260,
+    "views": 9247,
+    "likes": 261,
     "reposts": 86,
     "replies": 15,
     "quotes": 2,
@@ -98,6 +98,17 @@
       "metrics": {
         "views": 9210,
         "likes": 260,
+        "reposts": 86,
+        "replies": 15,
+        "quotes": 2,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:40:12.436Z",
+      "metrics": {
+        "views": 9247,
+        "likes": 261,
         "reposts": 86,
         "replies": 15,
         "quotes": 2,

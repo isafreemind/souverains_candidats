@@ -4,11 +4,11 @@
   "text": "Alors il faut sortir de l’UE ! \nSinon c’est du blabla !\n\nAprès la débardellisation, la refrexitisation !\nSinon la trahison !",
   "url": "https://x.com/f_philippot/status/2114739997802893608",
   "publishedAt": "2026-10-26T15:24:40.000Z",
-  "observedAt": "2026-11-13T14:43:16.167Z",
+  "observedAt": "2026-11-13T23:40:20.762Z",
   "firstSeenAt": "2026-10-26T22:45:37.133Z",
   "isQuote": true,
   "metrics": {
-    "views": 15514,
+    "views": 15518,
     "likes": 722,
     "reposts": 223,
     "replies": 28,
@@ -405,6 +405,17 @@
       "observedAt": "2026-11-13T14:43:16.167Z",
       "metrics": {
         "views": 15514,
+        "likes": 722,
+        "reposts": 223,
+        "replies": 28,
+        "quotes": 4,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:40:20.762Z",
+      "metrics": {
+        "views": 15518,
         "likes": 722,
         "reposts": 223,
         "replies": 28,

@@ -4,7 +4,7 @@
   "text": "Les meilleurs ! 🇫🇷🇫🇷🇫🇷",
   "url": "https://x.com/f_philippot/status/2099531384243060883",
   "publishedAt": "2026-09-14T16:11:04.000Z",
-  "observedAt": "2026-11-13T14:44:28.090Z",
+  "observedAt": "2026-11-13T23:40:51.032Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -645,6 +645,17 @@
     },
     {
       "observedAt": "2026-11-13T14:44:28.090Z",
+      "metrics": {
+        "views": 17161,
+        "likes": 446,
+        "reposts": 117,
+        "replies": 24,
+        "quotes": 3,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:40:51.032Z",
       "metrics": {
         "views": 17161,
         "likes": 446,

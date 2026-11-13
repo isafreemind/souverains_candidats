@@ -4,11 +4,11 @@
   "text": "Aujourd’hui rassemblés pour honorer la mémoire des 73 Yerrois qui ont donné leur vie pour la France. \nAux morts pour que nous vivions libres : reconnaissance éternelle.",
   "url": "https://x.com/dupontaignan/status/2120484921131323640",
   "publishedAt": "2026-11-11T11:52:56.000Z",
-  "observedAt": "2026-11-13T14:44:52.173Z",
+  "observedAt": "2026-11-13T23:41:12.968Z",
   "firstSeenAt": "2026-11-11T14:33:21.827Z",
   "isQuote": false,
   "metrics": {
-    "views": 3131,
+    "views": 3152,
     "likes": 84,
     "reposts": 21,
     "replies": 6,
@@ -64,6 +64,17 @@
       "observedAt": "2026-11-13T14:44:52.173Z",
       "metrics": {
         "views": 3131,
+        "likes": 84,
+        "reposts": 21,
+        "replies": 6,
+        "quotes": 0,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:41:12.968Z",
+      "metrics": {
+        "views": 3152,
         "likes": 84,
         "reposts": 21,
         "replies": 6,

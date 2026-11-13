@@ -4,11 +4,11 @@
   "text": "Assez de ce climat de haine ! Il n’y a pas de démocratie sans tolérance et bienveillance…",
   "url": "https://x.com/dupontaignan/status/2118792275673387111",
   "publishedAt": "2026-11-06T19:46:58.000Z",
-  "observedAt": "2026-11-13T14:44:54.651Z",
+  "observedAt": "2026-11-13T23:41:14.856Z",
   "firstSeenAt": "2026-11-06T23:17:42.946Z",
   "isQuote": false,
   "metrics": {
-    "views": 4322,
+    "views": 4328,
     "likes": 146,
     "reposts": 43,
     "replies": 32,
@@ -163,6 +163,17 @@
       "observedAt": "2026-11-13T14:44:54.651Z",
       "metrics": {
         "views": 4322,
+        "likes": 146,
+        "reposts": 43,
+        "replies": 32,
+        "quotes": 3,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:41:14.856Z",
+      "metrics": {
+        "views": 4328,
         "likes": 146,
         "reposts": 43,
         "replies": 32,

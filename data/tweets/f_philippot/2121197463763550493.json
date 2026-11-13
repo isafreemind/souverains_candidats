@@ -4,16 +4,16 @@
   "text": "Après Macron, c’est au tour de BHL de soutenir la candidature de Teddy Riner !…",
   "url": "https://x.com/f_philippot/status/2121197463763550493",
   "publishedAt": "2026-11-13T11:04:19.000Z",
-  "observedAt": "2026-11-13T14:42:49.726Z",
+  "observedAt": "2026-11-13T23:40:10.047Z",
   "firstSeenAt": "2026-11-13T14:42:49.726Z",
   "isQuote": true,
   "metrics": {
-    "views": 6338,
-    "likes": 218,
-    "reposts": 59,
-    "replies": 37,
-    "quotes": 0,
-    "bookmarks": 3
+    "views": 11692,
+    "likes": 439,
+    "reposts": 112,
+    "replies": 54,
+    "quotes": 1,
+    "bookmarks": 9
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 37,
         "quotes": 0,
         "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-11-13T23:40:10.047Z",
+      "metrics": {
+        "views": 11692,
+        "likes": 439,
+        "reposts": 112,
+        "replies": 54,
+        "quotes": 1,
+        "bookmarks": 9
       }
     }
   ],
