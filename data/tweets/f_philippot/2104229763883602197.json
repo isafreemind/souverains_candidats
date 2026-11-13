@@ -4,7 +4,7 @@
   "text": "À relayer partout ! ⤵️",
   "url": "https://x.com/f_philippot/status/2104229763883602197",
   "publishedAt": "2026-09-27T15:20:45.000Z",
-  "observedAt": "2026-11-12T23:42:56.593Z",
+  "observedAt": "2026-11-13T14:44:05.008Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -634,6 +634,17 @@
     },
     {
       "observedAt": "2026-11-12T23:42:56.593Z",
+      "metrics": {
+        "views": 30301,
+        "likes": 1273,
+        "reposts": 635,
+        "replies": 40,
+        "quotes": 6,
+        "bookmarks": 47
+      }
+    },
+    {
+      "observedAt": "2026-11-13T14:44:05.008Z",
       "metrics": {
         "views": 30301,
         "likes": 1273,

@@ -1,0 +1,37 @@
+{
+  "id": "2121146571261935632",
+  "handle": "f_philippot",
+  "text": "13 novembre : ne rien oublier 🇫🇷",
+  "url": "https://x.com/f_philippot/status/2121146571261935632",
+  "publishedAt": "2026-11-13T07:42:06.000Z",
+  "observedAt": "2026-11-13T14:42:49.726Z",
+  "firstSeenAt": "2026-11-13T14:42:49.726Z",
+  "isQuote": false,
+  "metrics": {
+    "views": 6113,
+    "likes": 335,
+    "reposts": 100,
+    "replies": 12,
+    "quotes": 0,
+    "bookmarks": 5
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-13T14:42:49.726Z",
+      "metrics": {
+        "views": 6113,
+        "likes": 335,
+        "reposts": 100,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 5
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-13T14:42:49.726Z",
+      "text": "13 novembre : ne rien oublier 🇫🇷"
+    }
+  ]
+}

@@ -4,12 +4,12 @@
   "text": "Cette eurocrapule de Tusk doit démissionner !",
   "url": "https://x.com/f_philippot/status/2116268981992440137",
   "publishedAt": "2026-10-30T20:40:18.000Z",
-  "observedAt": "2026-11-12T23:42:36.036Z",
+  "observedAt": "2026-11-13T14:43:13.278Z",
   "firstSeenAt": "2026-10-30T22:28:48.078Z",
   "isQuote": true,
   "metrics": {
-    "views": 29492,
-    "likes": 3513,
+    "views": 29493,
+    "likes": 3512,
     "reposts": 570,
     "replies": 67,
     "quotes": 4,
@@ -307,6 +307,17 @@
       "metrics": {
         "views": 29492,
         "likes": 3513,
+        "reposts": 570,
+        "replies": 67,
+        "quotes": 4,
+        "bookmarks": 25
+      }
+    },
+    {
+      "observedAt": "2026-11-13T14:43:13.278Z",
+      "metrics": {
+        "views": 29493,
+        "likes": 3512,
         "reposts": 570,
         "replies": 67,
         "quotes": 4,

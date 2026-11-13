@@ -4,11 +4,11 @@
   "text": "Merz veut suicider l’Union européenne. LIBÉRONS NOUS !",
   "url": "https://x.com/dupontaignan/status/2119902535746289673",
   "publishedAt": "2026-11-09T21:18:45.000Z",
-  "observedAt": "2026-11-12T23:43:25.921Z",
+  "observedAt": "2026-11-13T14:44:53.196Z",
   "firstSeenAt": "2026-11-10T01:38:49.079Z",
   "isQuote": true,
   "metrics": {
-    "views": 12628,
+    "views": 12644,
     "likes": 409,
     "reposts": 99,
     "replies": 22,
@@ -86,6 +86,17 @@
       "observedAt": "2026-11-12T23:43:25.921Z",
       "metrics": {
         "views": 12628,
+        "likes": 409,
+        "reposts": 99,
+        "replies": 22,
+        "quotes": 0,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-11-13T14:44:53.196Z",
+      "metrics": {
+        "views": 12644,
         "likes": 409,
         "reposts": 99,
         "replies": 22,
