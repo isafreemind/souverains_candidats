@@ -4,16 +4,16 @@
   "text": "🇫🇷 L’événement national !\nRDV CE SAMEDI 14/11\n\nPARIS 14h place du Palais Royal \n(départ du cortège 15h)\n\nNe lâchons rien ! 🇫🇷🇫🇷🇫🇷",
   "url": "https://x.com/f_philippot/status/2121520625714188560",
   "publishedAt": "2026-11-14T08:28:27.000Z",
-  "observedAt": "2026-11-14T13:40:09.444Z",
+  "observedAt": "2026-11-14T22:33:05.547Z",
   "firstSeenAt": "2026-11-14T13:40:09.444Z",
   "isQuote": false,
   "metrics": {
-    "views": 6918,
-    "likes": 184,
-    "reposts": 74,
-    "replies": 12,
+    "views": 9697,
+    "likes": 274,
+    "reposts": 106,
+    "replies": 14,
     "quotes": 2,
-    "bookmarks": 2
+    "bookmarks": 3
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 12,
         "quotes": 2,
         "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-14T22:33:05.547Z",
+      "metrics": {
+        "views": 9697,
+        "likes": 274,
+        "reposts": 106,
+        "replies": 14,
+        "quotes": 2,
+        "bookmarks": 3
       }
     }
   ],

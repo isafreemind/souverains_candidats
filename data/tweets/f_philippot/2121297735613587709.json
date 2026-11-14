@@ -4,16 +4,16 @@
   "text": "C’est juste strictement interdit par l’UE...\n\nAlors sans Frexit cette promesse ne vaut…rien.",
   "url": "https://x.com/f_philippot/status/2121297735613587709",
   "publishedAt": "2026-11-13T17:42:46.000Z",
-  "observedAt": "2026-11-14T13:40:09.444Z",
+  "observedAt": "2026-11-14T22:33:05.547Z",
   "firstSeenAt": "2026-11-13T23:40:10.047Z",
   "isQuote": true,
   "metrics": {
-    "views": 12034,
-    "likes": 527,
-    "reposts": 144,
-    "replies": 25,
-    "quotes": 3,
-    "bookmarks": 9
+    "views": 13191,
+    "likes": 572,
+    "reposts": 161,
+    "replies": 26,
+    "quotes": 4,
+    "bookmarks": 11
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 25,
         "quotes": 3,
         "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-11-14T22:33:05.547Z",
+      "metrics": {
+        "views": 13191,
+        "likes": 572,
+        "reposts": 161,
+        "replies": 26,
+        "quotes": 4,
+        "bookmarks": 11
       }
     }
   ],
