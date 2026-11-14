@@ -4,13 +4,13 @@
   "text": "Première fois qu’un Centaure voit autre chose qu’une vache…",
   "url": "https://x.com/f_philippot/status/2113953430418940074",
   "publishedAt": "2026-10-24T11:19:07.000Z",
-  "observedAt": "2026-11-13T23:40:21.953Z",
+  "observedAt": "2026-11-14T13:40:46.038Z",
   "firstSeenAt": "2026-10-24T20:57:55.340Z",
   "isQuote": true,
   "metrics": {
-    "views": 77411,
-    "likes": 7819,
-    "reposts": 1684,
+    "views": 77413,
+    "likes": 7817,
+    "reposts": 1683,
     "replies": 155,
     "quotes": 22,
     "bookmarks": 71
@@ -462,6 +462,17 @@
         "views": 77411,
         "likes": 7819,
         "reposts": 1684,
+        "replies": 155,
+        "quotes": 22,
+        "bookmarks": 71
+      }
+    },
+    {
+      "observedAt": "2026-11-14T13:40:46.038Z",
+      "metrics": {
+        "views": 77413,
+        "likes": 7817,
+        "reposts": 1683,
         "replies": 155,
         "quotes": 22,
         "bookmarks": 71

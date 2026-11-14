@@ -4,11 +4,11 @@
   "text": "En plein coup d’État, un terrible attentat meurtrier en Pologne ! \n\nQue se passe-t-il donc ?!",
   "url": "https://x.com/f_philippot/status/2119098110731595877",
   "publishedAt": "2026-11-07T16:02:15.000Z",
-  "observedAt": "2026-11-13T23:40:13.545Z",
+  "observedAt": "2026-11-14T13:40:18.440Z",
   "firstSeenAt": "2026-11-07T21:59:12.282Z",
   "isQuote": true,
   "metrics": {
-    "views": 28646,
+    "views": 28677,
     "likes": 1050,
     "reposts": 322,
     "replies": 83,
@@ -152,6 +152,17 @@
       "observedAt": "2026-11-13T23:40:13.545Z",
       "metrics": {
         "views": 28646,
+        "likes": 1050,
+        "reposts": 322,
+        "replies": 83,
+        "quotes": 5,
+        "bookmarks": 28
+      }
+    },
+    {
+      "observedAt": "2026-11-14T13:40:18.440Z",
+      "metrics": {
+        "views": 28677,
         "likes": 1050,
         "reposts": 322,
         "replies": 83,

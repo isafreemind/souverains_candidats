@@ -4,16 +4,16 @@
   "text": "Le fils Soros\nUrsula Von der Leyen…\nIls sautent de joie suite à la victoire de Lula.\n\nPas bon signe pour les Brésiliens ça…\n⤵️",
   "url": "https://x.com/f_philippot/status/2114622372577984819",
   "publishedAt": "2026-10-26T07:37:16.000Z",
-  "observedAt": "2026-11-13T23:40:20.762Z",
+  "observedAt": "2026-11-14T13:40:44.976Z",
   "firstSeenAt": "2026-10-26T13:15:28.401Z",
   "isQuote": false,
   "metrics": {
-    "views": 43298,
+    "views": 43299,
     "likes": 4191,
-    "reposts": 1080,
+    "reposts": 1079,
     "replies": 159,
     "quotes": 26,
-    "bookmarks": 75
+    "bookmarks": 76
   },
   "observations": [
     {
@@ -432,6 +432,17 @@
         "replies": 159,
         "quotes": 26,
         "bookmarks": 75
+      }
+    },
+    {
+      "observedAt": "2026-11-14T13:40:44.976Z",
+      "metrics": {
+        "views": 43299,
+        "likes": 4191,
+        "reposts": 1079,
+        "replies": 159,
+        "quotes": 26,
+        "bookmarks": 76
       }
     }
   ],
