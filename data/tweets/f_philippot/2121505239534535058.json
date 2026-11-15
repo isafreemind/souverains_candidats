@@ -4,16 +4,16 @@
   "text": "- Panne mondiale d’Outlook / Microsoft 365\n\n- Panne générale aviation : avions américains cloués au sol, jamais vu depuis le 11/09/2001\n\n- Panne majeure de Workday (la plateforme RH/paie/avantages/congés utilisée par plus de 11 500 entreprises) le vendredi 13 novembre 2026 également \n\nComme le sentiment d’une perte de contrôle, d’un chaos qui se diffuse.\nQue se passe-t-il vraiment ?",
   "url": "https://x.com/f_philippot/status/2121505239534535058",
   "publishedAt": "2026-11-14T07:27:19.000Z",
-  "observedAt": "2026-11-15T14:04:08.747Z",
+  "observedAt": "2026-11-15T22:57:54.044Z",
   "firstSeenAt": "2026-11-14T13:40:09.444Z",
   "isQuote": false,
   "metrics": {
-    "views": 111044,
-    "likes": 1684,
-    "reposts": 648,
-    "replies": 183,
-    "quotes": 18,
-    "bookmarks": 155
+    "views": 113962,
+    "likes": 1711,
+    "reposts": 662,
+    "replies": 186,
+    "quotes": 19,
+    "bookmarks": 157
   },
   "observations": [
     {
@@ -47,6 +47,17 @@
         "replies": 183,
         "quotes": 18,
         "bookmarks": 155
+      }
+    },
+    {
+      "observedAt": "2026-11-15T22:57:54.044Z",
+      "metrics": {
+        "views": 113962,
+        "likes": 1711,
+        "reposts": 662,
+        "replies": 186,
+        "quotes": 19,
+        "bookmarks": 157
       }
     }
   ],

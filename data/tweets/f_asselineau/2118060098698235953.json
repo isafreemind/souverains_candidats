@@ -4,11 +4,11 @@
   "text": "François Asselineau répond à vos questions en direct n°133 https://x.com/i/broadcasts/2XyEYrVbMKLEPm",
   "url": "https://x.com/f_asselineau/status/2118060098698235953",
   "publishedAt": "2026-11-04T19:17:33.000Z",
-  "observedAt": "2026-11-15T14:03:41.946Z",
+  "observedAt": "2026-11-15T22:56:30.053Z",
   "firstSeenAt": "2026-11-04T23:45:21.957Z",
   "isQuote": false,
   "metrics": {
-    "views": 14123,
+    "views": 14129,
     "likes": 548,
     "reposts": 204,
     "replies": 16,
@@ -251,6 +251,17 @@
       "observedAt": "2026-11-15T14:03:41.946Z",
       "metrics": {
         "views": 14123,
+        "likes": 548,
+        "reposts": 204,
+        "replies": 16,
+        "quotes": 6,
+        "bookmarks": 15
+      }
+    },
+    {
+      "observedAt": "2026-11-15T22:56:30.053Z",
+      "metrics": {
+        "views": 14129,
         "likes": 548,
         "reposts": 204,
         "replies": 16,
