@@ -4,16 +4,16 @@
   "text": "Il est à deux doigts d’expliquer que les candidats à la présidentielle qui veulent rester dans l’UE sont en train de mentir à leurs électeurs !…",
   "url": "https://x.com/f_philippot/status/2118629904296063174",
   "publishedAt": "2026-11-06T09:01:46.000Z",
-  "observedAt": "2026-11-15T22:58:07.683Z",
+  "observedAt": "2026-11-16T16:02:13.315Z",
   "firstSeenAt": "2026-11-06T14:24:22.842Z",
   "isQuote": true,
   "metrics": {
-    "views": 24979,
+    "views": 24987,
     "likes": 1146,
     "reposts": 401,
     "replies": 102,
     "quotes": 7,
-    "bookmarks": 55
+    "bookmarks": 56
   },
   "observations": [
     {
@@ -234,6 +234,17 @@
         "replies": 102,
         "quotes": 7,
         "bookmarks": 55
+      }
+    },
+    {
+      "observedAt": "2026-11-16T16:02:13.315Z",
+      "metrics": {
+        "views": 24987,
+        "likes": 1146,
+        "reposts": 401,
+        "replies": 102,
+        "quotes": 7,
+        "bookmarks": 56
       }
     }
   ],

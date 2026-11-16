@@ -4,13 +4,13 @@
   "text": "En ce dimanche, venez visiter la Maison Caillebotte du célèbre peintre impressionniste avec son magnifique parc.\nhttps://www.maisoncaillebotte.fr",
   "url": "https://x.com/dupontaignan/status/2119375582647472465",
   "publishedAt": "2026-11-08T10:24:49.000Z",
-  "observedAt": "2026-11-15T23:00:31.942Z",
+  "observedAt": "2026-11-16T16:04:07.408Z",
   "firstSeenAt": "2026-11-08T13:39:38.361Z",
   "isQuote": false,
   "metrics": {
-    "views": 2803,
+    "views": 2805,
     "likes": 53,
-    "reposts": 18,
+    "reposts": 17,
     "replies": 2,
     "quotes": 1,
     "bookmarks": 0
@@ -187,6 +187,17 @@
         "views": 2803,
         "likes": 53,
         "reposts": 18,
+        "replies": 2,
+        "quotes": 1,
+        "bookmarks": 0
+      }
+    },
+    {
+      "observedAt": "2026-11-16T16:04:07.408Z",
+      "metrics": {
+        "views": 2805,
+        "likes": 53,
+        "reposts": 17,
         "replies": 2,
         "quotes": 1,
         "bookmarks": 0

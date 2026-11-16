@@ -4,16 +4,16 @@
   "text": "On est dirigés par des fous furieux ! \n\nVoyez ça ⤵️\n\nSTOP 🛑 \nPlus une arme, plus un euro pour l’Ukraine !",
   "url": "https://x.com/f_philippot/status/2092217159313228084",
   "publishedAt": "2026-08-25T11:46:56.000Z",
-  "observedAt": "2026-11-15T23:00:00.412Z",
+  "observedAt": "2026-11-16T16:03:38.788Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 23040,
+    "views": 23041,
     "likes": 1951,
     "reposts": 975,
     "replies": 140,
     "quotes": 32,
-    "bookmarks": 32
+    "bookmarks": 31
   },
   "observations": [
     {
@@ -663,6 +663,17 @@
         "replies": 140,
         "quotes": 32,
         "bookmarks": 32
+      }
+    },
+    {
+      "observedAt": "2026-11-16T16:03:38.788Z",
+      "metrics": {
+        "views": 23041,
+        "likes": 1951,
+        "reposts": 975,
+        "replies": 140,
+        "quotes": 32,
+        "bookmarks": 31
       }
     }
   ],

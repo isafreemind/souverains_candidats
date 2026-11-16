@@ -4,16 +4,16 @@
   "text": "Notre manifestation nationale « Macron démission ! Frexit ! » fait le tour du monde ! ⤵️\n\nNe lâchons rien ! 🇫🇷🇫🇷🇫🇷",
   "url": "https://x.com/f_philippot/status/2122011934715183543",
   "publishedAt": "2026-11-15T17:00:44.000Z",
-  "observedAt": "2026-11-15T22:57:54.044Z",
+  "observedAt": "2026-11-16T16:02:01.732Z",
   "firstSeenAt": "2026-11-15T22:57:54.044Z",
   "isQuote": true,
   "metrics": {
-    "views": 6763,
-    "likes": 300,
-    "reposts": 105,
-    "replies": 17,
-    "quotes": 0,
-    "bookmarks": 4
+    "views": 11635,
+    "likes": 625,
+    "reposts": 209,
+    "replies": 25,
+    "quotes": 2,
+    "bookmarks": 5
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 17,
         "quotes": 0,
         "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-11-16T16:02:01.732Z",
+      "metrics": {
+        "views": 11635,
+        "likes": 625,
+        "reposts": 209,
+        "replies": 25,
+        "quotes": 2,
+        "bookmarks": 5
       }
     }
   ],
