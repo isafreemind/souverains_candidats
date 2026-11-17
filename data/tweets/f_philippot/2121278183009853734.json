@@ -4,16 +4,16 @@
   "text": "À 19h ce vendredi 14/11 grand direct YouTube - Actualité française et internationale sur ma chaîne ! 🇫🇷",
   "url": "https://x.com/f_philippot/status/2121278183009853734",
   "publishedAt": "2026-11-13T16:25:04.000Z",
-  "observedAt": "2026-11-17T01:54:40.841Z",
+  "observedAt": "2026-11-17T16:12:29.373Z",
   "firstSeenAt": "2026-11-13T23:40:10.047Z",
   "isQuote": false,
   "metrics": {
-    "views": 7004,
-    "likes": 120,
-    "reposts": 31,
+    "views": 7044,
+    "likes": 121,
+    "reposts": 32,
     "replies": 7,
     "quotes": 1,
-    "bookmarks": 2
+    "bookmarks": 3
   },
   "observations": [
     {
@@ -91,6 +91,17 @@
         "replies": 7,
         "quotes": 1,
         "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-17T16:12:29.373Z",
+      "metrics": {
+        "views": 7044,
+        "likes": 121,
+        "reposts": 32,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 3
       }
     }
   ],

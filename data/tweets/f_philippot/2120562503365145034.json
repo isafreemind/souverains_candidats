@@ -4,11 +4,11 @@
   "text": "POLEXIT 🇵🇱 \nFREXIT 🇫🇷",
   "url": "https://x.com/f_philippot/status/2120562503365145034",
   "publishedAt": "2026-11-11T17:01:13.000Z",
-  "observedAt": "2026-11-17T01:54:41.770Z",
+  "observedAt": "2026-11-17T16:12:30.311Z",
   "firstSeenAt": "2026-11-12T00:50:57.141Z",
   "isQuote": true,
   "metrics": {
-    "views": 14102,
+    "views": 14125,
     "likes": 968,
     "reposts": 254,
     "replies": 28,
@@ -130,6 +130,17 @@
       "observedAt": "2026-11-17T01:54:41.770Z",
       "metrics": {
         "views": 14102,
+        "likes": 968,
+        "reposts": 254,
+        "replies": 28,
+        "quotes": 3,
+        "bookmarks": 15
+      }
+    },
+    {
+      "observedAt": "2026-11-17T16:12:30.311Z",
+      "metrics": {
+        "views": 14125,
         "likes": 968,
         "reposts": 254,
         "replies": 28,

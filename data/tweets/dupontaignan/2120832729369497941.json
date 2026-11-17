@@ -4,15 +4,15 @@
   "text": "Direct · Présentation à la presse de mon projet économique présidentiel. https://x.com/i/broadcasts/2EmPRpzMaZedak",
   "url": "https://x.com/dupontaignan/status/2120832729369497941",
   "publishedAt": "2026-11-12T10:55:00.000Z",
-  "observedAt": "2026-11-17T01:55:39.081Z",
+  "observedAt": "2026-11-17T16:13:23.164Z",
   "firstSeenAt": "2026-11-12T15:27:23.264Z",
   "isQuote": false,
   "metrics": {
-    "views": 6537,
+    "views": 6553,
     "likes": 82,
     "reposts": 27,
     "replies": 6,
-    "quotes": 5,
+    "quotes": 6,
     "bookmarks": 3
   },
   "observations": [
@@ -123,6 +123,17 @@
         "reposts": 27,
         "replies": 6,
         "quotes": 5,
+        "bookmarks": 3
+      }
+    },
+    {
+      "observedAt": "2026-11-17T16:13:23.164Z",
+      "metrics": {
+        "views": 6553,
+        "likes": 82,
+        "reposts": 27,
+        "replies": 6,
+        "quotes": 6,
         "bookmarks": 3
       }
     }
