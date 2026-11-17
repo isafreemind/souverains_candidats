@@ -4,15 +4,15 @@
   "text": "Allons chercher le pétrole français !\n\nAbrogeons la stupide loi Hulot de 2017 !\n\nGuyane, Saint-Pierre-et-Miquelon, Mayotte…La France regorge de pétrole et de gaz !",
   "url": "https://x.com/f_philippot/status/2102085545585266738",
   "publishedAt": "2026-09-21T17:20:23.000Z",
-  "observedAt": "2026-11-16T16:03:08.397Z",
+  "observedAt": "2026-11-17T01:55:15.032Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 26283,
+    "views": 26295,
     "likes": 1449,
     "reposts": 627,
     "replies": 48,
-    "quotes": 10,
+    "quotes": 11,
     "bookmarks": 25
   },
   "observations": [
@@ -717,6 +717,17 @@
         "reposts": 627,
         "replies": 48,
         "quotes": 10,
+        "bookmarks": 25
+      }
+    },
+    {
+      "observedAt": "2026-11-17T01:55:15.032Z",
+      "metrics": {
+        "views": 26295,
+        "likes": 1449,
+        "reposts": 627,
+        "replies": 48,
+        "quotes": 11,
         "bookmarks": 25
       }
     }
