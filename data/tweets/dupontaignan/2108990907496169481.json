@@ -4,14 +4,14 @@
   "text": "Enfin la VÉRITÉ est dite haut et fort !",
   "url": "https://x.com/dupontaignan/status/2108990907496169481",
   "publishedAt": "2026-10-10T18:39:50.000Z",
-  "observedAt": "2026-11-18T01:03:17.876Z",
+  "observedAt": "2026-11-18T15:51:52.341Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 48612,
-    "likes": 5496,
+    "likes": 5495,
     "reposts": 1551,
-    "replies": 582,
+    "replies": 581,
     "quotes": 61,
     "bookmarks": 72
   },
@@ -749,6 +749,17 @@
         "likes": 5496,
         "reposts": 1551,
         "replies": 582,
+        "quotes": 61,
+        "bookmarks": 72
+      }
+    },
+    {
+      "observedAt": "2026-11-18T15:51:52.341Z",
+      "metrics": {
+        "views": 48612,
+        "likes": 5495,
+        "reposts": 1551,
+        "replies": 581,
         "quotes": 61,
         "bookmarks": 72
       }

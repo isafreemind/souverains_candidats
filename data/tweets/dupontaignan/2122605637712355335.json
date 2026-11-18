@@ -4,16 +4,16 @@
   "text": "Je suis candidat à la présidence de la République pour m’occuper des Français… On aurait pu financer 50 hôpitaux neufs avec les 27 milliards d’euros donnés à l’Ukraine !",
   "url": "https://x.com/dupontaignan/status/2122605637712355335",
   "publishedAt": "2026-11-17T08:19:54.000Z",
-  "observedAt": "2026-11-18T01:02:56.750Z",
+  "observedAt": "2026-11-18T15:50:37.751Z",
   "firstSeenAt": "2026-11-17T16:13:20.533Z",
   "isQuote": false,
   "metrics": {
-    "views": 12216,
-    "likes": 711,
-    "reposts": 257,
-    "replies": 22,
+    "views": 14896,
+    "likes": 938,
+    "reposts": 340,
+    "replies": 30,
     "quotes": 3,
-    "bookmarks": 10
+    "bookmarks": 12
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 22,
         "quotes": 3,
         "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-11-18T15:50:37.751Z",
+      "metrics": {
+        "views": 14896,
+        "likes": 938,
+        "reposts": 340,
+        "replies": 30,
+        "quotes": 3,
+        "bookmarks": 12
       }
     }
   ],

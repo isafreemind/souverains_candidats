@@ -4,16 +4,16 @@
   "text": "Cette nuit The Economist a publié sa traditionnelle couverture annuelle ! ⤵️\n\nPour la France il semble bien qu’ils anticipent une crise massive de l’euro (son explosion ?) et des mouvements sociaux majeurs dans le pays !\n\nÇa parle aussi guerre, krach, vaccins…",
   "url": "https://x.com/f_philippot/status/2122594413452861479",
   "publishedAt": "2026-11-17T07:35:18.000Z",
-  "observedAt": "2026-11-18T01:01:57.278Z",
+  "observedAt": "2026-11-18T15:48:41.478Z",
   "firstSeenAt": "2026-11-17T16:12:27.185Z",
   "isQuote": false,
   "metrics": {
-    "views": 59581,
-    "likes": 1103,
-    "reposts": 426,
-    "replies": 97,
-    "quotes": 13,
-    "bookmarks": 182
+    "views": 63447,
+    "likes": 1182,
+    "reposts": 449,
+    "replies": 102,
+    "quotes": 12,
+    "bookmarks": 186
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 97,
         "quotes": 13,
         "bookmarks": 182
+      }
+    },
+    {
+      "observedAt": "2026-11-18T15:48:41.478Z",
+      "metrics": {
+        "views": 63447,
+        "likes": 1182,
+        "reposts": 449,
+        "replies": 102,
+        "quotes": 12,
+        "bookmarks": 186
       }
     }
   ],
