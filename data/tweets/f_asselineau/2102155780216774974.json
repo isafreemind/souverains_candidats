@@ -4,11 +4,11 @@
   "text": "𝗥𝗘𝗡𝗗𝗘𝗭-𝗩𝗢𝗨𝗦\n𝗖𝗘 𝗠𝗔𝗥𝗗𝗜 𝟮𝟮 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗥𝗘 𝗔 𝟮𝟭𝗛𝟬𝟬",
   "url": "https://x.com/f_asselineau/status/2102155780216774974",
   "publishedAt": "2026-09-21T21:59:28.000Z",
-  "observedAt": "2026-11-17T16:12:15.085Z",
+  "observedAt": "2026-11-18T01:01:17.477Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 17123,
+    "views": 17124,
     "likes": 580,
     "reposts": 224,
     "replies": 7,
@@ -724,6 +724,17 @@
       "observedAt": "2026-11-17T16:12:15.085Z",
       "metrics": {
         "views": 17123,
+        "likes": 580,
+        "reposts": 224,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-11-18T01:01:17.477Z",
+      "metrics": {
+        "views": 17124,
         "likes": 580,
         "reposts": 224,
         "replies": 7,

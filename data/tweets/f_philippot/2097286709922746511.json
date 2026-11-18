@@ -4,12 +4,12 @@
   "text": "Bravo ! Liberté d’expression ! ⤵️",
   "url": "https://x.com/f_philippot/status/2097286709922746511",
   "publishedAt": "2026-09-08T11:31:32.000Z",
-  "observedAt": "2026-11-17T16:13:06.521Z",
+  "observedAt": "2026-11-18T01:02:44.920Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 21847,
-    "likes": 637,
+    "views": 21848,
+    "likes": 636,
     "reposts": 177,
     "replies": 24,
     "quotes": 2,
@@ -714,6 +714,17 @@
       "metrics": {
         "views": 21847,
         "likes": 637,
+        "reposts": 177,
+        "replies": 24,
+        "quotes": 2,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-11-18T01:02:44.920Z",
+      "metrics": {
+        "views": 21848,
+        "likes": 636,
         "reposts": 177,
         "replies": 24,
         "quotes": 2,

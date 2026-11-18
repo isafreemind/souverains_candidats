@@ -4,16 +4,16 @@
   "text": "On aura tout vu. Celui qui a ruiné la France en contractant, comme ministre de l’Économie, plus de 1 000 milliards d’euros de dette vient pérorer dans les matinales. Il devrait plutôt rendre des comptes devant une commission d’enquête sur les pilleurs de la République.",
   "url": "https://x.com/dupontaignan/status/2122327694079672431",
   "publishedAt": "2026-11-16T13:55:27.000Z",
-  "observedAt": "2026-11-17T16:13:20.533Z",
+  "observedAt": "2026-11-18T01:02:56.750Z",
   "firstSeenAt": "2026-11-16T16:03:52.607Z",
   "isQuote": false,
   "metrics": {
-    "views": 15698,
-    "likes": 2019,
-    "reposts": 635,
-    "replies": 55,
-    "quotes": 11,
-    "bookmarks": 17
+    "views": 18603,
+    "likes": 2447,
+    "reposts": 773,
+    "replies": 75,
+    "quotes": 17,
+    "bookmarks": 20
   },
   "observations": [
     {
@@ -47,6 +47,17 @@
         "replies": 55,
         "quotes": 11,
         "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-11-18T01:02:56.750Z",
+      "metrics": {
+        "views": 18603,
+        "likes": 2447,
+        "reposts": 773,
+        "replies": 75,
+        "quotes": 17,
+        "bookmarks": 20
       }
     }
   ],

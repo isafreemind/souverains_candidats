@@ -4,16 +4,16 @@
   "text": "Aujourd’hui, il y a beaucoup plus de risques à rester dans l’UE qu’à en sortir !",
   "url": "https://x.com/dupontaignan/status/2122617792620802102",
   "publishedAt": "2026-11-17T09:08:12.000Z",
-  "observedAt": "2026-11-17T16:13:20.533Z",
+  "observedAt": "2026-11-18T01:02:56.750Z",
   "firstSeenAt": "2026-11-17T16:13:20.533Z",
   "isQuote": false,
   "metrics": {
-    "views": 3899,
-    "likes": 182,
-    "reposts": 53,
-    "replies": 13,
-    "quotes": 1,
-    "bookmarks": 2
+    "views": 6036,
+    "likes": 316,
+    "reposts": 91,
+    "replies": 19,
+    "quotes": 2,
+    "bookmarks": 3
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 13,
         "quotes": 1,
         "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-18T01:02:56.750Z",
+      "metrics": {
+        "views": 6036,
+        "likes": 316,
+        "reposts": 91,
+        "replies": 19,
+        "quotes": 2,
+        "bookmarks": 3
       }
     }
   ],
