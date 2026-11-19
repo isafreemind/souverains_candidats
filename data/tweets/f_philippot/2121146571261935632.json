@@ -4,11 +4,11 @@
   "text": "13 novembre : ne rien oublier 🇫🇷",
   "url": "https://x.com/f_philippot/status/2121146571261935632",
   "publishedAt": "2026-11-13T07:42:06.000Z",
-  "observedAt": "2026-11-18T15:48:52.839Z",
+  "observedAt": "2026-11-19T15:54:02.593Z",
   "firstSeenAt": "2026-11-13T14:42:49.726Z",
   "isQuote": false,
   "metrics": {
-    "views": 8930,
+    "views": 8953,
     "likes": 522,
     "reposts": 145,
     "replies": 15,
@@ -130,6 +130,17 @@
       "observedAt": "2026-11-18T15:48:52.839Z",
       "metrics": {
         "views": 8930,
+        "likes": 522,
+        "reposts": 145,
+        "replies": 15,
+        "quotes": 1,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-11-19T15:54:02.593Z",
+      "metrics": {
+        "views": 8953,
         "likes": 522,
         "reposts": 145,
         "replies": 15,

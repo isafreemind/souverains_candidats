@@ -4,15 +4,15 @@
   "text": "Notre traditionnel hommage au général De Gaulle, à Colombey-Les-Deux-Églises.\n9 novembre jour de sa mort en 1970.\nVive la France libre ! 🇫🇷🇫🇷🇫🇷",
   "url": "https://x.com/f_philippot/status/2119754734387020075",
   "publishedAt": "2026-11-09T11:31:26.000Z",
-  "observedAt": "2026-11-18T15:48:56.522Z",
+  "observedAt": "2026-11-19T15:54:05.193Z",
   "firstSeenAt": "2026-11-09T16:35:50.553Z",
   "isQuote": false,
   "metrics": {
-    "views": 46021,
-    "likes": 2728,
+    "views": 46032,
+    "likes": 2727,
     "reposts": 617,
     "replies": 138,
-    "quotes": 22,
+    "quotes": 23,
     "bookmarks": 34
   },
   "observations": [
@@ -222,6 +222,17 @@
         "reposts": 617,
         "replies": 138,
         "quotes": 22,
+        "bookmarks": 34
+      }
+    },
+    {
+      "observedAt": "2026-11-19T15:54:05.193Z",
+      "metrics": {
+        "views": 46032,
+        "likes": 2727,
+        "reposts": 617,
+        "replies": 138,
+        "quotes": 23,
         "bookmarks": 34
       }
     }

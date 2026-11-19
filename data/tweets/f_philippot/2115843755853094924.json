@@ -4,11 +4,11 @@
   "text": "Ça mijote quoi ? \nL’annonce de l’état d’alerte de sécurité nationale ? Pour commencer…",
   "url": "https://x.com/f_philippot/status/2115843755853094924",
   "publishedAt": "2026-10-29T16:30:36.000Z",
-  "observedAt": "2026-11-18T15:49:19.179Z",
+  "observedAt": "2026-11-19T15:54:32.656Z",
   "firstSeenAt": "2026-10-29T22:50:47.138Z",
   "isQuote": true,
   "metrics": {
-    "views": 26521,
+    "views": 26522,
     "likes": 408,
     "reposts": 162,
     "replies": 29,
@@ -449,6 +449,17 @@
       "observedAt": "2026-11-18T15:49:19.179Z",
       "metrics": {
         "views": 26521,
+        "likes": 408,
+        "reposts": 162,
+        "replies": 29,
+        "quotes": 1,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-11-19T15:54:32.656Z",
+      "metrics": {
+        "views": 26522,
         "likes": 408,
         "reposts": 162,
         "replies": 29,
