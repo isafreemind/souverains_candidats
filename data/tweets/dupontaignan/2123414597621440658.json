@@ -4,16 +4,16 @@
   "text": "Souvenez-vous des unes de Paris Match de 2016, avec Emmanuel et Brigitte Macron marchant main dans la main sur la plage.\nAujourd’hui, même propagande avec Teddy Riner et ses muscles ! \nMais après dix ans de macronisme, les Français ne seront pas dupes.",
   "url": "https://x.com/dupontaignan/status/2123414597621440658",
   "publishedAt": "2026-11-19T13:54:25.000Z",
-  "observedAt": "2026-11-20T00:45:16.971Z",
+  "observedAt": "2026-11-20T15:38:32.273Z",
   "firstSeenAt": "2026-11-19T15:55:57.222Z",
   "isQuote": false,
   "metrics": {
-    "views": 5759,
-    "likes": 302,
-    "reposts": 69,
-    "replies": 49,
-    "quotes": 3,
-    "bookmarks": 2
+    "views": 7585,
+    "likes": 442,
+    "reposts": 102,
+    "replies": 67,
+    "quotes": 4,
+    "bookmarks": 6
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 49,
         "quotes": 3,
         "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-20T15:38:32.273Z",
+      "metrics": {
+        "views": 7585,
+        "likes": 442,
+        "reposts": 102,
+        "replies": 67,
+        "quotes": 4,
+        "bookmarks": 6
       }
     }
   ],

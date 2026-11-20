@@ -4,11 +4,11 @@
   "text": "Paroles sans aucun intérêt puisque la conclusion c’est « Mais on y reste ! Non au Frexit »!\n\nDès lors, du blabla sans intérêt.",
   "url": "https://x.com/f_philippot/status/2100199080676790710",
   "publishedAt": "2026-09-16T12:24:15.000Z",
-  "observedAt": "2026-11-20T00:44:33.223Z",
+  "observedAt": "2026-11-20T15:38:01.586Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 18075,
+    "views": 18076,
     "likes": 562,
     "reposts": 141,
     "replies": 19,
@@ -768,6 +768,17 @@
       "observedAt": "2026-11-20T00:44:33.223Z",
       "metrics": {
         "views": 18075,
+        "likes": 562,
+        "reposts": 141,
+        "replies": 19,
+        "quotes": 4,
+        "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-11-20T15:38:01.586Z",
+      "metrics": {
+        "views": 18076,
         "likes": 562,
         "reposts": 141,
         "replies": 19,
