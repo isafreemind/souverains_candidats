@@ -4,11 +4,11 @@
   "text": "🤣 𝗟𝗔 𝗖𝗔𝗠𝗣𝗔𝗚𝗡𝗘 𝗗'𝗔𝗧𝗧𝗔𝗟\n      𝗧𝗢𝗨𝗥𝗡𝗘 𝗔 𝗟𝗔 𝗙𝗔𝗥𝗖𝗘\nSans commentaires.",
   "url": "https://x.com/f_asselineau/status/2108971036368625708",
   "publishedAt": "2026-10-10T17:20:52.000Z",
-  "observedAt": "2026-11-19T15:53:27.699Z",
+  "observedAt": "2026-11-20T00:41:56.778Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 105773,
+    "views": 105775,
     "likes": 4268,
     "reposts": 1223,
     "replies": 233,
@@ -768,6 +768,17 @@
       "observedAt": "2026-11-19T15:53:27.699Z",
       "metrics": {
         "views": 105773,
+        "likes": 4268,
+        "reposts": 1223,
+        "replies": 233,
+        "quotes": 27,
+        "bookmarks": 121
+      }
+    },
+    {
+      "observedAt": "2026-11-20T00:41:56.778Z",
+      "metrics": {
+        "views": 105775,
         "likes": 4268,
         "reposts": 1223,
         "replies": 233,

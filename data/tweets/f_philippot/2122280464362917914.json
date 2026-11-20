@@ -4,15 +4,15 @@
   "text": "Il n’y a qu’une seule chose à lui dire :\n\n« Zelensky doit nous rembourser\nPlus un euro français et plus une arme française ne partiront pour l’Ukraine »\n\nTout le reste c’est du cinéma.",
   "url": "https://x.com/f_philippot/status/2122280464362917914",
   "publishedAt": "2026-11-16T10:47:47.000Z",
-  "observedAt": "2026-11-19T15:53:58.185Z",
+  "observedAt": "2026-11-20T00:43:06.177Z",
   "firstSeenAt": "2026-11-16T16:02:01.732Z",
   "isQuote": true,
   "metrics": {
-    "views": 13607,
+    "views": 13632,
     "likes": 938,
     "reposts": 268,
     "replies": 46,
-    "quotes": 3,
+    "quotes": 2,
     "bookmarks": 10
   },
   "observations": [
@@ -79,6 +79,17 @@
         "reposts": 268,
         "replies": 46,
         "quotes": 3,
+        "bookmarks": 10
+      }
+    },
+    {
+      "observedAt": "2026-11-20T00:43:06.177Z",
+      "metrics": {
+        "views": 13632,
+        "likes": 938,
+        "reposts": 268,
+        "replies": 46,
+        "quotes": 2,
         "bookmarks": 10
       }
     }
