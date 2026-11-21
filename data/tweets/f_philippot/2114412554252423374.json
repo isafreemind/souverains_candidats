@@ -4,11 +4,11 @@
   "text": "Honteux",
   "url": "https://x.com/f_philippot/status/2114412554252423374",
   "publishedAt": "2026-10-25T17:43:31.000Z",
-  "observedAt": "2026-11-21T14:46:34.897Z",
+  "observedAt": "2026-11-21T23:28:22.690Z",
   "firstSeenAt": "2026-10-25T20:58:32.072Z",
   "isQuote": true,
   "metrics": {
-    "views": 33691,
+    "views": 33692,
     "likes": 2508,
     "reposts": 509,
     "replies": 98,
@@ -592,6 +592,17 @@
       "observedAt": "2026-11-21T14:46:34.897Z",
       "metrics": {
         "views": 33691,
+        "likes": 2508,
+        "reposts": 509,
+        "replies": 98,
+        "quotes": 9,
+        "bookmarks": 25
+      }
+    },
+    {
+      "observedAt": "2026-11-21T23:28:22.690Z",
+      "metrics": {
+        "views": 33692,
         "likes": 2508,
         "reposts": 509,
         "replies": 98,

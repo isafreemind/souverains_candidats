@@ -4,11 +4,11 @@
   "text": "Ceux qui ont ruiné le pays monopolisent les médias pour faire oublier leur bilan. Ne nous laissons plus faire !",
   "url": "https://x.com/dupontaignan/status/2095914822466417032",
   "publishedAt": "2026-09-04T16:40:08.000Z",
-  "observedAt": "2026-11-21T14:47:45.994Z",
+  "observedAt": "2026-11-21T23:31:13.621Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 8831,
+    "views": 8832,
     "likes": 630,
     "reposts": 201,
     "replies": 33,
@@ -746,6 +746,17 @@
       "observedAt": "2026-11-21T14:47:45.994Z",
       "metrics": {
         "views": 8831,
+        "likes": 630,
+        "reposts": 201,
+        "replies": 33,
+        "quotes": 4,
+        "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-11-21T23:31:13.621Z",
+      "metrics": {
+        "views": 8832,
         "likes": 630,
         "reposts": 201,
         "replies": 33,

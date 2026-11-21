@@ -4,7 +4,7 @@
   "text": "Et vous qu’en pensez-vous ?!\nSTOP 🛑 à vie !",
   "url": "https://x.com/f_philippot/status/2103547288769696196",
   "publishedAt": "2026-09-25T18:08:50.000Z",
-  "observedAt": "2026-11-21T14:46:50.943Z",
+  "observedAt": "2026-11-21T23:29:08.113Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
@@ -810,6 +810,17 @@
     },
     {
       "observedAt": "2026-11-21T14:46:50.943Z",
+      "metrics": {
+        "views": 22331,
+        "likes": 514,
+        "reposts": 129,
+        "replies": 120,
+        "quotes": 8,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-11-21T23:29:08.113Z",
       "metrics": {
         "views": 22331,
         "likes": 514,

@@ -4,11 +4,11 @@
   "text": "Verdun\n\nJe serai aujourd’hui à la Foire de Verdun pour aller à la rencontre des exposants, agriculteurs, entrepreneurs et de tous ceux qui font vivre nos territoires.",
   "url": "https://x.com/dupontaignan/status/2097960999663947987",
   "publishedAt": "2026-09-10T08:10:55.000Z",
-  "observedAt": "2026-11-21T14:47:44.919Z",
+  "observedAt": "2026-11-21T23:31:09.527Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 4940,
+    "views": 4941,
     "likes": 76,
     "reposts": 24,
     "replies": 2,
@@ -757,6 +757,17 @@
       "observedAt": "2026-11-21T14:47:44.919Z",
       "metrics": {
         "views": 4940,
+        "likes": 76,
+        "reposts": 24,
+        "replies": 2,
+        "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-21T23:31:09.527Z",
+      "metrics": {
+        "views": 4941,
         "likes": 76,
         "reposts": 24,
         "replies": 2,

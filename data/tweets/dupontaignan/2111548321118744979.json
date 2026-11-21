@@ -4,12 +4,12 @@
   "text": "HONTE À EUX ! Jusqu’où iront-ils ? Ce soir, tous les Français pleurent ce qu’est devenu leur pays…",
   "url": "https://x.com/dupontaignan/status/2111548321118744979",
   "publishedAt": "2026-10-17T20:02:05.000Z",
-  "observedAt": "2026-11-21T14:47:28.758Z",
+  "observedAt": "2026-11-21T23:30:12.219Z",
   "firstSeenAt": "2026-10-17T20:43:42.925Z",
   "isQuote": false,
   "metrics": {
-    "views": 17401,
-    "likes": 2194,
+    "views": 17402,
+    "likes": 2193,
     "reposts": 637,
     "replies": 131,
     "quotes": 15,
@@ -758,6 +758,17 @@
       "metrics": {
         "views": 17401,
         "likes": 2194,
+        "reposts": 637,
+        "replies": 131,
+        "quotes": 15,
+        "bookmarks": 28
+      }
+    },
+    {
+      "observedAt": "2026-11-21T23:30:12.219Z",
+      "metrics": {
+        "views": 17402,
+        "likes": 2193,
         "reposts": 637,
         "replies": 131,
         "quotes": 15,

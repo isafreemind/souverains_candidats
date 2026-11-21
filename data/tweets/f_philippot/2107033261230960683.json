@@ -4,13 +4,13 @@
   "text": "Bah voyons, et puis ainsi fliquer tout le monde !\nLa ficelle est un peu grosse !…",
   "url": "https://x.com/f_philippot/status/2107033261230960683",
   "publishedAt": "2026-10-05T09:00:50.000Z",
-  "observedAt": "2026-11-21T14:46:46.329Z",
+  "observedAt": "2026-11-21T23:28:55.793Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 16965,
     "likes": 626,
-    "reposts": 180,
+    "reposts": 179,
     "replies": 22,
     "quotes": 1,
     "bookmarks": 4
@@ -814,6 +814,17 @@
         "views": 16965,
         "likes": 626,
         "reposts": 180,
+        "replies": 22,
+        "quotes": 1,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-11-21T23:28:55.793Z",
+      "metrics": {
+        "views": 16965,
+        "likes": 626,
+        "reposts": 179,
         "replies": 22,
         "quotes": 1,
         "bookmarks": 4

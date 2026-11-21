@@ -4,16 +4,16 @@
   "text": "LA CENSURE GÉNÉRALISÉE ! \nToujours la même obsession du pouvoir macroniste : bloquer la libre expression sur les réseaux sociaux qu’il ne maîtrise pas, contrairement à la plupart des médias subventionnés.",
   "url": "https://x.com/dupontaignan/status/2124089668215963818",
   "publishedAt": "2026-11-21T10:36:55.000Z",
-  "observedAt": "2026-11-21T14:47:12.637Z",
+  "observedAt": "2026-11-21T23:29:43.256Z",
   "firstSeenAt": "2026-11-21T14:47:12.637Z",
   "isQuote": true,
   "metrics": {
-    "views": 3316,
-    "likes": 188,
-    "reposts": 64,
+    "views": 4978,
+    "likes": 301,
+    "reposts": 105,
     "replies": 6,
     "quotes": 0,
-    "bookmarks": 2
+    "bookmarks": 3
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 6,
         "quotes": 0,
         "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-21T23:29:43.256Z",
+      "metrics": {
+        "views": 4978,
+        "likes": 301,
+        "reposts": 105,
+        "replies": 6,
+        "quotes": 0,
+        "bookmarks": 3
       }
     }
   ],
