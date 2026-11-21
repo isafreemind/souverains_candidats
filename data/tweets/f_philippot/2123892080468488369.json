@@ -4,16 +4,16 @@
   "text": "J’espère qu’ils vont évidemment tous désobéir à cette absolue bêtise de l’ARCOM.",
   "url": "https://x.com/f_philippot/status/2123892080468488369",
   "publishedAt": "2026-11-20T21:31:46.000Z",
-  "observedAt": "2026-11-21T00:03:10.173Z",
+  "observedAt": "2026-11-21T14:46:21.030Z",
   "firstSeenAt": "2026-11-21T00:03:10.173Z",
   "isQuote": true,
   "metrics": {
-    "views": 4826,
-    "likes": 191,
-    "reposts": 53,
-    "replies": 10,
-    "quotes": 1,
-    "bookmarks": 2
+    "views": 12846,
+    "likes": 574,
+    "reposts": 151,
+    "replies": 18,
+    "quotes": 3,
+    "bookmarks": 4
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 10,
         "quotes": 1,
         "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-21T14:46:21.030Z",
+      "metrics": {
+        "views": 12846,
+        "likes": 574,
+        "reposts": 151,
+        "replies": 18,
+        "quotes": 3,
+        "bookmarks": 4
       }
     }
   ],

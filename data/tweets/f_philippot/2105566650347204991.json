@@ -4,11 +4,11 @@
   "text": "Lycée en flammes !\n\nLe gouvernement est totalement dépassé ou cherche sciemment le CHAOS ?!",
   "url": "https://x.com/f_philippot/status/2105566650347204991",
   "publishedAt": "2026-10-01T07:53:03.000Z",
-  "observedAt": "2026-11-21T00:04:12.436Z",
+  "observedAt": "2026-11-21T14:46:48.880Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 35015,
+    "views": 35017,
     "likes": 1525,
     "reposts": 545,
     "replies": 175,
@@ -801,6 +801,17 @@
       "observedAt": "2026-11-21T00:04:12.436Z",
       "metrics": {
         "views": 35015,
+        "likes": 1525,
+        "reposts": 545,
+        "replies": 175,
+        "quotes": 13,
+        "bookmarks": 28
+      }
+    },
+    {
+      "observedAt": "2026-11-21T14:46:48.880Z",
+      "metrics": {
+        "views": 35017,
         "likes": 1525,
         "reposts": 545,
         "replies": 175,

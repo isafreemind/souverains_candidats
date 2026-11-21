@@ -4,11 +4,11 @@
   "text": "OÙ EST LA FRANCE ?!",
   "url": "https://x.com/dupontaignan/status/2123052506179678272",
   "publishedAt": "2026-11-18T13:55:36.000Z",
-  "observedAt": "2026-11-21T00:05:11.226Z",
+  "observedAt": "2026-11-21T14:47:13.564Z",
   "firstSeenAt": "2026-11-18T15:50:37.751Z",
   "isQuote": false,
   "metrics": {
-    "views": 35162,
+    "views": 35229,
     "likes": 880,
     "reposts": 165,
     "replies": 327,
@@ -64,6 +64,17 @@
       "observedAt": "2026-11-21T00:05:11.226Z",
       "metrics": {
         "views": 35162,
+        "likes": 880,
+        "reposts": 165,
+        "replies": 327,
+        "quotes": 18,
+        "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-11-21T14:47:13.564Z",
+      "metrics": {
+        "views": 35229,
         "likes": 880,
         "reposts": 165,
         "replies": 327,
