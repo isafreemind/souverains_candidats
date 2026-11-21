@@ -4,11 +4,11 @@
   "text": "Direct n°126 - François Asselineau répond à vos questions https://x.com/i/broadcasts/1qKDzWRlQpAJV",
   "url": "https://x.com/f_asselineau/status/2100286586382667868",
   "publishedAt": "2026-09-16T18:11:58.000Z",
-  "observedAt": "2026-11-20T00:42:21.356Z",
+  "observedAt": "2026-11-21T00:02:36.305Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 13865,
+    "views": 13867,
     "likes": 484,
     "reposts": 162,
     "replies": 12,
@@ -746,6 +746,17 @@
       "observedAt": "2026-11-20T00:42:21.356Z",
       "metrics": {
         "views": 13865,
+        "likes": 484,
+        "reposts": 162,
+        "replies": 12,
+        "quotes": 2,
+        "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-11-21T00:02:36.305Z",
+      "metrics": {
+        "views": 13867,
         "likes": 484,
         "reposts": 162,
         "replies": 12,

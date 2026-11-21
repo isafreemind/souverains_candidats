@@ -4,12 +4,12 @@
   "text": "SANS COMMENTAIRES",
   "url": "https://x.com/f_asselineau/status/2115441392168116350",
   "publishedAt": "2026-10-28T13:51:45.000Z",
-  "observedAt": "2026-11-20T15:35:46.073Z",
+  "observedAt": "2026-11-21T00:02:07.847Z",
   "firstSeenAt": "2026-10-28T22:41:01.281Z",
   "isQuote": false,
   "metrics": {
-    "views": 105778,
-    "likes": 6850,
+    "views": 105784,
+    "likes": 6847,
     "reposts": 2567,
     "replies": 382,
     "quotes": 90,
@@ -505,6 +505,17 @@
       "metrics": {
         "views": 105778,
         "likes": 6850,
+        "reposts": 2567,
+        "replies": 382,
+        "quotes": 90,
+        "bookmarks": 254
+      }
+    },
+    {
+      "observedAt": "2026-11-21T00:02:07.847Z",
+      "metrics": {
+        "views": 105784,
+        "likes": 6847,
         "reposts": 2567,
         "replies": 382,
         "quotes": 90,
