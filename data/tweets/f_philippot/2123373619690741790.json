@@ -4,11 +4,11 @@
   "text": "FAUX.\n\nVotre fausse info a été démontée 150 fois.",
   "url": "https://x.com/f_philippot/status/2123373619690741790",
   "publishedAt": "2026-11-19T11:11:35.000Z",
-  "observedAt": "2026-11-22T14:44:00.091Z",
+  "observedAt": "2026-11-22T23:40:51.469Z",
   "firstSeenAt": "2026-11-19T15:53:54.592Z",
   "isQuote": true,
   "metrics": {
-    "views": 12153,
+    "views": 12180,
     "likes": 790,
     "reposts": 222,
     "replies": 27,
@@ -86,6 +86,17 @@
       "observedAt": "2026-11-22T14:44:00.091Z",
       "metrics": {
         "views": 12153,
+        "likes": 790,
+        "reposts": 222,
+        "replies": 27,
+        "quotes": 4,
+        "bookmarks": 11
+      }
+    },
+    {
+      "observedAt": "2026-11-22T23:40:51.469Z",
+      "metrics": {
+        "views": 12180,
         "likes": 790,
         "reposts": 222,
         "replies": 27,

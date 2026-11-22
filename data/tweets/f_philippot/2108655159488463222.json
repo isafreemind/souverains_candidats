@@ -4,13 +4,13 @@
   "text": "La France doit immédiatement accepter ce gazole russe pour faire baisser les prix !\n\nL’UE est contre ? Quittons-la !\n\nZelensky va hurler : RAF !",
   "url": "https://x.com/f_philippot/status/2108655159488463222",
   "publishedAt": "2026-10-09T20:25:41.000Z",
-  "observedAt": "2026-11-22T14:44:54.493Z",
+  "observedAt": "2026-11-22T23:42:10.835Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 39872,
-    "likes": 3164,
-    "reposts": 715,
+    "likes": 3163,
+    "reposts": 714,
     "replies": 219,
     "quotes": 15,
     "bookmarks": 32
@@ -836,6 +836,17 @@
         "views": 39872,
         "likes": 3164,
         "reposts": 715,
+        "replies": 219,
+        "quotes": 15,
+        "bookmarks": 32
+      }
+    },
+    {
+      "observedAt": "2026-11-22T23:42:10.835Z",
+      "metrics": {
+        "views": 39872,
+        "likes": 3163,
+        "reposts": 714,
         "replies": 219,
         "quotes": 15,
         "bookmarks": 32

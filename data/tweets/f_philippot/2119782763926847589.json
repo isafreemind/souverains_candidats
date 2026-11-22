@@ -4,11 +4,11 @@
   "text": "Avec les Patriotes nous nous réunissons très nombreux ce 9 novembre pour le Général de Gaulle et pour la France ! 🇫🇷🇫🇷🇫🇷",
   "url": "https://x.com/f_philippot/status/2119782763926847589",
   "publishedAt": "2026-11-09T13:22:49.000Z",
-  "observedAt": "2026-11-22T14:44:19.105Z",
+  "observedAt": "2026-11-22T23:41:10.373Z",
   "firstSeenAt": "2026-11-09T16:35:50.553Z",
   "isQuote": false,
   "metrics": {
-    "views": 11079,
+    "views": 11080,
     "likes": 378,
     "reposts": 115,
     "replies": 18,
@@ -295,6 +295,17 @@
       "observedAt": "2026-11-22T14:44:19.105Z",
       "metrics": {
         "views": 11079,
+        "likes": 378,
+        "reposts": 115,
+        "replies": 18,
+        "quotes": 3,
+        "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-11-22T23:41:10.373Z",
+      "metrics": {
+        "views": 11080,
         "likes": 378,
         "reposts": 115,
         "replies": 18,

@@ -4,11 +4,11 @@
   "text": "Le poisson pourrit toujours par la tête.",
   "url": "https://x.com/dupontaignan/status/2121943653119656302",
   "publishedAt": "2026-11-15T12:29:25.000Z",
-  "observedAt": "2026-11-22T14:46:06.729Z",
+  "observedAt": "2026-11-22T23:43:02.555Z",
   "firstSeenAt": "2026-11-15T14:05:17.537Z",
   "isQuote": true,
   "metrics": {
-    "views": 14837,
+    "views": 14844,
     "likes": 430,
     "reposts": 130,
     "replies": 13,
@@ -163,6 +163,17 @@
       "observedAt": "2026-11-22T14:46:06.729Z",
       "metrics": {
         "views": 14837,
+        "likes": 430,
+        "reposts": 130,
+        "replies": 13,
+        "quotes": 0,
+        "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-11-22T23:43:02.555Z",
+      "metrics": {
+        "views": 14844,
         "likes": 430,
         "reposts": 130,
         "replies": 13,

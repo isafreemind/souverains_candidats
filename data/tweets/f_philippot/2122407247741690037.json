@@ -4,11 +4,11 @@
   "text": "Mais, nous, pas de problème, on donnera quand même toujours plus !\n\nSatanée UE : tuons-la !\nFREXIT",
   "url": "https://x.com/f_philippot/status/2122407247741690037",
   "publishedAt": "2026-11-16T19:11:34.000Z",
-  "observedAt": "2026-11-22T14:44:04.218Z",
+  "observedAt": "2026-11-22T23:41:00.325Z",
   "firstSeenAt": "2026-11-17T01:54:37.853Z",
   "isQuote": true,
   "metrics": {
-    "views": 13833,
+    "views": 13850,
     "likes": 734,
     "reposts": 235,
     "replies": 19,
@@ -130,6 +130,17 @@
       "observedAt": "2026-11-22T14:44:04.218Z",
       "metrics": {
         "views": 13833,
+        "likes": 734,
+        "reposts": 235,
+        "replies": 19,
+        "quotes": 0,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-11-22T23:41:00.325Z",
+      "metrics": {
+        "views": 13850,
         "likes": 734,
         "reposts": 235,
         "replies": 19,

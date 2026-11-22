@@ -4,16 +4,16 @@
   "text": "Nouvelle agression scandaleuse contre un journaliste de Frontières à Lyon !\nLFI et les mouvances qui gravitent autour d’elle représentent un véritable danger pour la liberté de la presse et notre démocratie.\nLa violence et l’intimidation politique n’ont pas leur place en France !",
   "url": "https://x.com/dupontaignan/status/2124087927399452914",
   "publishedAt": "2026-11-21T10:30:00.000Z",
-  "observedAt": "2026-11-22T14:45:57.242Z",
+  "observedAt": "2026-11-22T23:42:55.557Z",
   "firstSeenAt": "2026-11-21T14:47:12.637Z",
   "isQuote": true,
   "metrics": {
-    "views": 10993,
-    "likes": 678,
-    "reposts": 214,
-    "replies": 25,
+    "views": 11374,
+    "likes": 725,
+    "reposts": 229,
+    "replies": 27,
     "quotes": 3,
-    "bookmarks": 5
+    "bookmarks": 6
   },
   "observations": [
     {
@@ -47,6 +47,17 @@
         "replies": 25,
         "quotes": 3,
         "bookmarks": 5
+      }
+    },
+    {
+      "observedAt": "2026-11-22T23:42:55.557Z",
+      "metrics": {
+        "views": 11374,
+        "likes": 725,
+        "reposts": 229,
+        "replies": 27,
+        "quotes": 3,
+        "bookmarks": 6
       }
     }
   ],

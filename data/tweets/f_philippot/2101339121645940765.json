@@ -4,11 +4,11 @@
   "text": "Les petits fachos ont gagné en imposant la censure !\n\nGrand coup de balai 🧹 à passer là aussi !",
   "url": "https://x.com/f_philippot/status/2101339121645940765",
   "publishedAt": "2026-09-19T15:54:22.000Z",
-  "observedAt": "2026-11-22T14:45:13.213Z",
+  "observedAt": "2026-11-22T23:42:36.534Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 18462,
+    "views": 18463,
     "likes": 909,
     "reposts": 293,
     "replies": 39,
@@ -834,6 +834,17 @@
       "observedAt": "2026-11-22T14:45:13.213Z",
       "metrics": {
         "views": 18462,
+        "likes": 909,
+        "reposts": 293,
+        "replies": 39,
+        "quotes": 3,
+        "bookmarks": 9
+      }
+    },
+    {
+      "observedAt": "2026-11-22T23:42:36.534Z",
+      "metrics": {
+        "views": 18463,
         "likes": 909,
         "reposts": 293,
         "replies": 39,

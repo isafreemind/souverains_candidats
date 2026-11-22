@@ -4,12 +4,12 @@
   "text": "Glucksmann vient de gagner à 66% des voix la primaire. Dès le premier tour.\n\nIls ont vraiment envie de perdre lamentablement ! 😅",
   "url": "https://x.com/f_philippot/status/2109318468839333906",
   "publishedAt": "2026-10-11T16:21:26.000Z",
-  "observedAt": "2026-11-22T14:44:48.055Z",
+  "observedAt": "2026-11-22T23:41:54.869Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
     "views": 34942,
-    "likes": 2239,
+    "likes": 2238,
     "reposts": 428,
     "replies": 436,
     "quotes": 38,
@@ -835,6 +835,17 @@
       "metrics": {
         "views": 34942,
         "likes": 2239,
+        "reposts": 428,
+        "replies": 436,
+        "quotes": 38,
+        "bookmarks": 15
+      }
+    },
+    {
+      "observedAt": "2026-11-22T23:41:54.869Z",
+      "metrics": {
+        "views": 34942,
+        "likes": 2238,
         "reposts": 428,
         "replies": 436,
         "quotes": 38,
