@@ -4,11 +4,11 @@
   "text": "Énorme bravo à @Marc_Doyer ! (cf vidéo ⤵️)\n\nVéran fuit ! Il ne pourra pas toujours fuir ses responsabilités !",
   "url": "https://x.com/f_philippot/status/2108163544026067360",
   "publishedAt": "2026-10-08T11:52:11.000Z",
-  "observedAt": "2026-11-21T23:28:48.867Z",
+  "observedAt": "2026-11-22T14:44:54.493Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
-    "views": 25974,
+    "views": 25975,
     "likes": 2339,
     "reposts": 840,
     "replies": 60,
@@ -823,6 +823,17 @@
       "observedAt": "2026-11-21T23:28:48.867Z",
       "metrics": {
         "views": 25974,
+        "likes": 2339,
+        "reposts": 840,
+        "replies": 60,
+        "quotes": 7,
+        "bookmarks": 25
+      }
+    },
+    {
+      "observedAt": "2026-11-22T14:44:54.493Z",
+      "metrics": {
+        "views": 25975,
         "likes": 2339,
         "reposts": 840,
         "replies": 60,

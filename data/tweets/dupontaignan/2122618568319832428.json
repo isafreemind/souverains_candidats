@@ -4,11 +4,11 @@
   "text": "Aucune banque ne me prête pour faire campagne, car je ne suis pas dans le système.\nJe lance un appel aux Français qui souhaitent voir une candidature différente et libre pour me soutenir !",
   "url": "https://x.com/dupontaignan/status/2122618568319832428",
   "publishedAt": "2026-11-17T09:11:17.000Z",
-  "observedAt": "2026-11-21T23:29:44.741Z",
+  "observedAt": "2026-11-22T14:46:06.729Z",
   "firstSeenAt": "2026-11-17T16:13:20.533Z",
   "isQuote": false,
   "metrics": {
-    "views": 32480,
+    "views": 32526,
     "likes": 1050,
     "reposts": 414,
     "replies": 102,
@@ -108,6 +108,17 @@
       "observedAt": "2026-11-21T23:29:44.741Z",
       "metrics": {
         "views": 32480,
+        "likes": 1050,
+        "reposts": 414,
+        "replies": 102,
+        "quotes": 12,
+        "bookmarks": 30
+      }
+    },
+    {
+      "observedAt": "2026-11-22T14:46:06.729Z",
+      "metrics": {
+        "views": 32526,
         "likes": 1050,
         "reposts": 414,
         "replies": 102,

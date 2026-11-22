@@ -4,12 +4,12 @@
   "text": "📊 SONDAGE EN LIGNE\nAvez-vous écouté l'intervention télévisée de Macron hier soir, jeudi 24 septembre 2026, sur les deux plus grandes chaînes de télévision françaises TF1 et FRANCE2 ?\n-----",
   "url": "https://x.com/f_asselineau/status/2103364422605402222",
   "publishedAt": "2026-09-25T06:02:11.000Z",
-  "observedAt": "2026-11-21T14:46:06.322Z",
+  "observedAt": "2026-11-22T14:43:11.681Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 38743,
-    "likes": 965,
+    "views": 38744,
+    "likes": 966,
     "reposts": 475,
     "replies": 303,
     "quotes": 13,
@@ -802,6 +802,17 @@
       "metrics": {
         "views": 38743,
         "likes": 965,
+        "reposts": 475,
+        "replies": 303,
+        "quotes": 13,
+        "bookmarks": 17
+      }
+    },
+    {
+      "observedAt": "2026-11-22T14:43:11.681Z",
+      "metrics": {
+        "views": 38744,
+        "likes": 966,
         "reposts": 475,
         "replies": 303,
         "quotes": 13,
