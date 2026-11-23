@@ -4,12 +4,12 @@
   "text": "TUSK IN JAIL !",
   "url": "https://x.com/f_philippot/status/2116301192901083249",
   "publishedAt": "2026-10-30T22:48:18.000Z",
-  "observedAt": "2026-11-22T23:41:21.443Z",
+  "observedAt": "2026-11-23T18:27:25.455Z",
   "firstSeenAt": "2026-10-31T12:45:15.142Z",
   "isQuote": false,
   "metrics": {
-    "views": 42539,
-    "likes": 4517,
+    "views": 42542,
+    "likes": 4515,
     "reposts": 407,
     "replies": 59,
     "quotes": 8,
@@ -505,6 +505,17 @@
       "metrics": {
         "views": 42539,
         "likes": 4517,
+        "reposts": 407,
+        "replies": 59,
+        "quotes": 8,
+        "bookmarks": 24
+      }
+    },
+    {
+      "observedAt": "2026-11-23T18:27:25.455Z",
+      "metrics": {
+        "views": 42542,
+        "likes": 4515,
         "reposts": 407,
         "replies": 59,
         "quotes": 8,
