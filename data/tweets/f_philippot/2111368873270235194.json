@@ -4,16 +4,16 @@
   "text": "Eh oui la France est une très grande nation, mais elle a aujourd’hui les ailes coupées par l’UE !\n\nOn sort de l’UE, on met des patriotes à la tête du pays et la France redécolle !",
   "url": "https://x.com/f_philippot/status/2111368873270235194",
   "publishedAt": "2026-10-17T08:09:01.000Z",
-  "observedAt": "2026-11-22T23:41:46.364Z",
+  "observedAt": "2026-11-24T17:57:23.216Z",
   "firstSeenAt": "2026-10-17T08:33:03.474Z",
   "isQuote": true,
   "metrics": {
-    "views": 16731,
-    "likes": 1181,
-    "reposts": 313,
+    "views": 16732,
+    "likes": 1182,
+    "reposts": 312,
     "replies": 40,
     "quotes": 5,
-    "bookmarks": 24
+    "bookmarks": 23
   },
   "observations": [
     {
@@ -828,6 +828,17 @@
         "replies": 40,
         "quotes": 5,
         "bookmarks": 24
+      }
+    },
+    {
+      "observedAt": "2026-11-24T17:57:23.216Z",
+      "metrics": {
+        "views": 16732,
+        "likes": 1182,
+        "reposts": 312,
+        "replies": 40,
+        "quotes": 5,
+        "bookmarks": 23
       }
     }
   ],
