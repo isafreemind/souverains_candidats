@@ -4,16 +4,16 @@
   "text": "L’air de rien on vous ajoute Christine Lagarde dans le dernier baromètre de popularité sorti ce matin…\n\nLe Système agitera-t-il son joker début 2027 ? Ça y ressemble très fort !",
   "url": "https://x.com/f_philippot/status/2125159619731611826",
   "publishedAt": "2026-11-24T09:28:31.000Z",
-  "observedAt": "2026-11-25T02:35:08.998Z",
+  "observedAt": "2026-11-25T17:23:52.052Z",
   "firstSeenAt": "2026-11-24T17:56:18.462Z",
   "isQuote": false,
   "metrics": {
-    "views": 11413,
-    "likes": 347,
-    "reposts": 104,
-    "replies": 26,
+    "views": 12615,
+    "likes": 384,
+    "reposts": 117,
+    "replies": 28,
     "quotes": 2,
-    "bookmarks": 4
+    "bookmarks": 5
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 26,
         "quotes": 2,
         "bookmarks": 4
+      }
+    },
+    {
+      "observedAt": "2026-11-25T17:23:52.052Z",
+      "metrics": {
+        "views": 12615,
+        "likes": 384,
+        "reposts": 117,
+        "replies": 28,
+        "quotes": 2,
+        "bookmarks": 5
       }
     }
   ],

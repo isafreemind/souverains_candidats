@@ -4,11 +4,11 @@
   "text": "📺 Retrouvez-moi ce soir, à 20h15, dans l'émission \"100% BFM\" sur @BFMTV, au micro de @GuillaumeDaret🎙️",
   "url": "https://x.com/dupontaignan/status/2122322626911641737",
   "publishedAt": "2026-11-16T13:35:19.000Z",
-  "observedAt": "2026-11-25T02:36:23.193Z",
+  "observedAt": "2026-11-25T17:26:54.353Z",
   "firstSeenAt": "2026-11-16T16:03:52.607Z",
   "isQuote": false,
   "metrics": {
-    "views": 3114,
+    "views": 3116,
     "likes": 38,
     "reposts": 10,
     "replies": 15,
@@ -185,6 +185,17 @@
       "observedAt": "2026-11-25T02:36:23.193Z",
       "metrics": {
         "views": 3114,
+        "likes": 38,
+        "reposts": 10,
+        "replies": 15,
+        "quotes": 2,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-25T17:26:54.353Z",
+      "metrics": {
+        "views": 3116,
         "likes": 38,
         "reposts": 10,
         "replies": 15,

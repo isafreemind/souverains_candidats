@@ -4,16 +4,16 @@
   "text": "Encore ce matin un malaise à côté de Macron ! (cf vidéo ⤵️)\n\nDécidément là où Macron passe, les évanouissements se multiplient…",
   "url": "https://x.com/f_philippot/status/2124842088382517732",
   "publishedAt": "2026-11-23T12:26:46.000Z",
-  "observedAt": "2026-11-25T02:35:08.998Z",
+  "observedAt": "2026-11-25T17:23:53.276Z",
   "firstSeenAt": "2026-11-23T18:26:31.814Z",
   "isQuote": false,
   "metrics": {
-    "views": 68960,
-    "likes": 1367,
-    "reposts": 443,
-    "replies": 240,
+    "views": 71245,
+    "likes": 1383,
+    "reposts": 445,
+    "replies": 243,
     "quotes": 23,
-    "bookmarks": 73
+    "bookmarks": 72
   },
   "observations": [
     {
@@ -47,6 +47,17 @@
         "replies": 240,
         "quotes": 23,
         "bookmarks": 73
+      }
+    },
+    {
+      "observedAt": "2026-11-25T17:23:53.276Z",
+      "metrics": {
+        "views": 71245,
+        "likes": 1383,
+        "reposts": 445,
+        "replies": 243,
+        "quotes": 23,
+        "bookmarks": 72
       }
     }
   ],
