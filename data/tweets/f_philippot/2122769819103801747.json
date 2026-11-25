@@ -4,16 +4,16 @@
   "text": "Il se passe quelque chose…",
   "url": "https://x.com/f_philippot/status/2122769819103801747",
   "publishedAt": "2026-11-17T19:12:18.000Z",
-  "observedAt": "2026-11-24T17:56:24.041Z",
+  "observedAt": "2026-11-25T02:35:12.874Z",
   "firstSeenAt": "2026-11-18T01:01:57.278Z",
   "isQuote": true,
   "metrics": {
-    "views": 68284,
+    "views": 68364,
     "likes": 778,
     "reposts": 248,
     "replies": 70,
     "quotes": 9,
-    "bookmarks": 37
+    "bookmarks": 36
   },
   "observations": [
     {
@@ -146,6 +146,17 @@
         "replies": 70,
         "quotes": 9,
         "bookmarks": 37
+      }
+    },
+    {
+      "observedAt": "2026-11-25T02:35:12.874Z",
+      "metrics": {
+        "views": 68364,
+        "likes": 778,
+        "reposts": 248,
+        "replies": 70,
+        "quotes": 9,
+        "bookmarks": 36
       }
     }
   ],
