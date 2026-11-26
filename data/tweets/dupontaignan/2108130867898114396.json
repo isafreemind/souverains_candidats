@@ -4,12 +4,12 @@
   "text": "Il y a une belle jeunesse en France.",
   "url": "https://x.com/dupontaignan/status/2108130867898114396",
   "publishedAt": "2026-10-08T09:42:20.000Z",
-  "observedAt": "2026-11-25T17:28:18.225Z",
+  "observedAt": "2026-11-26T17:06:39.172Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": true,
   "metrics": {
     "views": 17441,
-    "likes": 2431,
+    "likes": 2430,
     "reposts": 360,
     "replies": 43,
     "quotes": 3,
@@ -868,6 +868,17 @@
       "metrics": {
         "views": 17441,
         "likes": 2431,
+        "reposts": 360,
+        "replies": 43,
+        "quotes": 3,
+        "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-11-26T17:06:39.172Z",
+      "metrics": {
+        "views": 17441,
+        "likes": 2430,
         "reposts": 360,
         "replies": 43,
         "quotes": 3,
