@@ -4,15 +4,15 @@
   "text": "📺 Retrouvez-moi ce soir à 19h30, dans l'émission \"100% Mabrouk\" @MabroukBFM sur @BFMTV, au micro de @SoMabrouk🎙️",
   "url": "https://x.com/dupontaignan/status/2125994227817693551",
   "publishedAt": "2026-11-26T16:44:57.000Z",
-  "observedAt": "2026-11-26T17:05:25.285Z",
+  "observedAt": "2026-11-27T01:49:18.180Z",
   "firstSeenAt": "2026-11-26T17:05:25.285Z",
   "isQuote": false,
   "metrics": {
-    "views": 903,
-    "likes": 19,
-    "reposts": 13,
-    "replies": 0,
-    "quotes": 0,
+    "views": 2504,
+    "likes": 70,
+    "reposts": 29,
+    "replies": 9,
+    "quotes": 1,
     "bookmarks": 1
   },
   "observations": [
@@ -24,6 +24,17 @@
         "reposts": 13,
         "replies": 0,
         "quotes": 0,
+        "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-27T01:49:18.180Z",
+      "metrics": {
+        "views": 2504,
+        "likes": 70,
+        "reposts": 29,
+        "replies": 9,
+        "quotes": 1,
         "bookmarks": 1
       }
     }

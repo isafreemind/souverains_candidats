@@ -4,11 +4,11 @@
   "text": "L’opération Christine Lagarde ressemble énormément à l’opération Macron 2017 !",
   "url": "https://x.com/f_philippot/status/2117302325975110129",
   "publishedAt": "2026-11-02T17:06:26.000Z",
-  "observedAt": "2026-11-26T17:03:48.550Z",
+  "observedAt": "2026-11-27T01:48:29.694Z",
   "firstSeenAt": "2026-11-03T01:04:22.274Z",
   "isQuote": true,
   "metrics": {
-    "views": 17600,
+    "views": 17601,
     "likes": 1092,
     "reposts": 377,
     "replies": 108,
@@ -504,6 +504,17 @@
       "observedAt": "2026-11-26T17:03:48.550Z",
       "metrics": {
         "views": 17600,
+        "likes": 1092,
+        "reposts": 377,
+        "replies": 108,
+        "quotes": 6,
+        "bookmarks": 13
+      }
+    },
+    {
+      "observedAt": "2026-11-27T01:48:29.694Z",
+      "metrics": {
+        "views": 17601,
         "likes": 1092,
         "reposts": 377,
         "replies": 108,

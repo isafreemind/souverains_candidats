@@ -4,11 +4,11 @@
   "text": "Emmanuel Macron envoie la facture de sa faillite aux retraités, et pourtant, on pourrait très bien, en supprimant des dizaines de milliards d’euros de gaspillage, rétablir les comptes sans faire souffrir les retraités.",
   "url": "https://x.com/dupontaignan/status/2099547699347362293",
   "publishedAt": "2026-09-14T17:15:53.000Z",
-  "observedAt": "2026-11-25T17:28:54.072Z",
+  "observedAt": "2026-11-27T01:50:00.076Z",
   "firstSeenAt": "2026-10-17T07:34:05.595Z",
   "isQuote": false,
   "metrics": {
-    "views": 21395,
+    "views": 21397,
     "likes": 2704,
     "reposts": 1028,
     "replies": 101,
@@ -834,6 +834,17 @@
       "observedAt": "2026-11-25T17:28:54.072Z",
       "metrics": {
         "views": 21395,
+        "likes": 2704,
+        "reposts": 1028,
+        "replies": 101,
+        "quotes": 17,
+        "bookmarks": 20
+      }
+    },
+    {
+      "observedAt": "2026-11-27T01:50:00.076Z",
+      "metrics": {
+        "views": 21397,
         "likes": 2704,
         "reposts": 1028,
         "replies": 101,
