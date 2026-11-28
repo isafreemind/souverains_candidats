@@ -4,16 +4,16 @@
   "text": "📺 Retrouvez-moi demain, vendredi 27 novembre, à 07h40, dans l'émission \"L'invité de RTL\" sur @RTLFrance, au micro de @c_landreau🎙️",
   "url": "https://x.com/dupontaignan/status/2126054636528480501",
   "publishedAt": "2026-11-26T20:45:00.000Z",
-  "observedAt": "2026-11-27T01:49:18.180Z",
+  "observedAt": "2026-11-28T01:31:38.191Z",
   "firstSeenAt": "2026-11-27T01:49:18.180Z",
   "isQuote": false,
   "metrics": {
-    "views": 1458,
-    "likes": 18,
-    "reposts": 9,
-    "replies": 1,
+    "views": 2199,
+    "likes": 29,
+    "reposts": 12,
+    "replies": 5,
     "quotes": 1,
-    "bookmarks": 1
+    "bookmarks": 0
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 1,
         "quotes": 1,
         "bookmarks": 1
+      }
+    },
+    {
+      "observedAt": "2026-11-28T01:31:38.191Z",
+      "metrics": {
+        "views": 2199,
+        "likes": 29,
+        "reposts": 12,
+        "replies": 5,
+        "quotes": 1,
+        "bookmarks": 0
       }
     }
   ],

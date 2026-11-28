@@ -4,11 +4,11 @@
   "text": "Bravo Marc il ne faut pas les lâcher sur les conflits d’intérêts !",
   "url": "https://x.com/f_philippot/status/2124933950820786520",
   "publishedAt": "2026-11-23T18:31:47.000Z",
-  "observedAt": "2026-11-27T01:48:17.571Z",
+  "observedAt": "2026-11-28T01:30:22.759Z",
   "firstSeenAt": "2026-11-24T17:56:18.462Z",
   "isQuote": true,
   "metrics": {
-    "views": 17279,
+    "views": 17344,
     "likes": 1619,
     "reposts": 553,
     "replies": 19,
@@ -64,6 +64,17 @@
       "observedAt": "2026-11-27T01:48:17.571Z",
       "metrics": {
         "views": 17279,
+        "likes": 1619,
+        "reposts": 553,
+        "replies": 19,
+        "quotes": 4,
+        "bookmarks": 24
+      }
+    },
+    {
+      "observedAt": "2026-11-28T01:30:22.759Z",
+      "metrics": {
+        "views": 17344,
         "likes": 1619,
         "reposts": 553,
         "replies": 19,

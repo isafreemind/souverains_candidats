@@ -4,16 +4,16 @@
   "text": "Eh oui il faut passer aux parrainages citoyens : 150 000 Français inscrits sur les listes électorales pourront parrainer un candidat !",
   "url": "https://x.com/f_philippot/status/2125988821401526604",
   "publishedAt": "2026-11-26T16:23:28.000Z",
-  "observedAt": "2026-11-27T01:48:16.412Z",
+  "observedAt": "2026-11-28T01:30:21.663Z",
   "firstSeenAt": "2026-11-26T17:03:21.046Z",
   "isQuote": true,
   "metrics": {
-    "views": 8320,
-    "likes": 282,
-    "reposts": 75,
-    "replies": 17,
-    "quotes": 2,
-    "bookmarks": 6
+    "views": 12915,
+    "likes": 394,
+    "reposts": 114,
+    "replies": 22,
+    "quotes": 1,
+    "bookmarks": 10
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 17,
         "quotes": 2,
         "bookmarks": 6
+      }
+    },
+    {
+      "observedAt": "2026-11-28T01:30:21.663Z",
+      "metrics": {
+        "views": 12915,
+        "likes": 394,
+        "reposts": 114,
+        "replies": 22,
+        "quotes": 1,
+        "bookmarks": 10
       }
     }
   ],

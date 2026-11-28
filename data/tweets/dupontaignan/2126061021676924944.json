@@ -4,16 +4,16 @@
   "text": "Il est facile d’envoyer les Ukrainiens à la boucherie depuis son salon…\nLes Européens doivent arrêter de saboter la paix !",
   "url": "https://x.com/dupontaignan/status/2126061021676924944",
   "publishedAt": "2026-11-26T21:10:22.000Z",
-  "observedAt": "2026-11-27T01:49:18.180Z",
+  "observedAt": "2026-11-28T01:31:38.191Z",
   "firstSeenAt": "2026-11-27T01:49:18.180Z",
   "isQuote": false,
   "metrics": {
-    "views": 7650,
-    "likes": 632,
-    "reposts": 165,
-    "replies": 33,
-    "quotes": 5,
-    "bookmarks": 7
+    "views": 33173,
+    "likes": 2811,
+    "reposts": 726,
+    "replies": 205,
+    "quotes": 21,
+    "bookmarks": 30
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 33,
         "quotes": 5,
         "bookmarks": 7
+      }
+    },
+    {
+      "observedAt": "2026-11-28T01:31:38.191Z",
+      "metrics": {
+        "views": 33173,
+        "likes": 2811,
+        "reposts": 726,
+        "replies": 205,
+        "quotes": 21,
+        "bookmarks": 30
       }
     }
   ],
