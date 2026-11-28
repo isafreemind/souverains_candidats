@@ -4,12 +4,12 @@
   "text": "Ah il veut s’auto-censurer alors ?…",
   "url": "https://x.com/f_philippot/status/2118998898983251971",
   "publishedAt": "2026-11-07T09:28:01.000Z",
-  "observedAt": "2026-11-28T01:30:39.485Z",
+  "observedAt": "2026-11-28T15:41:52.800Z",
   "firstSeenAt": "2026-11-07T13:15:36.352Z",
   "isQuote": true,
   "metrics": {
     "views": 16727,
-    "likes": 1430,
+    "likes": 1429,
     "reposts": 316,
     "replies": 76,
     "quotes": 2,
@@ -428,6 +428,17 @@
       "metrics": {
         "views": 16727,
         "likes": 1430,
+        "reposts": 316,
+        "replies": 76,
+        "quotes": 2,
+        "bookmarks": 12
+      }
+    },
+    {
+      "observedAt": "2026-11-28T15:41:52.800Z",
+      "metrics": {
+        "views": 16727,
+        "likes": 1429,
         "reposts": 316,
         "replies": 76,
         "quotes": 2,

@@ -4,16 +4,16 @@
   "text": "Le Parlement a été bafoué sur l’envoi de soldats français en Ukraine.\nLa guerre du Vietnam avait aussi commencé par l’envoi de formateurs sur place.\nMacron nous entraîne vers la guerre pour biaiser la présidentielle.",
   "url": "https://x.com/dupontaignan/status/2126231977825333473",
   "publishedAt": "2026-11-27T08:29:41.000Z",
-  "observedAt": "2026-11-28T01:31:36.648Z",
+  "observedAt": "2026-11-28T15:42:45.725Z",
   "firstSeenAt": "2026-11-28T01:31:36.648Z",
   "isQuote": false,
   "metrics": {
-    "views": 12307,
-    "likes": 1616,
-    "reposts": 617,
-    "replies": 67,
-    "quotes": 9,
-    "bookmarks": 19
+    "views": 17350,
+    "likes": 2452,
+    "reposts": 948,
+    "replies": 105,
+    "quotes": 16,
+    "bookmarks": 39
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 67,
         "quotes": 9,
         "bookmarks": 19
+      }
+    },
+    {
+      "observedAt": "2026-11-28T15:42:45.725Z",
+      "metrics": {
+        "views": 17350,
+        "likes": 2452,
+        "reposts": 948,
+        "replies": 105,
+        "quotes": 16,
+        "bookmarks": 39
       }
     }
   ],

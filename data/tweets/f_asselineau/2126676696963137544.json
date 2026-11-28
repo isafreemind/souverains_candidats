@@ -1,0 +1,37 @@
+{
+  "id": "2126676696963137544",
+  "handle": "f_asselineau",
+  "text": "RÉUNION PUBLIQUE À NICE\ndans quelques instants !",
+  "url": "https://x.com/f_asselineau/status/2126676696963137544",
+  "publishedAt": "2026-11-28T13:56:50.000Z",
+  "observedAt": "2026-11-28T15:39:34.981Z",
+  "firstSeenAt": "2026-11-28T15:39:34.981Z",
+  "isQuote": true,
+  "metrics": {
+    "views": 5895,
+    "likes": 248,
+    "reposts": 79,
+    "replies": 7,
+    "quotes": 1,
+    "bookmarks": 3
+  },
+  "observations": [
+    {
+      "observedAt": "2026-11-28T15:39:34.981Z",
+      "metrics": {
+        "views": 5895,
+        "likes": 248,
+        "reposts": 79,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 3
+      }
+    }
+  ],
+  "versions": [
+    {
+      "observedAt": "2026-11-28T15:39:34.981Z",
+      "text": "RÉUNION PUBLIQUE À NICE\ndans quelques instants !"
+    }
+  ]
+}

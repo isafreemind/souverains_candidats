@@ -4,16 +4,16 @@
   "text": "Les Américains nous vendent du gaz à 4 fois le prix du gaz russe.\nEn sabotant la paix, les dirigeants européens ont aussi saboté l’industrie du continent.",
   "url": "https://x.com/dupontaignan/status/2126067305495064905",
   "publishedAt": "2026-11-26T21:35:20.000Z",
-  "observedAt": "2026-11-28T01:31:36.648Z",
+  "observedAt": "2026-11-28T15:42:45.725Z",
   "firstSeenAt": "2026-11-27T01:49:18.180Z",
   "isQuote": false,
   "metrics": {
-    "views": 15336,
-    "likes": 1322,
-    "reposts": 422,
-    "replies": 20,
-    "quotes": 9,
-    "bookmarks": 22
+    "views": 17609,
+    "likes": 1744,
+    "reposts": 586,
+    "replies": 24,
+    "quotes": 11,
+    "bookmarks": 26
   },
   "observations": [
     {
@@ -36,6 +36,17 @@
         "replies": 20,
         "quotes": 9,
         "bookmarks": 22
+      }
+    },
+    {
+      "observedAt": "2026-11-28T15:42:45.725Z",
+      "metrics": {
+        "views": 17609,
+        "likes": 1744,
+        "reposts": 586,
+        "replies": 24,
+        "quotes": 11,
+        "bookmarks": 26
       }
     }
   ],

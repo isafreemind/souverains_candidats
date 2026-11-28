@@ -4,15 +4,15 @@
   "text": "On ruine le pays en dilapidant des dizaines de milliards à l’étranger, pendant que l’on fait subir toujours plus d’économies aux Français !",
   "url": "https://x.com/dupontaignan/status/2126226326952595741",
   "publishedAt": "2026-11-27T08:07:14.000Z",
-  "observedAt": "2026-11-28T01:31:36.648Z",
+  "observedAt": "2026-11-28T15:42:45.725Z",
   "firstSeenAt": "2026-11-28T01:31:36.648Z",
   "isQuote": false,
   "metrics": {
-    "views": 4292,
-    "likes": 272,
-    "reposts": 94,
-    "replies": 11,
-    "quotes": 2,
+    "views": 4830,
+    "likes": 318,
+    "reposts": 114,
+    "replies": 13,
+    "quotes": 3,
     "bookmarks": 2
   },
   "observations": [
@@ -24,6 +24,17 @@
         "reposts": 94,
         "replies": 11,
         "quotes": 2,
+        "bookmarks": 2
+      }
+    },
+    {
+      "observedAt": "2026-11-28T15:42:45.725Z",
+      "metrics": {
+        "views": 4830,
+        "likes": 318,
+        "reposts": 114,
+        "replies": 13,
+        "quotes": 3,
         "bookmarks": 2
       }
     }

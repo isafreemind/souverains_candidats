@@ -4,16 +4,16 @@
   "text": "Ce serait formidable si c’était vrai !… 😂\n\n…Mais ça mènerait en réalité à Meloni ou Tsipras, c’est à dire grosso modo la même soupe que la situation actuelle !",
   "url": "https://x.com/f_philippot/status/2126316291674063042",
   "publishedAt": "2026-11-27T14:04:43.000Z",
-  "observedAt": "2026-11-28T01:30:21.663Z",
+  "observedAt": "2026-11-28T15:41:07.040Z",
   "firstSeenAt": "2026-11-28T01:30:21.663Z",
   "isQuote": true,
   "metrics": {
-    "views": 10090,
-    "likes": 263,
-    "reposts": 73,
-    "replies": 11,
+    "views": 14866,
+    "likes": 350,
+    "reposts": 97,
+    "replies": 14,
     "quotes": 1,
-    "bookmarks": 8
+    "bookmarks": 10
   },
   "observations": [
     {
@@ -25,6 +25,17 @@
         "replies": 11,
         "quotes": 1,
         "bookmarks": 8
+      }
+    },
+    {
+      "observedAt": "2026-11-28T15:41:07.040Z",
+      "metrics": {
+        "views": 14866,
+        "likes": 350,
+        "reposts": 97,
+        "replies": 14,
+        "quotes": 1,
+        "bookmarks": 10
       }
     }
   ],
